@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL TO CUT DAILY SLOTS",
+        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL TO CUT DAILY SLOTS",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "headline": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is cutting daily vessel bookings to thirty-two ships in September due to severe drought. Shippers must secure alternative routes to avoid rising spot rates."
+                "narration_line": "The United States Trade Representative is implementing Section three hundred and one tariffs across sixty nations. Importers must audit supply chain compliance to avoid heavy duty liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER FLOWS",
-                "teaserTitle": "PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
+                "headline": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Russia is importing two hundred seventy thousand metric tons of refined fuel from Asia. Repeated refinery strikes triggered this extraordinary trade flow reversal."
+                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollars. Shippers must factor extreme priority tolls into their logistics budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Pennsylvania regulators can now fine unlicensed truck driving schools up to twenty-five thousand dollars. Fleet operators must audit all driver training credentials."
+                "narration_line": "CK Hutchison is seeking one point five billion dollars in arbitration against Panama over seized terminals. Global investors face growing sovereign risk across foreign port assets."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CK Hutchison is seeking one point five billion dollars in arbitration damages from Panama. This dispute highlights growing sovereign risks in port terminal concessions."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEU in July during heavy front-loading. Supply chains must prepare for landside congestion at major marine terminals."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
-                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United States and Canada are negotiating to halve current fifty percent metal tariffs. Shippers should monitor trade talks to optimize landside landed costs."
+                "narration_line": "Amazon is scaling its Prime Air drone delivery network across three major metropolitan markets. This rapid aerial expansion sets a new speed benchmark for last-mile fulfillment."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
+                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network across multiple major metro markets. This rapid scaling sets new speed benchmarks for last-mile parcel fulfillment."
+                "narration_line": "Washington and Ottawa are negotiating to avert steep metal tariffs following a temporary three-day delay. Manufacturers must model landed costs under both duty-relief and tariff scenarios."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
+                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEU during a robust July. Forward-looking cargo owners accelerated shipments to bypass upcoming bottlenecks."
+                "narration_line": "Surging diesel prices and trucking capacity constraints are driving freight back toward rail intermodal networks. Shippers are shifting long-haul volumes to protect transportation budgets."
             },
             {
                 "slide_index": 8,

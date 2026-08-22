@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL TO CUT DAILY",
-        "titleBlue": "SLOTS",
-        "footerSummary": "Panama Canal reduces daily vessel transits to 32 ships starting mid-September, driving up freight spot rates across Asia-US lanes."
+        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners, forcing shippers to audit supply chains amid rising compliance costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAYS: PANAMA CANAL TO CUT DAILY SLOTS",
+            "heading": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority is formally cutting daily vessel booking capacity to 32 ships starting in mid-September due to worsening El Ni\u00f1o rainfall deficits. This operational restriction injects severe draft limitations and slot scarcity into crucial global trade pathways.",
-                "Supply chain managers must factor in extended transit schedules and higher reservation premiums to secure reliable neopanamax allocations. Navigating these capacity drains requires immediate contingency routing through alternative coastal hubs."
+                "The Office of the United States Trade Representative is formally implementing tariffs on 60 nations under Section 301 of the Trade Act of 1974. This regulatory action targets global trading partners as related Section 122 duties simultaneously expire.",
+                "Importers must immediately audit tier-one and tier-two vendor compliance to mitigate unexpected duty liabilities and avoid costly port delays. Navigating these overlapping trade restrictions requires proactive customs data integration and strict legal verification."
             ],
             "imageUrl": "",
-            "nextUpTease": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER FLOWS",
+            "heading": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
             "paragraphs": [
-                "Russia is importing nearly 270K metric tons of refined fuels from Asia this month, triggering an extraordinary reversal in global tanker trade flows. Repeated targeted strikes on domestic refineries have left the major energy producer critically short of refined products.",
-                "Energy logistics providers must reallocate vessel assets rapidly to accommodate shifting trade routes and secure compliant charter parties. This structural anomaly underscores escalating operational vulnerabilities within regional energy supply chains."
+                "An empty liquefied petroleum gas tanker recently secured priority passage through the Panama Canal by paying an unprecedented 4.6M USD queue-jump fee. This record-shattering transaction highlights severe capacity bottlenecks as regional security conflicts continue to disrupt traditional maritime trade lanes.",
+                "Cargo owners must factor extreme priority tolls into landed cost models when moving urgent shipments through congested global choke points. Financial exposure will escalate for supply chains that fail to secure advance vessel allocation slots."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
             "tags": [
-                "Source: https://splash247.com/russian-fuel-shortages-reverse-trade-flows/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOVERNMENT: PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
             "paragraphs": [
-                "Pennsylvania regulators can now impose civil penalties of up to 25K USD on unlicensed commercial driver training schools under a new state law. This legislative crackdown aims to eliminate sub-standard operator instruction and improve driver qualification standards across the regional logistics sector.",
-                "Fleet operators must audit driver pipeline partnerships to ensure all new commercial hires graduate exclusively from certified training institutions. Compliance oversight at the training level helps motor carriers mitigate future liability exposure."
+                "CK Hutchison Holdings has initiated international arbitration proceedings against the government of Panama, seeking 1.5B USD in compensation. The legal dispute stems from controversial Supreme Court rulings that revoked vital terminal operating concessions at Balboa and Cristobal.",
+                "Global port operators and infrastructure investors face heightened sovereign risk exposure across international maritime hubs. Long-term concession agreements require rigorous legal re-evaluation to protect foreign capital investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+            "nextUpTease": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
             "tags": [
-                "Source: https://www.ttnews.com/articles/new-pennsylvania-law-targets-unlicensed-cdl-schools",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+            "heading": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
             "paragraphs": [
-                "CK Hutchison Holdings initiated international arbitration proceedings against the government of Panama, seeking 1.5B USD in damages. The legal action follows Panama Supreme Court rulings that declared terminal concessions at Balboa and Cristobal unconstitutional.",
-                "Global terminal operators and investors are monitoring the dispute closely as a bellwether for sovereign risk in port infrastructure investments. This arbitration highlights the growing vulnerability of long-term international terminal operating agreements."
+                "The Port of Los Angeles handled 960K TEU in July, marking the second-highest volume in the gateway's historical records. Importers aggressively front-loaded container shipments to outpace anticipated seasonal logistics bottlenecks and impending regulatory tariffs.",
+                "Supply chain managers must prepare for sustained landside congestion and tight drayage availability at major West Coast marine terminals. Proactive terminal appointment scheduling remains essential to prevent costly demurrage penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
+            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ck-hutchison-seeks-1-5-billion-damages-panama",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TARIFFS: US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
+            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
             "paragraphs": [
-                "The United States and Canada are actively negotiating to halve existing 50% tariffs on cross-border shipments of steel and aluminum. Trade officials are working toward a finalized agreement to alleviate raw material cost pressures for North American manufacturers.",
-                "Cross-border shippers must prepare to adjust duty calculations and customs declarations should the tariff reduction take immediate effect. Monitoring bilateral trade talks allows logistics teams to optimize procurement timing and lower landed costs."
+                "Amazon is rapidly scaling its Prime Air drone delivery footprint by launching commercial operations across metro Atlanta, Chicago, and Cleveland. This sixfold geographic expansion introduces high-speed aerial fulfillment capabilities to densely populated urban and suburban neighborhoods.",
+                "Last-mile logistics operators are forced to re-evaluate traditional courier routing models as autonomous aerial delivery gains commercial traction. Integrating drone hubs into existing distribution networks sets a new benchmark for delivery velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+            "nextUpTease": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-halve-tariffs-canada-steel-aluminum",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LAST MILE: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+            "heading": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
             "paragraphs": [
-                "Amazon is aggressively scaling its Prime Air drone delivery network by launching operations across metro Atlanta, Chicago, and Cleveland. This sixfold geographic expansion introduces high-speed aerial fulfillment options to densely populated suburban and urban markets.",
-                "Last-mile logistics operators must evaluate how autonomous aerial delivery scales affect parcel density and traditional courier routing strategies. Integrating drone infrastructure into urban networks sets a new benchmark for speed in e-commerce fulfillment."
+                "Trade officials from the United States and Canada are locked in intensive negotiations to avert upcoming 50% tariffs on cross-border metal shipments. A temporary 3-day proclamation delay has provided a narrow window to finalize bilateral duty exemptions.",
+                "North American manufacturers must dynamically model landed costs under both duty-relief and tariff scenarios to protect profit margins. Customs compliance teams should maintain ready contingency declarations for rapidly shifting border policies."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
+            "nextUpTease": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
             "tags": [
-                "Source: https://www.retaildive.com/news/amazon-drone-delivery-expansion-atlanta-chicago-cleveland/726000/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
+            "heading": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
             "paragraphs": [
-                "The Port of Los Angeles handled 960K TEU in July, marking the second-busiest July volume in the gateway's operational history. Import volumes remained robust as cargo owners front-loaded shipments to bypass impending seasonal supply chain bottlenecks.",
-                "Supply chain planners must account for sustained terminal activity and potential landside congestion at major West Coast container ports. Proactive drayage coordination remains essential to prevent demurrage charges during peak volume surges."
+                "Rising diesel fuel prices, tightening over-the-road trucking capacity, and persistent driver shortages are driving a major shift of freight toward rail intermodal networks. Shippers are aggressively reallocating long-haul volumes to Class I railroads to control transportation expenditures.",
+                "Logistics directors must secure contractual rail allocations early to insulate operations against spot market trucking rate volatility. Balancing intermodal service reliability with transit time requirements is critical for maintaining delivery schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/port-of-los-angeles-july-volume",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

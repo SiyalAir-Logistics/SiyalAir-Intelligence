@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL TO CUT DAILY SLOTS",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
-                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships starting in mid-September. Shippers face severe slot scarcity and extended transit schedules."
+                "headline": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 nations. Importers must audit supply chain compliance to avoid heavy duty liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER FLOWS",
-                "teaserTitle": "PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
-                "visual_caption": "Russia is importing 270K metric tons of refined fuels from Asia this month. Repeated refinery strikes have triggered a historic trade flow reversal."
+                "headline": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
+                "visual_caption": "An empty tanker bypassed the Panama Canal queue after paying a record $4.6M fee. Shippers must factor extreme priority tolls into logistics budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "visual_caption": "Pennsylvania imposes civil penalties up to $25K on unlicensed CDL training schools. Fleet operators must audit driver pipeline credentialing."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "visual_caption": "CK Hutchison is seeking $1.5B in arbitration against Panama over seized terminals. Global investors face growing sovereign risk across foreign port assets."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
-                "visual_caption": "CK Hutchison initiates arbitration seeking $1.5B in damages from Panama. Terminal concession seizures escalate sovereign risk across global ports."
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "visual_caption": "The Port of Los Angeles handled 960K TEU in July during heavy front-loading. Supply chains must prepare for landside congestion at major marine terminals."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
-                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
-                "visual_caption": "US officials discuss halving the 50% tariffs on Canadian steel and aluminum. Shippers prepare for duty relief and reduced raw material costs."
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across 3 major metropolitan markets. This rapid aerial expansion sets a new speed benchmark for last-mile fulfillment."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
-                "visual_caption": "Amazon expands Prime Air drone delivery reach sixfold across key US metros. Autonomous aerial logistics redefine speed in parcel fulfillment."
+                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "visual_caption": "Washington and Ottawa are negotiating to avert steep metal tariffs following a temporary 3-day delay. Manufacturers must model landed costs under both duty scenarios."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
+                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
                 "teaserTitle": "",
-                "visual_caption": "The Port of Los Angeles processed 960K TEU in July for its second-best month. Importers front-load seasonal inventory to bypass upcoming supply bottlenecks."
+                "visual_caption": "Surging diesel prices and trucking capacity constraints are driving freight back toward rail intermodal networks. Shippers are shifting long-haul volumes to protect budgets."
             },
             {
                 "slide_index": 8,
