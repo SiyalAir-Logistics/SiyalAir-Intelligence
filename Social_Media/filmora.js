@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
-                "teaserTitle": "CANADA TARIFFS",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. This record fee highlights severe vessel bottlenecks and water level constraints."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CANADA TARIFF STALL",
+                "visual_caption": "The USTR is advancing Section 301 tariffs on 60 nations as older duties expire. Importers must urgently audit supplier origins to prevent severe border compliance liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: CANADA TARIFFS",
-                "teaserTitle": "PANAMA SLOTS",
-                "visual_caption": "A 50% tariff on Canadian imports takes effect as trade talks collapse. Manufacturers must prepare for retaliatory measures and escalating raw material costs."
+                "headline": "PROCUREMENT: CANADA TARIFF STALL",
+                "teaserTitle": "PANAMA SLOT CUTS",
+                "visual_caption": "Cross-border supply chains face severe friction as trade talks between the US and Canada stall. Regional manufacturers must establish alternate sourcing hubs to mitigate cost spikes."
             },
             {
                 "slide_index": 3,
-                "headline": "OPERATIONS: PANAMA SLOTS",
-                "teaserTitle": "LEGAL DAMAGES",
-                "visual_caption": "The Panama Canal is cutting daily transit capacity to 32 ships starting in September. Shippers must absorb tightening maritime slots and rising spot rates."
+                "headline": "MARITIME: PANAMA SLOT CUTS",
+                "teaserTitle": "PORT DAMAGE CLAIM",
+                "visual_caption": "The Panama Canal Authority is slashing daily vessel transit capacity to 32 ships in September. Shippers must re-engineer routing schedules to bypass severe port congestion."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: LEGAL DAMAGES",
-                "teaserTitle": "LEADERSHIP EXIT",
-                "visual_caption": "CK Hutchison has initiated arbitration seeking $1.5B from Panama. This legal battle follows the seizure of critical terminal concessions."
+                "headline": "LEGAL: PORT DAMAGE CLAIM",
+                "teaserTitle": "LEADERSHIP TRANSITION",
+                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in damages from Panama through arbitration. Global port operators face heightened sovereign risk and asset liabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "WORKFORCE: LEADERSHIP EXIT",
+                "headline": "WORKFORCE: LEADERSHIP TRANSITION",
                 "teaserTitle": "CAPACITY DRAIN",
-                "visual_caption": "American Trucking Associations chief Chris Spear has stepped down from his post. The transition occurs amid mounting federal regulations and tariff pressures."
+                "visual_caption": "American Trucking Associations President Chris Spear has officially stepped down from his post. Motor carriers must monitor regulatory advocacy shifts closely during this transition."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: CAPACITY DRAIN",
-                "teaserTitle": "ARCTIC ROUTE",
-                "visual_caption": "Global container shipping capacity is absorbing a 5% drain from port congestion. Carriers must optimize turnaround times to prevent equipment shortages."
+                "headline": "OPERATIONS: CAPACITY DRAIN",
+                "teaserTitle": "DRONE EXPANSION",
+                "visual_caption": "Persistent port congestion is currently absorbing 5% of global container shipping capacity. Carriers must optimize vessel turnaround times to counter equipment leakage."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL GATEWAYS: ARCTIC ROUTE",
+                "headline": "LAST MILE: DRONE EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Sea Legend has launched regular container services between China and Europe via the Arctic. Navigational ice constraints will limit widespread commercial adoption."
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major urban centers this year. Retail logistics leaders must integrate autonomous models into fulfillment networks."
             },
             {
                 "slide_index": 8,
