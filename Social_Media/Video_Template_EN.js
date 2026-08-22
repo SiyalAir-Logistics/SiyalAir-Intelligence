@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS ON 60 NATIONS",
+        "hookTitle": "PANAMA CANAL DRAUGHT RESTRICTIONS LIFT 32",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: USTR FORCED LABOR TARIFFS ON 60",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLIPS TO 32",
+                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY TO 32",
+                "teaserTitle": "CANADA TARIFFS COLLAPSE US TRADE TALKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The U.S. Trade Representative is advancing Section three oh one tariffs across sixty trading partners. Importers face strict compliance audits and rising operational friction across procurement channels."
+                "narration_line": "The Panama Canal Authority is reducing daily transit capacity to thirty-two ships to manage rainfall deficits. This restriction will constrain neopanamax slots and drive up global spot freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLIPS TO 32",
-                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
+                "headline": "TARIFFS: CANADA TARIFFS COLLAPSE US TRADE TALKS",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal is reducing daily booking capacity to thirty-two ships starting in September due to drought. Carriers and shippers must navigate acute vessel capacity losses and surging spot rates."
+                "narration_line": "U.S. and Canadian trade talks have collapsed after failing to meet Section 338 tariff deadlines. A fifty percent import duty is now active across cross-border manufacturing supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+                "teaserTitle": "MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July as shippers front-loaded inventory. Terminals face tighter equipment availability and rising yard congestion risks."
+                "narration_line": "CK Hutchison Holdings has launched international arbitration for one point five billion dollars against Panama. This follows the controversial seizure of terminal concessions by local authorities."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
-                "teaserTitle": "US AND CANADA TALKS DELAY TARIFFS",
+                "headline": "TERMINALS: MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
+                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Trucking Associations President Chris Spear has stepped down, launching an executive leadership search. Fleets must navigate complex federal compliance audits under new leadership."
+                "narration_line": "Maersk has sold a twenty-five percent stake in its Rotterdam terminal to Hapag-Lloyd. The move secures critical berth capacity for the upcoming Gemini Cooperation network rollout."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
+                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The U.S. and Canada secured a three-day extension on proposed fifty percent metal tariffs. Manufacturers must dynamically model landed product costs under multiple duty scenarios."
+                "narration_line": "Refinery strikes have forced Russia to import two hundred seventy thousand tons of refined fuel from Asia. This operational crisis has reversed traditional global tanker trade routes."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "RUSSIA FUEL SHORTAGES REVERSE TANKERS",
+                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey ports ordered ninety-six electric terminal trucks to modernize regional drayage infrastructure. Operators are balancing high equipment costs against strict emissions mandates."
+                "narration_line": "The Port of Los Angeles processed nine hundred sixty thousand TEUs in July as shippers front-loaded inventory. Importers rushed cargo arrivals to bypass expected seasonal tariff hikes."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: RUSSIA FUEL SHORTAGES REVERSE TANKERS",
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Refinery disruptions are forcing Russia to import two hundred seventy thousand tons of refined fuel from Asia. Maritime operators must adapt vessel routing to volatile energy trade flows."
+                "narration_line": "New Jersey port terminal operators have ordered ninety-six electric trucks to meet regional environmental mandates. Fleets are balancing heavy capital expenses against strict carbon emission targets."
             },
             {
                 "slide_index": 8,

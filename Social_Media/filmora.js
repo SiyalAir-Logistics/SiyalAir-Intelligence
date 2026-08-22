@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: USTR FORCED LABOR TARIFFS ON 60",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLIPS TO 32",
-                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 trading nations. Importers face rigorous compliance audits and heightened supply chain friction."
+                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY TO 32",
+                "teaserTitle": "CANADA TARIFFS COLLAPSE US TRADE TALKS",
+                "visual_caption": "The Panama Canal Authority is reducing daily transit capacity to 32 ships to manage rainfall deficits. This restriction will constrain neopanamax slots and drive up global spot freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLIPS TO 32",
-                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
-                "visual_caption": "The Panama Canal is cutting daily bookings to 32 ships starting in September. Shippers must absorb vessel capacity losses and surging freight rates."
+                "headline": "TARIFFS: CANADA TARIFFS COLLAPSE US TRADE TALKS",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+                "visual_caption": "U.S. and Canadian trade talks have collapsed after failing to meet Section 338 tariff deadlines. A 50% import duty is now active across cross-border manufacturing supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
-                "visual_caption": "The Port of Los Angeles handled 960K TEU in July as importers front-loaded inventory. Terminals face tightening drayage equipment and rising yard congestion."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+                "teaserTitle": "MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
+                "visual_caption": "CK Hutchison Holdings has launched international arbitration for $1.5B against Panama. This follows the controversial seizure of terminal concessions by local authorities."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
-                "teaserTitle": "US AND CANADA TALKS DELAY TARIFFS",
-                "visual_caption": "ATA President Chris Spear has departed, launching an immediate executive search. Fleets must maintain strict compliance amidst shifting regulatory pressures."
+                "headline": "TERMINALS: MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
+                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
+                "visual_caption": "Maersk has sold a 25% stake in its Rotterdam terminal to Hapag-Lloyd. The move secures critical berth capacity for the upcoming Gemini Cooperation network rollout."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "visual_caption": "The U.S. and Canada secured a 3-day extension on proposed 50% metal tariffs. Manufacturers must model landed costs under diverse duty relief scenarios."
+                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
+                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
+                "visual_caption": "Refinery strikes have forced Russia to import 270K tons of refined fuel from Asia. This operational crisis has reversed traditional global tanker trade routes."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "RUSSIA FUEL SHORTAGES REVERSE TANKERS",
-                "visual_caption": "New Jersey ports ordered 96 electric terminal trucks to modernize regional drayage. Operators are balancing high purchase costs against green mandates."
+                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "visual_caption": "The Port of Los Angeles processed 960K TEUs in July as shippers front-loaded inventory. Importers rushed cargo arrivals to bypass expected seasonal tariff hikes."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: RUSSIA FUEL SHORTAGES REVERSE TANKERS",
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "teaserTitle": "",
-                "visual_caption": "Refinery disruptions have forced Russia to import 270K tons of fuel from Asia. Maritime operators must adapt vessel deployments to shifting trade flows."
+                "visual_caption": "New Jersey port terminal operators have ordered 96 electric trucks to meet regional environmental mandates. Fleets are balancing heavy capital expenses against strict carbon emission targets."
             },
             {
                 "slide_index": 8,
