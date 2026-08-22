@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL FEE HITS 4.6M",
-                "teaserTitle": "SUEZ CAPACITY GROWS AS CARRIERS RETURN",
-                "visual_caption": "An empty tanker paid a record $4.6M fee as drought forces Panama Canal slot cuts. Shippers face acute capacity losses and surging freight rates."
+                "headline": "TARIFFS: USTR FORCED LABOR TARIFFS ON 60",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLIPS TO 32",
+                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 trading nations. Importers face rigorous compliance audits and heightened supply chain friction."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CAPACITY GROWS AS CARRIERS RETURN",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
-                "visual_caption": "Carriers are deploying ad hoc sailings and planning Suez transits by Q1 2027. Fleet managers must weigh distance savings against security risks."
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLIPS TO 32",
+                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
+                "visual_caption": "The Panama Canal is cutting daily bookings to 32 ships starting in September. Shippers must absorb vessel capacity losses and surging freight rates."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
+                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
                 "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
-                "visual_caption": "The Port of LA handled 960K TEU in July as importers front-load shipments. Proactive drayage scheduling is critical to avoid demurrage."
+                "visual_caption": "The Port of Los Angeles handled 960K TEU in July as importers front-loaded inventory. Terminals face tightening drayage equipment and rising yard congestion."
             },
             {
                 "slide_index": 4,
                 "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
                 "teaserTitle": "US AND CANADA TALKS DELAY TARIFFS",
-                "visual_caption": "ATA Chief Chris Spear stepped down amid federal compliance audits. Motor carriers must monitor legislative shifts to maintain operating standards."
+                "visual_caption": "ATA President Chris Spear has departed, launching an immediate executive search. Fleets must maintain strict compliance amidst shifting regulatory pressures."
             },
             {
                 "slide_index": 5,
                 "headline": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
-                "teaserTitle": "PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
-                "visual_caption": "US and Canada secured a 3-day extension on 50% metal tariffs. Manufacturers must model landed costs under duty relief scenarios."
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "visual_caption": "The U.S. and Canada secured a 3-day extension on proposed 50% metal tariffs. Manufacturers must model landed costs under diverse duty relief scenarios."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
-                "teaserTitle": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
-                "visual_caption": "New Jersey ports ordered 96 electric terminal trucks to modernize drayage. Operators balance green transitions against high equipment costs."
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "teaserTitle": "RUSSIA FUEL SHORTAGES REVERSE TANKERS",
+                "visual_caption": "New Jersey ports ordered 96 electric terminal trucks to modernize regional drayage. Operators are balancing high purchase costs against green mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+                "headline": "ENERGY: RUSSIA FUEL SHORTAGES REVERSE TANKERS",
                 "teaserTitle": "",
-                "visual_caption": "Refining shortages forced Russia to import 270K tons of Asian fuels. Traders must adapt vessel deployment strategies to shifting trade lanes."
+                "visual_caption": "Refinery disruptions have forced Russia to import 270K tons of fuel from Asia. Maritime operators must adapt vessel deployments to shifting trade flows."
             },
             {
                 "slide_index": 8,

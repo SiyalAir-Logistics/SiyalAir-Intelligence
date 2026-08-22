@@ -1,47 +1,47 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE HITS",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit 4.6M USD as drought cuts daily slots, driving acute capacity squeezes and escalating freight rate shocks."
+        "titleWhite": "USTR MOVES FORCED LABOR TARIFFS ON",
+        "titleBlue": "60",
+        "footerSummary": "USTR implements Section 301 forced labor tariffs across 60 nations, introducing strict cross-border compliance audits and heightened supply chain friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAYS: PANAMA CANAL FEE HITS 4.6M",
+            "heading": "TARIFFS: USTR FORCED LABOR TARIFFS ON 60",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured passage by paying a record 4.6M USD queue jump fee as worsening El Nino drought conditions force severe slot reductions across the waterway. The Panama Canal Authority is slashing daily transits to 32 ships starting in September, restricting Neopanamax operations to just 9 daily slots.",
-                "Shippers face compounding supply chain friction and surging spot freight rates as maritime networks absorb acute capacity losses and prolonged transit delays. Securing premium booking allocations is now essential to protect delivery schedules against compounding regional bottlenecks."
+                "The Office of the United States Trade Representative has officially initiated punitive tariff enforcement across 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory rollout coincides with the expiration of legacy trade provisions, targeting global supply chains linked to forced labor practices.",
+                "Importers face immediate compliance verification challenges and elevated landing costs that threaten operating margins across international procurement channels. Establishing rigorous tier-three supply chain visibility is now mandatory to prevent unexpected border delays and financial liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ CAPACITY GROWS AS CARRIERS RETURN",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLIPS TO 32",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SUEZ CAPACITY GROWS AS CARRIERS RETURN",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLIPS TO 32",
             "paragraphs": [
-                "Global ocean carriers are actively deploying ad hoc sailings and planning regular transits through the Suez Canal starting in January 2027 following risk assessments. Major alliances are evaluating alternative routing options to bypass persistent security friction and mitigate soaring operational expenses across traditional global lanes.",
-                "Fleet managers must weigh the cost benefits of shorter maritime distances against lingering security exposures and potential hull insurance surcharges in volatile zones. Establishing flexible multi-route contingencies remains a vital strategy for maintaining predictable transit times."
+                "The Panama Canal Authority is officially reducing daily transit booking capacity to 32 ships starting in mid-September to manage worsening El Ni\u00f1o rainfall deficits. Neopanamax slot availability will be constrained to just 9 daily passages, compounding regional maritime bottlenecks across key global trade lanes.",
+                "Logistics managers must absorb acute vessel capacity losses and navigate escalating spot freight rates as carriers divert vessels or secure expensive priority auction allocations. Proactive schedule re-engineering is vital to mitigate prolonged transit delays and protect delivery commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
+            "nextUpTease": "PORT OF LOS ANGELES HITS 960K TEU",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
+            "heading": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
             "paragraphs": [
-                "The Port of Los Angeles handled 960K TEU in July, marking its second-highest monthly volume on record as importers aggressively front-load cargo shipments. Supply chain leaders accelerated inventory arrivals to outpace anticipated autumn tariff revisions and seasonal logistics bottlenecks.",
-                "Warehousing and drayage networks near major West Coast gateways face heightened terminal congestion and tighter equipment availability. Proactive appointment scheduling is critical to avoid costly demurrage penalties and detention fees during peak shipping cycles."
+                "The Port of Los Angeles processed 960K TEU in July, marking its second-highest monthly volume on record as importers aggressively front-load inbound inventory. Cargo owners accelerated shipment arrivals to outpace anticipated autumn tariff adjustments and seasonal port congestion risks.",
+                "Surging terminal throughput is tightening local drayage equipment availability and threatening regional yard productivity across major West Coast gateways. Shippers must enforce disciplined appointment scheduling to avoid costly demurrage fees and container dwell time penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
@@ -55,8 +55,8 @@ const dailyData = {
             "id": 4,
             "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down, launching an immediate executive search for industry leadership. This high-profile transition occurs as motor carriers navigate complex federal compliance audits, driver database disputes, and mounting regulatory pressures.",
-                "Fleet operators must closely monitor legislative developments as national trucking advocacy groups adjust their policy agendas under new leadership. Maintaining rigorous compliance frameworks across state lines is essential to insulate operations from unexpected regulatory penalties."
+                "American Trucking Associations President and CEO Chris Spear has officially departed from the federation, initiating an immediate executive search for national leadership. This high-profile transition occurs as motor carriers grapple with intense federal compliance audits, driver database disputes, and rising operational costs.",
+                "Fleet operators must closely monitor upcoming legislative shifts as national trucking advocacy organizations recalibrate their policy agendas under new executive direction. Maintaining stringent state-line compliance frameworks remains critical to shielding operations from unexpected regulatory sanctions."
             ],
             "imageUrl": "",
             "nextUpTease": "US AND CANADA TALKS DELAY TARIFFS",
@@ -70,11 +70,11 @@ const dailyData = {
             "id": 5,
             "heading": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
             "paragraphs": [
-                "Trade officials from the United States and Canada have secured a temporary 3-day extension to finalize negotiations regarding proposed 50% duties on cross-border metal shipments. The diplomatic pause provides a narrow window to establish bilateral exemptions before severe trade penalties take effect.",
-                "North American manufacturers must dynamically model landed costs under both duty relief and punitive tariff scenarios to safeguard operating margins. Supply chain compliance teams should keep contingency customs declarations ready for immediate deployment."
+                "Bilateral trade negotiators from the United States and Canada have secured a temporary 3-day extension to finalize terms regarding proposed 50% duties on cross-border metal shipments. The diplomatic pause provides a narrow window for manufacturers to establish potential exemptions before severe import penalties take effect.",
+                "North American supply chain leaders must dynamically model landed product costs under both duty relief and punitive tariff scenarios to protect operating margins. Maintaining flexible customs documentation ensures rapid adaptation should trade negotiations break down."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
+            "nextUpTease": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
             "tags": [
                 "Source: https://www.supplychaindive.com/news/trump-delays-tariffs-canada-imports-3-days/758164/",
                 "Published: 2026-08-19T00:00:00Z",
@@ -83,13 +83,13 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
+            "heading": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
             "paragraphs": [
-                "New Jersey port operations are aggressively expanding sustainable infrastructure by ordering a fleet of 96 electric terminal trucks to modernize regional drayage. This capital investment aligns with broader regulatory mandates aimed at slashing carbon emissions across critical freight hubs.",
-                "Port drayage operators face capital allocation trade-offs as they balance mandatory green fleet transitions against high upfront equipment purchase costs. Securing available state and federal sustainability grants is vital to offsetting capital expenditure burdens."
+                "New Jersey port terminal operators are aggressively advancing sustainable drayage infrastructure by ordering a fleet of 96 electric terminal trucks from Orange EV. This capital acquisition aligns with tightening regional environmental mandates designed to eliminate carbon emissions across major freight hubs.",
+                "Drayage providers face complex financial trade-offs as they balance mandatory green fleet transitions against steep initial equipment purchase expenses. Securing available federal and state sustainability grants is essential to offsetting heavy capital expenditure burdens."
             ],
             "imageUrl": "",
-            "nextUpTease": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+            "nextUpTease": "RUSSIA FUEL SHORTAGES REVERSE TANKERS",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: 2026-08-20T00:00:00Z",
@@ -98,10 +98,10 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ENERGY: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+            "heading": "ENERGY: RUSSIA FUEL SHORTAGES REVERSE TANKERS",
             "paragraphs": [
-                "Persistent refining disruptions have forced Russia to import nearly 270K tons of refined fuels from Asia, creating an unprecedented reversal in global tanker trade routes. Repeated infrastructure strikes have left domestic energy markets severely constrained.",
-                "Global energy traders and maritime operators must adapt vessel deployment strategies to accommodate rapidly shifting trade lanes and volatile bunker fuel pricing. Monitoring regional geopolitical developments is essential for protecting long-term charter profitability."
+                "Continuous refinery disruptions from infrastructure attacks have forced Russia to import nearly 270K tons of refined fuels from Asia this month. This operational crisis has triggered an unprecedented reversal in traditional global tanker trade routes and energy distribution flows.",
+                "Global energy traders and maritime operators must quickly adapt vessel deployment strategies to accommodate shifting trade lanes and volatile bunker pricing. Monitoring regional geopolitical volatility is paramount for safeguarding long-term voyage charter profitability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
