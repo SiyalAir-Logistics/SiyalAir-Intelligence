@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CUTS DAILY",
-        "titleBlue": "CAPACITY",
-        "footerSummary": "Panama Canal reduces daily transits to 32 ships from September, driving spot rate surges and severe capacity bottlenecks across ocean networks."
+        "titleWhite": "PANAMA CANAL FEE HITS",
+        "titleBlue": "4.6M",
+        "footerSummary": "Panama Canal queue jump fees hit 4.6M USD as drought cuts daily slots, driving acute capacity squeezes and escalating freight rate shocks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
+            "heading": "WATERWAYS: PANAMA CANAL FEE HITS 4.6M",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid-September due to severe rainfall deficits and ongoing weather pressures. For booking dates beginning September 4, the restriction limits transits to 9 Neopanamax and 23 Panamax slots, directly tightening maritime supply chains.",
-                "Shippers facing constrained vessel allocations must evaluate alternative routing or absorb escalating spot freight rates as Asia to US West Coast capacity tightens rapidly. Securing advance transit bookings is vital to mitigate unpredictable transit delays and protect landed inventory schedules."
+                "An empty liquefied petroleum gas tanker secured passage by paying a record 4.6M USD queue jump fee as worsening El Nino drought conditions force severe slot reductions across the waterway. The Panama Canal Authority is slashing daily transits to 32 ships starting in September, restricting Neopanamax operations to just 9 daily slots.",
+                "Shippers face compounding supply chain friction and surging spot freight rates as maritime networks absorb acute capacity losses and prolonged transit delays. Securing premium booking allocations is now essential to protect delivery schedules against compounding regional bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
+            "nextUpTease": "SUEZ CAPACITY GROWS AS CARRIERS RETURN",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN PANAMA",
+            "heading": "MARITIME: SUEZ CAPACITY GROWS AS CARRIERS RETURN",
             "paragraphs": [
-                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama, seeking $1.5B in financial compensation. The legal dispute follows controversial Supreme Court rulings that revoked vital terminal operating concessions at Balboa and Cristobal ports.",
-                "Global terminal operators and maritime infrastructure investors face heightened sovereign risk exposure across strategic international hubs. Long-term concession agreements require rigorous legal re-evaluation to safeguard foreign capital investments against sudden regulatory expropriations."
+                "Global ocean carriers are actively deploying ad hoc sailings and planning regular transits through the Suez Canal starting in January 2027 following risk assessments. Major alliances are evaluating alternative routing options to bypass persistent security friction and mitigate soaring operational expenses across traditional global lanes.",
+                "Fleet managers must weigh the cost benefits of shorter maritime distances against lingering security exposures and potential hull insurance surcharges in volatile zones. Establishing flexible multi-route contingencies remains a vital strategy for maintaining predictable transit times."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+            "nextUpTease": "PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
             "tags": [
-                "Source: https://www.theloadstar.com/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+            "heading": "PORTS: PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
             "paragraphs": [
-                "The Port of Los Angeles handled 960K TEU in July, marking the second-highest monthly volume in the gateway's historical operational records. Importers aggressively front-loaded container shipments to outpace anticipated seasonal logistics bottlenecks and potential tariff revisions.",
-                "Supply chain managers must prepare for sustained landside congestion and tight drayage availability at major West Coast marine terminals. Proactive terminal appointment scheduling remains essential to prevent costly demurrage penalties and detention charges."
+                "The Port of Los Angeles handled 960K TEU in July, marking its second-highest monthly volume on record as importers aggressively front-load cargo shipments. Supply chain leaders accelerated inventory arrivals to outpace anticipated autumn tariff revisions and seasonal logistics bottlenecks.",
+                "Warehousing and drayage networks near major West Coast gateways face heightened terminal congestion and tighter equipment availability. Proactive appointment scheduling is critical to avoid costly demurrage penalties and detention fees during peak shipping cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
             "tags": [
                 "Source: https://www.ttnews.com/articles/port-los-angeles-second-busiest-july",
                 "Published: 2026-08-20T00:00:00Z",
@@ -53,28 +53,28 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+            "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
             "paragraphs": [
-                "Amazon is rapidly scaling its Prime Air drone delivery footprint by launching commercial operations across metro Atlanta, Chicago, and Cleveland. This geographic expansion introduces high-speed aerial fulfillment capabilities to densely populated urban and suburban neighborhoods.",
-                "Last-mile logistics operators are forced to re-evaluate traditional courier routing models as autonomous aerial delivery gains commercial traction. Integrating drone hubs into existing distribution networks sets a new benchmark for delivery velocity and cost efficiency."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down, launching an immediate executive search for industry leadership. This high-profile transition occurs as motor carriers navigate complex federal compliance audits, driver database disputes, and mounting regulatory pressures.",
+                "Fleet operators must closely monitor legislative developments as national trucking advocacy groups adjust their policy agendas under new leadership. Maintaining rigorous compliance frameworks across state lines is essential to insulate operations from unexpected regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+            "nextUpTease": "US AND CANADA TALKS DELAY TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-drone-delivery-reach-sixfold-atlanta-chicago-cleveland/758129/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+            "heading": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
             "paragraphs": [
-                "Trade officials from the United States and Canada are locked in intensive negotiations to avert upcoming 50% tariffs on cross-border metal shipments. A temporary 3-day proclamation delay has provided a narrow window to finalize bilateral duty exemptions.",
-                "North American manufacturers must dynamically model landed costs under both duty-relief and tariff scenarios to protect profit margins. Customs compliance teams should maintain ready contingency declarations for rapidly shifting border policies."
+                "Trade officials from the United States and Canada have secured a temporary 3-day extension to finalize negotiations regarding proposed 50% duties on cross-border metal shipments. The diplomatic pause provides a narrow window to establish bilateral exemptions before severe trade penalties take effect.",
+                "North American manufacturers must dynamically model landed costs under both duty relief and punitive tariff scenarios to safeguard operating margins. Supply chain compliance teams should keep contingency customs declarations ready for immediate deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+            "nextUpTease": "PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
             "tags": [
                 "Source: https://www.supplychaindive.com/news/trump-delays-tariffs-canada-imports-3-days/758164/",
                 "Published: 2026-08-19T00:00:00Z",
@@ -83,30 +83,30 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+            "heading": "EQUIPMENT: PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
             "paragraphs": [
-                "Rising diesel fuel prices, tightening over-the-road trucking capacity, and persistent driver shortages are driving a major shift of freight toward rail intermodal networks. Shippers are aggressively reallocating long-haul volumes to Class I railroads to control transportation expenditures.",
-                "Logistics directors must secure contractual rail allocations early to insulate operations against spot market trucking rate volatility. Balancing intermodal service reliability with transit time requirements is critical for maintaining delivery schedules."
+                "New Jersey port operations are aggressively expanding sustainable infrastructure by ordering a fleet of 96 electric terminal trucks to modernize regional drayage. This capital investment aligns with broader regulatory mandates aimed at slashing carbon emissions across critical freight hubs.",
+                "Port drayage operators face capital allocation trade-offs as they balance mandatory green fleet transitions against high upfront equipment purchase costs. Securing available state and federal sustainability grants is vital to offsetting capital expenditure burdens."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+            "nextUpTease": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
             "tags": [
-                "Source: https://www.theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+            "heading": "ENERGY: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has stepped down from his leadership role, prompting an immediate executive search for his successor. This high-profile departure comes as the motor carrier industry navigates complex regulatory shifts, driver database disputes, and federal tax compliance audits.",
-                "Motor carriers must monitor legislative developments closely as industry lobbying groups transition leadership during a period of intense regulatory scrutiny. Fleet operators should review compliance strategies to address evolving federal oversight across state lines."
+                "Persistent refining disruptions have forced Russia to import nearly 270K tons of refined fuels from Asia, creating an unprecedented reversal in global tanker trade routes. Repeated infrastructure strikes have left domestic energy markets severely constrained.",
+                "Global energy traders and maritime operators must adapt vessel deployment strategies to accommodate rapidly shifting trade lanes and volatile bunker fuel pricing. Monitoring regional geopolitical developments is essential for protecting long-term charter profitability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-flows/",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]

@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
+        "hookTitle": "PANAMA CANAL FEE HITS 4.6M USD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA",
+                "headline": "WATERWAYS: PANAMA CANAL FEE HITS 4.6M",
+                "teaserTitle": "SUEZ CAPACITY GROWS AS CARRIERS RETURN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is cutting daily booking capacity to thirty two ships starting in September. Shippers face severe capacity bottlenecks and rising freight rates."
+                "narration_line": "An empty tanker paid a record four point six million dollar queue jump fee as drought forces Panama Canal slot reductions. Shippers face acute capacity losses and surging spot freight rates across maritime networks."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN PANAMA",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "headline": "MARITIME: SUEZ CAPACITY GROWS AS CARRIERS RETURN",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison has initiated international arbitration seeking one point five billion dollars from Panama. The legal dispute follows controversial terminal lease cancellations."
+                "narration_line": "Ocean carriers are deploying ad hoc sailings and planning regular transits through the Suez Canal by January. Fleet managers must weigh shorter distances against lingering security exposures and hull insurance surcharges."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS STRONG JULY VOLUMES",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEU in July. Importers front loaded container shipments to outpace anticipated seasonal logistics bottlenecks."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July as importers front-load cargo shipments. Supply chains face terminal congestion, requiring proactive drayage scheduling to avoid demurrage."
             },
             {
                 "slide_index": 4,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
-                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
+                "teaserTitle": "US AND CANADA TALKS DELAY TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon is scaling its Prime Air drone delivery footprint across three major metropolitan markets. This expansion introduces high speed aerial fulfillment capabilities to urban areas."
+                "narration_line": "American Trucking Associations CEO Chris Spear stepped down amid complex federal compliance audits. Motor carriers must monitor legislative shifts to maintain rigorous cross-border operating standards."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
-                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "headline": "TARIFFS: US AND CANADA TALKS DELAY TARIFFS",
+                "teaserTitle": "PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Trade officials are negotiating to avert upcoming fifty percent tariffs on cross border metal shipments. A temporary proclamation delay has provided a narrow negotiation window."
+                "narration_line": "United States and Canadian trade officials secured a three-day extension on fifty percent metal tariffs. Manufacturers must model landed costs under duty relief scenarios to protect operating margins."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+                "headline": "EQUIPMENT: PORT DEPARTMENTS ORDER ELECTRIC TERMINAL TRUCKS",
+                "teaserTitle": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Rising diesel fuel prices and tightening trucking capacity are driving freight toward rail intermodal networks. Shippers are reallocating long haul volumes to control costs."
+                "narration_line": "New Jersey port operations ordered ninety-six electric terminal trucks to modernize regional drayage infrastructure. Port operators balance mandatory green fleet transitions against high upfront equipment purchase costs."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+                "headline": "ENERGY: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "American Trucking Associations CEO Chris Spear has stepped down from his leadership role. An executive search is underway amid complex regulatory and tax compliance audits."
+                "narration_line": "Refining disruptions forced Russia to import two hundred seventy thousand tons of refined fuels from Asia. Traders must adapt vessel deployment strategies to accommodate shifting trade lanes and volatile bunker pricing."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
