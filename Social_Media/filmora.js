@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
+                "headline": "MARITIME: PANAMA CANAL CUTS DAILY SLOTS",
                 "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "visual_caption": "Asia to USWC spot freight rates are surging rapidly ahead of Panama Canal slot reductions. Daily booking capacity will drop to 32 ships in mid-September due to El Nino droughts."
+                "visual_caption": "The Panama Canal Authority is cutting daily capacity to 32 ships. Shippers must absorb tightening transit slots and rising spot rates."
             },
             {
                 "slide_index": 2,
                 "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "US TO HALVE TARIFFS ON CANADA METALS",
-                "visual_caption": "CK Hutchison initiated international arbitration seeking $1.5B in damages from Panama. The legal dispute follows the unconstitutional seizure of Balboa and Cristobal port terminals."
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
+                "visual_caption": "CK Hutchison has initiated arbitration seeking $1.5B from Panama. The dispute follows government seizure of two port terminals."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: US TO HALVE TARIFFS ON CANADA METALS",
-                "teaserTitle": "PORT OF LA POSTS SECOND BEST JULY",
-                "visual_caption": "The US is discussing a policy shift to halve 50% tariffs on Canadian steel and aluminum. The move aims to relieve severe cost inflation across North American manufacturing corridors."
+                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS",
+                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "visual_caption": "ATA President Chris Spear has stepped down from his post. A formal search is underway as regulatory and tariff challenges mount."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT OPERATIONS: PORT OF LA POSTS SECOND BEST JULY",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
-                "visual_caption": "The Port of LA handled 960K TEUs in July, marking its second-busiest July on record. Shippers continue front-loading container imports ahead of peak season logistics demands."
+                "headline": "MARITIME: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "teaserTitle": "RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
+                "visual_caption": "Global container shipping capacity is absorbing a 5% drain from congestion. Terminal bottlenecks are locking up active vessel strings."
             },
             {
                 "slide_index": 5,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
-                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major metro markets. The automated fulfillment expansion provides customers with ultra-fast shipping alternatives."
+                "headline": "ENERGY: RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
+                "teaserTitle": "BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
+                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia. Refinery strikes have reversed traditional tanker trade flows."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "TANKERS GOING DARK SPIKES SPILL RISK",
-                "visual_caption": "Pennsylvania enacted a law imposing up to $25K in civil penalties on unlicensed CDL schools. The regulation targets substandard driver training to enhance commercial trucking safety."
+                "headline": "AIR CARGO: BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
+                "teaserTitle": "STATES SUE OVER 17M TRUCKERS RECORDS",
+                "visual_caption": "BOC Aviation reports the aircraft supply crunch will last to 2030. Manufacturing bottlenecks and jet fuel costs are straining airlines."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL GATEWAYS: TANKERS GOING DARK SPIKES SPILL RISK",
+                "headline": "COMPLIANCE: STATES SUE OVER 17M TRUCKERS RECORDS",
                 "teaserTitle": "",
-                "visual_caption": "Maritime authorities recorded 1.5K dark vessel crossings in the Persian Gulf since March. Disabling tracking systems to evade sanctions has triggered multiple spreading oil slicks."
+                "visual_caption": "22 states have sued the federal administration over CDL record demands. Fleets must monitor compliance rules amidst legal battles."
             },
             {
                 "slide_index": 8,

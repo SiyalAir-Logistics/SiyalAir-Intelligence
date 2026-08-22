@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL RESTRICTIONS",
+        "hookTitle": "PANAMA CANAL CUTS DAILY SLOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
+                "headline": "MARITIME: PANAMA CANAL CUTS DAILY SLOTS",
                 "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Asia to West Coast freight rates are surging rapidly as carriers preempt upcoming Panama Canal capacity cuts. Worsening El Nino rainfall deficits will reduce daily vessel transits starting in mid September."
+                "narration_line": "The Panama Canal Authority is cutting daily booking capacity to thirty-two ships due to worsening drought conditions. Shippers must absorb tightening transit slots and rising spot rates."
             },
             {
                 "slide_index": 2,
                 "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "US TO HALVE TARIFFS ON CANADA METALS",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison has initiated international arbitration against Panama seeking one point five billion dollars in damages. The legal action follows the unconstitutional seizure of two major container terminal concessions."
+                "narration_line": "CK Hutchison has initiated arbitration proceedings seeking one point five billion dollars from Panama. The legal dispute follows the government seizure of two major port terminals."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: US TO HALVE TARIFFS ON CANADA METALS",
-                "teaserTitle": "PORT OF LA POSTS SECOND BEST JULY",
+                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS",
+                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Washington is discussing a policy shift to halve existing tariffs on Canadian steel and aluminum imports. The proposed adjustment aims to relieve severe cost pressures across integrated North American manufacturing supply chains."
+                "narration_line": "American Trucking Associations President Chris Spear has stepped down from his role. A formal search is underway as regulatory and tariff challenges mount."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT OPERATIONS: PORT OF LA POSTS SECOND BEST JULY",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+                "headline": "MARITIME: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "teaserTitle": "RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand equivalent units in July during a strong import wave. Shippers continue front loading inventories ahead of peak retail season and potential trade disruptions."
+                "narration_line": "Global container shipping capacity is absorbing a five percent drain from persistent port congestion. Analysts warn terminal bottlenecks are locking up active vessel strings."
             },
             {
                 "slide_index": 5,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
-                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "headline": "ENERGY: RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
+                "teaserTitle": "BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon is scaling its Prime Air drone delivery operations sixfold across major metropolitan markets this year. The expansion gives regional consumers access to ultra fast automated aerial fulfillment options."
+                "narration_line": "Russia is importing two hundred seventy thousand tonnes of refined fuels from Asia. Ukrainian refinery strikes have reversed traditional tanker trade flows."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "TANKERS GOING DARK SPIKES SPILL RISK",
+                "headline": "AIR CARGO: BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
+                "teaserTitle": "STATES SUE OVER 17M TRUCKERS RECORDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Pennsylvania regulators can now impose civil penalties of up to twenty five thousand dollars on unlicensed training schools. The new state law aims to eliminate substandard commercial driver education programs."
+                "narration_line": "BOC Aviation reports the global aircraft supply crunch will persist through decade end. Manufacturing bottlenecks and surging fuel costs are straining major airlines."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL GATEWAYS: TANKERS GOING DARK SPIKES SPILL RISK",
+                "headline": "COMPLIANCE: STATES SUE OVER 17M TRUCKERS RECORDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Maritime monitors report over one thousand five hundred dark vessel crossings in the Persian Gulf since March. Disabling tracking systems to evade sanctions has triggered multiple spreading oil slicks and navigation hazards."
+                "narration_line": "Twenty-two states have sued the federal administration over commercial driver database access. Fleets must monitor state compliance rules amidst ongoing legal battles."
             },
             {
                 "slide_index": 8,

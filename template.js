@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
-        "titleBlue": "RESTRICTIONS",
-        "footerSummary": "Asia to USWC spot freight rates surge as shippers race to preempt upcoming Panama Canal capacity reductions and worsening El Nino bottlenecks."
+        "titleWhite": "PANAMA CANAL CUTS DAILY",
+        "titleBlue": "SLOTS",
+        "footerSummary": "Panama Canal cuts daily Neopanamax transits to 32 ships as El Nino rainfall deficits force tighter capacity limits and rising freight friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
+            "heading": "MARITIME: PANAMA CANAL CUTS DAILY SLOTS",
             "paragraphs": [
-                "Asia to US West Coast spot freight rates are surging rapidly this week as ocean carriers and cargo owners rush to preempt upcoming vessel slot reductions through the Panama Canal. The Panama Canal Authority is officially cutting daily booking capacity to 32 ships starting in mid September due to worsening rainfall deficits driven by El Nino.",
-                "Supply chain leaders must absorb sudden maritime rate spikes and re-engineer transpacific routing strategies to mitigate escalating spot market volatility. Failing to secure forward allocation risks severe port dwell times and compounding delays across North American supply chains."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid-September as worsening rainfall deficits drive deeper El Nino restrictions. For booking dates beginning September 4, the waterway will restrict operations to 9 Neopanamax and select Panamax transit slots to manage draft constraints.",
+                "Supply chain leaders must absorb tightening maritime capacity and re-engineer transpacific routing strategies to mitigate escalating spot market volatility. Failing to secure forward slot allocations risks severe port dwell times and compounding delays across global distribution networks."
             ],
             "imageUrl": "",
             "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
             "tags": [
-                "Source: https://theloadstar.com/asia-uswc-rates-surge-as-shippers-look-to-beat-panama-canal-restrictions/",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -25,88 +25,88 @@ const dailyData = {
             "id": 2,
             "heading": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial damages. The legal action follows Panama's seizure of the Balboa and Cristobal ports after its Supreme Court unconstitutionally revoked the operator's long-standing terminal concessions.",
+                "Hong Kong conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial damages. The legal action follows Panama is seizure of the Balboa and Cristobal ports after its Supreme Court unconstitutionally revoked the operator is long-standing terminal concessions.",
                 "Global port operators face heightened expropriation risks and complex legal liabilities when operating critical maritime infrastructure in politically volatile regions. Executive leadership must reassess sovereign risk exposure and restructure international port assets to safeguard long-term capital investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TO HALVE TARIFFS ON CANADA METALS",
+            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE POLICY: US TO HALVE TARIFFS ON CANADA METALS",
+            "heading": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS",
             "paragraphs": [
-                "The United States is actively discussing a policy shift to halve existing tariffs on Canadian steel and aluminum imports from the current 50% rate. The proposed adjustment comes as North American automotive and manufacturing sectors grapple with severe cost inflation and stalled bilateral trade negotiations.",
-                "Industrial procurement managers must monitor regulatory developments closely to optimize cross-border component sourcing and reduce inbound material costs. Strategic tariff mitigation planning remains vital for protecting operating margins across highly integrated regional supply chains."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership post, prompting a formal search for his successor. The leadership transition arrives as trucking executives grapple with an onslaught of new federal regulations, escalating trade tariffs, and complex court verdicts.",
+                "Motor carriers must monitor association advocacy shifts closely while navigating tightening regulatory oversight and driver workforce pressures. Maintaining strategic alignment across national lobbying groups is vital for defending fleet operating margins and compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LA POSTS SECOND BEST JULY",
+            "nextUpTease": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://maritime-executive.com/editorials/report-korea-s-hd-hyundai-negotiating-acquisition-of-us-shipyard",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT OPERATIONS: PORT OF LA POSTS SECOND BEST JULY",
+            "heading": "MARITIME: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
             "paragraphs": [
-                "The Port of Los Angeles handled 960K TEUs in July, marking the second-busiest July in the port history despite a slight 5.8% annual normalization from record prior-year volumes. Importers continue front-loading inventory shipments ahead of peak retail season and potential geopolitical trade disruptions.",
-                "Supply chain executives must coordinate closely with marine terminal operators to prevent equipment shortages and chassis imbalances during high-volume import surges. Optimizing container drayage workflows ensures seamless cargo movement and prevents costly demurrage accumulation at gateway terminals."
+                "Global container shipping capacity is currently absorbing a 5% drain as persistent port delays and terminal congestion tie up active vessel strings. Analysts at Sea-Intelligence highlight that operational bottlenecks are effectively locking up substantial fleet capacity outside historical norms.",
+                "Ocean carriers and logistics providers must optimize schedule reliability and vessel turnaround times to counter capacity leakage across major trade lanes. Effective terminal coordination remains essential for preventing cascading service failures and equipment shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+            "nextUpTease": "RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://maritime-executive.com/editorials/report-korea-s-hd-hyundai-negotiating-acquisition-of-us-shipyard",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+            "heading": "ENERGY: RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
             "paragraphs": [
-                "Amazon is aggressively scaling its Prime Air drone delivery operations sixfold this year by launching automated fulfillment services across metro Atlanta, Chicago, and Cleveland. The rapid deployment gives regional consumers access to ultra fast aerial delivery options utilizing advanced autonomous airspace navigation.",
-                "Last mile logistics providers must evaluate the competitive threat of automated drone fulfillment as consumer expectations for speed continue to accelerate. Integrating localized aerial hubs requires substantial capital expenditure and rigorous compliance coordination with municipal aviation regulators."
+                "Russia is importing nearly 270K tonnes of refined fuels from Asia this month, triggering an extraordinary reversal in traditional tanker trade routes. Repeated Ukrainian strikes on domestic refineries have left the major energy producer scrambling to secure sufficient fuel supplies from external markets.",
+                "Energy logistics planners must factor in shifting maritime trade routes and rising bunker fuel cost volatility when executing petroleum shipments. Securing flexible vessel charters and verified carrier contracts helps mitigate unforeseen geopolitical supply disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+            "nextUpTease": "USCPA SAYS AVIATION CRUNCH TO LAST",
             "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://splash247.com/russian-fuel-sorgetes-reverse-tanker-trade-flows/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+            "heading": "AIR CARGO: BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
             "paragraphs": [
-                "Pennsylvania state regulators are cracking down on commercial motor vehicle driver training by enforcing steep civil penalties of up to 25K USD against unlicensed CDL schools. The legislation aims to eliminate substandard operator training programs and enhance safety compliance across commercial trucking networks.",
-                "Motor carriers must audit their driver recruiting pipelines and verify third-party training accreditations to avoid hiring non-compliant operators and facing severe liabilities. Enforcing strict credential verification standards protects fleet safety ratings and mitigates catastrophic legal exposure."
+                "Boc Aviation reports that the global aircraft supply crunch will persist through the end of the decade due to persistent manufacturing bottlenecks and surging operating expenses. Surging jet fuel prices driven by Middle Eastern conflicts are compounding cost pressures across major international air carriers.",
+                "Air freight forwarders must lock in long-term capacity agreements and optimize belly cargo utilization to manage soaring operational expenses. Strategic fleet planning is critical for maintaining reliable transit schedules amidst severe equipment constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS GOING DARK SPIKES SPILL RISK",
+            "nextUpTease": "STATES SUE OVER 17M TRUCKERS RECORDS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GLOBAL GATEWAYS: TANKERS GOING DARK SPIKES SPILL RISK",
+            "heading": "COMPLIANCE: STATES SUE OVER 17M TRUCKERS RECORDS",
             "paragraphs": [
-                "Maritime authorities report 1.5K dark vessel crossings in and out of the Persian Gulf since March 1, triggering multiple spreading oil slicks and heightening regional environmental risks. Sanctioned tankers disabling their automated identification systems to evade monitoring are severely compounding navigation hazards in critical trade bottlenecks.",
-                "Energy logistics planners must factor in escalating marine insurance premiums and heightened maritime security risks when routing petroleum shipments through Middle Eastern waters. Establishing robust vessel tracking protocols and utilizing verified carriers remains essential for maintaining secure supply chain operations."
+                "A coalition of 22 states has filed a formal lawsuit against the federal administration to block sweeping demands for access to 17 million commercial driver database records. The legal challenge targets federal overreach regarding state-managed motor vehicle licensing data and driver privacy protections.",
+                "Motor carriers must monitor regulatory compliance mandates closely as legal battles unfold across state and federal jurisdictions. Maintaining rigorous data security and driver qualification protocols protects fleets from unforeseen administrative liabilities and operational audits."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.freightwaves.com/news/states-sue-trump-administration-over-bid-to-access-17-million-cdl-records",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
