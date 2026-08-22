@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FREIGHT RATES: ASIA USWC RATES SURGE ON PANAMA CANAL RESTRICTIONS",
+                "headline": "REGULATION: USTR MOVES FORWARD WITH TARIFFS ON 60 NATIONS",
                 "teaserTitle": "PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
-                "visual_caption": "Asia to USWC freight rates are surging rapidly as shippers rush to beat Panama Canal restrictions. Carriers are implementing steep peak surcharges to manage the capacity bottleneck."
+                "visual_caption": "The USTR is implementing tariffs on 60 trading nations under Section 301. Importers must audit supply chain records immediately to avoid severe financial penalties."
             },
             {
                 "slide_index": 2,
                 "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA TERMINALS COMPENSATION",
-                "visual_caption": "The Panama Canal Authority is reducing daily vessel transit slots due to El Nino drought conditions. Supply chain managers must secure alternative routing to avoid severe delays."
+                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "visual_caption": "The Panama Canal is cutting daily capacity to 32 ships due to rainfall deficits. Supply chain managers must factor in extended schedules and higher reservation premiums."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL DISPUTES: CK HUTCHISON SEEKS 1.5B USD IN PANAMA TERMINALS COMPENSATION",
-                "teaserTitle": "PORT DELAYS AND CONGESTION ABSORB 5% OF INDUSTRY TEU CAPACITY",
-                "visual_caption": "CK Hutchison launched international arbitration for $1.5B over seized Panama port terminals. The legal dispute escalates operating risks across crucial global trade gateways."
+                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE VACANCY DROPS TO 7.3%",
+                "visual_caption": "Russia is importing nearly 270K metric tons of refined fuels from Asia this month. Repeated refinery strikes have left the major energy producer short of refined products."
             },
             {
                 "slide_index": 4,
-                "headline": "CAPACITY DRAIN: PORT DELAYS AND CONGESTION ABSORB 5% OF INDUSTRY TEU CAPACITY",
-                "teaserTitle": "HD HYUNDAI NEGOTIATES ACQUISITION OF US SHIPYARD",
-                "visual_caption": "Global port delays and congestion are currently trapping 5% of worldwide TEU container capacity. This structural lockup restricts equipment availability across major trade lanes."
+                "headline": "REAL ESTATE: INDUSTRIAL REAL ESTATE VACANCY DROPS TO 7.3%",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS FEDERATION",
+                "visual_caption": "Industrial real estate vacancy fell to 7.3% in Q2. Tightening availability is limiting prime fulfillment options near major metropolitan logistics hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPBUILDING: HD HYUNDAI NEGOTIATES ACQUISITION OF US SHIPYARD",
-                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
-                "visual_caption": "HD Hyundai Group is negotiating the acquisition of a major United States shipyard. The strategic move aims to expand domestic vessel construction and heavy maintenance capabilities."
+                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS FEDERATION",
+                "teaserTitle": "CATERPILLAR BAGS 392M USD TARIFF REFUND",
+                "visual_caption": "ATA President Chris Spear has officially stepped down from his leadership post. His departure comes as the trucking industry faces mounting regulatory challenges and tariffs."
             },
             {
                 "slide_index": 6,
-                "headline": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
-                "visual_caption": "Sea Legend has launched a regular container service via the Arctic trade route. This northern passage successfully cut trial transit times between Asia and Europe to 20 days."
+                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M USD TARIFF REFUND",
+                "teaserTitle": "STATES SCORE WIN IN FIGHT OVER CDL DATABASE",
+                "visual_caption": "Caterpillar secured a $392M tariff refund as overall duty costs decreased. Corporate procurement teams should evaluate customs entries to identify duty recovery opportunities."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "headline": "COMPLIANCE: STATES SCORE WIN IN FIGHT OVER CDL DATABASE",
                 "teaserTitle": "",
-                "visual_caption": "Russia is importing nearly 270K tons of refined fuels from Asia following refinery strikes. This unusual shift creates an extraordinary reversal in international tanker trade flows."
+                "visual_caption": "A coalition of states secured a legal victory restricting federal access to CDL databases. The ruling temporarily blocks broad administrative overreach regarding driver records."
             },
             {
                 "slide_index": 8,
