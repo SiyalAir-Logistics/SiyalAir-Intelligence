@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORWARD WITH TARIFFS ON SIXTY NATIONS",
+        "hookTitle": "PANAMA CANAL TO CUT DAILY SLOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: USTR MOVES FORWARD WITH TARIFFS ON 60 NATIONS",
-                "teaserTitle": "PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+                "headline": "WATERWAYS: PANAMA CANAL TO CUT DAILY SLOTS",
+                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing strict tariffs on sixty trading nations under Section three zero one. Importers must audit bill of materials records immediately to avoid severe financial penalties."
+                "narration_line": "The Panama Canal Authority is cutting daily vessel bookings to thirty-two ships in September due to severe drought. Shippers must secure alternative routes to avoid rising spot rates."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER FLOWS",
+                "teaserTitle": "PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal Authority is cutting daily vessel capacity to thirty-two ships due to worsening rainfall deficits. Supply chain managers must factor in extended transit schedules and higher reservation premiums."
+                "narration_line": "Russia is importing two hundred seventy thousand metric tons of refined fuel from Asia. Repeated refinery strikes triggered this extraordinary trade flow reversal."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE VACANCY DROPS TO 7.3%",
+                "headline": "GOVERNMENT: PENNSYLVANIA LAW TARGETS UNLICENSED CDL SCHOOLS",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Russia is importing nearly two hundred seventy thousand metric tons of refined fuels from Asia this month. Repeated strikes on domestic refineries have left the major energy producer short of refined products."
+                "narration_line": "Pennsylvania regulators can now fine unlicensed truck driving schools up to twenty-five thousand dollars. Fleet operators must audit all driver training credentials."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL REAL ESTATE VACANCY DROPS TO 7.3%",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS FEDERATION",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "teaserTitle": "US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Colliers reported that industrial real estate vacancy fell to seven point three percent in the second quarter. Tightening availability is limiting prime fulfillment options near major metropolitan logistics hubs."
+                "narration_line": "CK Hutchison is seeking one point five billion dollars in arbitration damages from Panama. This dispute highlights growing sovereign risks in port terminal concessions."
             },
             {
                 "slide_index": 5,
-                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS FEDERATION",
-                "teaserTitle": "CATERPILLAR BAGS 392M USD TARIFF REFUND",
+                "headline": "TARIFFS: US TO HALVE TARIFFS ON CANADA STEEL AND ALUMINUM",
+                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his leadership post. His departure comes as the trucking industry faces mounting regulatory challenges and tariffs."
+                "narration_line": "The United States and Canada are negotiating to halve current fifty percent metal tariffs. Shippers should monitor trade talks to optimize landside landed costs."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M USD TARIFF REFUND",
-                "teaserTitle": "STATES SCORE WIN IN FIGHT OVER CDL DATABASE",
+                "headline": "LAST MILE: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund as duty costs decreased. Corporate procurement teams should evaluate historical customs entries to identify duty recovery opportunities."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network across multiple major metro markets. This rapid scaling sets new speed benchmarks for last-mile parcel fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES SCORE WIN IN FIGHT OVER CDL DATABASE",
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BUSIEST JULY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A coalition of states secured a legal victory restricting federal access to driver license databases. The ruling temporarily blocks broad administrative overreach regarding professional records."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEU during a robust July. Forward-looking cargo owners accelerated shipments to bypass upcoming bottlenecks."
             },
             {
                 "slide_index": 8,
