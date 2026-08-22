@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "teaserTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
-                "visual_caption": "CK Hutchison initiated a $1.5B arbitration claim against Panama following terminal seizures. This dispute establishes a high-stakes precedent for global port operators."
+                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY",
+                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
+                "visual_caption": "The Panama Canal cuts daily booking capacity to 32 transits due to drought. Shippers face tighter draft limits and higher reservation costs."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
-                "teaserTitle": "SUEZ CAPACITY SEES RAPID GROWTH",
-                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships from mid-September. Shippers face increased detention risks and tighter slot availability."
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
+                "teaserTitle": "FMC UPHOLDS DETENTION BILLING RULES",
+                "visual_caption": "An empty LPG tanker paid $4.6M to bypass canal queues. Premium priority fees are reshaping transit throughput access."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SUEZ CAPACITY SEES RAPID GROWTH",
-                "teaserTitle": "ATA CHIEF SPEAR STEPS DOWN",
-                "visual_caption": "Carriers are accelerating their return to Suez Canal corridors as security stabilizes. Re-establishing Suez routing compresses transit loops and lowers inventory costs."
+                "headline": "REGULATION: FMC UPHOLDS DETENTION BILLING RULES",
+                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "visual_caption": "The D.C. Circuit upheld FMC rules requiring detention fees to promote freight fluidity. Carriers must audit invoicing systems immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA CHIEF SPEAR STEPS DOWN",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "ATA President Chris Spear has stepped down amid mounting regulatory challenges. Fleet operators should prepare for evolving advocacy on driver and safety mandates."
+                "headline": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "visual_caption": "Sea Legend launched a regular Arctic container route connecting Asia and Europe in 20 days. Northern passages offer strategic alternatives to southern canals."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "US, CANADA FAIL TO REACH TARIFF DEAL",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partner nations. Importers must audit supplier networks immediately to prevent expensive border holds."
+                "headline": "CAPACITY: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "teaserTitle": "HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
+                "visual_caption": "Persistent port congestion is absorbing 5% of worldwide container vessel capacity. Supply chain managers must build extended buffer times into planning."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE: US, CANADA FAIL TO REACH TARIFF DEAL",
-                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
-                "visual_caption": "US and Canadian trade talks failed to avert looming metal tariff increases. Industrial producers must prepare contingency routing to absorb potential cost spikes."
+                "headline": "INFRASTRUCTURE: HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
+                "teaserTitle": "US DELAYS 50% TARIFFS ON CANADA IMPORTS",
+                "visual_caption": "HD Hyundai is negotiating the acquisition of a major US shipyard facility. Foreign capital integration will reshape domestic maritime construction."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: MAERSK SELLS 25% ROTTERDAM STAKE",
+                "headline": "TRADE: US DELAYS 50% TARIFFS ON CANADA IMPORTS",
                 "teaserTitle": "",
-                "visual_caption": "Maersk finalized the sale of a 25% stake in Rotterdam terminal to Hapag-Lloyd. This partnership reinforces container handling reliability across European gateways."
+                "visual_caption": "Washington delayed proposed 50% tariffs on Canadian steel and aluminum by 3 days. Negotiators are racing to finalize a bilateral trade agreement."
             },
             {
                 "slide_index": 8,

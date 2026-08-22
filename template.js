@@ -1,35 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CK HUTCHISON SEEKS 1.5B IN",
-        "titleBlue": "DAMAGES",
-        "footerSummary": "CK Hutchison initiates a $1.5B arbitration claim against Panama following terminal seizures, heightening cross-border asset risks for global port operators."
+        "titleWhite": "PANAMA CANAL CUTS DAILY",
+        "titleBlue": "CAPACITY",
+        "footerSummary": "Panama Canal cuts daily capacity to 32 transits starting mid-September, driving up slot reservation costs and forcing carriers to adjust routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+            "heading": "WATERWAYS: PANAMA CANAL CUTS CAPACITY",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama, demanding $1.5B in compensation. This legal action follows the controversial seizure of the Balboa and Cristobal ports after Panama\u2019s Supreme Court ruled their operating concessions unconstitutional.",
-                "Port operators and global terminal investors must reevaluate sovereign risk exposure across emerging market concessions to protect capital allocations. This multi-billion-dollar dispute establishes a high-stakes precedent for cross-border infrastructure contracts and terminal asset security."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CUTS DAILY CAPACITY",
-            "tags": [
-                "Source: https://theloadstar.com/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
-                "Published: 2026-08-21T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
-            "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 vessel transits starting in mid-September due to worsening El Ni\u00f1o rainfall deficits. This operational restriction will constrain Neopanamax and regular slot availability, injecting immediate volatility into trans-pacific routing schedules.",
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 vessel transits starting in mid-September due to worsening El Nino rainfall deficits. This operational restriction will constrain Neopanamax and regular slot availability, injecting immediate volatility into trans-pacific routing schedules.",
                 "Supply chain planners must factor in tighter draft limits and elevated slot reservation costs to maintain reliable service delivery timelines. Shippers relying on this primary artery face increased detention risks and a renewed scramble for scarce alternative maritime gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ CAPACITY SEES RAPID GROWTH",
+            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
             "tags": [
                 "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
                 "Published: 2026-08-21T00:00:00Z",
@@ -37,77 +22,92 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME: SUEZ CAPACITY SEES RAPID GROWTH",
+            "id": 2,
+            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
             "paragraphs": [
-                "Ocean carriers are accelerating their return to Red Sea and Suez Canal corridors as risk assessments evolve following recent security stabilization efforts. Major alliances are scheduling ad-hoc and regular transits to bypass prolonged African cape diversions and shorten Asia-Europe transit times.",
-                "Logistics directors must weigh incremental maritime insurance costs against the massive fuel savings achieved by shortening voyage distances. Re-establishing Suez routing offers a vital avenue to compress transit loops and lower overall landed inventory expenses."
+                "An empty liquefied petroleum gas tanker paid a record 4.6M USD to bypass the maritime congestion queue at the Panama Canal. This transaction shatters previous priority toll benchmarks as vessel operators scramble to circumvent severe transit delays.",
+                "Logistics directors must weigh exorbitant priority fees against mounting demurrage costs when calculating rapid transit feasibility. Premium queue-jumping is becoming a high-stakes financial mechanism for securing critical supply chain throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA CHIEF SPEAR STEPS DOWN",
+            "nextUpTease": "FMC UPHOLDS DETENTION BILLING RULES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "REGULATION: FMC UPHOLDS DETENTION BILLING RULES",
+            "paragraphs": [
+                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive ruling upholding Federal Maritime Commission regulations mandating that detention and demurrage fees must actively promote freight fluidity. The legal decision validates federal oversight over carrier billing practices and reinforces protections for U.S. shippers against arbitrary charges.",
+                "Ocean carriers and terminal operators must audit their invoicing systems immediately to ensure full compliance with federal fluidity standards. Shippers gain stronger legal footing to challenge punitive detention charges assessed during port congestion events."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: ATA CHIEF SPEAR STEPS DOWN",
+            "heading": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership role after a distinguished tenure. His departure comes as the domestic motor carrier industry navigates severe regulatory shifts, complex tariff structures, and mounting court verdicts.",
-                "Motor carriers must monitor potential policy direction changes as the nation's premier trucking lobby navigates executive succession amidst intense legal pressure. Fleet operators should prepare for evolving advocacy on driver regulations, safety mandates, and cross-border trade compliance."
+                "Chinese shipping line Sea Legend has officially launched a regular container service connecting Asian ports to Europe via the Arctic trade route. This northern passage successfully reduced transit time on a trial voyage from Ningbo to Felixstowe to just 20 days.",
+                "Logistics executives must evaluate the long-term viability of northern maritime lanes against seasonal ice hazards and specialized vessel requirements. Arctic routing presents a potential strategic alternative to congested southern canals despite lingering operational obstacles."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T16:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "CAPACITY: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
             "paragraphs": [
-                "The Office of the United States Trade Representative is actively implementing targeted tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This decisive regulatory push coincides with the formal expiration of legacy Section 122 tariff authorities across federal agencies.",
-                "Importers must audit tier-one and tier-two supplier databases immediately to prevent expensive border holds and sudden duty reassessments. Supply chain executives face compressed timelines to restructure sourcing networks and eliminate non-compliant material inputs."
+                "Analyst data from Sea-Intelligence confirms that persistent global port delays and supply chain bottlenecks are currently absorbing 5% of the worldwide industry TEU capacity. This capacity lockup exacerbates equipment shortages and tightens vessel availability across major global trade lanes.",
+                "Supply chain managers must build extended buffer times into inventory planning to compensate for degraded schedule reliability. Mitigating capacity drain requires proactive vessel chartering and closer collaboration with terminal operators."
             ],
             "imageUrl": "",
-            "nextUpTease": "US, CANADA FAIL TO REACH TARIFF DEAL",
+            "nextUpTease": "HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T15:51:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRADE: US, CANADA FAIL TO REACH TARIFF DEAL",
+            "heading": "INFRASTRUCTURE: HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
             "paragraphs": [
-                "United States and Canadian trade negotiators have failed to reach an agreement before the deadline, deepening bilateral trade tensions over proposed metal tariffs. The impasse leaves imminent 50% duties on cross-border steel and aluminum shipments hanging over manufacturers.",
-                "North American supply chain managers must prepare contingency routing and inventory buffers to absorb potential border cost inflations. Automotive and industrial producers face severe margin compression unless exemption frameworks are successfully negotiated."
+                "South Korea\u2019s HD Hyundai Group is currently in advanced negotiations to acquire a major United States shipyard. This strategic expansion leverages domestic shipbuilding initiatives to capture long-term maritime industrial growth in North America.",
+                "Marine investors and fleet operators should monitor how foreign capital integration reshapes domestic vessel construction capacity and repair pricing. Localized shipyard ownership offers strategic advantages for meeting Jones Act and defense logistics requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "MAERSK SELLS 25% ROTTERDAM STAKE",
+            "nextUpTease": "US DELAYS 50% TARIFFS ON CANADA IMPORTS",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T14:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: MAERSK SELLS 25% ROTTERDAM STAKE",
+            "heading": "TRADE: US DELAYS 50% TARIFFS ON CANADA IMPORTS",
             "paragraphs": [
-                "Maersk has finalized the sale of a 25% stake in Rotterdam\u2019s heavily automated Maasvlakte II terminal to Hapag-Lloyd to solidify their Gemini Cooperation partnership. This strategic divestment reinforces operational alignment between the major ocean carriers within Europe's primary gateway.",
-                "Terminal users can anticipate tighter vessel schedule integrity and streamlined container handling protocols across key European hub facilities. Carrier consolidation of terminal equity emphasizes the growing importance of dedicated infrastructure control in maintaining service reliability."
+                "The United States government has formally executed a three-day delay on proposed 50% tariffs covering Canadian steel and aluminum imports. Negotiators are utilizing this brief extension to race toward a bilateral trade agreement and avert a costly cross-border duty spike.",
+                "North American manufacturers must maintain flexible contingency inventory buffers while awaiting final trade resolution. Sudden duty implementation would severely compress margins across automotive and industrial supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

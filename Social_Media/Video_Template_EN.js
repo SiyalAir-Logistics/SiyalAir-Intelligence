@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+        "hookTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "teaserTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
+                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY",
+                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CK Hutchison launched a one point five billion dollar arbitration claim against Panama. This legal dispute sets a high risk precedent for terminal asset security."
+                "narration_line": "The Panama Canal is reducing daily booking capacity to thirty two transits due to drought. Shippers face tighter draft limits and higher reservation costs."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
-                "teaserTitle": "SUEZ CAPACITY SEES RAPID GROWTH",
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
+                "teaserTitle": "FMC UPHOLDS DETENTION BILLING RULES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal is reducing daily transits to thirty two ships starting in September. Planners must factor in tighter slots and elevated reservation costs."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass canal queues. Premium priority fees are reshaping throughput access."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SUEZ CAPACITY SEES RAPID GROWTH",
-                "teaserTitle": "ATA CHIEF SPEAR STEPS DOWN",
+                "headline": "REGULATION: FMC UPHOLDS DETENTION BILLING RULES",
+                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ocean carriers are accelerating their return to Suez Canal trade routes. This shift helps bypass long African cape diversions and lowers inventory expenses."
+                "narration_line": "The D.C. Circuit upheld Federal Maritime Commission rules requiring detention fees to promote fluidity. Carriers must audit invoicing systems immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA CHIEF SPEAR STEPS DOWN",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+                "headline": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Trucking Associations president Chris Spear has officially stepped down from his role. Motor carriers face complex regulatory shifts and court verdicts."
+                "narration_line": "Sea Legend launched a regular Arctic container route connecting Asia and Europe in twenty days. Northern passages offer strategic alternatives to southern canals."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "US, CANADA FAIL TO REACH TARIFF DEAL",
+                "headline": "CAPACITY: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "teaserTitle": "HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The USTR is implementing targeted tariffs on sixty trading partners under Section three oh one. Importers must audit supplier databases immediately to prevent holds."
+                "narration_line": "Persistent port congestion is absorbing five percent of worldwide container vessel capacity. Supply chain managers must build extended buffer times into planning."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE: US, CANADA FAIL TO REACH TARIFF DEAL",
-                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
+                "headline": "INFRASTRUCTURE: HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
+                "teaserTitle": "US DELAYS 50% TARIFFS ON CANADA IMPORTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United States and Canadian trade negotiators failed to reach a deal on metal tariffs. North American supply chains must prepare for potential border cost inflations."
+                "narration_line": "HD Hyundai is negotiating the acquisition of a major United States shipyard facility. Foreign capital integration will reshape domestic maritime construction."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: MAERSK SELLS 25% ROTTERDAM STAKE",
+                "headline": "TRADE: US DELAYS 50% TARIFFS ON CANADA IMPORTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Maersk sold a twenty five percent stake in the Rotterdam terminal to Hapag-Lloyd. This partnership reinforces container handling efficiency across European gateways."
+                "narration_line": "Washington delayed proposed fifty percent tariffs on Canadian steel and aluminum by three days. Negotiators are racing to finalize a bilateral trade agreement."
             },
             {
                 "slide_index": 8,
