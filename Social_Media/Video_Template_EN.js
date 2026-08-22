@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP SURGES PAST FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL QUEUE JUMP SURGES PAST 4.6M",
-                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+                "teaserTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker secured transit priority with a record four point six million dollar fee. This extreme outlay highlights severe capacity constraints facing global supply chains."
+                "narration_line": "CK Hutchison launched a one point five billion dollar arbitration claim against Panama. This legal dispute sets a high risk precedent for terminal asset security."
             },
             {
                 "slide_index": 2,
-                "headline": "ROUTES: CHINA OPENS NEW ARCTIC TRADE ROUTE",
-                "teaserTitle": "PORT DELAYS ABSORB 5% CAPACITY",
+                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
+                "teaserTitle": "SUEZ CAPACITY SEES RAPID GROWTH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "China is launching a regular container service to Europe through the Arctic ocean route. Severe ice obstacles will restrict year-round adoption despite offering shorter transit distances."
+                "narration_line": "The Panama Canal is reducing daily transits to thirty two ships starting in September. Planners must factor in tighter slots and elevated reservation costs."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT DELAYS ABSORB 5% CAPACITY",
-                "teaserTitle": "KOREA SHIPBUILDER TARGETS US YARD",
+                "headline": "MARITIME: SUEZ CAPACITY SEES RAPID GROWTH",
+                "teaserTitle": "ATA CHIEF SPEAR STEPS DOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Persistent port congestion currently traps five percent of global container carrying capacity. This ongoing inefficiency restricts vessel loop frequency and increases operating expenses."
+                "narration_line": "Ocean carriers are accelerating their return to Suez Canal trade routes. This shift helps bypass long African cape diversions and lowers inventory expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: KOREA SHIPBUILDER TARGETS US YARD",
+                "headline": "TRUCKING: ATA CHIEF SPEAR STEPS DOWN",
                 "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "South Korea\u2019s HD Hyundai Group is negotiating the acquisition of a United States shipyard. The move strengthens industrial positioning under regional manufacturing initiatives."
+                "narration_line": "American Trucking Associations president Chris Spear has officially stepped down from his role. Motor carriers face complex regulatory shifts and court verdicts."
             },
             {
                 "slide_index": 5,
                 "headline": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "INTERMODAL SURGES AS TRUCKING TIGHTENS",
+                "teaserTitle": "US, CANADA FAIL TO REACH TARIFF DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The trade representative is implementing targeted tariffs on sixty nations under section three hundred one. Importers must audit supplier compliance to avoid expensive border holds."
+                "narration_line": "The USTR is implementing targeted tariffs on sixty trading partners under Section three oh one. Importers must audit supplier databases immediately to prevent holds."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILWAYS: INTERMODAL SURGES AS TRUCKING TIGHTENS",
-                "teaserTitle": "NEW JERSEY PORT ORDERS 96 EV TRUCKS",
+                "headline": "TRADE: US, CANADA FAIL TO REACH TARIFF DEAL",
+                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Rising truckload rates are driving shippers back to historic intermodal volume norms. Containerized rail is successfully absorbing excess freight displaced by highway constraints."
+                "narration_line": "United States and Canadian trade negotiators failed to reach a deal on metal tariffs. North American supply chains must prepare for potential border cost inflations."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET: NEW JERSEY PORT ORDERS 96 EV TRUCKS",
+                "headline": "PORTS: MAERSK SELLS 25% ROTTERDAM STAKE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A New Jersey seaport ordered ninety-six electric terminal trucks to advance zero-emission drayage. Fleets must prepare infrastructure for tightening environmental regulations."
+                "narration_line": "Maersk sold a twenty five percent stake in the Rotterdam terminal to Hapag-Lloyd. This partnership reinforces container handling efficiency across European gateways."
             },
             {
                 "slide_index": 8,

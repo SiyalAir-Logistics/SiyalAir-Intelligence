@@ -1,68 +1,68 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP SURGES PAST",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit $4.6M as vessel rerouting escalates, forcing shippers to absorb heavy premiums to maintain tight supply chains."
+        "titleWhite": "CK HUTCHISON SEEKS 1.5B IN",
+        "titleBlue": "DAMAGES",
+        "footerSummary": "CK Hutchison initiates a $1.5B arbitration claim against Panama following terminal seizures, heightening cross-border asset risks for global port operators."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAYS: PANAMA CANAL QUEUE JUMP SURGES PAST 4.6M",
+            "heading": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker recently secured transit priority by paying an unprecedented $4.6M fee, eclipsing prior records as global shipping bottlenecks intensify. This staggering financial outlay underscores the extreme capacity pressures facing vessel operators navigating around ongoing geopolitical constraints.",
-                "Enterprise logistics directors must now factor these escalating queue-jump costs into transshipment budgets to protect delivery schedules and prevent catastrophic cargo delays. Shippers failing to account for these premium routing charges face severe margin compression and unpredictable transit timelines."
+                "Hong Kong conglomerate CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama, demanding $1.5B in compensation. This legal action follows the controversial seizure of the Balboa and Cristobal ports after Panama\u2019s Supreme Court ruled their operating concessions unconstitutional.",
+                "Port operators and global terminal investors must reevaluate sovereign risk exposure across emerging market concessions to protect capital allocations. This multi-billion-dollar dispute establishes a high-stakes precedent for cross-border infrastructure contracts and terminal asset security."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+            "nextUpTease": "PANAMA CANAL CUTS DAILY CAPACITY",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://theloadstar.com/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ROUTES: CHINA OPENS NEW ARCTIC TRADE ROUTE",
+            "heading": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
             "paragraphs": [
-                "Chinese shipping line SeaLegend has launched a regular container service connecting Asia and Europe via the Arctic, building upon a successful 20--day trial transit completed last year. While this northern passage offers a shorter distance between major manufacturing hubs and western gateways, severe ice obstacles and harsh weather will continue to limit its year-round scalability.",
-                "Supply chain planners must evaluate the operational trade-offs of northern routes against traditional maritime corridors currently strained by regional conflicts. Integrating Arctic waypoints demands specialized vessel hardening and precise scheduling to offset the inherent risks of polar navigation."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 vessel transits starting in mid-September due to worsening El Ni\u00f1o rainfall deficits. This operational restriction will constrain Neopanamax and regular slot availability, injecting immediate volatility into trans-pacific routing schedules.",
+                "Supply chain planners must factor in tighter draft limits and elevated slot reservation costs to maintain reliable service delivery timelines. Shippers relying on this primary artery face increased detention risks and a renewed scramble for scarce alternative maritime gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT DELAYS ABSORB 5% CAPACITY",
+            "nextUpTease": "SUEZ CAPACITY SEES RAPID GROWTH",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-opens-new-arctic-trade-route-but-obstacles-will-prevent-its-wider-use",
-                "Published: 2026-08-21T16:10:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: PORT DELAYS ABSORB 5% CAPACITY",
+            "heading": "MARITIME: SUEZ CAPACITY SEES RAPID GROWTH",
             "paragraphs": [
-                "Persistent worldwide port congestion and localized bottlenecks are currently tying up 5.0% of the global container carrying capacity, according to recent Sea-Intelligence metrics. This ongoing inefficiency significantly reduces effective vessel deployment and restricts loop frequency compared to the stable baseline recorded between 2011 and 2019.",
-                "Carriers and beneficial cargo owners absorb continuous financial penalties as trapped vessel assets degrade equipment availability across major international gateways. Logistics teams must factor prolonged port dwell times and restricted loop rotations into baseline inventory buffer calculations."
+                "Ocean carriers are accelerating their return to Red Sea and Suez Canal corridors as risk assessments evolve following recent security stabilization efforts. Major alliances are scheduling ad-hoc and regular transits to bypass prolonged African cape diversions and shorten Asia-Europe transit times.",
+                "Logistics directors must weigh incremental maritime insurance costs against the massive fuel savings achieved by shortening voyage distances. Re-establishing Suez routing offers a vital avenue to compress transit loops and lower overall landed inventory expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "KOREA SHIPBUILDER TARGETS US YARD",
+            "nextUpTease": "ATA CHIEF SPEAR STEPS DOWN",
             "tags": [
-                "Source: https://maritime-executive.com/article/port-delays-and-congestion-absorb-5-of-industry-s-teu-capacity",
-                "Published: 2026-08-21T15:51:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: KOREA SHIPBUILDER TARGETS US YARD",
+            "heading": "TRUCKING: ATA CHIEF SPEAR STEPS DOWN",
             "paragraphs": [
-                "South Korea\u2019s HD Hyundai Group is in advanced negotiations to acquire a U.S. shipyard as part of an aggressive strategic expansion aligned with domestic shipbuilding revitalization initiatives. Korean media reports indicate the industrial conglomerate is pursuing this acquisition after forming several collaborative partnerships to capture regional maritime infrastructure demand.",
-                "This prospective cross-border consolidation introduces new competitive dynamics for domestic vessel repair, defense contracting, and commercial shipbuilding capacity. Enterprise maritime buyers must monitor these ownership shifts closely to secure reliable dry-docking and construction allocations."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership role after a distinguished tenure. His departure comes as the domestic motor carrier industry navigates severe regulatory shifts, complex tariff structures, and mounting court verdicts.",
+                "Motor carriers must monitor potential policy direction changes as the nation's premier trucking lobby navigates executive succession amidst intense legal pressure. Fleet operators should prepare for evolving advocacy on driver regulations, safety mandates, and cross-border trade compliance."
             ],
             "imageUrl": "",
             "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://maritime-executive.com/article/report-korea-s-hd-hyundai-negotiating-acquisition-of-us-shipyard",
-                "Published: 2026-08-21T14:29:00Z",
+                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -70,11 +70,11 @@ const dailyData = {
             "id": 5,
             "heading": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with the implementation of targeted tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive enforcement action coincides with the formal expiration of legacy Section 122 tariff authorities.",
-                "Importers sourcing raw materials and finished goods from affected nations must overhaul compliance protocols to prevent expensive border holds and sudden duty reassessments. Supply chain executives need to audit tier-one and tier-two supplier networks immediately to mitigate fiscal exposure."
+                "The Office of the United States Trade Representative is actively implementing targeted tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This decisive regulatory push coincides with the formal expiration of legacy Section 122 tariff authorities across federal agencies.",
+                "Importers must audit tier-one and tier-two supplier databases immediately to prevent expensive border holds and sudden duty reassessments. Supply chain executives face compressed timelines to restructure sourcing networks and eliminate non-compliant material inputs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL SURGES AS TRUCKING TIGHTENS",
+            "nextUpTease": "US, CANADA FAIL TO REACH TARIFF DEAL",
             "tags": [
                 "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
                 "Published: 2026-08-21T00:00:00Z",
@@ -83,31 +83,31 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "RAILWAYS: INTERMODAL SURGES AS TRUCKING TIGHTENS",
+            "heading": "TRADE: US, CANADA FAIL TO REACH TARIFF DEAL",
             "paragraphs": [
-                "Tight capacity and soaring rate structures across the domestic truckload sector have prompted U.S. shippers to return to historic norms by increasing intermodal traffic volumes. According to the Intermodal Association of North America, containerized rail volumes are steadily absorbing excess freight displaced by highway carrier constraints.",
-                "This modal shift offers a welcome cost-mitigation avenue for enterprise shippers facing persistent over-the-road pricing volatility and driver shortages. Supply chain directors must optimize ramp-to-ramp execution schedules to maximize savings while protecting transit times."
+                "United States and Canadian trade negotiators have failed to reach an agreement before the deadline, deepening bilateral trade tensions over proposed metal tariffs. The impasse leaves imminent 50% duties on cross-border steel and aluminum shipments hanging over manufacturers.",
+                "North American supply chain managers must prepare contingency routing and inventory buffers to absorb potential border cost inflations. Automotive and industrial producers face severe margin compression unless exemption frameworks are successfully negotiated."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEW JERSEY PORT ORDERS 96 EV TRUCKS",
+            "nextUpTease": "MAERSK SELLS 25% ROTTERDAM STAKE",
             "tags": [
-                "Source: https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FLEET: NEW JERSEY PORT ORDERS 96 EV TRUCKS",
+            "heading": "PORTS: MAERSK SELLS 25% ROTTERDAM STAKE",
             "paragraphs": [
-                "A major New Jersey seaport has officially placed an order for a fleet of 96 electric terminal trucks from Orange EV to accelerate sustainable drayage operations. This substantial transition to zero-emission yard equipment addresses mounting state environmental mandates and reduces local carbon footprints.",
-                "Fleet operators must evaluate the capital expenditure and infrastructure requirements needed to support heavy electric vehicle charging in high-density port environments. Adopting electrified terminal tractors positions logistics providers to meet tightening emissions standards while avoiding future regulatory penalties."
+                "Maersk has finalized the sale of a 25% stake in Rotterdam\u2019s heavily automated Maasvlakte II terminal to Hapag-Lloyd to solidify their Gemini Cooperation partnership. This strategic divestment reinforces operational alignment between the major ocean carriers within Europe's primary gateway.",
+                "Terminal users can anticipate tighter vessel schedule integrity and streamlined container handling protocols across key European hub facilities. Carrier consolidation of terminal equity emphasizes the growing importance of dedicated infrastructure control in maintaining service reliability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
