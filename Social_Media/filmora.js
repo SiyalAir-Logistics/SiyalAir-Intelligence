@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY TO 32",
-                "teaserTitle": "CANADA TARIFFS COLLAPSE US TRADE TALKS",
-                "visual_caption": "The Panama Canal Authority is reducing daily transit capacity to 32 ships to manage rainfall deficits. This restriction will constrain neopanamax slots and drive up global spot freight rates."
+                "headline": "TARIFFS: TRUMP TARIFFS COLLAPSE US TRADE TALKS",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
+                "visual_caption": "US-Canada trade talks collapsed after Section 338 deadlines expired. New 50% tariffs triggered immediate cross-border friction."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: CANADA TARIFFS COLLAPSE US TRADE TALKS",
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
                 "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "visual_caption": "U.S. and Canadian trade talks have collapsed after failing to meet Section 338 tariff deadlines. A 50% import duty is now active across cross-border manufacturing supply chains."
+                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships in September. Drought constraints are severely tightening Asia-US capacity."
             },
             {
                 "slide_index": 3,
                 "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "teaserTitle": "MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
-                "visual_caption": "CK Hutchison Holdings has launched international arbitration for $1.5B against Panama. This follows the controversial seizure of terminal concessions by local authorities."
+                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
+                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over seized port concessions. Global terminal operators face rising sovereign investment risks."
             },
             {
                 "slide_index": 4,
-                "headline": "TERMINALS: MAERSK AND HAPAG LLOYD ROTTERDAM DEAL",
-                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
-                "visual_caption": "Maersk has sold a 25% stake in its Rotterdam terminal to Hapag-Lloyd. The move secures critical berth capacity for the upcoming Gemini Cooperation network rollout."
+                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
+                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
+                "visual_caption": "The Port of Los Angeles handled 960K TEU in July as shippers front-loaded cargo. Inbound volume surges are testing regional drayage networks."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
-                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
-                "visual_caption": "Refinery strikes have forced Russia to import 270K tons of refined fuel from Asia. This operational crisis has reversed traditional global tanker trade routes."
+                "headline": "TERMINALS: MAERSK SELLS 25% ROTTERDAM STAKE",
+                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
+                "visual_caption": "Maersk sold a 25% stake in its Rotterdam terminal to Hapag-Lloyd. The deal strengthens infrastructure integration for the Gemini network."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
+                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
                 "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "visual_caption": "The Port of Los Angeles processed 960K TEUs in July as shippers front-loaded inventory. Importers rushed cargo arrivals to bypass expected seasonal tariff hikes."
+                "visual_caption": "Refinery strikes forced Russia to import 270K tons of fuel from Asia. This disruption inverted traditional tanker routes globally."
             },
             {
                 "slide_index": 7,
                 "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "teaserTitle": "",
-                "visual_caption": "New Jersey port terminal operators have ordered 96 electric trucks to meet regional environmental mandates. Fleets are balancing heavy capital expenses against strict carbon emission targets."
+                "visual_caption": "New Jersey ports ordered 96 electric terminal trucks to cut emissions. Fleets are balancing heavy upfront capital costs against green mandates."
             },
             {
                 "slide_index": 8,
