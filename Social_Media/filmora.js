@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CUTS DAILY SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "visual_caption": "The Panama Canal Authority is cutting daily capacity to 32 ships. Shippers must absorb tightening transit slots and rising spot rates."
+                "headline": "PROCUREMENT: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CANADA TARIFFS",
+                "visual_caption": "The USTR is advancing new tariffs on 60 nations under Section 301. Importers must audit supply chains immediately to avoid severe customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
-                "visual_caption": "CK Hutchison has initiated arbitration seeking $1.5B from Panama. The dispute follows government seizure of two port terminals."
+                "headline": "COMPLIANCE: CANADA TARIFFS",
+                "teaserTitle": "PANAMA CANAL SLOTS",
+                "visual_caption": "Cross-border trade faces mounting friction as US-Canada talks collapse over metal tariffs. Canadian officials vow to implement retaliatory levies starting Sept 8."
             },
             {
                 "slide_index": 3,
-                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS",
-                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
-                "visual_caption": "ATA President Chris Spear has stepped down from his post. A formal search is underway as regulatory and tariff challenges mount."
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
+                "teaserTitle": "ARCTIC ROUTE",
+                "visual_caption": "The Panama Canal is cutting daily transits to 32 ships due to severe El Nino rainfall deficits. Shippers must secure forward slot allocations to prevent port delays."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
-                "teaserTitle": "RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
-                "visual_caption": "Global container shipping capacity is absorbing a 5% drain from congestion. Terminal bottlenecks are locking up active vessel strings."
+                "headline": "GLOBAL GATEWAYS: ARCTIC ROUTE",
+                "teaserTitle": "TERMINAL COMPENSATION",
+                "visual_caption": "Chinese carriers are launching container services through Arctic waters to bypass traditional routes. Severe ice constraints will limit wider commercial adoption."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
-                "teaserTitle": "BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
-                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia. Refinery strikes have reversed traditional tanker trade flows."
+                "headline": "LEGAL: TERMINAL COMPENSATION",
+                "teaserTitle": "LEADERSHIP TRANSITION",
+                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in arbitration damages from Panama. The legal action follows the government seizure of critical terminal concessions."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
-                "teaserTitle": "STATES SUE OVER 17M TRUCKERS RECORDS",
-                "visual_caption": "BOC Aviation reports the aircraft supply crunch will last to 2030. Manufacturing bottlenecks and jet fuel costs are straining airlines."
+                "headline": "WORKFORCE: LEADERSHIP TRANSITION",
+                "teaserTitle": "CAPACITY DRAIN",
+                "visual_caption": "ATA President Chris Spear has officially stepped down from his leadership role. Fleet executives face mounting regulatory pressures and complex compliance mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES SUE OVER 17M TRUCKERS RECORDS",
+                "headline": "OPERATIONS: CAPACITY DRAIN",
                 "teaserTitle": "",
-                "visual_caption": "22 states have sued the federal administration over CDL record demands. Fleets must monitor compliance rules amidst legal battles."
+                "visual_caption": "Persistent global port congestion is currently tying up 5% of total container shipping capacity. Carriers must optimize vessel turnaround times to prevent shortages."
             },
             {
                 "slide_index": 8,

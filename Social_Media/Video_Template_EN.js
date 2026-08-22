@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL CUTS DAILY SLOTS",
+        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CUTS DAILY SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "headline": "PROCUREMENT: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CANADA TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is cutting daily booking capacity to thirty-two ships due to worsening drought conditions. Shippers must absorb tightening transit slots and rising spot rates."
+                "narration_line": "The Office of the United States Trade Representative is advancing new tariffs on sixty nations under Section three hundred one. Importers must audit supply chains immediately to avoid severe customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
+                "headline": "COMPLIANCE: CANADA TARIFFS",
+                "teaserTitle": "PANAMA CANAL SLOTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison has initiated arbitration proceedings seeking one point five billion dollars from Panama. The legal dispute follows the government seizure of two major port terminals."
+                "narration_line": "Cross-border trade faces mounting friction as United States and Canada talks collapse over metal tariffs. Canadian officials vow to implement retaliatory levies starting September eighth."
             },
             {
                 "slide_index": 3,
-                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR DEPARTS",
-                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
+                "teaserTitle": "ARCTIC ROUTE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "American Trucking Associations President Chris Spear has stepped down from his role. A formal search is underway as regulatory and tariff challenges mount."
+                "narration_line": "The Panama Canal is cutting daily ship transits to thirty-two vessels due to severe El Nino rainfall deficits. Shippers must secure forward slot allocations to prevent costly supply chain bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
-                "teaserTitle": "RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
+                "headline": "GLOBAL GATEWAYS: ARCTIC ROUTE",
+                "teaserTitle": "TERMINAL COMPENSATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global container shipping capacity is absorbing a five percent drain from persistent port congestion. Analysts warn terminal bottlenecks are locking up active vessel strings."
+                "narration_line": "Chinese operators are launching regular container services through Arctic waters to bypass traditional chokepoints. Severe ice constraints will limit wider commercial adoption across global trade."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: RUSSIA REVERSES REFINED FUEL TANKER FLOWS",
-                "teaserTitle": "BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
+                "headline": "LEGAL: TERMINAL COMPENSATION",
+                "teaserTitle": "LEADERSHIP TRANSITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Russia is importing two hundred seventy thousand tonnes of refined fuels from Asia. Ukrainian refinery strikes have reversed traditional tanker trade flows."
+                "narration_line": "CK Hutchison Holdings is seeking one point five billion dollars in arbitration damages from Panama. The legal action follows the seizure of critical terminal concessions."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BOC AVIATION SAYS AIRCRAFT SUPPLY CRUNCH TO LAST",
-                "teaserTitle": "STATES SUE OVER 17M TRUCKERS RECORDS",
+                "headline": "WORKFORCE: LEADERSHIP TRANSITION",
+                "teaserTitle": "CAPACITY DRAIN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "BOC Aviation reports the global aircraft supply crunch will persist through decade end. Manufacturing bottlenecks and surging fuel costs are straining major airlines."
+                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his leadership role. Fleet executives face mounting regulatory pressures and complex federal compliance mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES SUE OVER 17M TRUCKERS RECORDS",
+                "headline": "OPERATIONS: CAPACITY DRAIN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Twenty-two states have sued the federal administration over commercial driver database access. Fleets must monitor state compliance rules amidst ongoing legal battles."
+                "narration_line": "Persistent global port congestion is currently tying up five percent of total container shipping capacity. Carriers must optimize vessel turnaround times to prevent severe equipment shortages."
             },
             {
                 "slide_index": 8,
