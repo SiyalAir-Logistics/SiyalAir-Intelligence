@@ -1,16 +1,16 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAUGHT RESTRICTIONS CUT DAILY CAPACITY",
+        "titleWhite": "PANAMA CANAL DWELL SLOTS CUT CAPACITY BY",
         "titleBlue": "32",
-        "footerSummary": "Panama Canal reduces daily transits to 32 ships as worsening El Nino water deficits intensify maritime bottlenecks and drive ocean rates higher."
+        "footerSummary": "Panama Canal reduces daily booking slots to 32 ships as worsening El Nino water deficits drive ocean freight rates higher."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY REDUCTION",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily transit booking capacity to 32 vessels starting in mid-September to manage ongoing El Nino water deficits. For booking dates effective September 4, the waterway will restrict operations to 9 neopanamax slots and select transit windows, intensifying vessel bottlenecks.",
+                "The Panama Canal Authority is officially cutting daily transit booking capacity to 32 vessels starting in mid-September to manage ongoing El Nino water deficits. For booking dates effective September 4, the waterway will restrict operations to 9 neopanamax slots and select transit windows, intensifying vessel bottlenecks.",
                 "Transpacific ocean carriers and shippers must absorb tightening maritime capacity and re-engineer routing schedules to prevent severe port dwell times. Failing to secure forward slot allocations risks compounding transit delays and spot market rate volatility across global distribution networks."
             ],
             "imageUrl": "",
