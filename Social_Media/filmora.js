@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP TARIFFS COLLAPSE US TRADE TALKS",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
-                "visual_caption": "US-Canada trade talks collapsed after Section 338 deadlines expired. New 50% tariffs triggered immediate cross-border friction."
+                "headline": "TARIFFS: TRUMP TARIFFS HIT CANADA IMPORTS",
+                "teaserTitle": "PANAMA CANAL SLOTS TRAPPED BY EL NINO",
+                "visual_caption": "New 50% tariffs on Canadian imports take effect after trade talks stall. Canada vows dollar for dollar retaliation, spiking cross border supply chain friction."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships in September. Drought constraints are severely tightening Asia-US capacity."
+                "headline": "WATERWAYS: PANAMA CANAL SLOTS TRAPPED BY EL NINO",
+                "teaserTitle": "QUEUE JUMP FEE HITS 4.6M DOLLARS",
+                "visual_caption": "The Panama Canal cuts daily transit capacity to 32 ships starting in September. Neopanamax slot availability drops to 9 daily passages due to water deficits."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over seized port concessions. Global terminal operators face rising sovereign investment risks."
+                "headline": "MARITIME: QUEUE JUMP FEE HITS 4.6M DOLLARS",
+                "teaserTitle": "CATERPILLAR BAGS 392M TARIFF REFUND",
+                "visual_caption": "An empty gas tanker paid $4.6M to jump the canal queue. The record fee highlights extreme vessel backlogs across major global trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
-                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
-                "visual_caption": "The Port of Los Angeles handled 960K TEU in July as shippers front-loaded cargo. Inbound volume surges are testing regional drayage networks."
+                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+                "teaserTitle": "ARCTIC CONTAINER ROUTE FACES BARRIERS",
+                "visual_caption": "Caterpillar secured a $392M customs duty refund during the quarter. The firm still absorbed $400M in net tariff expenses across its manufacturing network."
             },
             {
                 "slide_index": 5,
-                "headline": "TERMINALS: MAERSK SELLS 25% ROTTERDAM STAKE",
-                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
-                "visual_caption": "Maersk sold a 25% stake in its Rotterdam terminal to Hapag-Lloyd. The deal strengthens infrastructure integration for the Gemini network."
+                "headline": "LOGISTICS: ARCTIC CONTAINER ROUTE FACES BARRIERS",
+                "teaserTitle": "PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
+                "visual_caption": "A Chinese shipping line launched a regular container service via the Arctic route. Severe navigational obstacles and ice requirements limit wider industry adoption."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "visual_caption": "Refinery strikes forced Russia to import 270K tons of fuel from Asia. This disruption inverted traditional tanker routes globally."
+                "headline": "CAPACITY: PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
+                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
+                "visual_caption": "Global port congestion is currently absorbing 5% of total fleet TEU capacity. Terminal bottlenecks tie up vital vessel assets and restrict shipping productivity."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "teaserTitle": "",
-                "visual_caption": "New Jersey ports ordered 96 electric terminal trucks to cut emissions. Fleets are balancing heavy upfront capital costs against green mandates."
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery reach 6 times over across major US cities. The automated fulfillment expansion gives customers faster shipping options."
             },
             {
                 "slide_index": 8,

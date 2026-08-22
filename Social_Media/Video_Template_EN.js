@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP TARIFFS COLLAPSE US TRADE TALKS",
+        "hookTitle": "TRUMP TARIFFS HIT CANADA IMPORTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP TARIFFS COLLAPSE US TRADE TALKS",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
+                "headline": "TARIFFS: TRUMP TARIFFS HIT CANADA IMPORTS",
+                "teaserTitle": "PANAMA CANAL SLOTS TRAPPED BY EL NINO",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States and Canada trade talks collapsed after deadlines expired. Fifty percent tariffs took effect immediately, disrupting North American supply chains."
+                "narration_line": "Fifty percent tariffs on Canadian imports take effect after trade talks stall. Canada vows retaliatory duties, sparking severe North American supply chain friction."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SHIPPING SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+                "headline": "WATERWAYS: PANAMA CANAL SLOTS TRAPPED BY EL NINO",
+                "teaserTitle": "QUEUE JUMP FEE HITS 4.6M DOLLARS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal is cutting daily transit capacity to thirty-two ships starting in mid-September. Worsening rainfall deficits are forcing carriers to face severe slot constraints."
+                "narration_line": "The Panama Canal cuts daily transit capacity to thirty two ships starting in September. Neopanamax slot availability drops to nine daily passages due to water deficits."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN DAMAGES",
-                "teaserTitle": "PORT OF LOS ANGELES HITS 960K TEU",
+                "headline": "MARITIME: QUEUE JUMP FEE HITS 4.6M DOLLARS",
+                "teaserTitle": "CATERPILLAR BAGS 392M TARIFF REFUND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CK Hutchison Holdings initiated international arbitration seeking one point five billion dollars from Panama. The legal action follows the government seizure of two major port terminals."
+                "narration_line": "An empty gas tanker paid four point six million dollars to jump the canal queue. The record fee highlights extreme vessel backlogs across major global trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: PORT OF LOS ANGELES HITS 960K TEU",
-                "teaserTitle": "MAERSK SELLS 25% ROTTERDAM STAKE",
+                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+                "teaserTitle": "ARCTIC CONTAINER ROUTE FACES BARRIERS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles processed nine hundred sixty thousand units in July as shippers front-loaded inventory. Importers rushed cargo arrivals to outpace anticipated autumn tariff adjustments."
+                "narration_line": "Caterpillar secured a three hundred ninety two million dollar customs duty refund. The firm still incurred four hundred million dollars in net tariff expenses during the quarter."
             },
             {
                 "slide_index": 5,
-                "headline": "TERMINALS: MAERSK SELLS 25% ROTTERDAM STAKE",
-                "teaserTitle": "RUSSIAN FUEL CRISIS REVERSES TANKERS",
+                "headline": "LOGISTICS: ARCTIC CONTAINER ROUTE FACES BARRIERS",
+                "teaserTitle": "PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Maersk agreed to sell a twenty-five percent stake in its Rotterdam terminal to Hapag-Lloyd. The transaction aligns terminal operations for the upcoming Gemini Cooperation rollout."
+                "narration_line": "A Chinese shipping line launched a regular container service via the Arctic route. Severe navigational obstacles and ice requirements continue to limit wider industry adoption."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: RUSSIAN FUEL CRISIS REVERSES TANKERS",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "CAPACITY: PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
+                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ukrainian refinery strikes forced Russia to import two hundred seventy thousand tons of refined fuels from Asia. This operational disruption reversed traditional global tanker trade flows."
+                "narration_line": "Global port congestion is currently absorbing five percent of total fleet TEU capacity. Terminal bottlenecks tie up vital vessel assets and restrict shipping productivity."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New Jersey port operators ordered ninety-six electric terminal trucks from Orange EV. The capital investment accelerates regional environmental compliance across major freight hubs."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery reach sixfold across major US cities. The automated fulfillment expansion gives customers faster shipping options."
             },
             {
                 "slide_index": 8,
