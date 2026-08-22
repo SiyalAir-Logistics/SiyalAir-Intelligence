@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three hundred and one tariffs across sixty nations. Importers must audit supply chain compliance to avoid heavy duty liabilities."
+                "narration_line": "The Panama Canal is cutting daily booking capacity to thirty-two ships in September due to severe drought. Shippers face surging spot rates and constrained vessel allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollars. Shippers must factor extreme priority tolls into their logistics budgets."
+                "narration_line": "CK Hutchison initiated arbitration seeking one point five billion dollars from Panama. The legal action follows controversial terminal concession revocations."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CK Hutchison is seeking one point five billion dollars in arbitration against Panama over seized terminals. Global investors face growing sovereign risk across foreign port assets."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July. Shippers front-loaded container volumes to bypass seasonal bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEU in July during heavy front-loading. Supply chains must prepare for landside congestion at major marine terminals."
+                "narration_line": "Amazon is expanding Prime Air drone delivery to Atlanta, Chicago, and Cleveland. This sixfold geographic growth accelerates urban aerial fulfillment."
             },
             {
                 "slide_index": 5,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
-                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon is scaling its Prime Air drone delivery network across three major metropolitan markets. This rapid aerial expansion sets a new speed benchmark for last-mile fulfillment."
+                "narration_line": "United States and Canadian officials are negotiating to avert fifty percent metal tariffs. A three-day delay provides a narrow window for duty exemptions."
             },
             {
                 "slide_index": 6,
-                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
-                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Washington and Ottawa are negotiating to avert steep metal tariffs following a temporary three-day delay. Manufacturers must model landed costs under both duty-relief and tariff scenarios."
+                "narration_line": "Rising diesel costs and tightening trucking capacity are driving freight toward rail networks. Shippers are reallocating long-haul volumes to control budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Surging diesel prices and trucking capacity constraints are driving freight back toward rail intermodal networks. Shippers are shifting long-haul volumes to protect transportation budgets."
+                "narration_line": "American Trucking Associations President Chris Spear has stepped down from his post. Fleets await new leadership amid shifting regulatory policies."
             },
             {
                 "slide_index": 8,

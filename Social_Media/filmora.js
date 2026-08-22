@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
-                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 nations. Importers must audit supply chain compliance to avoid heavy duty liabilities."
+                "headline": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
+                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships in September due to severe drought. Shippers face surging spot rates and constrained vessel allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
-                "visual_caption": "An empty tanker bypassed the Panama Canal queue after paying a record $4.6M fee. Shippers must factor extreme priority tolls into logistics budgets."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "visual_caption": "CK Hutchison initiated arbitration seeking $1.5B from Panama. The legal action follows controversial terminal concession revocations."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
-                "visual_caption": "CK Hutchison is seeking $1.5B in arbitration against Panama over seized terminals. Global investors face growing sovereign risk across foreign port assets."
+                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "visual_caption": "The Port of Los Angeles handled 960K TEU in July. Shippers front-loaded container volumes to bypass seasonal bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
-                "visual_caption": "The Port of Los Angeles handled 960K TEU in July during heavy front-loading. Supply chains must prepare for landside congestion at major marine terminals."
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "visual_caption": "Amazon is expanding Prime Air drone delivery to Atlanta, Chicago, and Cleveland. This 6x geographic growth accelerates urban aerial fulfillment."
             },
             {
                 "slide_index": 5,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
-                "teaserTitle": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
-                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across 3 major metropolitan markets. This rapid aerial expansion sets a new speed benchmark for last-mile fulfillment."
+                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "visual_caption": "US and Canadian officials are negotiating to avert 50% metal tariffs. A 3-day delay provides a narrow window for duty exemptions."
             },
             {
                 "slide_index": 6,
-                "headline": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
-                "teaserTitle": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
-                "visual_caption": "Washington and Ottawa are negotiating to avert steep metal tariffs following a temporary 3-day delay. Manufacturers must model landed costs under both duty scenarios."
+                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+                "visual_caption": "Rising diesel costs and tightening trucking capacity are driving freight toward rail networks. Shippers are reallocating long-haul volumes to control budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
+                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
                 "teaserTitle": "",
-                "visual_caption": "Surging diesel prices and trucking capacity constraints are driving freight back toward rail intermodal networks. Shippers are shifting long-haul volumes to protect budgets."
+                "visual_caption": "American Trucking Associations President Chris Spear has stepped down from his post. Fleets await new leadership amid shifting regulatory policies."
             },
             {
                 "slide_index": 8,

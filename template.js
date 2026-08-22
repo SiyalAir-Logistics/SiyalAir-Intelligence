@@ -1,47 +1,32 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners, forcing shippers to audit supply chains amid rising compliance costs."
+        "titleWhite": "PANAMA CANAL CUTS DAILY",
+        "titleBlue": "CAPACITY",
+        "footerSummary": "Panama Canal reduces daily transits to 32 ships from September, driving spot rate surges and severe capacity bottlenecks across ocean networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+            "heading": "WATERWAYS: PANAMA CANAL CUTS DAILY CAPACITY",
             "paragraphs": [
-                "The Office of the United States Trade Representative is formally implementing tariffs on 60 nations under Section 301 of the Trade Act of 1974. This regulatory action targets global trading partners as related Section 122 duties simultaneously expire.",
-                "Importers must immediately audit tier-one and tier-two vendor compliance to mitigate unexpected duty liabilities and avoid costly port delays. Navigating these overlapping trade restrictions requires proactive customs data integration and strict legal verification."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid-September due to severe rainfall deficits and ongoing El Ni\u00f1o weather pressures. For booking dates beginning September 4, the restriction limits transits to 9 Neopanamax and 23 Panamax slots, directly tightening maritime supply chains.",
+                "Shippers facing constrained vessel allocations must evaluate alternative routing or absorb escalating spot freight rates as Asia to US West Coast capacity tightens rapidly. Securing advance transit bookings is vital to mitigate unpredictable transit delays and protect landed inventory schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WATERWAYS: PANAMA CANAL QUEUE-JUMP FEE SURPASSES 4M USD",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN PANAMA ARBITRATION",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker recently secured priority passage through the Panama Canal by paying an unprecedented 4.6M USD queue-jump fee. This record-shattering transaction highlights severe capacity bottlenecks as regional security conflicts continue to disrupt traditional maritime trade lanes.",
-                "Cargo owners must factor extreme priority tolls into landed cost models when moving urgent shipments through congested global choke points. Financial exposure will escalate for supply chains that fail to secure advance vessel allocation slots."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD IN DAMAGES FROM PANAMA",
-            "paragraphs": [
-                "CK Hutchison Holdings has initiated international arbitration proceedings against the government of Panama, seeking 1.5B USD in compensation. The legal dispute stems from controversial Supreme Court rulings that revoked vital terminal operating concessions at Balboa and Cristobal.",
-                "Global port operators and infrastructure investors face heightened sovereign risk exposure across international maritime hubs. Long-term concession agreements require rigorous legal re-evaluation to protect foreign capital investments."
+                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama, seeking 1.5B USD in financial compensation. The legal dispute follows controversial Supreme Court rulings that revoked vital terminal operating concessions at Balboa and Cristobal ports.",
+                "Global terminal operators and maritime infrastructure investors face heightened sovereign risk exposure across strategic international hubs. Long-term concession agreements require rigorous legal re-evaluation to safeguard foreign capital investments against sudden regulatory expropriations."
             ],
             "imageUrl": "",
             "nextUpTease": "PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
@@ -52,37 +37,37 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
+            "id": 3,
             "heading": "PORTS: PORT OF LOS ANGELES POSTS SECOND-BEST JULY VOLUMES",
             "paragraphs": [
-                "The Port of Los Angeles handled 960K TEU in July, marking the second-highest volume in the gateway's historical records. Importers aggressively front-loaded container shipments to outpace anticipated seasonal logistics bottlenecks and impending regulatory tariffs.",
-                "Supply chain managers must prepare for sustained landside congestion and tight drayage availability at major West Coast marine terminals. Proactive terminal appointment scheduling remains essential to prevent costly demurrage penalties."
+                "The Port of Los Angeles handled 960K TEU in July, marking the second-highest monthly volume in the gateway's historical operational records. Importers aggressively front-loaded container shipments to outpace anticipated seasonal logistics bottlenecks and potential tariff revisions.",
+                "Supply chain managers must prepare for sustained landside congestion and tight drayage availability at major West Coast marine terminals. Proactive terminal appointment scheduling remains essential to prevent costly demurrage penalties and detention charges."
             ],
             "imageUrl": "",
             "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
-            "paragraphs": [
-                "Amazon is rapidly scaling its Prime Air drone delivery footprint by launching commercial operations across metro Atlanta, Chicago, and Cleveland. This sixfold geographic expansion introduces high-speed aerial fulfillment capabilities to densely populated urban and suburban neighborhoods.",
-                "Last-mile logistics operators are forced to re-evaluate traditional courier routing models as autonomous aerial delivery gains commercial traction. Integrating drone hubs into existing distribution networks sets a new benchmark for delivery velocity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
-            "tags": [
-                "Source: https://www.retaildive.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
+            "id": 4,
+            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY TO 3 CITIES",
+            "paragraphs": [
+                "Amazon is rapidly scaling its Prime Air drone delivery footprint by launching commercial operations across metro Atlanta, Chicago, and Cleveland. This sixfold geographic expansion introduces high-speed aerial fulfillment capabilities to densely populated urban and suburban neighborhoods.",
+                "Last-mile logistics operators are forced to re-evaluate traditional courier routing models as autonomous aerial delivery gains commercial traction. Integrating drone hubs into existing distribution networks sets a new benchmark for delivery velocity and cost efficiency."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
             "heading": "TARIFFS: US AND CANADA RACE TO FINALIZE TARIFF REDUCTIONS",
             "paragraphs": [
                 "Trade officials from the United States and Canada are locked in intensive negotiations to avert upcoming 50% tariffs on cross-border metal shipments. A temporary 3-day proclamation delay has provided a narrow window to finalize bilateral duty exemptions.",
@@ -92,21 +77,36 @@ const dailyData = {
             "nextUpTease": "INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
+            "id": 6,
             "heading": "RAIL: INTERMODAL VOLUMES SURGE AS DIESEL PRICES CLIMB",
             "paragraphs": [
                 "Rising diesel fuel prices, tightening over-the-road trucking capacity, and persistent driver shortages are driving a major shift of freight toward rail intermodal networks. Shippers are aggressively reallocating long-haul volumes to Class I railroads to control transportation expenditures.",
                 "Logistics directors must secure contractual rail allocations early to insulate operations against spot market trucking rate volatility. Balancing intermodal service reliability with transit time requirements is critical for maintaining delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "",
+            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
             "tags": [
                 "Source: https://www.theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS ORGANIZATION",
+            "paragraphs": [
+                "American Trucking Associations President and CEO Chris Spear has stepped down from his leadership role, prompting an immediate executive search for his successor. This high-profile departure comes as the motor carrier industry navigates complex regulatory shifts, driver database disputes, and federal tax compliance audits.",
+                "Motor carriers must monitor legislative developments closely as industry lobbying groups transition leadership during a period of intense regulatory scrutiny. Fleet operators should review compliance strategies to address evolving federal oversight across state lines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
