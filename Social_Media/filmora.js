@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP TARIFFS HIT CANADA IMPORTS",
-                "teaserTitle": "PANAMA CANAL SLOTS TRAPPED BY EL NINO",
-                "visual_caption": "New 50% tariffs on Canadian imports take effect after trade talks stall. Canada vows dollar for dollar retaliation, spiking cross border supply chain friction."
+                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "visual_caption": "Asia to USWC spot freight rates are surging rapidly ahead of Panama Canal slot reductions. Daily booking capacity will drop to 32 ships in mid-September due to El Nino droughts."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL SLOTS TRAPPED BY EL NINO",
-                "teaserTitle": "QUEUE JUMP FEE HITS 4.6M DOLLARS",
-                "visual_caption": "The Panama Canal cuts daily transit capacity to 32 ships starting in September. Neopanamax slot availability drops to 9 daily passages due to water deficits."
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "teaserTitle": "US TO HALVE TARIFFS ON CANADA METALS",
+                "visual_caption": "CK Hutchison initiated international arbitration seeking $1.5B in damages from Panama. The legal dispute follows the unconstitutional seizure of Balboa and Cristobal port terminals."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: QUEUE JUMP FEE HITS 4.6M DOLLARS",
-                "teaserTitle": "CATERPILLAR BAGS 392M TARIFF REFUND",
-                "visual_caption": "An empty gas tanker paid $4.6M to jump the canal queue. The record fee highlights extreme vessel backlogs across major global trade lanes."
+                "headline": "TRADE POLICY: US TO HALVE TARIFFS ON CANADA METALS",
+                "teaserTitle": "PORT OF LA POSTS SECOND BEST JULY",
+                "visual_caption": "The US is discussing a policy shift to halve 50% tariffs on Canadian steel and aluminum. The move aims to relieve severe cost inflation across North American manufacturing corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE FACES BARRIERS",
-                "visual_caption": "Caterpillar secured a $392M customs duty refund during the quarter. The firm still absorbed $400M in net tariff expenses across its manufacturing network."
+                "headline": "PORT OPERATIONS: PORT OF LA POSTS SECOND BEST JULY",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+                "visual_caption": "The Port of LA handled 960K TEUs in July, marking its second-busiest July on record. Shippers continue front-loading container imports ahead of peak season logistics demands."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: ARCTIC CONTAINER ROUTE FACES BARRIERS",
-                "teaserTitle": "PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
-                "visual_caption": "A Chinese shipping line launched a regular container service via the Arctic route. Severe navigational obstacles and ice requirements limit wider industry adoption."
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major metro markets. The automated fulfillment expansion provides customers with ultra-fast shipping alternatives."
             },
             {
                 "slide_index": 6,
-                "headline": "CAPACITY: PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
-                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
-                "visual_caption": "Global port congestion is currently absorbing 5% of total fleet TEU capacity. Terminal bottlenecks tie up vital vessel assets and restrict shipping productivity."
+                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "teaserTitle": "TANKERS GOING DARK SPIKES SPILL RISK",
+                "visual_caption": "Pennsylvania enacted a law imposing up to $25K in civil penalties on unlicensed CDL schools. The regulation targets substandard driver training to enhance commercial trucking safety."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "GLOBAL GATEWAYS: TANKERS GOING DARK SPIKES SPILL RISK",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery reach 6 times over across major US cities. The automated fulfillment expansion gives customers faster shipping options."
+                "visual_caption": "Maritime authorities recorded 1.5K dark vessel crossings in the Persian Gulf since March. Disabling tracking systems to evade sanctions has triggered multiple spreading oil slicks."
             },
             {
                 "slide_index": 8,

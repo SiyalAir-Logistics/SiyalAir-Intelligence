@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP TARIFFS HIT CANADA IMPORTS",
+        "hookTitle": "ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL RESTRICTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP TARIFFS HIT CANADA IMPORTS",
-                "teaserTitle": "PANAMA CANAL SLOTS TRAPPED BY EL NINO",
+                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA CANAL",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Fifty percent tariffs on Canadian imports take effect after trade talks stall. Canada vows retaliatory duties, sparking severe North American supply chain friction."
+                "narration_line": "Asia to West Coast freight rates are surging rapidly as carriers preempt upcoming Panama Canal capacity cuts. Worsening El Nino rainfall deficits will reduce daily vessel transits starting in mid September."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA CANAL SLOTS TRAPPED BY EL NINO",
-                "teaserTitle": "QUEUE JUMP FEE HITS 4.6M DOLLARS",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS 1.5B USD FROM PANAMA",
+                "teaserTitle": "US TO HALVE TARIFFS ON CANADA METALS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal cuts daily transit capacity to thirty two ships starting in September. Neopanamax slot availability drops to nine daily passages due to water deficits."
+                "narration_line": "CK Hutchison has initiated international arbitration against Panama seeking one point five billion dollars in damages. The legal action follows the unconstitutional seizure of two major container terminal concessions."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: QUEUE JUMP FEE HITS 4.6M DOLLARS",
-                "teaserTitle": "CATERPILLAR BAGS 392M TARIFF REFUND",
+                "headline": "TRADE POLICY: US TO HALVE TARIFFS ON CANADA METALS",
+                "teaserTitle": "PORT OF LA POSTS SECOND BEST JULY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "An empty gas tanker paid four point six million dollars to jump the canal queue. The record fee highlights extreme vessel backlogs across major global trade lanes."
+                "narration_line": "Washington is discussing a policy shift to halve existing tariffs on Canadian steel and aluminum imports. The proposed adjustment aims to relieve severe cost pressures across integrated North American manufacturing supply chains."
             },
             {
                 "slide_index": 4,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE FACES BARRIERS",
+                "headline": "PORT OPERATIONS: PORT OF LA POSTS SECOND BEST JULY",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Caterpillar secured a three hundred ninety two million dollar customs duty refund. The firm still incurred four hundred million dollars in net tariff expenses during the quarter."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand equivalent units in July during a strong import wave. Shippers continue front loading inventories ahead of peak retail season and potential trade disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: ARCTIC CONTAINER ROUTE FACES BARRIERS",
-                "teaserTitle": "PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE DELIVERY",
+                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A Chinese shipping line launched a regular container service via the Arctic route. Severe navigational obstacles and ice requirements continue to limit wider industry adoption."
+                "narration_line": "Amazon is scaling its Prime Air drone delivery operations sixfold across major metropolitan markets this year. The expansion gives regional consumers access to ultra fast automated aerial fulfillment options."
             },
             {
                 "slide_index": 6,
-                "headline": "CAPACITY: PORT CONGESTION ABSORBS 5 PERCENT CAPACITY",
-                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "teaserTitle": "TANKERS GOING DARK SPIKES SPILL RISK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global port congestion is currently absorbing five percent of total fleet TEU capacity. Terminal bottlenecks tie up vital vessel assets and restrict shipping productivity."
+                "narration_line": "Pennsylvania regulators can now impose civil penalties of up to twenty five thousand dollars on unlicensed training schools. The new state law aims to eliminate substandard commercial driver education programs."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "GLOBAL GATEWAYS: TANKERS GOING DARK SPIKES SPILL RISK",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery reach sixfold across major US cities. The automated fulfillment expansion gives customers faster shipping options."
+                "narration_line": "Maritime monitors report over one thousand five hundred dark vessel crossings in the Persian Gulf since March. Disabling tracking systems to evade sanctions has triggered multiple spreading oil slicks and navigation hazards."
             },
             {
                 "slide_index": 8,
