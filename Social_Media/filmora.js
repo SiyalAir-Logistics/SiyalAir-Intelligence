@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANADA TARIFF STALL",
-                "visual_caption": "The USTR is advancing Section 301 tariffs on 60 nations as older duties expire. Importers must urgently audit supplier origins to prevent severe border compliance liabilities."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
+                "visual_caption": "The Panama Canal Authority is cutting daily booking capacity to 32 ships. Shippers must re-engineer routing schedules to prevent severe delays."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: CANADA TARIFF STALL",
-                "teaserTitle": "PANAMA SLOT CUTS",
-                "visual_caption": "Cross-border supply chains face severe friction as trade talks between the US and Canada stall. Regional manufacturers must establish alternate sourcing hubs to mitigate cost spikes."
+                "headline": "LEGAL: PANAMA TERMINALS COMPENSATION",
+                "teaserTitle": "INDUSTRY LEADERSHIP TRANSITION",
+                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in arbitration over seized Panama ports. Global operators face heightened sovereign risk exposure."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA SLOT CUTS",
-                "teaserTitle": "PORT DAMAGE CLAIM",
-                "visual_caption": "The Panama Canal Authority is slashing daily vessel transit capacity to 32 ships in September. Shippers must re-engineer routing schedules to bypass severe port congestion."
+                "headline": "WORKFORCE: INDUSTRY LEADERSHIP TRANSITION",
+                "teaserTitle": "CONTAINER CAPACITY DRAIN",
+                "visual_caption": "American Trucking Associations President Chris Spear has stepped down from his post. Fleet operators must monitor national advocacy shifts closely."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: PORT DAMAGE CLAIM",
-                "teaserTitle": "LEADERSHIP TRANSITION",
-                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in damages from Panama through arbitration. Global port operators face heightened sovereign risk and asset liabilities."
+                "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
+                "teaserTitle": "ARCTIC TRADE ROUTE EXPANSION",
+                "visual_caption": "Global shipping networks are absorbing a 5% capacity drain from port congestion. Carriers must optimize schedule reliability to counter shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "WORKFORCE: LEADERSHIP TRANSITION",
-                "teaserTitle": "CAPACITY DRAIN",
-                "visual_caption": "American Trucking Associations President Chris Spear has officially stepped down from his post. Motor carriers must monitor regulatory advocacy shifts closely during this transition."
+                "headline": "GLOBAL GATEWAYS: ARCTIC TRADE ROUTE EXPANSION",
+                "teaserTitle": "TANKER TRADE FLOW REVERSAL",
+                "visual_caption": "Sea Legend is launching container services between China and Europe via the Arctic. Shippers must weigh transit savings against severe ice hazards."
             },
             {
                 "slide_index": 6,
-                "headline": "OPERATIONS: CAPACITY DRAIN",
-                "teaserTitle": "DRONE EXPANSION",
-                "visual_caption": "Persistent port congestion is currently absorbing 5% of global container shipping capacity. Carriers must optimize vessel turnaround times to counter equipment leakage."
+                "headline": "ENERGY: TANKER TRADE FLOW REVERSAL",
+                "teaserTitle": "DRONE DELIVERY NETWORK SCALING",
+                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia this month. This reversal strains regional tanker availability and spot charter rates."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DRONE EXPANSION",
+                "headline": "LAST MILE: DRONE DELIVERY NETWORK SCALING",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major urban centers this year. Retail logistics leaders must integrate autonomous models into fulfillment networks."
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major hubs. Retail logistics leaders must evaluate autonomous delivery models."
             },
             {
                 "slide_index": 8,

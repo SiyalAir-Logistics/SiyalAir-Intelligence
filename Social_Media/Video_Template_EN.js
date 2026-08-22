@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL DRAUGHT RESTRICTIONS CUT DAILY CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANADA TARIFF STALL",
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs on sixty nations as older duties expire. Importers must urgently audit supplier origins to prevent severe border compliance liabilities."
+                "narration_line": "The Panama Canal Authority is cutting daily booking capacity to thirty two ships starting in September. Shippers must re-engineer routes to avoid severe bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: CANADA TARIFF STALL",
-                "teaserTitle": "PANAMA SLOT CUTS",
+                "headline": "LEGAL: PANAMA TERMINALS COMPENSATION",
+                "teaserTitle": "INDUSTRY LEADERSHIP TRANSITION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Cross-border supply chains face severe friction as trade talks between the United States and Canada stall. Regional manufacturers must establish alternate sourcing hubs to mitigate potential cost spikes."
+                "narration_line": "CK Hutchison Holdings is seeking one point five billion dollars in arbitration over seized Panama ports. Global operators face heightened sovereign risks."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA SLOT CUTS",
-                "teaserTitle": "PORT DAMAGE CLAIM",
+                "headline": "WORKFORCE: INDUSTRY LEADERSHIP TRANSITION",
+                "teaserTitle": "CONTAINER CAPACITY DRAIN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Panama Canal Authority is slashing daily vessel transit capacity to thirty-two ships starting in September. Shippers must re-engineer routing schedules to bypass severe port congestion."
+                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his post. Fleet operators must navigate upcoming regulatory changes."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: PORT DAMAGE CLAIM",
-                "teaserTitle": "LEADERSHIP TRANSITION",
+                "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
+                "teaserTitle": "ARCTIC TRADE ROUTE EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CK Hutchison Holdings has launched international arbitration seeking one point five billion dollars from Panama. Global port operators face heightened sovereign risk and asset liabilities."
+                "narration_line": "Global shipping networks are absorbing a five percent capacity drain from port congestion. Carriers must optimize turnaround times to prevent delays."
             },
             {
                 "slide_index": 5,
-                "headline": "WORKFORCE: LEADERSHIP TRANSITION",
-                "teaserTitle": "CAPACITY DRAIN",
+                "headline": "GLOBAL GATEWAYS: ARCTIC TRADE ROUTE EXPANSION",
+                "teaserTitle": "TANKER TRADE FLOW REVERSAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his leadership post. Motor carriers must monitor regulatory advocacy shifts closely during this transition."
+                "narration_line": "Sea Legend is launching regular container services between China and Europe via the Arctic. Shippers must weigh distance savings against severe ice hazards."
             },
             {
                 "slide_index": 6,
-                "headline": "OPERATIONS: CAPACITY DRAIN",
-                "teaserTitle": "DRONE EXPANSION",
+                "headline": "ENERGY: TANKER TRADE FLOW REVERSAL",
+                "teaserTitle": "DRONE DELIVERY NETWORK SCALING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Persistent port congestion is currently absorbing five percent of global container shipping capacity. Carriers must optimize vessel turnaround times to counter equipment leakage."
+                "narration_line": "Russia is importing two hundred seventy thousand tonnes of refined fuels from Asia. This reversal strains regional tanker availability and bunker costs."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DRONE EXPANSION",
+                "headline": "LAST MILE: DRONE DELIVERY NETWORK SCALING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major urban centers this year. Retail logistics leaders must integrate autonomous models into fulfillment networks."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major cities. Retail logistics leaders must adapt to rapid fulfillment models."
             },
             {
                 "slide_index": 8,
