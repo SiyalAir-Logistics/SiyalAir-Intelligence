@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS SLOTS",
-                "teaserTitle": "RUSSIAN FUEL TANKER FLOWS REVERSE",
-                "visual_caption": "The Panama Canal cuts daily ship transits to 32 starting in September due to worsening drought. A record $4.6M queue-jump fee highlights severe vessel prioritization pressures."
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS SLOTS",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN PANAMA",
+                "visual_caption": "The Panama Canal is reducing daily ship transits to 32 starting in September. This capacity cut drives up queue-jump fees to $4.6M."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
-                "teaserTitle": "PORT CAPACITY ABSORBS 5% TEU LOSS",
-                "visual_caption": "Russia is importing nearly 270K tonnes of refined fuels from Asia this month. Repeated refinery strikes have created an extraordinary tanker trade flow reversal."
+                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B IN PANAMA",
+                "teaserTitle": "PORTS ABSORB 5% GLOBAL CAPACITY",
+                "visual_caption": "CK Hutchison launched arbitration proceedings against Panama over seized terminals. The dispute follows a Supreme Court ruling canceling its operating concession."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: CAPACITY ABSORBS 5% TEU LOSS",
-                "teaserTitle": "HD HYUNDAI TARGETS US SHIPYARD BUY",
-                "visual_caption": "Persistent global port congestion is tying up 5% of total worldwide container carrying capacity. This operational friction severely reduces effective vessel deployment."
+                "headline": "PORTS: ABSORB 5% GLOBAL CAPACITY",
+                "teaserTitle": "RUSSIAN FUEL FLOWS REVERSE",
+                "visual_caption": "Global port congestion is currently tying up 5% of worldwide container capacity. Carriers absorb heavy cost penalties as trapped assets restrict service frequency."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: HD HYUNDAI US SHIPYARD BUY",
+                "headline": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
                 "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
-                "visual_caption": "South Korea's HD Hyundai Group is in advanced negotiations to acquire a U.S. shipyard. The strategic move expands its domestic manufacturing footprint."
+                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia. Ukrainian refinery strikes forced an extraordinary reversal in tanker trade."
             },
             {
                 "slide_index": 5,
                 "headline": "TRUCKING: ATA CHIEF SPEAR DEPARTS",
                 "teaserTitle": "DSV CEO ISSUES AIR AND SEA RIOT ACT",
-                "visual_caption": "American Trucking Associations CEO Chris Spear has stepped down from his post. An executive search is underway amid regulatory and court challenges."
+                "visual_caption": "American Trucking Associations President Chris Spear has officially stepped down. His departure triggers a leadership search amid regulatory and court challenges."
             },
             {
                 "slide_index": 6,
                 "headline": "AIR CARGO: DSV CEO ISSUES RIOT ACT",
-                "teaserTitle": "INDONESIAN TARIFFS STRIKE IMPORTERS",
-                "visual_caption": "DSV CEO Jens Lund issued a strict internal warning regarding network integration. Management demands fast consolidation following the DB Schenker acquisition."
+                "teaserTitle": "ASIAN TARIFF SHOCKS HIT IMPORTERS",
+                "visual_caption": "DSV CEO Jens Lund demanded strict consolidation following the Schenker acquisition. Management insists on eliminating duplicate overhead across air and sea networks."
             },
             {
                 "slide_index": 7,
-                "headline": "RATES: ASIAN TARIFFS STRIKE IMPORTERS",
+                "headline": "RATES: ASIAN TARIFF SHOCKS HIT IMPORTERS",
                 "teaserTitle": "",
-                "visual_caption": "Asian importers face severe freight rate shocks as carriers apply new surcharges on China routes. These unexpected pricing spikes continue to compress operating margins."
+                "visual_caption": "Asian importers face severe rate shocks as carriers apply heavy surcharges on China routes. Unpredicted pricing spikes erode profit margins for manufacturing supply chains."
             },
             {
                 "slide_index": 8,

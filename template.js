@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CUTS DAILY",
+        "titleWhite": "PANAMA CANAL TRIMS DAILY",
         "titleBlue": "SLOTS",
-        "footerSummary": "Panama Canal cuts daily transits to 32 ships from September, driving up queue-jump fees to $4.6M and squeezing transpacific intermodal capacity."
+        "footerSummary": "Panama Canal trims daily Neopanamax transits to 32 ships from September, driving up queue-jump fees to $4.6M and squeezing transpacific intermodal capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAYS: PANAMA CANAL CUTS SLOTS",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS SLOTS",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ship transits starting in mid-September as worsening rainfall deficits force defensive measures against El Ni\u00f1o. This operational contraction follows a record $4.6M queue-jump fee paid by an empty LPG tanker, highlighting extreme cargo prioritization pressures.",
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ship transits starting in September as worsening rainfall deficits force defensive measures against El Ni\u00f1o. This operational contraction follows a record $4.6M queue-jump fee paid by an empty LPG tanker, highlighting extreme cargo prioritization pressures.",
                 "Reduced daily capacity will drive up auction bidding costs and push more transpacific tonnage toward alternative intermodal land-bridge corridors. Importers moving containerized freight must reevaluate routing strategies to prevent severe delivery schedule slippage."
             ],
             "imageUrl": "",
-            "nextUpTease": "RUSSIAN FUEL TANKER FLOWS REVERSE",
+            "nextUpTease": "CK HUTCHISON SEEKS $1.5B IN PANAMA",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
+            "heading": "LEGAL: CK HUTCHISON SEEKS $1.5B IN PANAMA",
             "paragraphs": [
-                "Russia is actively importing nearly 270K tonnes of refined fuels from Asia this month, creating an extraordinary reversal in global tanker trade routes. Repeated Ukrainian drone and missile strikes on domestic refineries have left the major energy producer short on supply.",
-                "This shift in maritime product trade draws significant clean product tanker capacity away from traditional routes and inflates spot freight expenses. Energy logistics planners must adjust vessel chartering schedules to navigate heightened geopolitical routing risks."
+                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama following the seizure of its Balboa and Cristobal port terminals. The dispute stems from a Supreme Court ruling declaring the operator's long-term concession unconstitutional.",
+                "The multi-billion-dollar legal battle introduces severe contractual uncertainty for international terminal operators and global maritime logistics networks. Supply chain planners utilizing Central American transshipment hubs must monitor regulatory shifts to safeguard regional port investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT CAPACITY ABSORBS 5% TEU LOSS",
+            "nextUpTease": "PORTS ABSORB 5% GLOBAL CAPACITY",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: CAPACITY ABSORBS 5% TEU LOSS",
+            "heading": "PORTS: ABSORB 5% GLOBAL CAPACITY",
             "paragraphs": [
                 "Persistent global supply chain bottlenecks and port congestion are currently tying up 5% of the total worldwide container carrying capacity, according to Sea-Intelligence data. This friction severely reduces effective vessel deployment compared to the stable baseline recorded between 2011 and 2019.",
                 "Carriers and beneficial cargo owners absorb continuous cost penalties as trapped vessel assets restrict service frequency and equipment availability. Logistics teams must factor prolonged port dwell times into baseline inventory buffer calculations."
             ],
             "imageUrl": "",
-            "nextUpTease": "HD HYUNDAI TARGETS US SHIPYARD BUY",
+            "nextUpTease": "RUSSIAN FUEL FLOWS REVERSE",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-21T15:51:00Z",
@@ -53,16 +53,16 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MARITIME: HD HYUNDAI US SHIPYARD BUY",
+            "heading": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
             "paragraphs": [
-                "South Korea\u2019s HD Hyundai Group is currently in advanced negotiations to acquire a major United States shipyard to expand its domestic manufacturing footprint. The strategic move aligns with the broader push to leverage opportunities under the American shipbuilding initiative.",
-                "Securing domestic shipyard assets allows foreign maritime giants to capture lucrative Jones Act and defense contracts while bypassing import tariffs. Domestic logistics providers should monitor how this cross-border consolidation impacts commercial vessel construction timelines."
+                "Russia is actively importing nearly 270K tonnes of refined fuels from Asia this month, creating an extraordinary reversal in global tanker trade routes. Repeated Ukrainian drone and missile strikes on domestic refineries have left the major energy producer short on supply.",
+                "This shift in maritime product trade draws significant clean product tanker capacity away from traditional routes and inflates spot freight expenses. Energy logistics planners must adjust vessel chartering schedules to navigate heightened geopolitical routing risks."
             ],
             "imageUrl": "",
             "nextUpTease": "ATA CHIEF SPEAR DEPARTS FEDERATION",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T14:29:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -89,7 +89,7 @@ const dailyData = {
                 "Shippers utilizing combined forwarding services should anticipate tighter capacity controls and accelerated facility rationalization across key global gateways. Procurement managers must verify that contract service level agreements remain intact during the transition."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDONESIAN TARIFFS STRIKE IMPORTERS",
+            "nextUpTease": "ASIAN TARIFF SHOCKS HIT IMPORTERS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-21T00:00:00Z",
@@ -98,7 +98,7 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "RATES: ASIAN TARIFFS STRIKE IMPORTERS",
+            "heading": "RATES: ASIAN TARIFF SHOCKS HIT IMPORTERS",
             "paragraphs": [
                 "Indian and regional Asian importers are facing severe freight rate shocks as carriers aggressively apply surcharges on routes originating from China. Surging spot costs and restricted vessel loops compound financial pressures on manufacturing supply chains.",
                 "Unpredicted transport pricing spikes erode profit margins for companies relying on just-in-time raw material inputs from core Asian hubs. Supply chain leaders must establish dynamic freight budgeting models to absorb sudden rate volatility."
