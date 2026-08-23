@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+        "hookTitle": "CANADA TARIFFS EFFECT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANADA TARIFF DEADLINE",
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "ATA CHIEF SPEAR DEPARTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under Section three hundred and one. Importers must audit tier two suppliers immediately to avoid steep customs penalties."
+                "narration_line": "President Trump's 50% tariff on Canadian imports takes effect as trade talks collapse. Ottawa vows to match the levies dollar for dollar across targeted sectors."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: CANADA DEADLINE",
-                "teaserTitle": "PANAMA CAPACITY CUTS",
+                "headline": "LEADERSHIP: ATA CHIEF DEPARTS",
+                "teaserTitle": "PANAMA NEOPANAMAX CUTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "U.S. and Canadian trade talks have collapsed with fifty percent import duties taking effect. Procurement teams are rushing localized sourcing strategies to protect margins."
+                "narration_line": "American Trucking Associations CEO Chris Spear steps down from his post. The federation has launched an immediate executive search for his successor."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA CAPACITY CUTS",
-                "teaserTitle": "BULKER SINKS OFF INDIA",
+                "headline": "MARITIME: PANAMA NEOPANAMAX CUTS",
+                "teaserTitle": "PORT OF LA JULY VOLUMES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Panama Canal is slashing daily ship bookings to thirty two vessels starting in September. Priority queue jump fees have skyrocketed past four point six million dollars."
+                "narration_line": "The Panama Canal slashes daily booking capacity to 32 ships starting in September. Neopanamax vessel transits will be strictly capped at 9 per day."
             },
             {
                 "slide_index": 4,
-                "headline": "SAFETY: BULKER SINKS OFF INDIA",
-                "teaserTitle": "REAL ESTATE STABILIZATION",
+                "headline": "PORTS: PORT OF LA JULY VOLUMES",
+                "teaserTitle": "DESERTED BULKER SINKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A bulk carrier has sunk in the Bay of Bengal leaving twenty two crew members missing. Coast guard rescue operations continue as charterers tighten vessel vetting standards."
+                "narration_line": "The Port of Los Angeles handled 960K TEUs in July, securing its second-best July on record. Strong front-loaded import demand drove gateway throughput."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: STABILIZATION",
-                "teaserTitle": "CHINESE ARCTIC ROUTE",
+                "headline": "SAFETY: DESERTED BULKER SINKS",
+                "teaserTitle": "AMAZON EXPANDS DRONE NETWORK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Industrial real estate vacancy rates fell to seven point three percent in the second quarter. Logistics operators face tighter facility availability across primary distribution hubs."
+                "narration_line": "The bulk carrier Ocean Winner has sunk in the Bay of Bengal. A joint international search operation is currently underway for twenty-two missing crew members."
             },
             {
                 "slide_index": 6,
-                "headline": "GLOBAL: CHINESE ARCTIC ROUTE",
-                "teaserTitle": "PORT CAPACITY ABSORPTION",
+                "headline": "LOGISTICS: AMAZON EXPANDS DRONE NETWORK",
+                "teaserTitle": "RUSSIAN FUEL TRADE REVERSAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A Chinese carrier is launching regular container services through the Arctic trade corridor. Navigational obstacles remain high despite twenty day transit times to Europe."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery reach sixfold this year. New automated fulfillment services will launch across Atlanta, Chicago, and Cleveland."
             },
             {
                 "slide_index": 7,
-                "headline": "ANALYTICS: CAPACITY ABSORPTION",
+                "headline": "TANKERS: RUSSIAN FUEL TRADE REVERSAL",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global port delays are currently absorbing five percent of active industry TEU capacity. Shippers must secure rolling equipment contracts early to prevent container shortages."
+                "narration_line": "Russia is importing nearly 270K tonnes of refined fuels from Asia this month. Refinery strikes have reversed traditional tanker trade flows across the region."
             },
             {
                 "slide_index": 8,
