@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CUTS DAILY",
-        "titleBlue": "CAPACITY",
-        "footerSummary": "Panama Canal capacity cuts and surging freight rates threaten shipper margins, forcing logistics planners to secure forward allocations."
+        "titleWhite": "USTR MOVES AHEAD WITH",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 nations while Canada trade talks stall, threatening cross-border logistics margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+            "heading": "TARIFFS: USTR MOVES AHEAD WITH TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority is slashing daily booking capacity to 32 ships starting in mid-September as worsening rainfall deficits force the waterway into deeper defensive measures against El Ni\u00f1o. For booking dates from September 4, the canal will offer 9 neopanamax slots, intensifying vessel congestion and driving spot freight rates sharply upward across major transpacific routes.",
-                "Ocean carriers and logistics planners must immediately re-evaluate vessel deployment schedules and secure forward-booking allocations to prevent costly port delays and cargo rollings. Navigating these waterway restrictions requires proactive risk mitigation and alternative routing strategies to protect operational continuity."
+                "The Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This decisive regulatory action coincides with expiring Section 122 duties, significantly expanding compliance and financial exposure for international importers.",
+                "Supply chain executives must immediately re-examine sourcing origins and tariff classifications to mitigate escalating landed costs across affected trade lanes. Navigating these broad trade restrictions requires proactive customs strategy to protect operating margins against sudden duty spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ASIA-USWC RATES SURGE",
+            "nextUpTease": "PANAMA CANAL CAPACITY CUTS",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHT: ASIA-USWC RATES SURGE",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
             "paragraphs": [
-                "Asia to US West Coast ocean freight rates are surging at an accelerated pace as shippers scramble to move inventory ahead of impending Panama Canal capacity reductions. Shippers facing potential vessel bottlenecks are aggressively bidding for space, driving up spot market costs across primary transpacific shipping lanes.",
-                "Logistics directors must recalibrate transport budgets to absorb rapidly climbing ocean freight expenditures while exploring alternative gateway options to maintain distribution schedules. Failure to secure contracted allocations early risks severe margin compression during the peak shipping window."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 vessels beginning in mid-September as severe rainfall deficits intensify waterway restrictions. Neopanamax transit slots are being curtailed from September 4, triggering immediate vessel bunching and upward pressure on transpacific spot rates.",
+                "Logistics planners must secure forward space allocations early to bypass mounting port congestion and avoid costly cargo rolling schedules. Managing these persistent waterway constraints requires agile routing alternatives to maintain reliable supply chain cadence."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES VOLUME",
+            "nextUpTease": "PORT OF CHARLESTON EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com/asia-uswc-rates-surge-as-shippers-look-to-beat-panama-canal-restrictions/",
+                "Source: https://splash247.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: PORT OF LOS ANGELES VOLUME",
+            "heading": "PORTS: ROADONE EXPANDS OPERATIONS",
             "paragraphs": [
-                "The Port of Los Angeles reported its second-busiest July on record, handling 960K TEUs as cargo owners frontload shipments to mitigate global trade volatility and upcoming supply chain bottlenecks. Terminal operators are actively scaling up landside handling infrastructure and extending gate hours to process heavy import inflows without locking up yard capacity.",
-                "Marine terminal congestion and chassis availability will test drayage efficiency as container volumes increase across West Coast gateways ahead of peak consumer demand. Shippers must optimize pickup schedules to prevent escalating detention and demurrage fees from eroding regional distribution margins."
+                "RoadOne Interlogistics has expanded its Port of Charleston footprint through a strategic asset acquisition designed to capture rising intermodal demand. This terminal enhancement strengthens regional drayage capabilities as shippers increasingly shift freight from congested highways to rail and port networks.",
+                "Supply chain directors leveraging Southeast gateway infrastructure can utilize these expanded drayage assets to accelerate container turn times and reduce detention exposure. Optimizing local terminal connectivity remains critical for sustaining high-volume distribution performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON PANAMA ARBITRATION",
+            "nextUpTease": "ATA CHIEF SPEAR DEPARTS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
+            "heading": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
             "paragraphs": [
-                "Hong Kong-based CK Hutchison Holdings has initiated international arbitration proceedings against the government of Panama seeking $1.5B in damages following the unconstitutional seizure of the Balboa and Cristobal port terminals. This legal dispute highlights mounting geopolitical risks for terminal operators managing critical maritime gateway concessions in Latin America.",
-                "Global terminal investors and maritime operators face heightened sovereign risk evaluations as regional governments increasingly challenge long-term port operating contracts. Supply chain executives must monitor asset security and concession stability across international trade corridors to safeguard capital investments."
+                "American Trucking Associations President and CEO Chris Spear has stepped down from his post, initiating a formal leadership transition as the federation navigates complex regulatory headwinds. The departure comes at a pivotal juncture marked by intense federal oversight, mounting broker liability litigation, and cross-border trade friction.",
+                "Motor carriers and logistics executives must closely monitor upcoming policy shifts and advocacy stances as new leadership takes the helm at the nation's premier trucking lobby. Sustaining carrier compliance and freight advocacy remains vital for navigating ongoing regulatory pressures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUMP CANADA TARIFFS STALL",
+            "nextUpTease": "CANADA TARIFFS STALL",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TARIFFS: TRUMP CANADA TARIFFS STALL",
+            "heading": "TRADE: CANADA TARIFFS STALL",
             "paragraphs": [
-                "President Donald Trump's proposed 50% tariff on many Canadian imports faces an uncertain future as bilateral trade talks stall over Section 338 levy exemptions and enforcement timelines. Importers relying on northern trade corridors are caught in limbo while Canadian officials vow immediate dollar-for-dollar retaliatory duties on cross-border freight.",
-                "Supply chain leaders managing cross-border logistics must maintain contingency procurement models to insulate operating margins from sudden duty spikes. Navigating this regulatory friction requires agile vendor diversification and close monitoring of unfolding trade negotiations."
+                "Bilateral trade negotiations between the United States and Canada have stalled, leaving steep 50% tariffs on steel and aluminum imports under active discussion and imminent enforcement risk. Importers moving goods across northern supply corridors face severe cost exposure if retaliatory levies are formally enacted.",
+                "Procurement teams must establish agile contingency sourcing models to absorb potential duty increases without disrupting manufacturing production lines. Proactive tariff risk management is essential for preserving profitability across North American trade networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT TERMINAL ELECTRIC TRUCKS",
+            "nextUpTease": "NEW JERSEY ELECTRIC TRUCKS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-21T00:00:00Z",
@@ -83,10 +83,10 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: PORT TERMINAL ELECTRIC TRUCKS",
+            "heading": "EQUIPMENT: NEW JERSEY ELECTRIC TRUCKS",
             "paragraphs": [
-                "A major New Jersey seaport operator has placed an order for a fleet of 96 electric terminal trucks from Orange EV to accelerate decarbonization across marine yards and container handling facilities. This substantial fleet upgrade aligns with tightening regional emissions standards while modernizing drayage yard assets.",
-                "Terminal operators and fleet managers investing in heavy-duty electric commercial vehicles must construct robust charging infrastructure to maintain round-the-clock yard productivity. Balancing sustainability capital expenditures with immediate throughput efficiency remains a central operational challenge."
+                "A major New Jersey seaport operator has ordered a fleet of 96 electric terminal tractors from Orange EV to accelerate yard decarbonization and comply with evolving environmental mandates. This heavy-duty investment modernizes drayage handling equipment while targeting zero-emission yard operations.",
+                "Terminal operators and fleet managers scaling electric commercial assets must deploy robust charging infrastructure to ensure round-the-clock facility productivity. Balancing sustainability capital outlays with continuous throughput efficiency remains a top operational priority."
             ],
             "imageUrl": "",
             "nextUpTease": "CONTAINER CAPACITY DRAIN",
@@ -100,8 +100,8 @@ const dailyData = {
             "id": 7,
             "heading": "OPERATIONS: CONTAINER CAPACITY DRAIN",
             "paragraphs": [
-                "Global container shipping networks are currently absorbing a 5% capacity drain as persistent port congestion, security diversions around the Middle East, and terminal bottlenecks tie up active vessel strings. Analysts indicate that operational friction is locking up substantial fleet TEU capacity well outside historical baseline norms.",
-                "Ocean carriers and freight forwarders must optimize schedule reliability and vessel turnaround times to counter equipment leakage across primary trade lanes. Effective terminal coordination remains essential for preventing cascading service failures and global equipment shortages."
+                "Global container shipping networks continue to absorb a 5% capacity drain driven by persistent port congestion, security diversions around the Middle East, and terminal bottlenecks. These cumulative disruptions tie up active vessel strings and restrict effective TEU availability across primary international trade lanes.",
+                "Ocean carriers and freight forwarders must optimize schedule reliability and vessel turnaround times to counter equipment leakage and maintain service integrity. Effective network visibility is critical for preventing cascading service failures and global equipment shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "",

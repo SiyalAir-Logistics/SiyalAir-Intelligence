@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
+        "hookTitle": "USTR MOVES AHEAD WITH TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "ASIA-USWC RATES SURGE",
+                "headline": "TARIFFS: USTR MOVES AHEAD WITH TARIFFS",
+                "teaserTitle": "PANAMA CANAL CAPACITY CUTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal is slashing daily bookings to thirty-two ships starting in September due to severe rainfall deficits. Carriers must secure forward allocations to avoid costly delays."
+                "narration_line": "The Office of the United States Trade Representative is advancing new tariffs across sixty trading partners. Importers must review customs strategies to mitigate rising landed costs."
             },
             {
                 "slide_index": 2,
-                "headline": "FREIGHT: ASIA-USWC RATES SURGE",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "ROADONE EXPANDS OPERATIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Asia to West Coast ocean freight rates are surging as shippers race to beat Panama Canal restrictions. Logistics teams must absorb rising spot costs."
+                "narration_line": "The Panama Canal is cutting daily vessel bookings to thirty-two ships starting in mid-September. Shippers must secure forward allocations to avoid severe delays."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES VOLUME",
-                "teaserTitle": "CK HUTCHISON PANAMA ARBITRATION",
+                "headline": "PORTS: ROADONE EXPANDS OPERATIONS",
+                "teaserTitle": "ATA CHIEF SPEAR DEPARTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July as shippers frontload cargo. Terminals are expanding landside handling capacity."
+                "narration_line": "RoadOne Interlogistics has expanded its Port of Charleston footprint through a strategic acquisition. This move captures rising intermodal demand across the southeast gateway."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
-                "teaserTitle": "TRUMP CANADA TARIFFS STALL",
+                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
+                "teaserTitle": "CANADA TARIFFS STALL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CK Hutchison has launched international arbitration seeking one point five billion dollars over seized Panama ports. Investors face rising sovereign risk."
+                "narration_line": "American Trucking Associations President Chris Spear has departed from his leadership role. A formal search is underway amid ongoing regulatory and legal challenges."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: TRUMP CANADA TARIFFS STALL",
-                "teaserTitle": "PORT TERMINAL ELECTRIC TRUCKS",
+                "headline": "TRADE: CANADA TARIFFS STALL",
+                "teaserTitle": "NEW JERSEY ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Proposed fifty percent tariffs on Canadian imports remain stalled amid ongoing trade negotiations. Importers must maintain flexible procurement strategies."
+                "narration_line": "US and Canada trade talks have stalled regarding proposed fifty percent metal tariffs. Supply chains face severe cost exposure if retaliatory duties take effect."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: PORT TERMINAL ELECTRIC TRUCKS",
+                "headline": "EQUIPMENT: NEW JERSEY ELECTRIC TRUCKS",
                 "teaserTitle": "CONTAINER CAPACITY DRAIN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A New Jersey seaport ordered ninety-six electric terminal trucks to advance yard decarbonization. Fleets must build out heavy-duty charging infrastructure."
+                "narration_line": "A New Jersey seaport operator ordered ninety-six electric terminal trucks to cut emissions. Facilities must build robust charging networks to maintain high yard productivity."
             },
             {
                 "slide_index": 7,
                 "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global shipping networks are absorbing a five percent capacity drain from port congestion and diversions. Operators must optimize fleet turnaround times."
+                "narration_line": "Global container shipping networks are currently absorbing a five percent capacity drain. Persistent port congestion and security diversions continue to tie up active vessel strings."
             },
             {
                 "slide_index": 8,

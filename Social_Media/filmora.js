@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "ASIA-USWC RATES SURGE",
-                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships starting in September due to rainfall deficits. Shippers must secure forward allocations to protect transit schedules."
+                "headline": "TARIFFS: USTR MOVES AHEAD WITH TARIFFS",
+                "teaserTitle": "PANAMA CANAL CAPACITY CUTS",
+                "visual_caption": "USTR moves forward with Section 301 tariffs across 60 trading partners. Importers must audit supply chains to mitigate rising landed costs."
             },
             {
                 "slide_index": 2,
-                "headline": "FREIGHT: ASIA-USWC RATES SURGE",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
-                "visual_caption": "Asia-USWC freight rates are surging as shippers race to bypass canal restrictions. Logistics teams must recalibrate transport budgets against rising spot costs."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "ROADONE EXPANDS OPERATIONS",
+                "visual_caption": "Panama Canal cuts daily bookings to 32 ships starting mid-September. Shippers must secure forward allocations to prevent severe delays."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: PORT OF LOS ANGELES VOLUME",
-                "teaserTitle": "CK HUTCHISON PANAMA ARBITRATION",
-                "visual_caption": "The Port of Los Angeles handled 960K TEUs in July as cargo owners frontload shipments. Terminals are expanding landside handling to manage heavy import inflows."
+                "headline": "PORTS: ROADONE EXPANDS OPERATIONS",
+                "teaserTitle": "ATA CHIEF SPEAR DEPARTS",
+                "visual_caption": "RoadOne expands Port of Charleston footprint via strategic acquisition. The move captures surging intermodal demand across the Southeast gateway."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
-                "teaserTitle": "TRUMP CANADA TARIFFS STALL",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages over seized Panama port terminal concessions. Global terminal operators face heightened sovereign risk evaluations."
+                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
+                "teaserTitle": "CANADA TARIFFS STALL",
+                "visual_caption": "ATA President Chris Spear departs amid ongoing regulatory headwinds. A formal executive search is underway for the trucking federation."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: TRUMP CANADA TARIFFS STALL",
-                "teaserTitle": "PORT TERMINAL ELECTRIC TRUCKS",
-                "visual_caption": "Proposed 50% tariffs on Canadian imports remain stalled amid ongoing trade talks. Importers must maintain contingency procurement models to insulate margins."
+                "headline": "TRADE: CANADA TARIFFS STALL",
+                "teaserTitle": "NEW JERSEY ELECTRIC TRUCKS",
+                "visual_caption": "US-Canada trade talks stall over proposed 50% metal tariffs. Importers face severe cost exposure if retaliatory duties are enacted."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: PORT TERMINAL ELECTRIC TRUCKS",
+                "headline": "EQUIPMENT: NEW JERSEY ELECTRIC TRUCKS",
                 "teaserTitle": "CONTAINER CAPACITY DRAIN",
-                "visual_caption": "A New Jersey seaport ordered 96 electric terminal trucks to advance yard decarbonization. Fleets are investing in robust charging infrastructure for round-the-clock use."
+                "visual_caption": "New Jersey seaport operator orders 96 electric terminal trucks. Facilities must construct robust charging infrastructure for round-the-clock operations."
             },
             {
                 "slide_index": 7,
                 "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
                 "teaserTitle": "",
-                "visual_caption": "Global container shipping networks absorb a 5% capacity drain from ongoing port bottlenecks. Carriers must optimize schedule reliability and vessel turnarounds."
+                "visual_caption": "Global shipping networks absorb a 5% capacity drain from bottlenecks. Persistent congestion and security diversions tie up active vessel strings."
             },
             {
                 "slide_index": 8,
