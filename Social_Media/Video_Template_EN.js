@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "TRUMP TARIFFS ON CANADA IMPORTS EFFECT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL CAPACITY",
+                "headline": "TARIFFS: CANADA IMPORTS EFFECT",
+                "teaserTitle": "PANAMA CANAL SLOTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs across sixty nations. Importers must audit multi-tier supply chains to avoid severe border detentions."
+                "narration_line": "President Trump's fifty percent tariffs on Canadian imports officially take effect after bilateral talks stall. Shippers must absorb surging duties or restructure supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY",
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
                 "teaserTitle": "PANAMA PORTS ARBITRATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal is cutting daily vessel booking slots down to thirty-two ships starting in September. Neopanamax carriers face rising spot rates and extended transit schedules."
+                "narration_line": "The Panama Canal trims daily booking slots due to persistent rainfall deficits. Carriers face mounting restrictions that push spot rates higher."
             },
             {
                 "slide_index": 3,
                 "headline": "LEGAL: PANAMA PORTS ARBITRATION",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE",
+                "teaserTitle": "TRUCKING ATA LEADERSHIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CK Hutchison has launched international arbitration seeking one point five billion dollars from Panama. The legal action follows the seizure of vital terminal operating concessions."
+                "narration_line": "CK Hutchison seeks one point five billion dollars in damages from Panama over seized terminals. The litigation highlights sovereign risk for port operators."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY",
+                "headline": "TRUCKING: ATA CHIEF DEPARTS",
                 "teaserTitle": "TANKER TRADE REVERSAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial real estate vacancy rates fell to seven point three percent in the second quarter. Slower construction completions are successfully restoring market balance across major hubs."
+                "narration_line": "American Trucking Associations CEO Chris Spear departs amid regulatory challenges. Fleet operators must track upcoming policy shifts."
             },
             {
                 "slide_index": 5,
                 "headline": "ENERGY: TANKER TRADE REVERSAL",
-                "teaserTitle": "EXPRESS DELIVERY EXPANSION",
+                "teaserTitle": "PORT VOLUMES LOS ANGELES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Russian refinery strikes have forced the nation to import two hundred seventy thousand tons of fuel from Asia. This unusual trade reversal strains global product tanker availability."
+                "narration_line": "Russian refineries force imports of refined fuels from Asia following strikes. The trade reversal strains regional tanker availability."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: EXPRESS DELIVERY EXPANSION",
-                "teaserTitle": "INTERMODAL VOLUME REBOUND",
+                "headline": "PORTS: LOS ANGELES VOLUME",
+                "teaserTitle": "INTERMODAL TRAFFIC REBOUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Home Depot has rolled out nationwide express delivery fulfilling orders within three hours. Over two thousand stores are operating as localized hubs for contractor fulfillment."
+                "narration_line": "The Port of Los Angeles reports its second busiest July with nine hundred sixty thousand containers. Importers rush peak season inventory."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: VOLUME REBOUND",
+                "headline": "INTERMODAL: TRAFFIC REBOUND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Surging diesel costs and tight truck capacity are driving a major rebound in rail intermodal traffic. Shippers are shifting long-haul freight to lower total logistics expenditures."
+                "narration_line": "Tight truckload capacity drives a strong return of domestic intermodal traffic to railroads. Shippers shift long haul freight off highways."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

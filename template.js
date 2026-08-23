@@ -1,38 +1,38 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances Section 301 tariffs across 60 trading nations as industrial supply chains confront soaring compliance costs and border bottlenecks."
+        "titleWhite": "TRUMP TARIFFS ON CANADA IMPORTS",
+        "titleBlue": "EFFECT",
+        "footerSummary": "Trump tariffs on Canada imports take effect as bilateral talks stall, threatening cross-border supply chains and driving cost volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TARIFFS: CANADA IMPORTS EFFECT",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially advanced the implementation of forced labor-based tariffs targeting 60 trading partners under Section 301. Importers must navigate aggressive customs enforcement protocols and immediately audit multi-tier vendor networks to prevent severe shipment detentions at ports of entry.",
-                "The broad regulatory enforcement strategy introduces massive landed cost volatility and steep compliance overhead for global enterprise supply chains. Procurement leaders must re-verify supplier origins and establish robust traceability matrices to mitigate potential border rejections and customs penalties."
+                "President Trump's 50% tariffs on numerous Canadian imports officially took effect after negotiations between the two nations stalled. The sudden implementation creates immediate trade frictions and border compliance challenges for cross-border logistics operators.",
+                "Shippers must absorb surging duty costs or restructure supply chains to mitigate tariff exposure. Canadian officials have vowed to match the levies dollar for dollar, escalating trade tensions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CAPACITY",
+            "nextUpTease": "PANAMA CANAL SLOTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com/news/trump-50-percent-tariff-canada-imports-effect/724899/",
                 "Published: 2026-08-22T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY",
+            "heading": "MARITIME: PANAMA CANAL SLOTS",
             "paragraphs": [
-                "The Panama Canal Authority is cutting daily vessel booking capacity down to 32 slots starting in mid-September due to worsening rainfall deficits driven by El Ni\u00f1o conditions. Neopanamax transits face immediate restrictions, forcing carriers to re-evaluate route economics and absorb extended transit schedules.",
-                "The capacity squeeze significantly increases booking premiums and drives spot rates higher across major trade lanes connecting Asia to the US West Coast. Shippers must secure forward allocations early and model alternative intermodal routing options to protect quarterly logistics budgets."
+                "The Panama Canal Authority is trimming daily Neopanamax vessel booking slots starting in September due to persistent rainfall deficits. Carriers face mounting transit restrictions that amplify schedule unreliability and push spot rates higher.",
+                "Logistics managers must re-evaluate route economics and secure forward allocations early to maintain delivery timelines. Shippers are increasingly diverting cargo to intermodal alternatives to bypass congestion."
             ],
             "imageUrl": "",
             "nextUpTease": "PANAMA PORTS ARBITRATION",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T10:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-21T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -40,29 +40,29 @@ const dailyData = {
             "id": 3,
             "heading": "LEGAL: PANAMA PORTS ARBITRATION",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison has initiated formal international arbitration proceedings seeking $1.5B in damages from the government of Panama. The legal dispute stems from the abrupt seizure and cancellation of crucial terminal operating concessions at Balboa and Cristobal.",
-                "The high-stakes litigation underscores rising sovereign risk for global port operators and international terminal investments. Marine terminal users must monitor potential operational disruptions and concession restructuring across key Latin American gateways."
+                "CK Hutchison has initiated formal international arbitration proceedings seeking $1.5B in damages from Panama's government. The legal dispute stems from the seizure of terminal concessions at Balboa and Cristobal following a supreme court ruling.",
+                "The high-stakes litigation highlights rising sovereign risk for international port investments and terminal operators. Marine terminal users must monitor potential operational restructuring across Latin American gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE",
+            "nextUpTease": "TRUCKING ATA LEADERSHIP",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T12:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY",
+            "heading": "TRUCKING: ATA CHIEF DEPARTS",
             "paragraphs": [
-                "Colliers reports that the industrial real estate market has regained structural balance, with the second quarter vacancy rate falling 7 basis points sequentially to settle at 7.3%. New construction completions have slowed down, allowing absorption rates to catch up with historical demand across primary logistics hubs.",
-                "The stabilization of warehouse availability provides occupiers with predictable leasing conditions but limits landlord concession flexibility in core distribution markets. Supply chain directors must optimize facility footprints and negotiate long-term renewals ahead of anticipated rental rate adjustments."
+                "American Trucking Associations President and CEO Chris Spear has officially departed the federation, prompting a leadership search. The transition occurs as motor carriers grapple with regulatory pressures, court verdicts, and rising operating costs.",
+                "The leadership change introduces strategic uncertainty for the domestic trucking lobby during a critical period of regulatory enforcement. Fleet operators must closely track upcoming policy shifts impacting labor and equipment compliance."
             ],
             "imageUrl": "",
             "nextUpTease": "TANKER TRADE REVERSAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-22T09:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -70,38 +70,38 @@ const dailyData = {
             "id": 5,
             "heading": "ENERGY: TANKER TRADE REVERSAL",
             "paragraphs": [
-                "Persistent Ukrainian military strikes on domestic oil refineries have created an extraordinary trade reversal, forcing Russia to import nearly 270K tons of refined fuels from Asia this month. The sudden shift in product flows strains regional tanker availability and alters traditional bunkering routes.",
-                "The disruption in domestic Russian refining capacity escalates operational overhead and maritime insurance premiums for product tankers operating in contested corridors. Energy logistics planners must factor in volatile fuel pricing and extended voyage turnarounds."
+                "Persistent military strikes on domestic oil refineries have forced Russia to import 270K tons of refined fuels from Asia this month. The extraordinary trade reversal strains regional tanker availability and disrupts traditional bunkering routes.",
+                "The shift in product flows escalates marine insurance premiums and operational overhead for tankers operating in contested corridors. Energy logistics planners must factor in volatile fuel pricing and extended voyage turnarounds."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPRESS DELIVERY EXPANSION",
+            "nextUpTease": "PORT VOLUMES LOS ANGELES",
             "tags": [
-                "Source: https://splash247.com/russian-fuel-sorter-tanker-trade-flows/",
-                "Published: 2026-08-21T11:30:00Z",
+                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
+                "Published: 2026-08-21T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS: EXPRESS DELIVERY EXPANSION",
+            "heading": "PORTS: LOS ANGELES VOLUME",
             "paragraphs": [
-                "Home Depot has officially rolled out nationwide express delivery services guaranteeing fulfillment within 3 hours or less across thousands of SKUs. The omni-channel retail strategy leverages more than 2,000 U.S. brick-and-mortar stores as decentralized fulfillment hubs to capture high-margin contractor demand.",
-                "The rapid scaling of hyperlocal delivery networks requires sophisticated inventory visibility tools and tight coordination with third-party local courier fleets. Supply chain executives must balance expedited fulfillment expenses against the necessity of retaining Pro customer loyalty."
+                "The Port of Los Angeles recorded its second-busiest July in history, handling 960K TEU despite lingering global supply chain risks. Importers rushed peak season inventory through the gateway ahead of potential tariff and regulatory bottlenecks.",
+                "The strong throughput volume signals robust early holiday stocking by major retailers but risks straining local drayage and rail capacity. Terminal operators are scaling staffing levels to prevent dwell time spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL VOLUME REBOUND",
+            "nextUpTease": "INTERMODAL TRAFFIC REBOUND",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/home-depot-express-delivery-3-hours/724595/",
-                "Published: 2026-08-21T14:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: VOLUME REBOUND",
+            "heading": "INTERMODAL: TRAFFIC REBOUND",
             "paragraphs": [
-                "Surging diesel costs, driver shortages, and tightening truckload capacity are successfully driving a strong return of domestic intermodal traffic to historic norms across North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in spiraling transportation expenditures.",
-                "The modal shift offers measurable cost savings for enterprise shippers willing to optimize rail ramp scheduling and manage extended transit windows. Logistics managers must re-evaluate freight allocation strategies to capitalize on rail capacity before peak season congestion intensifies."
+                "Tightening truckload capacity and soaring over-the-road rates are successfully driving a strong return of domestic intermodal traffic to North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in spiraling transportation budgets.",
+                "The modal shift offers measurable cost savings for enterprise shippers willing to optimize rail ramp scheduling and manage transit windows. Logistics managers must re-evaluate freight allocation strategies to capture rail capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "",

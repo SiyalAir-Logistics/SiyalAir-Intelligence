@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL CAPACITY",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading nations. Importers must audit multi-tier supply chains to prevent severe border customs detentions."
+                "headline": "TARIFFS: CANADA IMPORTS EFFECT",
+                "teaserTitle": "PANAMA CANAL SLOTS",
+                "visual_caption": "President Trump's 50% tariffs on Canadian imports officially take effect after bilateral talks stall. Shippers must absorb surging duties or restructure supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY",
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
                 "teaserTitle": "PANAMA PORTS ARBITRATION",
-                "visual_caption": "The Panama Canal is cutting daily booking capacity down to 32 ships from mid-September. Neopanamax carriers face rising spot rates and tighter transit slots."
+                "visual_caption": "The Panama Canal trims daily booking slots due to persistent rainfall deficits. Carriers face mounting restrictions that push spot rates higher."
             },
             {
                 "slide_index": 3,
                 "headline": "LEGAL: PANAMA PORTS ARBITRATION",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE",
-                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama through international arbitration. The dispute follows the government seizure of vital terminal concessions."
+                "teaserTitle": "TRUCKING ATA LEADERSHIP",
+                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over seized terminals. The litigation highlights sovereign risk for port operators."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY",
+                "headline": "TRUCKING: ATA CHIEF DEPARTS",
                 "teaserTitle": "TANKER TRADE REVERSAL",
-                "visual_caption": "Industrial real estate vacancy fell 7 basis points to 7.3% in Q2. Slower construction completions are successfully stabilizing market balance across key distribution hubs."
+                "visual_caption": "American Trucking Associations CEO Chris Spear departs amid regulatory challenges. Fleet operators must track upcoming policy shifts."
             },
             {
                 "slide_index": 5,
                 "headline": "ENERGY: TANKER TRADE REVERSAL",
-                "teaserTitle": "EXPRESS DELIVERY EXPANSION",
-                "visual_caption": "Refinery strikes have forced Russia to import 270K tons of refined fuel from Asia. This extraordinary trade reversal significantly impacts global product tanker flows."
+                "teaserTitle": "PORT VOLUMES LOS ANGELES",
+                "visual_caption": "Russian refineries force imports of refined fuels from Asia following strikes. The trade reversal strains regional tanker availability."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: EXPRESS DELIVERY EXPANSION",
-                "teaserTitle": "INTERMODAL VOLUME REBOUND",
-                "visual_caption": "Home Depot launched nationwide express delivery fulfilling orders in 3 hours or less. Over 2K retail stores now serve as active localized fulfillment hubs."
+                "headline": "PORTS: LOS ANGELES VOLUME",
+                "teaserTitle": "INTERMODAL TRAFFIC REBOUND",
+                "visual_caption": "The Port of Los Angeles reports its second busiest July with 960K TEU. Importers rush peak season inventory."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: VOLUME REBOUND",
+                "headline": "INTERMODAL: TRAFFIC REBOUND",
                 "teaserTitle": "",
-                "visual_caption": "Rising diesel costs and tight truck capacity are driving a strong rebound in rail intermodal traffic. Shippers are shifting long-haul freight to lower total transport expenses."
+                "visual_caption": "Tight truckload capacity drives a strong return of domestic intermodal traffic to railroads. Shippers shift long haul freight off highways."
             },
             {
                 "slide_index": 8,
