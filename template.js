@@ -1,53 +1,53 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP TARIFFS ON CANADA IMPORTS",
-        "titleBlue": "EFFECT",
-        "footerSummary": "Trump tariffs on Canada imports take effect as bilateral talks stall, threatening cross-border supply chains and driving cost volatility."
+        "titleWhite": "PANAMA CANAL SLOTS",
+        "titleBlue": "REDUCED",
+        "footerSummary": "Panama Canal capacity cuts and surging queue-jump fees force carriers to reroute, driving up freight rates and transit volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: CANADA IMPORTS EFFECT",
+            "heading": "MARITIME: PANAMA CANAL SLOTS",
             "paragraphs": [
-                "President Trump's 50% tariffs on numerous Canadian imports officially took effect after negotiations between the two nations stalled. The sudden implementation creates immediate trade frictions and border compliance challenges for cross-border logistics operators.",
-                "Shippers must absorb surging duty costs or restructure supply chains to mitigate tariff exposure. Canadian officials have vowed to match the levies dollar for dollar, escalating trade tensions."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid-September due to worsening El Ni\u00f1o rainfall deficits. For booking dates from September 4, the waterway will restrict transits to 9 neopanamax slots, forcing carriers to seek alternatives.",
+                "The capacity squeeze has pushed queue-jump fees past $4.6M while compounding schedule unreliability across global trade lanes. Shippers must evaluate route economics early or face severe intermodal congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SLOTS",
+            "nextUpTease": "PANAMA PORTS ARBITRATION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-50-percent-tariff-canada-imports-effect/724899/",
-                "Published: 2026-08-22T08:00:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL SLOTS",
+            "heading": "LEGAL: PANAMA PORTS ARBITRATION",
             "paragraphs": [
-                "The Panama Canal Authority is trimming daily Neopanamax vessel booking slots starting in September due to persistent rainfall deficits. Carriers face mounting transit restrictions that amplify schedule unreliability and push spot rates higher.",
-                "Logistics managers must re-evaluate route economics and secure forward allocations early to maintain delivery timelines. Shippers are increasingly diverting cargo to intermodal alternatives to bypass congestion."
+                "CK Hutchison Holdings has initiated formal international arbitration proceedings seeking $1.5B in damages from the government of Panama. The legal dispute stems from the seizure of terminal concessions at Balboa and Cristobal following a supreme court ruling.",
+                "The high-stakes litigation highlights rising sovereign risk for international port investments and terminal operators. Marine terminal users must monitor potential operational restructuring across Latin American gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA PORTS ARBITRATION",
+            "nextUpTease": "RUSSIAN FUEL TANKER SHIFT",
             "tags": [
                 "Source: https://www.joc.com",
-                "Published: 2026-08-21T09:00:00Z",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: PANAMA PORTS ARBITRATION",
+            "heading": "ENERGY: RUSSIAN TANKER SHIFT",
             "paragraphs": [
-                "CK Hutchison has initiated formal international arbitration proceedings seeking $1.5B in damages from Panama's government. The legal dispute stems from the seizure of terminal concessions at Balboa and Cristobal following a supreme court ruling.",
-                "The high-stakes litigation highlights rising sovereign risk for international port investments and terminal operators. Marine terminal users must monitor potential operational restructuring across Latin American gateways."
+                "Persistent Ukrainian strikes on domestic refineries have forced Russia to import 270K tons of refined fuels from Asia this month. The extraordinary trade reversal strains regional tanker availability and disrupts traditional bunkering routes.",
+                "The shift in product flows escalates marine insurance premiums and operational overhead for tankers operating in contested corridors. Energy logistics planners must factor in volatile fuel pricing and extended voyage turnarounds."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING ATA LEADERSHIP",
+            "nextUpTease": "TRUCKING LEADERSHIP TRANSITION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T10:00:00Z",
+                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -55,44 +55,44 @@ const dailyData = {
             "id": 4,
             "heading": "TRUCKING: ATA CHIEF DEPARTS",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially departed the federation, prompting a leadership search. The transition occurs as motor carriers grapple with regulatory pressures, court verdicts, and rising operating costs.",
+                "American Trucking Associations President and CEO Chris Spear has officially departed the federation, prompting an active leadership search. The transition occurs as motor carriers grapple with regulatory pressures, court verdicts, and rising operating costs.",
                 "The leadership change introduces strategic uncertainty for the domestic trucking lobby during a critical period of regulatory enforcement. Fleet operators must closely track upcoming policy shifts impacting labor and equipment compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER TRADE REVERSAL",
+            "nextUpTease": "CONTAINER CAPACITY ABSORPTION",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T11:00:00Z",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY: TANKER TRADE REVERSAL",
+            "heading": "MARITIME: CAPACITY ABSORPTION",
             "paragraphs": [
-                "Persistent military strikes on domestic oil refineries have forced Russia to import 270K tons of refined fuels from Asia this month. The extraordinary trade reversal strains regional tanker availability and disrupts traditional bunkering routes.",
-                "The shift in product flows escalates marine insurance premiums and operational overhead for tankers operating in contested corridors. Energy logistics planners must factor in volatile fuel pricing and extended voyage turnarounds."
+                "Global port delays and ongoing disruptions are currently absorbing 5% of the container shipping industry's total TEU capacity. Analysts at Sea-Intelligence highlight that persistent bottlenecks keep significant vessel assets tied up outside normal operating schedules.",
+                "This capacity immobilization reduces effective fleet availability and supports elevated spot freight rates across major trade corridors. Ocean carriers are deploying additional tonnage to offset lost route velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT VOLUMES LOS ANGELES",
+            "nextUpTease": "USMCA TARIFF DEADLINE",
             "tags": [
-                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
-                "Published: 2026-08-21T12:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORTS: LOS ANGELES VOLUME",
+            "heading": "PROCUREMENT: TARIFF DEADLINES",
             "paragraphs": [
-                "The Port of Los Angeles recorded its second-busiest July in history, handling 960K TEU despite lingering global supply chain risks. Importers rushed peak season inventory through the gateway ahead of potential tariff and regulatory bottlenecks.",
-                "The strong throughput volume signals robust early holiday stocking by major retailers but risks straining local drayage and rail capacity. Terminal operators are scaling staffing levels to prevent dwell time spikes."
+                "President Trump's 50% tariffs on numerous Canadian imports officially took effect after bilateral talks stalled before the weekend deadline. Canada has vowed to match the levies dollar for dollar, escalating trade frictions for cross-border supply chains.",
+                "Shippers must absorb surging duty costs or restructure supply chains to mitigate tariff exposure across northern trade routes. Importers face immediate administrative friction and rising landed product costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL TRAFFIC REBOUND",
+            "nextUpTease": "INTERMODAL FREIGHT REBOUND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T13:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -100,14 +100,14 @@ const dailyData = {
             "id": 7,
             "heading": "INTERMODAL: TRAFFIC REBOUND",
             "paragraphs": [
-                "Tightening truckload capacity and soaring over-the-road rates are successfully driving a strong return of domestic intermodal traffic to North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in spiraling transportation budgets.",
-                "The modal shift offers measurable cost savings for enterprise shippers willing to optimize rail ramp scheduling and manage transit windows. Logistics managers must re-evaluate freight allocation strategies to capture rail capacity."
+                "Tightening truckload capacity and soaring over-the-road rates are driving a strong return of domestic intermodal traffic to North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in spiraling transportation budgets.",
+                "The modal shift offers measurable cost savings for enterprise shippers willing to optimize rail ramp scheduling and manage transit windows. Logistics managers must re-evaluate freight allocation strategies to capture available rail capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
-                "Published: 2026-08-21T15:00:00Z",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
