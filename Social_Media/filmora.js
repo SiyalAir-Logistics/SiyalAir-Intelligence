@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "USTR FORCED LABOR TARIFFS",
-                "visual_caption": "An empty LPG tanker paid $4.6M to bypass the Panama Canal queue. This record priority fee highlights extreme slot scarcity across the waterway."
+                "headline": "ARBITRATION: CK HUTCHISON DEMANDS 1.5B",
+                "teaserTitle": "ATA CHIEF CHRIS SPEAR DEPARTS",
+                "visual_caption": "CK Hutchison is seeking $1.5B in compensation from Panama following port terminal seizures. The legal battle creates major jurisdictional uncertainty across key canal transshipment gateways."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "CANADA TARIFF TALKS STALL",
-                "visual_caption": "The USTR is implementing strict tariffs across 60 trading nations under Section 301. Importers face sudden duty hikes and complex compliance audits."
+                "headline": "TRUCKING: ATA CHIEF CHRIS SPEAR DEPARTS",
+                "teaserTitle": "CBP INTERCEPTS 9.5M CONTRABAND",
+                "visual_caption": "American Trucking Associations head Chris Spear has resigned during a crucial period of regulatory reform. The unexpected departure leaves the national trucking lobby searching for new executive leadership."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: CANADA TARIFF TALKS STALL",
-                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "U.S. and Canadian trade talks collapsed as teams failed to resolve proposed 50% import duties. Officials vow retaliatory tariffs starting Sept. 8."
+                "headline": "CUSTOMS: CBP INTERCEPTS 9.5M CONTRABAND",
+                "teaserTitle": "22 STATES SUE OVER CDL DATA",
+                "visual_caption": "Customs officers seized $9.5M of concealed narcotics inside commercial detergent cargo. Border authorities are expanding secondary inspections across southwest commercial border crossings."
             },
             {
                 "slide_index": 4,
-                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "PANAMA CANAL CAPACITY CUTS",
-                "visual_caption": "A panamax bulker sank in the Bay of Bengal while transporting iron ore to Singapore. Joint rescue operations continue to locate 22 missing crew members."
+                "headline": "COMPLIANCE: 22 STATES SUE OVER CDL DATA",
+                "teaserTitle": "SINGAPORE TESTS CASHEW BIOFUEL",
+                "visual_caption": "22 states have sued to block federal mandates requiring access to 17M commercial driver records. The legal challenge aims to protect driver privacy against unverified federal agency demands."
             },
             {
                 "slide_index": 5,
-                "headline": "WATERWAYS: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "CARRIER ACQUIRES ROTTERDAM STAKE",
-                "visual_caption": "The Panama Canal Authority confirmed plans to reduce daily bookings to 32 ships starting mid-Sept. Worsening rainfall deficits force defensive measures."
+                "headline": "BUNKERING: SINGAPORE TESTS CASHEW BIOFUEL",
+                "teaserTitle": "CATERPILLAR CLAIMS 392M TARIFF REFUND",
+                "visual_caption": "Singapore completed its first marine biofuel bunkering test utilizing processed cashew nutshell liquid. The alternative formulation cut voyage carbon emissions by over 120 tons."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT: CARRIER ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "DRONE DELIVERY FOOTPRINT EXPANSION",
-                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam automated terminal facility. This strategic investment secures vital gateway infrastructure for the Gemini network."
+                "headline": "DUTIES: CATERPILLAR CLAIMS 392M TARIFF REFUND",
+                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+                "visual_caption": "Caterpillar secured a $392M tariff refund from customs authorities. The recovery demonstrates how proactive duty drawback strategies can protect corporate operating margins."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: DRONE DELIVERY EXPANSION",
+                "headline": "FULFILLMENT: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
                 "teaserTitle": "",
-                "visual_caption": "Amazon announced a 6x expansion of its Prime Air drone delivery footprint across major metro markets. The rollout increases pressure on last-mile couriers."
+                "visual_caption": "Home Depot launched nationwide 3-hour delivery using 2,000 retail stores as fulfillment hubs. The rapid expansion increases competitive pressure across regional last-mile distribution networks."
             },
             {
                 "slide_index": 8,
