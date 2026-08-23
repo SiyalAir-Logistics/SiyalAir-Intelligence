@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL RESTRICTIONS TRIGGER ASIA SURGE",
+        "hookTitle": "CANADA TARIFFS STALL AS TALKS FAIL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA RATE SURGE",
-                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "PANAMA CANAL SLOTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Asia to West Coast ocean freight rates are surging rapidly as carriers preempt Panama Canal slot reductions. This capacity contraction threatens severe schedule unreliability across transpacific trade lanes."
+                "narration_line": "Fifty percent tariffs on Canadian imports took effect after trade talks collapsed. Canada vowed to match the levies dollar for dollar across borders."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: TERMINALS COMPENSATION",
-                "teaserTitle": "ATA PRESIDENT DEPARTS",
+                "headline": "MARITIME: PANAMA SLOTS",
+                "teaserTitle": "TEXAS METH BUST",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison Holdings has initiated international arbitration seeking one point five billion dollars from Panama. The legal dispute follows the controversial seizure of terminal operations at Balboa and Cristobal."
+                "narration_line": "The Panama Canal will cut daily ship transits to thirty-two starting in September. Worsening rainfall deficits threaten global maritime capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: ATA CHIEF DEPARTS",
-                "teaserTitle": "CAPACITY ABSORPTION METRICS",
+                "headline": "BORDER: TEXAS METH",
+                "teaserTitle": "BROKER LIABILITY CASES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his post. The leadership transition introduces strategic uncertainty during a critical regulatory period."
+                "narration_line": "Customs officers seized nine point five million dollars in narcotics hidden in a truck. Secondary border inspections continue to create transit delays."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: CAPACITY ABSORPTION",
-                "teaserTitle": "STATE CDL LAWS",
+                "headline": "LEGAL: BROKER LIABILITY",
+                "teaserTitle": "TRUCK ROUTING TECH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global port bottlenecks are currently absorbing five percent of total container shipping capacity. This immobilization of vessel assets underpins elevated spot freight rates across major corridors."
+                "narration_line": "Freight brokers face mounting legal risks from appellate court liability cases. Intermediaries must enhance vetting to avoid catastrophic verdicts."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: STATE CDL LAWS",
-                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
+                "headline": "TECHNOLOGY: ROUTING TECH",
+                "teaserTitle": "USPS RATE ADJUSTMENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Pennsylvania regulators can now impose civil penalties of up to twenty five thousand dollars on unlicensed schools. The measure targets unqualified training operations to enhance corridor safety."
+                "narration_line": "Google Maps launched truck-aware routing to prevent low-bridge strikes. Fleet managers can integrate these digital tools into dispatch."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: ROTTERDAM STAKE",
-                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "headline": "PARCEL: USPS RATES",
+                "teaserTitle": "PORT OF LOS ANGELES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Maersk has sold a twenty five percent equity stake in Rotterdam's terminal to Hapag-Lloyd. The divestment solidifies infrastructure coordination for the upcoming Gemini Cooperation network."
+                "narration_line": "New postal shipping rates on marketplaces dropped for select urban zones. Rural shipments remain excluded from these recent cost reductions."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: DRONE EXPANSION",
+                "headline": "MARITIME: LOS ANGELES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major metropolitan markets. The scaling initiative integrates autonomous aerial fulfillment directly into last-mile loops."
+                "narration_line": "The Port of Los Angeles posted its second-busiest July on record. Importers continue rushing peak season inventory through the gateway."
             },
             {
                 "slide_index": 8,

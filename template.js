@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL RESTRICTIONS TRIGGER ASIA",
-        "titleBlue": "SURGE",
-        "footerSummary": "Panama Canal capacity cuts drive surging Asia-US West Coast freight rates and severe transit disruptions for global shippers."
+        "titleWhite": "CANADA TARIFFS STALL AS TALKS",
+        "titleBlue": "FAIL",
+        "footerSummary": "Escalating trade friction as 50% Canadian import levies take effect while retaliatory measures loom across North American freight corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ASIA RATE SURGE",
+            "heading": "TARIFFS: CANADA DEADLINE",
             "paragraphs": [
-                "Asia-US West Coast freight rates are surging at an accelerated pace as ocean carriers and shippers race to preempt impending daily vessel slot reductions through the Panama Canal. The Panama Canal Authority is officially trimming neopanamax transits starting in September, forcing lines to reevaluate deployment.",
-                "This capacity contraction threatens to inflict severe schedule unreliability and spot rate volatility across key transpacific trade lanes. Enterprise logistics planners must secure alternative routing agreements immediately to protect Q4 operating margins."
+                "President Donald Trump's 50% tariff on numerous Canadian imports officially took effect after negotiations between the 2 countries failed to yield an agreement before the Saturday deadline. Canadian officials immediately vowed to match the sweeping Section 338 levies dollar for dollar across cross-border supply chains.",
+                "This sudden escalation introduces severe cost volatility and administrative friction for manufacturers relying on integrated North American production networks. Supply chain executives must rapidly reassess landed costs and evaluate alternate sourcing strategies to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA TERMINALS COMPENSATION",
+            "nextUpTease": "PANAMA CANAL SLOTS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: TERMINALS COMPENSATION",
+            "heading": "MARITIME: PANAMA SLOTS",
             "paragraphs": [
-                "CK Hutchison Holdings has formally initiated international arbitration proceedings seeking $1.5B in damages from the government of Panama over seized port concessions. The legal action follows the controversial seizure of terminal operations at Balboa and Cristobal by local authorities.",
-                "This high-stakes dispute escalates sovereign risk profiles for international terminal operators and global maritime investors. Supply chain executives managing Latin American gateways must monitor potential port operational restructuring."
+                "The Panama Canal Authority is officially reducing daily neopanamax ship transits to 32 starting in mid-September as worsening rainfall deficits and El Ni\u00f1o conditions deplete water levels. Carriers and shippers face immediate capacity constraints and tightening vessel availability across primary global trade lanes.",
+                "This capacity contraction drives rising spot rates and severe schedule unreliability for Asia-US cargo movements. Enterprise logistics managers must secure alternative routings early to mitigate dwell time exposure and protect Q4 delivery commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA PRESIDENT DEPARTS",
+            "nextUpTease": "TEXAS METH BUST",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: ATA CHIEF DEPARTS",
+            "heading": "BORDER: TEXAS METH",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his post, prompting an immediate leadership search. The high-profile departure comes as domestic motor carriers face intense regulatory pressure and liability lawsuits.",
-                "The leadership transition introduces strategic uncertainty for the domestic trucking lobby during a critical period of federal policy enforcement. Fleet operators must closely track upcoming regulatory shifts impacting labor compliance."
+                "CBP officers uncovered $9.5M in suspected methamphetamine concealed inside a commercial detergent shipment during a secondary inspection at the Roma International Bridge. The operation intercepted 240 illicit packages embedded directly within cross-border freight traffic from Mexico.",
+                "Stricter secondary screening protocols at southern ports of entry continue to create unpredictable processing delays for commercial carriers. Fleet operators must anticipate heightened border inspections and adjust transit schedules to account for extended dwell times."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY ABSORPTION METRICS",
+            "nextUpTease": "BROKER LIABILITY CASES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: CAPACITY ABSORPTION",
+            "heading": "LEGAL: BROKER LIABILITY",
             "paragraphs": [
-                "Persistent global port delays and terminal congestion are currently absorbing 5% of the total TEU capacity across the container shipping industry. Data from maritime analysts highlights that ongoing bottlenecks keep significant vessel assets tied up outside normal schedules.",
-                "This capacity immobilization reduces effective fleet availability and underpins elevated spot freight rates across major global corridors. Ocean carriers are forced to deploy additional tonnage to offset lost route velocity."
+                "The legal exposure for freight brokers is intensifying as multiple high-profile cases, including Montgomery versus Caribe, proceed through appellate courts following massive nuclear verdicts. Plaintiffs are increasingly targeting third-party intermediaries with vicarious liability and negligent hiring claims.",
+                "This evolving legal precedent threatens to inflate insurance premiums and compel brokers to overhaul carrier vetting procedures. Logistics enterprises must implement rigorous compliance frameworks to mitigate catastrophic legal liabilities across partner networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATE CDL LAWS",
+            "nextUpTease": "TRUCK ROUTING TECH",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: STATE CDL LAWS",
+            "heading": "TECHNOLOGY: ROUTING TECH",
             "paragraphs": [
-                "State regulators in Pennsylvania are enforcing a strict new law empowering agencies to levy civil penalties of up to $25K on unlicensed commercial driver training schools. The measure targets unqualified training operations to enhance safety across commercial freight corridors.",
-                "The legislative crackdown increases operational compliance scrutiny for driver development pipelines within regional motor carrier networks. Fleet safety directors must audit training vendor accreditations to avoid severe regulatory fines."
+                "Google Maps has launched specialized truck-aware routing designed to warn drivers about low bridges and strict weight limits before entering restricted corridors. The platform addresses a persistent industry hazard where standard consumer navigation apps misroute heavy commercial vehicles.",
+                "Widespread adoption of commercial-grade navigation tools helps prevent costly bridge strikes and catastrophic equipment damage across urban delivery networks. Fleet managers should integrate these advanced digital safeguards into daily dispatch operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROTTERDAM TERMINAL STAKE",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: ROTTERDAM STAKE",
+            "heading": "PARCEL: USPS RATES",
             "paragraphs": [
-                "Maersk has finalized the sale of a 25% equity stake in Rotterdam's highly automated Maasvlakte II container terminal to Hapag-Lloyd. The strategic divestment solidifies terminal infrastructure coordination for the upcoming Gemini Cooperation vessel sharing network.",
-                "This asset consolidation allows major ocean carriers to optimize gateway handling efficiency and streamline berth access in Europe. Supply chain leaders must evaluate how alliance terminal alignments impact container dwell times."
+                "Online marketplace sellers are navigating new shipping pricing adjustments as select USPS rates on platforms like eBay drop, though rural ZIP codes remain excluded from the reductions. The segmented rate changes alter parcel fulfillment economics for e-commerce vendors operating high-volume distribution models.",
+                "While urban shippers benefit from lowered postage outlays, rural shipping overhead continues to compress merchant profit margins. Online retailers must optimize carrier mix strategies to maintain competitive pricing across diverse geographic zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY EXPANSION",
+            "nextUpTease": "PORT OF LOS ANGELES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: DRONE EXPANSION",
+            "heading": "MARITIME: LOS ANGELES",
             "paragraphs": [
-                "Amazon is aggressively expanding its Prime Air drone delivery network sixfold this year, adding major metropolitan markets like Atlanta, Chicago, and Cleveland. The scaling initiative integrates autonomous aerial fulfillment directly into urban last-mile distribution loops.",
-                "This technological rollout redefines consumer expectations for ultra-fast package fulfillment and pressures competing parcel carriers. Logistics operators must monitor how aerial delivery scales relative to traditional ground fleets."
+                "The Port of Los Angeles has reported its second-busiest July on record, handling immense container volumes as importers rush peak season inventories ahead of anticipated trade disruptions. Port terminals are actively scaling landside operations to prevent landside congestion.",
+                "Sustained high throughput volumes demand flawless coordination between ocean carriers, marine terminal operators, and drayage truckers. Supply chain directors must maintain proactive communication channels to avoid costly demurrage and detention fees."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]

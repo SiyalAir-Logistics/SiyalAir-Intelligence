@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA RATE SURGE",
-                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
-                "visual_caption": "Asia-US West Coast rates surge as carriers preempt Panama Canal slot cuts. Capacity contraction threatens severe schedule unreliability across transpacific trade lanes."
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "PANAMA CANAL SLOTS",
+                "visual_caption": "50% tariffs on Canadian imports took effect after trade talks collapsed. Canada vowed to match the levies dollar for dollar across borders."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: TERMINALS COMPENSATION",
-                "teaserTitle": "ATA PRESIDENT DEPARTS",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over port seizures. The legal action escalates sovereign risk profiles for international terminal operators."
+                "headline": "MARITIME: PANAMA SLOTS",
+                "teaserTitle": "TEXAS METH BUST",
+                "visual_caption": "The Panama Canal will cut daily ship transits to 32 starting in September. Worsening rainfall deficits threaten global maritime capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: ATA CHIEF DEPARTS",
-                "teaserTitle": "CAPACITY ABSORPTION METRICS",
-                "visual_caption": "ATA President Chris Spear has officially stepped down from his position. The transition introduces strategic uncertainty during active regulatory enforcement."
+                "headline": "BORDER: TEXAS METH",
+                "teaserTitle": "BROKER LIABILITY CASES",
+                "visual_caption": "Customs officers seized $9.5M in narcotics hidden in a truck. Secondary border inspections continue to create transit delays."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: CAPACITY ABSORPTION",
-                "teaserTitle": "STATE CDL LAWS",
-                "visual_caption": "Global port bottlenecks are absorbing 5% of total container shipping capacity. Vessel asset immobilization underpins elevated spot freight rates globally."
+                "headline": "LEGAL: BROKER LIABILITY",
+                "teaserTitle": "TRUCK ROUTING TECH",
+                "visual_caption": "Freight brokers face mounting legal risks from appellate court liability cases. Intermediaries must enhance vetting to avoid catastrophic verdicts."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: STATE CDL LAWS",
-                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
-                "visual_caption": "Pennsylvania enforces up to $25K fines on unlicensed CDL training schools. The crackdown increases compliance scrutiny across commercial motor carrier networks."
+                "headline": "TECHNOLOGY: ROUTING TECH",
+                "teaserTitle": "USPS RATE ADJUSTMENTS",
+                "visual_caption": "Google Maps launched truck-aware routing to prevent low-bridge strikes. Fleet managers can integrate these digital tools into dispatch."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: ROTTERDAM STAKE",
-                "teaserTitle": "DRONE DELIVERY EXPANSION",
-                "visual_caption": "Maersk sold a 25% stake in Rotterdam terminal to Hapag-Lloyd. The asset sale aligns gateway infrastructure for the Gemini Cooperation network."
+                "headline": "PARCEL: USPS RATES",
+                "teaserTitle": "PORT OF LOS ANGELES",
+                "visual_caption": "New postal shipping rates on marketplaces dropped for select urban zones. Rural shipments remain excluded from these recent cost reductions."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: DRONE EXPANSION",
+                "headline": "MARITIME: LOS ANGELES",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is expanding Prime Air drone delivery reach 6x across US metros. Autonomous aerial fulfillment integrates directly into urban last-mile loops."
+                "visual_caption": "The Port of Los Angeles posted its second-busiest July on record. Importers continue rushing peak season inventory through the gateway."
             },
             {
                 "slide_index": 8,
