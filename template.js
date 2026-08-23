@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFF",
-        "titleBlue": "ESCALATION",
-        "footerSummary": "Cross-border supply chains brace for immediate disruption as bilateral talks fail, triggering 50% tariffs and planned retaliatory duties."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances Section 301 tariffs across 60 trading nations as industrial supply chains confront soaring compliance costs and border bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: CANADA TARIFF ESCALATION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Cross-border bilateral negotiations collapsed without reaching a tariff exemption agreement, triggering a 50% import duty on broad categories of Canadian goods under Section 338. Canadian trade officials immediately announced matching reciprocal tariffs scheduled to take effect September 8.",
-                "Enterprise supply chains reliant on northern cross-border manufacturing inputs face severe margin compression and immediate landed cost increases. Shippers must rapidly audit border classifications and evaluate bonded warehousing strategies to minimize customs liabilities."
+                "The Office of the United States Trade Representative has officially advanced the implementation of forced labor-based tariffs targeting 60 trading partners under Section 301. Importers must navigate aggressive customs enforcement protocols and immediately audit multi-tier vendor networks to prevent severe shipment detentions at ports of entry.",
+                "The broad regulatory enforcement strategy introduces massive landed cost volatility and steep compliance overhead for global enterprise supply chains. Procurement leaders must re-verify supplier origins and establish robust traceability matrices to mitigate potential border rejections and customs penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROTTERDAM TERMINAL ACQUISITION",
+            "nextUpTease": "PANAMA CANAL CAPACITY",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-canada-tariffs-50-percent-deadline-trade-talks/724590/",
-                "Published: 2026-08-22T14:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-22T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INFRASTRUCTURE: ROTTERDAM TERMINAL ACQUISITION",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY",
             "paragraphs": [
-                "Hapag-Lloyd has finalized an agreement to acquire a 25% ownership stake in APM Terminals Maasvlakte II at the Port of Rotterdam from Maersk. The automated container terminal serves as a central transshipment hub for the upcoming Gemini Cooperation ocean carrier network.",
-                "The strategic equity acquisition consolidates terminal berthing priority and improves operational container handling efficiency across North Europe. Ocean freight forwarders must anticipate revised feeder schedules and concentrated hub-and-spoke vessel rotations."
+                "The Panama Canal Authority is cutting daily vessel booking capacity down to 32 slots starting in mid-September due to worsening rainfall deficits driven by El Ni\u00f1o conditions. Neopanamax transits face immediate restrictions, forcing carriers to re-evaluate route economics and absorb extended transit schedules.",
+                "The capacity squeeze significantly increases booking premiums and drives spot rates higher across major trade lanes connecting Asia to the US West Coast. Shippers must secure forward allocations early and model alternative intermodal routing options to protect quarterly logistics budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CDL DATABASE LITIGATION",
+            "nextUpTease": "PANAMA PORTS ARBITRATION",
             "tags": [
-                "Source: https://www.joc.com/article/maersk-sells-25-stake-in-rotterdam-terminal-to-hapag-lloyd-20260822",
-                "Published: 2026-08-22T11:15:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: CDL DATABASE LITIGATION",
+            "heading": "LEGAL: PANAMA PORTS ARBITRATION",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has secured an initial legal injunction halting federal mandates that required states to grant unrestricted access to databases covering 17M commercial driver licenses. Regulators sought broader visibility to monitor safety records and cross-border commercial compliance.",
-                "Motor carriers and logistics employers navigate growing jurisdictional friction regarding driver qualification file auditing and privacy protections. Fleets must balance federal compliance reporting obligations with evolving state-level data privacy mandates."
+                "Hong Kong conglomerate CK Hutchison has initiated formal international arbitration proceedings seeking $1.5B in damages from the government of Panama. The legal dispute stems from the abrupt seizure and cancellation of crucial terminal operating concessions at Balboa and Cristobal.",
+                "The high-stakes litigation underscores rising sovereign risk for global port operators and international terminal investments. Marine terminal users must monitor potential operational disruptions and concession restructuring across key Latin American gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET CONGESTION ABSORPTION",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/states-sue-trump-administration-over-bid-to-access-17-million-cdl-records",
-                "Published: 2026-08-22T09:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-20T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: FLEET CONGESTION ABSORPTION",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY",
             "paragraphs": [
-                "Global port delays and terminal vessel queuing are currently absorbing 5% of the total global container fleet capacity, according to maritime intelligence data from Sea-Intelligence. The idle capacity represents over 1.7M TEUs locked in extended harbor dwell cycles across major trade gateways.",
-                "The systematic absorption of ocean capacity restricts effective container supply, placing upward pressure on transpacific and transatlantic spot rate benchmarks. Logistics planners face extended transit lead times and must build additional safety stock into ocean procurement planning."
+                "Colliers reports that the industrial real estate market has regained structural balance, with the second quarter vacancy rate falling 7 basis points sequentially to settle at 7.3%. New construction completions have slowed down, allowing absorption rates to catch up with historical demand across primary logistics hubs.",
+                "The stabilization of warehouse availability provides occupiers with predictable leasing conditions but limits landlord concession flexibility in core distribution markets. Supply chain directors must optimize facility footprints and negotiate long-term renewals ahead of anticipated rental rate adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR TARIFF REFUND",
+            "nextUpTease": "TANKER TRADE REVERSAL",
             "tags": [
-                "Source: https://maritime-executive.com/article/port-delays-and-congestion-absorb-5-percent-of-industrys-teu-capacity",
-                "Published: 2026-08-21T15:51:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-22T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FINANCE: CATERPILLAR TARIFF REFUND",
+            "heading": "ENERGY: TANKER TRADE REVERSAL",
             "paragraphs": [
-                "Heavy equipment manufacturer Caterpillar secured a $392M federal tariff refund during the second quarter following successful administrative customs duty drawback claims. Despite the refund, the company incurred over $400M in gross tariff-related operating expenses across the same period.",
-                "The significant financial recovery highlights the material bottom-line impact of aggressive customs duty recovery and drawback compliance strategies. Enterprise shippers managing complex international component supply chains must establish dedicated tariff auditing protocols."
+                "Persistent Ukrainian military strikes on domestic oil refineries have created an extraordinary trade reversal, forcing Russia to import nearly 270K tons of refined fuels from Asia this month. The sudden shift in product flows strains regional tanker availability and alters traditional bunkering routes.",
+                "The disruption in domestic Russian refining capacity escalates operational overhead and maritime insurance premiums for product tankers operating in contested corridors. Energy logistics planners must factor in volatile fuel pricing and extended voyage turnarounds."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA LEADERSHIP TRANSITION",
+            "nextUpTease": "EXPRESS DELIVERY EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-drawback-costs/724580/",
-                "Published: 2026-08-21T18:20:00Z",
+                "Source: https://splash247.com/russian-fuel-sorter-tanker-trade-flows/",
+                "Published: 2026-08-21T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING: ATA LEADERSHIP TRANSITION",
+            "heading": "LOGISTICS: EXPRESS DELIVERY EXPANSION",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear announced his official departure after leading the national motor carrier lobbying federation through major regulatory overhauls. The leadership transition occurs amid severe litigation pressure, rising diesel volatility, and shifting federal hours-of-service mandates.",
-                "The transition comes at a pivotal juncture as trucking fleets confront nuclear verdicts and regulatory overhauls affecting independent contractor classification. Motor carriers must track upcoming legislative priorities that influence driver supply and freight operating costs."
+                "Home Depot has officially rolled out nationwide express delivery services guaranteeing fulfillment within 3 hours or less across thousands of SKUs. The omni-channel retail strategy leverages more than 2,000 U.S. brick-and-mortar stores as decentralized fulfillment hubs to capture high-margin contractor demand.",
+                "The rapid scaling of hyperlocal delivery networks requires sophisticated inventory visibility tools and tight coordination with third-party local courier fleets. Supply chain executives must balance expedited fulfillment expenses against the necessity of retaining Pro customer loyalty."
             ],
             "imageUrl": "",
-            "nextUpTease": "GULF OF ADEN HIJACKING",
+            "nextUpTease": "INTERMODAL VOLUME REBOUND",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
-                "Published: 2026-08-21T16:00:00Z",
+                "Source: https://www.supplychaindive.com/news/home-depot-express-delivery-3-hours/724595/",
+                "Published: 2026-08-21T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: GULF OF ADEN HIJACKING",
+            "heading": "INTERMODAL: VOLUME REBOUND",
             "paragraphs": [
-                "A commercial product tanker operating in the Gulf of Aden was hijacked by armed regional actors and directed toward coastal Somali waters, marking renewed security vulnerabilities in the corridor. The incident represents the second major merchant vessel seizure reported in the area within seven days.",
-                "Commercial vessel operators operating near the Bab el-Mandeb strait face escalating maritime hull war risk insurance premiums and heightened route recalculations. Shippers must evaluate carrier security surcharges and prepare for selective vessel diversions via southern African passages."
+                "Surging diesel costs, driver shortages, and tightening truckload capacity are successfully driving a strong return of domestic intermodal traffic to historic norms across North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in spiraling transportation expenditures.",
+                "The modal shift offers measurable cost savings for enterprise shippers willing to optimize rail ramp scheduling and manage extended transit windows. Logistics managers must re-evaluate freight allocation strategies to capitalize on rail capacity before peak season congestion intensifies."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/sanctioned-tanker-hijacked-in-gulf-of-aden/",
-                "Published: 2026-08-21T11:23:00Z",
+                "Source: https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
+                "Published: 2026-08-21T15:00:00Z",
                 "Status: Audited & True"
             ]
         }

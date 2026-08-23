@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: CANADA TARIFF ESCALATION",
-                "teaserTitle": "ROTTERDAM TERMINAL ACQUISITION",
-                "visual_caption": "Cross-border trade negotiations have stalled, enacting a 50% tariff on select Canadian imports under Section 338. Canada plans to launch retaliatory levies starting Sept 8."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL CAPACITY",
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading nations. Importers must audit multi-tier supply chains to prevent severe border customs detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: ROTTERDAM TERMINAL ACQUISITION",
-                "teaserTitle": "CDL DATABASE LITIGATION",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II terminal at the Port of Rotterdam. The move secures primary hub capacity for the Gemini Cooperation ocean alliance."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY",
+                "teaserTitle": "PANAMA PORTS ARBITRATION",
+                "visual_caption": "The Panama Canal is cutting daily booking capacity down to 32 ships from mid-September. Neopanamax carriers face rising spot rates and tighter transit slots."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CDL DATABASE LITIGATION",
-                "teaserTitle": "FLEET CONGESTION ABSORPTION",
-                "visual_caption": "22 states have sued to block a federal mandate demanding access to 17M commercial driver license records. State officials cite significant data privacy concerns and regulatory overreach."
+                "headline": "LEGAL: PANAMA PORTS ARBITRATION",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE",
+                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama through international arbitration. The dispute follows the government seizure of vital terminal concessions."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: FLEET CONGESTION ABSORPTION",
-                "teaserTitle": "CATERPILLAR TARIFF REFUND",
-                "visual_caption": "Global port congestion is currently absorbing 5% of the world container vessel fleet. This tie-up locks more than 1.7M TEUs out of operational circulation."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY",
+                "teaserTitle": "TANKER TRADE REVERSAL",
+                "visual_caption": "Industrial real estate vacancy fell 7 basis points to 7.3% in Q2. Slower construction completions are successfully stabilizing market balance across key distribution hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: CATERPILLAR TARIFF REFUND",
-                "teaserTitle": "ATA LEADERSHIP TRANSITION",
-                "visual_caption": "Caterpillar secured a $392M tariff refund last quarter using duty drawback programs. The refund helped offset $400M in gross customs duties."
+                "headline": "ENERGY: TANKER TRADE REVERSAL",
+                "teaserTitle": "EXPRESS DELIVERY EXPANSION",
+                "visual_caption": "Refinery strikes have forced Russia to import 270K tons of refined fuel from Asia. This extraordinary trade reversal significantly impacts global product tanker flows."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ATA LEADERSHIP TRANSITION",
-                "teaserTitle": "GULF OF ADEN HIJACKING",
-                "visual_caption": "American Trucking Associations President Chris Spear has stepped down as head of the organization. The industry group begins an immediate executive search during major regulatory and legal shifts."
+                "headline": "LOGISTICS: EXPRESS DELIVERY EXPANSION",
+                "teaserTitle": "INTERMODAL VOLUME REBOUND",
+                "visual_caption": "Home Depot launched nationwide express delivery fulfilling orders in 3 hours or less. Over 2K retail stores now serve as active localized fulfillment hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: GULF OF ADEN HIJACKING",
+                "headline": "INTERMODAL: VOLUME REBOUND",
                 "teaserTitle": "",
-                "visual_caption": "A commercial product tanker was hijacked in the Gulf of Aden and forced toward Somali waters. This marks the 2nd vessel seizure in the region within a single week."
+                "visual_caption": "Rising diesel costs and tight truck capacity are driving a strong rebound in rail intermodal traffic. Shippers are shifting long-haul freight to lower total transport expenses."
             },
             {
                 "slide_index": 8,
