@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA USWC RATES SURGE",
-                "teaserTitle": "PANAMA TRANSIT SLOTS",
-                "visual_caption": "Asia to U.S. West Coast freight rates are surging rapidly as shippers race to circumvent Panama Canal restrictions. Carriers report an immediate influx of cargo bookings seeking alternative routings."
+                "headline": "MARITIME: PANAMA QUEUE JUMP FEE PASSES 4M",
+                "teaserTitle": "USTR FORCED LABOR TARIFFS",
+                "visual_caption": "An empty LPG tanker paid $4.6M to bypass the Panama Canal queue. This record priority fee highlights extreme slot scarcity across the waterway."
             },
             {
                 "slide_index": 2,
-                "headline": "WATERWAYS: PANAMA TRANSIT SLOTS",
-                "teaserTitle": "CANADA TARIFF STALLS",
-                "visual_caption": "The Panama Canal Authority will cut 1 daily Neopanamax ship transit starting in September due to water resource constraints. This reduction removes vital capacity from global supply chains."
+                "headline": "TARIFFS: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CANADA TARIFF TALKS STALL",
+                "visual_caption": "The USTR is implementing strict tariffs across 60 trading nations under Section 301. Importers face sudden duty hikes and complex compliance audits."
             },
             {
                 "slide_index": 3,
-                "headline": "TARIFFS: CANADA DEADLINE STALLS",
-                "teaserTitle": "ATA CHIEF DEPARTS",
-                "visual_caption": "U.S. and Canadian trade negotiations have stalled ahead of enforcement deadlines for Section 338 levies. Ottawa plans to deploy retaliatory duties if the 50% tariffs take effect."
+                "headline": "TRADE: CANADA TARIFF TALKS STALL",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "visual_caption": "U.S. and Canadian trade talks collapsed as teams failed to resolve proposed 50% import duties. Officials vow retaliatory tariffs starting Sept. 8."
             },
             {
                 "slide_index": 4,
-                "headline": "LEADERSHIP: ATA CHIEF DEPARTS",
-                "teaserTitle": "INTERMODAL VOLUME REBOUND",
-                "visual_caption": "American Trucking Associations President and CEO Chris Spear has departed, initiating an urgent leadership search. The trucking sector navigates intense regulatory pressure and compliance mandates."
+                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "PANAMA CANAL CAPACITY CUTS",
+                "visual_caption": "A panamax bulker sank in the Bay of Bengal while transporting iron ore to Singapore. Joint rescue operations continue to locate 22 missing crew members."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: INTERMODAL VOLUME REBOUND",
-                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
-                "visual_caption": "U.S. domestic intermodal traffic has increased as shippers return to historical norms due to tightening truckload capacity. Surging spot rates have made rail intermodal a key cost-mitigation alternative."
+                "headline": "WATERWAYS: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "CARRIER ACQUIRES ROTTERDAM STAKE",
+                "visual_caption": "The Panama Canal Authority confirmed plans to reduce daily bookings to 32 ships starting mid-Sept. Worsening rainfall deficits force defensive measures."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT: ROTTERDAM TERMINAL STAKE",
-                "teaserTitle": "DRONE DELIVERY EXPANSION",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the automated Maasvlakte II facility at Rotterdam. This strategic move reinforces carrier control over key European gateway infrastructure."
+                "headline": "PORT: CARRIER ACQUIRES ROTTERDAM STAKE",
+                "teaserTitle": "DRONE DELIVERY FOOTPRINT EXPANSION",
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam automated terminal facility. This strategic investment secures vital gateway infrastructure for the Gemini network."
             },
             {
                 "slide_index": 7,
                 "headline": "LOGISTICS: DRONE DELIVERY EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Amazon has announced a 6x expansion of its Prime Air drone delivery footprint across major U.S. metropolitan markets. The rollout scales automated aerial fulfillment to capture high-density demand."
+                "visual_caption": "Amazon announced a 6x expansion of its Prime Air drone delivery footprint across major metro markets. The rollout increases pressure on last-mile couriers."
             },
             {
                 "slide_index": 8,

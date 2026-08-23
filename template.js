@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ASIA USWC RATES",
-        "titleBlue": "SURGE",
-        "footerSummary": "Asia to U.S. West Coast container freight rates spike rapidly as shippers race to circumvent compounding Panama Canal transit restrictions."
+        "titleWhite": "PANAMA QUEUE JUMP FEE PASSES 4M",
+        "titleBlue": "USD",
+        "footerSummary": "Panama Canal priority fees surge to $4.6M as geopolitical diversions push global shipping lines into severe capacity bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ASIA USWC RATES SURGE",
+            "heading": "MARITIME: PANAMA QUEUE JUMP FEE PASSES 4M",
             "paragraphs": [
-                "Asia to U.S. West Coast freight rates are surging at an accelerated pace as shippers scramble to bypass compounding Panama Canal restrictions. Ocean carriers report an immediate influx of cargo bookings from beneficial cargo owners seeking alternative routings ahead of impending transit cuts.",
-                "This sudden demand spike threatens to inflate ocean transportation budgets and compress operating margins for transpacific importers. Logistics managers must reevaluate service contract allocations and model multi-port routing alternatives to mitigate escalating spot market exposure."
+                "An empty liquefied petroleum gas tanker paid a record $4.6M to bypass the Panama Canal queue as regional conflicts disrupt global maritime routes. This unprecedented priority fee eclipses the previous high of $3.975M and highlights extreme slot scarcity across the critical waterway.",
+                "Carriers facing severe transit delays must weigh escalating priority fees against the massive costs of alternative routes. Logistics decision-makers need to factor these extraordinary surcharges into quarterly operating budgets to protect profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA TRANSIT SLOTS",
+            "nextUpTease": "USTR FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com/asia-uswc-rates-surge-as-shippers-look-to-beat-panama-canal-restrictions/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WATERWAYS: PANAMA TRANSIT SLOTS",
+            "heading": "TARIFFS: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority has announced plans to cut one daily Neopanamax ship transit starting in September due to ongoing water resource management challenges. The reduction removes vital capacity from global supply chains just as peak shipping season volumes approach their zenith.",
-                "Vessel bottlenecks and scheduling unreliability will inevitably compound voyage delays for carriers transiting the critical Central American gateway. Supply chain planners must factor extended transit lead times and potential slot surcharges into their Q4 inventory positioning strategies."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs across 60 trading nations under Section 301 of the Trade Act of 1974. This aggressive regulatory push targets supply chains tied to forced labor practices, demanding immediate compliance audits.",
+                "Importers relying on affected international suppliers face sudden duty hikes and complex administrative verification hurdles. Supply chain leaders must audit tier-one and tier-two vendor networks instantly to avoid punitive customs penalties and border seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA TARIFF STALLS",
+            "nextUpTease": "CANADA TARRIF STALLS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TARIFFS: CANADA DEADLINE STALLS",
+            "heading": "TRADE: CANADA TARIFF TALKS STALL",
             "paragraphs": [
-                "U.S. and Canadian trade negotiations have stalled as bilateral teams fail to reach a definitive resolution ahead of enforcement deadlines for Section 338 levies. Ottawa officials have reiterated plans to deploy retaliatory duties dollar for dollar across major industrial sectors if the 50% tariffs take effect.",
-                "This prolonged regulatory uncertainty introduces severe cost volatility for cross-border manufacturing networks and automotive supply chains. Procurement leaders must immediately activate contingency sourcing frameworks to protect operating budgets from sudden tariff liabilities."
+                "U.S. and Canadian trade negotiations have collapsed as bilateral teams fail to reach a definitive resolution regarding proposed 50% import duties. Canadian officials have vowed to match retaliatory tariffs dollar for dollar across major industrial and manufacturing sectors starting September 8.",
+                "This prolonged trade impasse creates acute cost volatility for cross-border supply chains and automotive networks. Procurement teams must activate alternative sourcing strategies immediately to mitigate severe financial exposure from impending border levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA CHIEF SPEAR DEPARTS",
+            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL",
             "tags": [
                 "Source: https://www.supplychaindive.com/news/trumps-50-percent-tariff-canada-imports-in-effect/825000/",
                 "Published: 2026-08-22T08:00:00Z",
@@ -53,46 +53,46 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "LEADERSHIP: ATA CHIEF DEPARTS",
+            "heading": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially departed from the federation, initiating an urgent leadership search. The executive transition occurs as the over-the-road trucking sector navigates intense regulatory pressure, complex court verdicts, and tightening compliance mandates.",
-                "Motor carriers must closely monitor how this leadership shift influences federal advocacy on crucial trucking safety and labor regulations. Fleet executives should maintain active engagement with trade associations to safeguard operational interests during the transition."
+                "The panamax bulk carrier Ocean Winner sank suddenly in the Bay of Bengal while transporting a full load of iron ore from India to Singapore. Joint search and rescue operations by the Indian Coast Guard and Navy are underway to locate 22 missing crew members.",
+                "This tragic casualty removes vital dry bulk deadweight tonnage from regional trade lanes and triggers immediate maritime safety investigations. Charterers and ship operators must review vessel vetting procedures and weather routing protocols to safeguard active voyages."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL VOLUME REBOUND",
+            "nextUpTease": "PANAMA CANAL CAPACITY CUTS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: INTERMODAL VOLUME REBOUND",
+            "heading": "WATERWAYS: PANAMA CANAL CAPACITY CUTS",
             "paragraphs": [
-                "U.S. domestic intermodal traffic has registered a notable increase as shippers return to historical transport norms in response to tightening truckload capacity. Surging spot rates and persistent driver constraints in the over-the-road sector have made rail intermodal a highly attractive cost-mitigation alternative.",
-                "This modal shift requires logistics operators to optimize drayage connections and closely coordinate terminal appointments to prevent dwell time bottlenecks. Shippers that successfully integrate intermodal capacity into their domestic networks can achieve meaningful freight cost reductions."
+                "The Panama Canal Authority has confirmed plans to reduce daily booking capacity to 32 ships starting in mid-September due to worsening rainfall deficits. El Ni\u00f1o weather patterns continue to restrict water resource management, forcing deeper defensive scheduling measures.",
+                "Vessel bottlenecks and transit restrictions will inflate voyage lead times and compound equipment positioning delays for ocean liners. Supply chain planners must adjust inventory buffers and explore intermodal land-bridge alternatives ahead of peak season rushes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROTTERDAM TERMINAL STAKE",
+            "nextUpTease": "CARRIER ACQUIRES ROTTERDAM STAKE",
             "tags": [
-                "Source: https://theloadstar.com/rise-in-us-domestic-intermodal-traffic-a-return-to-historic-norm/",
+                "Source: https://splash247.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORT: ROTTERDAM TERMINAL STAKE",
+            "heading": "PORT: CARRIER ACQUIRES ROTTERDAM STAKE",
             "paragraphs": [
-                "Hapag-Lloyd has finalized an agreement to acquire a 25% stake in APM Terminals\u2019 heavily automated Maasvlakte II facility at the Port of Rotterdam. The strategic acquisition reinforces carrier control over key European gateway infrastructure dedicated to the Gemini Cooperation network.",
-                "Deepening terminal investments allows major ocean carriers to better insulate proprietary vessel schedules from broader European port congestion and labor disruptions. Maritime operators must evaluate how exclusive terminal partnerships alter slot availability and service reliability across major trade lanes."
+                "Hapag-Lloyd has signed a definitive agreement to acquire a 25% stake in APM Terminals Maasvlakte II facility at the Port of Rotterdam. The strategic investment secures vital automated gateway infrastructure dedicated to supporting the Gemini Cooperation network.",
+                "Deepening terminal ownership allows major ocean carriers to insulate vessel schedules from localized labor disputes and port congestion. Maritime operators must evaluate how proprietary terminal access impacts slot allocations and service reliability across Europe."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY EXPANSION",
+            "nextUpTease": "DRONE DELIVERY FOOTPRINT EXPANSION",
             "tags": [
-                "Source: https://splash247.com/hapag-lloyd-to-acquire-25-percent-stake-in-rotterdam-terminal/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
