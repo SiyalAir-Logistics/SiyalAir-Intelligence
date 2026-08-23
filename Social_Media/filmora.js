@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY REDUCTION",
-                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
-                "visual_caption": "The Panama Canal Authority is cutting daily transit booking capacity to 32 vessels to manage ongoing water deficits. Shippers must absorb tightening maritime capacity and re-engineer routing schedules to prevent severe port dwell times."
+                "headline": "TARIFFS: CANADA LEVIES EFFECTIVE",
+                "teaserTitle": "PANAMA CANAL TRANSIT CAPACITY",
+                "visual_caption": "President Trump's 50% tariff on Canadian imports took effect as trade talks stalled. Canada promised immediate retaliatory duties, threatening cross-border supply chain margins."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: PANAMA TERMINALS COMPENSATION",
-                "teaserTitle": "INDUSTRY LEADERSHIP TRANSITION",
-                "visual_caption": "CK Hutchison Holdings initiated arbitration seeking $1.5B over terminal seizures in Panama. Global terminal operators now face heightened sovereign risk exposure and complex cross-border asset liabilities."
+                "headline": "MARITIME: PANAMA CANAL TRANSIT CAPACITY",
+                "teaserTitle": "USTR FORCED LABOR TARIFFS",
+                "visual_caption": "The Panama Canal is trimming daily shipping slots starting in mid-September due to water deficits. This capacity reduction threatens to elevate freight rates across transpacific routes."
             },
             {
                 "slide_index": 3,
-                "headline": "WORKFORCE: INDUSTRY LEADERSHIP TRANSITION",
-                "teaserTitle": "CONTAINER CAPACITY DRAIN",
-                "visual_caption": "American Trucking Associations CEO Chris Spear stepped down amid federal safety regulations and tariff pressures. Fleet operators must monitor national association advocacy shifts closely while managing regulatory oversight."
+                "headline": "REGULATION: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "ATA EXECUTIVE LEADERSHIP TRANSITION",
+                "visual_caption": "The United States Trade Representative is advancing forced labor tariffs on 60 trading partners. Shippers face strict compliance audits and severe liability risks."
             },
             {
                 "slide_index": 4,
-                "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
-                "teaserTitle": "ARCTIC TRADE ROUTE EXPANSION",
-                "visual_caption": "Global container shipping networks are currently absorbing a 5% capacity drain from port congestion. Ocean carriers must optimize schedule reliability and vessel turnaround times to counter equipment leakage."
+                "headline": "WORKFORCE: ATA EXECUTIVE LEADERSHIP TRANSITION",
+                "teaserTitle": "PORT OF LOS ANGELES VOLUME SURGE",
+                "visual_caption": "American Trucking Associations leader Chris Spear has stepped down from his post. Fleets must navigate regulatory headwinds and escalating tariff pressures."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL GATEWAYS: ARCTIC TRADE ROUTE EXPANSION",
-                "teaserTitle": "TANKER TRADE FLOW REVERSAL",
-                "visual_caption": "Shipping line Sea Legend launched a regular container service between China and Europe via the Arctic route. Shippers must weigh transit time savings against substantial operational risks and insurance premiums."
+                "headline": "PORTS: PORT OF LOS ANGELES VOLUME SURGE",
+                "teaserTitle": "AMAZON DRONE DELIVERY EXPANSION",
+                "visual_caption": "The Port of Los Angeles is preparing for an incoming cargo volume surge as shippers reroute freight. Terminals are scaling landside handling capacity to manage heavy inflows."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: TANKER TRADE FLOW REVERSAL",
-                "teaserTitle": "DRONE DELIVERY NETWORK SCALING",
-                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia this month. Energy logistics managers must navigate changing vessel deployment schedules and rising spot charter rates."
+                "headline": "LAST MILE: AMAZON DRONE DELIVERY EXPANSION",
+                "teaserTitle": "CONTAINER SHIPPING CAPACITY DRAIN",
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x across major urban markets. Retail logistics leaders must evaluate autonomous delivery models."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DRONE DELIVERY NETWORK SCALING",
+                "headline": "OPERATIONS: CONTAINER SHIPPING CAPACITY DRAIN",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery network sixfold across major urban centers this year. Retail logistics leaders must evaluate the integration of autonomous delivery models into fulfillment frameworks."
+                "visual_caption": "Global container shipping networks are absorbing a 5% capacity drain from port congestion. Carriers must optimize turnaround times to counter equipment shortages."
             },
             {
                 "slide_index": 8,

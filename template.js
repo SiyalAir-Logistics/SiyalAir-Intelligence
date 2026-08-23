@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DWELL SLOTS CUT CAPACITY BY",
-        "titleBlue": "32",
-        "footerSummary": "Panama Canal reduces daily booking slots to 32 ships as worsening El Nino water deficits drive ocean freight rates higher."
+        "titleWhite": "TRUMP FIFTY PERCENT CANADA TARIFFS IN",
+        "titleBlue": "EFFECT",
+        "footerSummary": "Trump tariffs on Canada take effect as trade talks stall, threatening cross-border supply chains while carriers scramble to mitigate margin exposure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY REDUCTION",
+            "heading": "TARIFFS: CANADA LEVIES EFFECTIVE",
             "paragraphs": [
-                "The Panama Canal Authority is officially cutting daily transit booking capacity to 32 vessels starting in mid-September to manage ongoing El Nino water deficits. For booking dates effective September 4, the waterway will restrict operations to 9 neopanamax slots and select transit windows, intensifying vessel bottlenecks.",
-                "Transpacific ocean carriers and shippers must absorb tightening maritime capacity and re-engineer routing schedules to prevent severe port dwell times. Failing to secure forward slot allocations risks compounding transit delays and spot market rate volatility across global distribution networks."
+                "President Donald Trump's fifty percent tariff on many Canadian imports officially took effect after bilateral talks stalled before the weekend deadline. The two nations failed to reach a compromise regarding Section 338 levies, prompting Canada to vow immediate dollar-for-dollar retaliatory duties on cross-border shipments.",
+                "Supply chain leaders managing northern trade corridors must absorb sudden cost spikes and restructure procurement models to offset severe margin erosion. Importers relying on seamless cross-border freight face immediate financial exposure and prolonged customs bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA TERMINALS COMPENSATION",
+            "nextUpTease": "PANAMA CANAL TRANSIT CAPACITY",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: PANAMA TERMINALS COMPENSATION",
+            "heading": "MARITIME: PANAMA CANAL TRANSIT CAPACITY",
             "paragraphs": [
-                "Hong Kong-based CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial damages. The legal dispute follows Panama's seizure of the Balboa and Cristobal terminals after its Supreme Court unconstitutionally revoked long-standing operating concessions.",
-                "Global terminal operators face heightened sovereign risk exposure and complex cross-border asset liabilities when managing critical maritime infrastructure. Executive leadership must reassess international portfolios and incorporate robust legal protections to safeguard long-term capital investments."
+                "The Panama Canal Authority is moving forward with plans to trim daily shipping slots starting in mid-September due to worsening El Nino water deficits. This capacity reduction threatens to compound vessel queues and elevate spot freight rates across major transpacific maritime trade lanes.",
+                "Ocean carriers and logistics planners must re-evaluate vessel deployment schedules and secure forward-booking allocations to prevent costly port delays. Navigating these waterway restrictions requires proactive risk mitigation to protect operational continuity and transit timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRY LEADERSHIP TRANSITION",
+            "nextUpTease": "USTR FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "WORKFORCE: INDUSTRY LEADERSHIP TRANSITION",
+            "heading": "REGULATION: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his post, prompting a formal executive search for his successor. This high-profile leadership departure arrives as motor carriers navigate an onslaught of federal safety regulations, escalating trade tariffs, and complex court rulings.",
-                "Fleet operators must monitor national association advocacy shifts closely while managing tightening regulatory oversight and driver workforce pressures. Maintaining strategic alignment across legislative lobbying groups is vital for defending fleet operating margins and compliance standards."
+                "The Office of the United States Trade Representative is advancing new forced labor-based tariffs targeting 60 trading partners as legacy Section 122 duties expire. These aggressive enforcement measures introduce strict compliance mandates for global shippers importing goods into domestic distribution networks.",
+                "Supply chain executives face intense auditing requirements and must verify tier-one and tier-two vendor transparency to avoid costly cargo seizures. Failure to implement rigorous supply chain provenance tracking risks severe legal liabilities and multi-million-dollar inventory write-downs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER CAPACITY DRAIN",
+            "nextUpTease": "ATA EXECUTIVE LEADERSHIP TRANSITION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OPERATIONS: CONTAINER CAPACITY DRAIN",
+            "heading": "WORKFORCE: ATA EXECUTIVE LEADERSHIP TRANSITION",
             "paragraphs": [
-                "Global container shipping networks are currently absorbing a 5% capacity drain as persistent port congestion and terminal bottlenecks tie up active vessel strings. Analysts at Sea-Intelligence indicate that operational friction is locking up substantial fleet TEU capacity well outside historical norms.",
-                "Ocean carriers and logistics providers must optimize schedule reliability and vessel turnaround times to counter equipment leakage across major trade lanes. Effective terminal coordination remains essential for preventing cascading service failures and equipment shortages."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his post, triggering a high-stakes executive search for his successor. This leadership departure occurs as motor carriers confront an onslaught of complex federal safety rules, driver shortages, and escalating trade tariffs.",
+                "Fleet operators must monitor national advocacy shifts closely while managing tightening regulatory oversight and operational cost inflation across over-the-road networks. Maintaining strategic alignment with legislative bodies remains vital for defending motor carrier operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC TRADE ROUTE EXPANSION",
+            "nextUpTease": "PORT OF LOS ANGELES VOLUME SURGE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T15:51:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GLOBAL GATEWAYS: ARCTIC TRADE ROUTE EXPANSION",
+            "heading": "PORTS: PORT OF LOS ANGELES VOLUME SURGE",
             "paragraphs": [
-                "Chinese shipping line Sea Legend has announced the launch of a regular container service between China and Europe via the Arctic trade route. This announcement follows a successful 2025 trial crossing that saw a container ship travel from Ningbo-Zhoushan to Felixstowe in 20 days.",
-                "While the northern route offers reduced transit distances, western logistics operators face severe ice hazards, geopolitical friction, and limited infrastructure support. Shippers must weigh transit time savings against substantial operational risks and insurance premiums before committing cargo."
+                "The Port of Los Angeles is actively preparing for an incoming cargo volume surge as shippers aggressively reroute freight to bypass ongoing global trade risks. Terminal operators are scaling up landside handling capacity to manage heavy import inflows arriving ahead of traditional peak shipping windows.",
+                "Marine terminal congestion and chassis availability will test drayage efficiency as container volumes increase across West Coast gateways. Shippers must optimize pickup schedules to prevent escalating detention and demurrage fees from eroding regional distribution margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER TRADE FLOW REVERSAL",
+            "nextUpTease": "AMAZON DRONE DELIVERY EXPANSION",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T16:10:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: TANKER TRADE FLOW REVERSAL",
+            "heading": "LAST MILE: AMAZON DRONE DELIVERY EXPANSION",
             "paragraphs": [
-                "Russia is importing almost 270K tonnes of refined fuels from Asia this month, creating an extraordinary reversal in tanker trade flows. Repeated Ukrainian strikes on domestic refineries have left one of the world's largest energy producers temporarily short of refined fuel supplies.",
-                "This shift in maritime energy transit ties up regional product tankers and alters traditional bunker fuel pricing and availability across eastern lanes. Energy logistics managers must navigate changing vessel deployment schedules and rising spot charter rates to maintain continuity."
+                "E-commerce titan Amazon has announced plans to expand its Prime Air drone delivery network sixfold over the coming months across major metropolitan markets. This aggressive rollout introduces rapid aerial fulfillment hubs designed to capture immediate consumer demand in densely populated urban sectors.",
+                "Retail logistics directors must assess the integration of autonomous delivery models into traditional last-mile distribution frameworks to maintain competitive parity. Scaling these automated assets requires substantial capital investment and close coordination with municipal airspace regulators."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY NETWORK SCALING",
+            "nextUpTease": "CONTAINER SHIPPING CAPACITY DRAIN",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LAST MILE: DRONE DELIVERY NETWORK SCALING",
+            "heading": "OPERATIONS: CONTAINER SHIPPING CAPACITY DRAIN",
             "paragraphs": [
-                "E-commerce giant Amazon is aggressively expanding its Prime Air drone delivery network sixfold this year, launching rapid aerial fulfillment across metro Atlanta, Chicago, and Cleveland. This infrastructure scaling introduces new ultrafast shipping options designed to capture consumer demand in dense urban centers.",
-                "Retail logistics leaders must evaluate the integration of autonomous delivery models into their existing last-mile fulfillment frameworks. Adapting to these rapid delivery paradigms is critical for maintaining competitive advantage in omnichannel supply chain execution."
+                "Global container shipping networks are currently absorbing a 5% capacity drain as persistent port congestion and terminal bottlenecks tie up active vessel strings. Analysts indicate that operational friction is locking up substantial fleet TEU capacity well outside historical baseline norms.",
+                "Ocean carriers and freight forwarders must optimize schedule reliability and vessel turnaround times to counter equipment leakage across primary trade lanes. Effective terminal coordination remains essential for preventing cascading service failures and global equipment shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T13:51:00Z",
                 "Status: Audited & True"
             ]
         }
