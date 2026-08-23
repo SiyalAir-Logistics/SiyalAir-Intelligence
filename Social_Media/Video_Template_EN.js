@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA TARIFFS EFFECT",
+        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA DEADLINE",
-                "teaserTitle": "ATA CHIEF SPEAR DEPARTS",
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
+                "teaserTitle": "CANADA TARIFFS TAKE EFFECT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "President Trump's 50% tariff on Canadian imports takes effect as trade talks collapse. Ottawa vows to match the levies dollar for dollar across targeted sectors."
+                "narration_line": "The Panama Canal Authority has reduced daily booking capacity to thirty two transits due to worsening drought conditions. Neopanamax vessel slots are now strictly capped at nine per day, tightening interoceanic cargo flows."
             },
             {
                 "slide_index": 2,
-                "headline": "LEADERSHIP: ATA CHIEF DEPARTS",
-                "teaserTitle": "PANAMA NEOPANAMAX CUTS",
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "HUTCHISON SEEKS $1.5B DAMAGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "American Trucking Associations CEO Chris Spear steps down from his post. The federation has launched an immediate executive search for his successor."
+                "narration_line": "President Trump's fifty percent tariff on Canadian imports took immediate effect as bilateral trade negotiations collapsed. Ottawa has officially confirmed retaliatory duties will match U.S. levies dollar for dollar."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA NEOPANAMAX CUTS",
+                "headline": "LEGAL: HUTCHISON SEEKS $1.5B DAMAGES",
                 "teaserTitle": "PORT OF LA JULY VOLUMES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Panama Canal slashes daily booking capacity to 32 ships starting in September. Neopanamax vessel transits will be strictly capped at 9 per day."
+                "narration_line": "CK Hutchison Holdings has initiated international arbitration proceedings seeking one point five billion dollars from Panama. The legal action follows the controversial seizure of major container port terminal concessions."
             },
             {
                 "slide_index": 4,
                 "headline": "PORTS: PORT OF LA JULY VOLUMES",
-                "teaserTitle": "DESERTED BULKER SINKS",
+                "teaserTitle": "RUSSIAN FUEL TRADE REVERSAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles handled 960K TEUs in July, securing its second-best July on record. Strong front-loaded import demand drove gateway throughput."
+                "narration_line": "The Port of Los Angeles processed nine hundred sixty thousand TEUs in July, maintaining high import throughput. Sustained gateway activity requires operators to optimize drayage coordination and yard turnaround times."
             },
             {
                 "slide_index": 5,
-                "headline": "SAFETY: DESERTED BULKER SINKS",
-                "teaserTitle": "AMAZON EXPANDS DRONE NETWORK",
+                "headline": "TANKERS: RUSSIAN FUEL TRADE REVERSAL",
+                "teaserTitle": "BULKER SINKS OFF INDIA",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The bulk carrier Ocean Winner has sunk in the Bay of Bengal. A joint international search operation is currently underway for twenty-two missing crew members."
+                "narration_line": "Russia is importing two hundred seventy thousand tonnes of refined fuels from Asia this month due to domestic refinery strikes. This unusual trade reversal injects fresh volatility into international bunkering markets."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: AMAZON EXPANDS DRONE NETWORK",
-                "teaserTitle": "RUSSIAN FUEL TRADE REVERSAL",
+                "headline": "SAFETY: BULKER SINKS OFF INDIA",
+                "teaserTitle": "AMAZON EXPANDS DRONE NETWORK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery reach sixfold this year. New automated fulfillment services will launch across Atlanta, Chicago, and Cleveland."
+                "narration_line": "The bulk carrier Ocean Winner has sunk in the Bay of Bengal, leaving twenty-two crew members missing at sea. A joint search and rescue operation involving the Indian Coast Guard remains active."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: RUSSIAN FUEL TRADE REVERSAL",
+                "headline": "LOGISTICS: AMAZON EXPANDS DRONE NETWORK",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Russia is importing nearly 270K tonnes of refined fuels from Asia this month. Refinery strikes have reversed traditional tanker trade flows across the region."
+                "narration_line": "Amazon has announced a sixfold expansion of its Prime Air drone delivery footprint into major metropolitan areas. The aggressive deployment scales automated aerial fulfillment to capture high-density consumer demand."
             },
             {
                 "slide_index": 8,
