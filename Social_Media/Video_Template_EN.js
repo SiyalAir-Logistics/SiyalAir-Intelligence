@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEES HIT RECORD FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA QUEUE-JUMP",
-                "teaserTitle": "CANADA TARIFF STALEMATE",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass Panama Canal transit delays. This record fee highlights extreme carrier desperation amid tightening daily vessel capacity."
+                "narration_line": "United States trade officials are implementing Section three oh one tariffs on sixty trading partners. Importers face immediate cargo auditing and heightened customs documentation checks."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: CANADA DEADLINE",
-                "teaserTitle": "CK HUTCHISON ARBITRATION",
+                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "teaserTitle": "AIRCRAFT CAPACITY CRUNCH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "President Trump's fifty percent tariff on Canadian imports officially took effect after negotiations failed. Canadian officials vowed to match the levies dollar for dollar across cross-border supply chains."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in Rotterdam's Maasvlakte two terminal. The deal secures dedicated berth capacity to protect alliance schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "GLOBAL: PORT ARBITRATION",
-                "teaserTitle": "PENNSYLVANIA CDL CRACKDOWN",
+                "headline": "AIR CARGO: AIRCRAFT CAPACITY CRUNCH",
+                "teaserTitle": "SAUDI TANKER EVASIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CK Hutchison initiated one point five billion dollars in arbitration proceedings against Panama over seized terminals. The high-stakes legal battle creates significant regulatory uncertainty for global port operators."
+                "narration_line": "Aviation lessors project air cargo capacity bottlenecks will persist through twenty thirty. Airfreight operators face sustained rate pressure from soaring jet fuel expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: CDL FINES",
-                "teaserTitle": "TEXAS BORDER DRUG BUST",
+                "headline": "ENERGY: SAUDI TANKER EVASIONS",
+                "teaserTitle": "INDUSTRIAL WAREHOUSE REBOUND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania regulators can now impose twenty-five thousand dollar penalties on unlicensed driver schools. The law eliminates substandard training but requires fleets to verify partner compliance credentials."
+                "narration_line": "Saudi crude shipments are diverting northward on Sinokor tankers to evade maritime threats. The rerouting adds fuel costs with oil near ninety-four dollars a barrel."
             },
             {
                 "slide_index": 5,
-                "headline": "BORDER: METH INTERCEPTION",
-                "teaserTitle": "TRUCK-AWARE ROUTING TECH",
+                "headline": "REAL ESTATE: INDUSTRIAL WAREHOUSE REBOUND",
+                "teaserTitle": "AMAZON AUTOSTORE DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Customs officers uncovered nine point five million dollars in methamphetamine hidden inside a commercial detergent shipment. Stricter secondary screenings continue to cause unpredictable border processing delays."
+                "narration_line": "Industrial warehouse vacancy tightened to seven point three percent as tenant demand outpaced new builds. Logistics operators should expect rising facility lease rates through next year."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: ROUTING APPS",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
+                "headline": "AUTOMATION: AMAZON AUTOSTORE DEAL",
+                "teaserTitle": "ARCTIC CONTAINER ROUTE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Google Maps launched truck-aware routing to warn drivers about low bridges and weight limits. This commercial navigation tool helps prevent costly bridge strikes across urban delivery networks."
+                "narration_line": "Amazon has partnered with AutoStore to expand automated cube storage across fulfillment centers. The robotics rollout aims to accelerate same-day order processing speeds."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: LOS ANGELES VOLUME",
+                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Los Angeles reported its second-busiest July as importers rushed peak season inventories. Sustained high volumes demand flawless coordination to avoid demurrage and detention fees."
+                "narration_line": "Sea Legend has launched regular container services connecting China to Europe across the Arctic. The northern passage cuts ocean transit duration to twenty days."
             },
             {
                 "slide_index": 8,
