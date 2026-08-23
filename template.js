@@ -1,20 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFFS STALL AS TALKS",
-        "titleBlue": "FAIL",
-        "footerSummary": "Escalating trade friction as 50% Canadian import levies take effect while retaliatory measures loom across North American freight corridors."
+        "titleWhite": "PANAMA CANAL FEES HIT RECORD",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Surging queue-jump fees and severe draft restrictions squeeze global supply chain margins as carriers scramble for alternative routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: CANADA DEADLINE",
+            "heading": "MARITIME: PANAMA QUEUE-JUMP",
             "paragraphs": [
-                "President Donald Trump's 50% tariff on numerous Canadian imports officially took effect after negotiations between the 2 countries failed to yield an agreement before the Saturday deadline. Canadian officials immediately vowed to match the sweeping Section 338 levies dollar for dollar across cross-border supply chains.",
-                "This sudden escalation introduces severe cost volatility and administrative friction for manufacturers relying on integrated North American production networks. Supply chain executives must rapidly reassess landed costs and evaluate alternate sourcing strategies to protect operating margins."
+                "An empty liquefied petroleum gas tanker paid a record-breaking $4.6M queue-jump fee to bypass transit delays at the Panama Canal. The payment shatters previous records as ongoing water level deficits and El Ni\u00f1o conditions compress daily neopanamax vessel transits to 32 starting in mid-September.",
+                "This extreme financial outlay highlights the desperation among carriers seeking to avoid crippling schedule unreliability and mounting dwell times. Shippers must evaluate whether paying premium surcharges is financially viable compared to absorbing protracted supply chain disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SLOTS",
+            "nextUpTease": "CANADA TARIFF STALEMATE",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TARIFFS: CANADA DEADLINE",
+            "paragraphs": [
+                "President Donald Trump's 50% tariff on numerous Canadian imports officially took effect after negotiations between the 2 nations failed to yield an agreement before the deadline. Canadian officials immediately vowed to match the sweeping levies dollar for dollar across cross-border supply chains.",
+                "This sudden trade escalation introduces severe cost volatility and administrative friction for manufacturers relying on integrated North American production networks. Supply chain executives must rapidly reassess landed costs and evaluate alternate sourcing strategies to protect operating margins."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CK HUTCHISON ARBITRATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-22T00:00:00Z",
@@ -22,59 +37,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MARITIME: PANAMA SLOTS",
-            "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily neopanamax ship transits to 32 starting in mid-September as worsening rainfall deficits and El Ni\u00f1o conditions deplete water levels. Carriers and shippers face immediate capacity constraints and tightening vessel availability across primary global trade lanes.",
-                "This capacity contraction drives rising spot rates and severe schedule unreliability for Asia-US cargo movements. Enterprise logistics managers must secure alternative routings early to mitigate dwell time exposure and protect Q4 delivery commitments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TEXAS METH BUST",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "BORDER: TEXAS METH",
+            "heading": "GLOBAL: PORT ARBITRATION",
             "paragraphs": [
-                "CBP officers uncovered $9.5M in suspected methamphetamine concealed inside a commercial detergent shipment during a secondary inspection at the Roma International Bridge. The operation intercepted 240 illicit packages embedded directly within cross-border freight traffic from Mexico.",
-                "Stricter secondary screening protocols at southern ports of entry continue to create unpredictable processing delays for commercial carriers. Fleet operators must anticipate heightened border inspections and adjust transit schedules to account for extended dwell times."
+                "CK Hutchison Holdings has initiated $1.5B international arbitration proceedings against the government of Panama following the seizure of the Balboa and Cristobal ports. Panama's Supreme Court previously ruled that the conglomerate's long-term terminal operating concessions were unconstitutional.",
+                "This high-stakes legal battle creates significant regulatory uncertainty for international terminal operators managing critical maritime infrastructure. Global supply chain leaders must monitor geopolitical risks closely when allocating capital investments to foreign port assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY CASES",
+            "nextUpTease": "PENNSYLVANIA CDL CRACKDOWN",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LEGAL: BROKER LIABILITY",
+            "heading": "GOVERNMENT: CDL FINES",
             "paragraphs": [
-                "The legal exposure for freight brokers is intensifying as multiple high-profile cases, including Montgomery versus Caribe, proceed through appellate courts following massive nuclear verdicts. Plaintiffs are increasingly targeting third-party intermediaries with vicarious liability and negligent hiring claims.",
-                "This evolving legal precedent threatens to inflate insurance premiums and compel brokers to overhaul carrier vetting procedures. Logistics enterprises must implement rigorous compliance frameworks to mitigate catastrophic legal liabilities across partner networks."
+                "Pennsylvania regulators are enforcing a new state law empowering the transport agency to impose civil penalties of up to $25K on unlicensed commercial driver training schools. The measure is designed to eliminate substandard driver instruction and improve overall highway safety across commercial freight corridors.",
+                "While enhanced training standards elevate workforce quality, carrier recruitment pipelines may experience short-term capacity friction. Fleets must verify the compliance credentials of training partners to avoid hiring delays and administrative liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCK ROUTING TECH",
+            "nextUpTease": "TEXAS BORDER DRUG BUST",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: ROUTING TECH",
+            "heading": "BORDER: METH INTERCEPTION",
             "paragraphs": [
-                "Google Maps has launched specialized truck-aware routing designed to warn drivers about low bridges and strict weight limits before entering restricted corridors. The platform addresses a persistent industry hazard where standard consumer navigation apps misroute heavy commercial vehicles.",
-                "Widespread adoption of commercial-grade navigation tools helps prevent costly bridge strikes and catastrophic equipment damage across urban delivery networks. Fleet managers should integrate these advanced digital safeguards into daily dispatch operations."
+                "CBP officers uncovered $9.5M in suspected methamphetamine concealed inside a commercial detergent shipment during a secondary inspection at the Roma International Bridge. The operation successfully intercepted 240 illicit packages embedded directly within cross-border freight traffic from Mexico.",
+                "Stricter secondary screening protocols at southern ports of entry continue to create unpredictable processing delays for commercial carriers. Fleet operators must anticipate heightened border inspections and adjust transit schedules to account for extended dwell times."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS",
+            "nextUpTease": "TRUCK-AWARE ROUTING TECH",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-22T00:00:00Z",
@@ -83,22 +83,22 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "PARCEL: USPS RATES",
+            "heading": "TECHNOLOGY: ROUTING APPS",
             "paragraphs": [
-                "Online marketplace sellers are navigating new shipping pricing adjustments as select USPS rates on platforms like eBay drop, though rural ZIP codes remain excluded from the reductions. The segmented rate changes alter parcel fulfillment economics for e-commerce vendors operating high-volume distribution models.",
-                "While urban shippers benefit from lowered postage outlays, rural shipping overhead continues to compress merchant profit margins. Online retailers must optimize carrier mix strategies to maintain competitive pricing across diverse geographic zones."
+                "Google Maps has launched specialized truck-aware routing designed to warn commercial drivers about low bridges and strict weight limits before entering restricted corridors. The platform addresses a persistent industry hazard where standard consumer navigation apps misroute heavy freight vehicles.",
+                "Widespread adoption of commercial-grade navigation tools helps prevent costly bridge strikes and catastrophic equipment damage across urban delivery networks. Fleet managers should integrate these advanced digital safeguards into daily dispatch operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES",
+            "nextUpTease": "PORT OF LOS ANGELES VOLUME",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: LOS ANGELES",
+            "heading": "MARITIME: LOS ANGELES VOLUME",
             "paragraphs": [
                 "The Port of Los Angeles has reported its second-busiest July on record, handling immense container volumes as importers rush peak season inventories ahead of anticipated trade disruptions. Port terminals are actively scaling landside operations to prevent landside congestion.",
                 "Sustained high throughput volumes demand flawless coordination between ocean carriers, marine terminal operators, and drayage truckers. Supply chain directors must maintain proactive communication channels to avoid costly demurrage and detention fees."
