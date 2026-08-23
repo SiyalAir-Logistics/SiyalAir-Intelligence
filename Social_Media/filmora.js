@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "FORCED LABOR TARIFFS",
-                "visual_caption": "The Panama Canal Authority is cutting daily transits to 32 ships from mid-September due to severe drought constraints. Shippers face surging spot freight rates and tighter booking windows across major trade lanes."
+                "headline": "TRADE: CANADA TARIFF ESCALATION",
+                "teaserTitle": "ROTTERDAM TERMINAL ACQUISITION",
+                "visual_caption": "Cross-border trade negotiations have stalled, enacting a 50% tariff on select Canadian imports under Section 338. Canada plans to launch retaliatory levies starting Sept 8."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: FORCED LABOR TARIFFS",
-                "teaserTitle": "HUTCHISON PANAMA ARBITRATION",
-                "visual_caption": "The USTR is advancing forced labor tariffs on 60 trading nations under Section 301. Importers must execute rigorous upstream vendor audits to prevent costly customs seizures."
+                "headline": "INFRASTRUCTURE: ROTTERDAM TERMINAL ACQUISITION",
+                "teaserTitle": "CDL DATABASE LITIGATION",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II terminal at the Port of Rotterdam. The move secures primary hub capacity for the Gemini Cooperation ocean alliance."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: HUTCHISON PANAMA ARBITRATION",
-                "teaserTitle": "TANKER TRADE REVERSAL",
-                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in international arbitration over seized Panama ports. Global terminal operators face escalating sovereign risks in emerging trade corridors."
+                "headline": "LEGAL: CDL DATABASE LITIGATION",
+                "teaserTitle": "FLEET CONGESTION ABSORPTION",
+                "visual_caption": "22 states have sued to block a federal mandate demanding access to 17M commercial driver license records. State officials cite significant data privacy concerns and regulatory overreach."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: TANKER TRADE REVERSAL",
-                "teaserTitle": "UNLICENSED CDL PENALTIES",
-                "visual_caption": "Russia is importing 270K tons of Asian refined fuels following crippling refinery strikes. Liquid bulk charterers face extended ton-mile calculations and volatile bunker costs."
+                "headline": "MARITIME: FLEET CONGESTION ABSORPTION",
+                "teaserTitle": "CATERPILLAR TARIFF REFUND",
+                "visual_caption": "Global port congestion is currently absorbing 5% of the world container vessel fleet. This tie-up locks more than 1.7M TEUs out of operational circulation."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: UNLICENSED CDL PENALTIES",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE",
-                "visual_caption": "Pennsylvania regulators are imposing civil penalties of up to $25K on unlicensed CDL schools. Fleets must audit driver training credentials to eliminate severe liability exposures."
+                "headline": "FINANCE: CATERPILLAR TARIFF REFUND",
+                "teaserTitle": "ATA LEADERSHIP TRANSITION",
+                "visual_caption": "Caterpillar secured a $392M tariff refund last quarter using duty drawback programs. The refund helped offset $400M in gross customs duties."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
-                "visual_caption": "Sea Legend has launched a regular container shipping service connecting China to Europe via Arctic routes. Logistics planners must weigh transit time savings against severe ice and weather risks."
+                "headline": "TRUCKING: ATA LEADERSHIP TRANSITION",
+                "teaserTitle": "GULF OF ADEN HIJACKING",
+                "visual_caption": "American Trucking Associations President Chris Spear has stepped down as head of the organization. The industry group begins an immediate executive search during major regulatory and legal shifts."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
+                "headline": "SECURITY: GULF OF ADEN HIJACKING",
                 "teaserTitle": "",
-                "visual_caption": "The Port of Los Angeles recorded its 2nd-busiest July as shippers aggressively front-load peak inventory. Terminal managers must maintain container velocity to avoid inland gate congestion."
+                "visual_caption": "A commercial product tanker was hijacked in the Gulf of Aden and forced toward Somali waters. This marks the 2nd vessel seizure in the region within a single week."
             },
             {
                 "slide_index": 8,

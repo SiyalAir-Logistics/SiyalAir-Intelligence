@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL CAPACITY CUTS",
+        "hookTitle": "CANADA TARIFF ESCALATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "FORCED LABOR TARIFFS",
+                "headline": "TRADE: CANADA TARIFF ESCALATION",
+                "teaserTitle": "ROTTERDAM TERMINAL ACQUISITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is cutting daily transits down to thirty-two ships starting in mid-September due to severe drought constraints. Shippers face surging spot rates and tighter booking windows across Asia and West Coast trade lanes."
+                "narration_line": "Cross-border trade negotiations have stalled, enacting a fifty percent tariff on select Canadian imports under Section three thirty-eight. Canada plans to launch retaliatory levies starting September eighth."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: FORCED LABOR TARIFFS",
-                "teaserTitle": "HUTCHISON PANAMA ARBITRATION",
+                "headline": "INFRASTRUCTURE: ROTTERDAM TERMINAL ACQUISITION",
+                "teaserTitle": "CDL DATABASE LITIGATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is advancing forced labor tariffs on sixty trading nations under Section three hundred one. Importers must execute rigorous upstream vendor audits to prevent costly customs seizures."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in the Maasvlakte Two terminal at the Port of Rotterdam. The move secures primary hub capacity for the Gemini Cooperation ocean alliance."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: HUTCHISON PANAMA ARBITRATION",
-                "teaserTitle": "TANKER TRADE REVERSAL",
+                "headline": "LEGAL: CDL DATABASE LITIGATION",
+                "teaserTitle": "FLEET CONGESTION ABSORPTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CK Hutchison Holdings is seeking one point five billion dollars in international arbitration over seized Panama ports. Global terminal operators face escalating sovereign risks in emerging trade corridors."
+                "narration_line": "Twenty-two states have sued to block a federal mandate demanding access to seventeen million commercial driver license records. State officials cite significant data privacy concerns and regulatory overreach."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: TANKER TRADE REVERSAL",
-                "teaserTitle": "UNLICENSED CDL PENALTIES",
+                "headline": "MARITIME: FLEET CONGESTION ABSORPTION",
+                "teaserTitle": "CATERPILLAR TARIFF REFUND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Russia is importing two hundred seventy thousand tons of Asian refined fuels following crippling refinery strikes. Liquid bulk charterers face extended ton-mile calculations and volatile bunker costs."
+                "narration_line": "Global port congestion is currently absorbing five percent of the world container vessel fleet. This tie-up locks more than one point seven million twenty-foot equivalent units out of circulation."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: UNLICENSED CDL PENALTIES",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE",
+                "headline": "FINANCE: CATERPILLAR TARIFF REFUND",
+                "teaserTitle": "ATA LEADERSHIP TRANSITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Pennsylvania regulators are imposing civil penalties of up to twenty-five thousand dollars on unlicensed CDL schools. Fleets must audit driver training credentials to eliminate severe liability exposures."
+                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund last quarter using duty drawback programs. The refund helped offset four hundred million dollars in gross customs duties."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
+                "headline": "TRUCKING: ATA LEADERSHIP TRANSITION",
+                "teaserTitle": "GULF OF ADEN HIJACKING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Sea Legend has launched a regular container shipping service connecting China to Europe via Arctic routes. Logistics planners must weigh transit time savings against severe ice and weather risks."
+                "narration_line": "American Trucking Associations President Chris Spear has stepped down as head of the organization. The industry group begins an immediate executive search during major regulatory and legal shifts."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
+                "headline": "SECURITY: GULF OF ADEN HIJACKING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Los Angeles recorded its second-busiest July as shippers aggressively front-load peak inventory. Terminal managers must maintain container velocity to avoid inland gate congestion."
+                "narration_line": "A commercial product tanker was hijacked in the Gulf of Aden and forced toward Somali waters. This marks the second vessel seizure in the region within a single week."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CAPACITY",
-        "titleBlue": "CUTS",
-        "footerSummary": "Panama Canal cuts daily transits to 32 ships from September, driving Asia-USWC spot freight rates higher amid looming capacity crunches."
+        "titleWhite": "CANADA TARIFF",
+        "titleBlue": "ESCALATION",
+        "footerSummary": "Cross-border supply chains brace for immediate disruption as bilateral talks fail, triggering 50% tariffs and planned retaliatory duties."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+            "heading": "TRADE: CANADA TARIFF ESCALATION",
             "paragraphs": [
-                "The Panama Canal Authority is slashing daily booking capacity down to 32 ships starting in mid-September as worsening rainfall deficits force the waterway into defensive El Nino measures. For booking dates beginning September 4, the restricted transit schedule offers only nine Neopanamax and 23 Panamax slots, immediately tightening global container liquidity.",
-                "Shippers moving cargo from Asia to the US West Coast face mounting rate shocks and severe booking competition as vessel strings bypass restricted bottlenecks. Logistics planners must secure alternative routing agreements early to mitigate cascading transit delays and escalating spot market exposure."
+                "Cross-border bilateral negotiations collapsed without reaching a tariff exemption agreement, triggering a 50% import duty on broad categories of Canadian goods under Section 338. Canadian trade officials immediately announced matching reciprocal tariffs scheduled to take effect September 8.",
+                "Enterprise supply chains reliant on northern cross-border manufacturing inputs face severe margin compression and immediate landed cost increases. Shippers must rapidly audit border classifications and evaluate bonded warehousing strategies to minimize customs liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "FORCED LABOR TARIFFS",
+            "nextUpTease": "ROTTERDAM TERMINAL ACQUISITION",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-canada-tariffs-50-percent-deadline-trade-talks/724590/",
+                "Published: 2026-08-22T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: FORCED LABOR TARIFFS",
+            "heading": "INFRASTRUCTURE: ROTTERDAM TERMINAL ACQUISITION",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict forced labor-based tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive enforcement wave coincides with the expiration of legacy Section 122 tariffs, shifting compliance oversight directly onto enterprise supply chains.",
-                "Importers must perform comprehensive upstream tier-one through tier-three vendor audits to prevent crippling customs seizures and prohibitive duty penalties at ports of entry. Maintaining landed cost viability requires immediate legal and operational realignment with these expanded federal trade barriers."
+                "Hapag-Lloyd has finalized an agreement to acquire a 25% ownership stake in APM Terminals Maasvlakte II at the Port of Rotterdam from Maersk. The automated container terminal serves as a central transshipment hub for the upcoming Gemini Cooperation ocean carrier network.",
+                "The strategic equity acquisition consolidates terminal berthing priority and improves operational container handling efficiency across North Europe. Ocean freight forwarders must anticipate revised feeder schedules and concentrated hub-and-spoke vessel rotations."
             ],
             "imageUrl": "",
-            "nextUpTease": "HUTCHISON PANAMA ARBITRATION",
+            "nextUpTease": "CDL DATABASE LITIGATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/article/3312019/ustr-moves-ahead-with-forced-labor-based-tariffs-on-60-trading-partners",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.joc.com/article/maersk-sells-25-stake-in-rotterdam-terminal-to-hapag-lloyd-20260822",
+                "Published: 2026-08-22T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: HUTCHISON PANAMA ARBITRATION",
+            "heading": "LEGAL: CDL DATABASE LITIGATION",
             "paragraphs": [
-                "CK Hutchison Holdings has formally initiated international arbitration proceedings against the government of Panama, demanding $1.5B in financial damages following the seizure of strategic port terminals. The legal dispute escalates after local supreme court rulings nullified long-standing operating concessions at Balboa and Cristobal facilities.",
-                "Global terminal operators and infrastructure investors face heightened sovereign risk profiles when evaluating long-term concession agreements across volatile emerging trade corridors. This high-stakes litigation underscores the urgent need for structured risk mitigation clauses in international maritime contracts."
+                "A coalition of 22 state attorneys general has secured an initial legal injunction halting federal mandates that required states to grant unrestricted access to databases covering 17M commercial driver licenses. Regulators sought broader visibility to monitor safety records and cross-border commercial compliance.",
+                "Motor carriers and logistics employers navigate growing jurisdictional friction regarding driver qualification file auditing and privacy protections. Fleets must balance federal compliance reporting obligations with evolving state-level data privacy mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER TRADE REVERSAL",
+            "nextUpTease": "FLEET CONGESTION ABSORPTION",
             "tags": [
-                "Source: https://theloadstar.com/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/states-sue-trump-administration-over-bid-to-access-17-million-cdl-records",
+                "Published: 2026-08-22T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY: TANKER TRADE REVERSAL",
+            "heading": "MARITIME: FLEET CONGESTION ABSORPTION",
             "paragraphs": [
-                "Russia is importing nearly 270K tons of refined fuels from Asia this month, driving an extraordinary reversal in historical tanker trade flows across international markets. Repeated Ukrainian military strikes on domestic processing refineries have left the major energy producer critically short of refined products.",
-                "Liquid bulk charterers face soaring voyage expenses and extended ton-mile calculations as regional supply deficits force vessels into circuitous delivery pathways. Energy supply chains must continuously reprice bunker adjustments and monitor shifting fleet availability."
+                "Global port delays and terminal vessel queuing are currently absorbing 5% of the total global container fleet capacity, according to maritime intelligence data from Sea-Intelligence. The idle capacity represents over 1.7M TEUs locked in extended harbor dwell cycles across major trade gateways.",
+                "The systematic absorption of ocean capacity restricts effective container supply, placing upward pressure on transpacific and transatlantic spot rate benchmarks. Logistics planners face extended transit lead times and must build additional safety stock into ocean procurement planning."
             ],
             "imageUrl": "",
-            "nextUpTease": "UNLICENSED CDL PENALTIES",
+            "nextUpTease": "CATERPILLAR TARIFF REFUND",
             "tags": [
-                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://maritime-executive.com/article/port-delays-and-congestion-absorb-5-percent-of-industrys-teu-capacity",
+                "Published: 2026-08-21T15:51:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: UNLICENSED CDL PENALTIES",
+            "heading": "FINANCE: CATERPILLAR TARIFF REFUND",
             "paragraphs": [
-                "Pennsylvania regulators are aggressively enforcing a new state statute empowering authorities to levy civil penalties of up to $25K against unlicensed commercial driver training schools. The rigorous oversight measure aims to eliminate substandard instruction and enforce strict operator competency standards across local driver programs.",
-                "Motor carriers recruiting entry-level talent must meticulously audit school credentials to prevent onboarding operators with invalid certifications and high liability risks. Maintaining a fully compliant driver pipeline requires dedicated administrative oversight and rigorous verification protocols."
+                "Heavy equipment manufacturer Caterpillar secured a $392M federal tariff refund during the second quarter following successful administrative customs duty drawback claims. Despite the refund, the company incurred over $400M in gross tariff-related operating expenses across the same period.",
+                "The significant financial recovery highlights the material bottom-line impact of aggressive customs duty recovery and drawback compliance strategies. Enterprise shippers managing complex international component supply chains must establish dedicated tariff auditing protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC CONTAINER ROUTE",
+            "nextUpTease": "ATA LEADERSHIP TRANSITION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/new-pennsylvania-law-targets-unlicensed-cdl-schools",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-drawback-costs/724580/",
+                "Published: 2026-08-21T18:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: ARCTIC CONTAINER ROUTE",
+            "heading": "TRUCKING: ATA LEADERSHIP TRANSITION",
             "paragraphs": [
-                "Chinese shipping line Sea Legend has officially announced the launch of a regular container service connecting Chinese ports to Europe via the emerging Arctic trade route. The commercial rollout follows a successful 2025 trial crossing that transported cargo from Ningbo to Felixstowe in just 20 days.",
-                "While northern passages offer reduced nautical distances compared to traditional southern channels, severe ice obstacles and limited escort infrastructure continue to limit widespread adoption. Logistics executives must balance transit time reductions against extreme weather risks and specialized vessel requirements."
+                "American Trucking Associations President and CEO Chris Spear announced his official departure after leading the national motor carrier lobbying federation through major regulatory overhauls. The leadership transition occurs amid severe litigation pressure, rising diesel volatility, and shifting federal hours-of-service mandates.",
+                "The transition comes at a pivotal juncture as trucking fleets confront nuclear verdicts and regulatory overhauls affecting independent contractor classification. Motor carriers must track upcoming legislative priorities that influence driver supply and freight operating costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES VOLUME",
+            "nextUpTease": "GULF OF ADEN HIJACKING",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-opens-new-arctic-trade-route-but-obstacles-will-prevent-its-wider-use",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Published: 2026-08-21T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT: PORT OF LOS ANGELES VOLUME",
+            "heading": "SECURITY: GULF OF ADEN HIJACKING",
             "paragraphs": [
-                "The Port of Los Angeles has recorded its second-busiest July in operational history, handling massive import volumes as supply chain managers front-load inventory ahead of peak season disruptions. Terminal operators are successfully absorbing high container throughput despite lingering intermodal gate congestion.",
-                "Pacific import managers must leverage these resilient western gateway volumes while planning for inland rail and drayage capacity constraints. Proactive container velocity management remains essential to preventing costly demurrage charges during peak throughput cycles."
+                "A commercial product tanker operating in the Gulf of Aden was hijacked by armed regional actors and directed toward coastal Somali waters, marking renewed security vulnerabilities in the corridor. The incident represents the second major merchant vessel seizure reported in the area within seven days.",
+                "Commercial vessel operators operating near the Bab el-Mandeb strait face escalating maritime hull war risk insurance premiums and heightened route recalculations. Shippers must evaluate carrier security surcharges and prepare for selective vessel diversions via southern African passages."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/port-los-angeles-second-busiest-july",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://splash247.com/sanctioned-tanker-hijacked-in-gulf-of-aden/",
+                "Published: 2026-08-21T11:23:00Z",
                 "Status: Audited & True"
             ]
         }
