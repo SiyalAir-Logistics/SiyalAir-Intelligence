@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMPLIANCE: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "CATERPILLAR 392M TARIFF REFUND",
-                "visual_caption": "The USTR is rolling out Section 301 tariffs across 60 trading nations. Importers must verify full supply chain origin data immediately to prevent severe border cargo seizures."
+                "headline": "TARIFFS: CANADA TARIFFS STALL",
+                "teaserTitle": "PANAMA CANAL DWELL SLOTS",
+                "visual_caption": "President Trump implements 50% tariffs on Canada imports after trade talks stall. Shippers face immediate cost increases and retaliatory trade friction."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCE: CATERPILLAR 392M TARIFF REFUND",
-                "teaserTitle": "HAPAG BUYS ROTTERDAM STAKE",
-                "visual_caption": "Caterpillar secured a $392M duty refund, offsetting $400M in quarterly tariff costs. Effective duty drawback programs remain critical for defending industrial manufacturing margins."
+                "headline": "MARITIME: PANAMA CANAL DWELL SLOTS",
+                "teaserTitle": "ROADONE EXPANDS PORT OPERATIONS",
+                "visual_caption": "The Panama Canal Authority trims daily transits due to El Nino and draught limits. Shippers must prepare for extended maritime transit lead times."
             },
             {
                 "slide_index": 3,
-                "headline": "TERMINALS: HAPAG BUYS ROTTERDAM STAKE",
-                "teaserTitle": "HOME DEPOT EXPRESS DELIVERY",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II terminal at Rotterdam. This hub acquisition secures vital berth priority ahead of upcoming Gemini Cooperation alliance sailings."
+                "headline": "INTERMODAL: ROADONE EXPANDS PORT OPERATIONS",
+                "teaserTitle": "STATES BLOCK CDL DATABASE",
+                "visual_caption": "RoadOne acquires drayage assets to expand Charleston port operations. The investment boosts container velocity and gateway terminal reliability."
             },
             {
                 "slide_index": 4,
-                "headline": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR",
-                "visual_caption": "Home Depot launched nationwide 3-hour delivery using 2,000 retail stores as fulfillment hubs. Decentralized store inventory continues to compress last-mile transit times across urban consumer markets."
+                "headline": "REGULATION: STATES BLOCK CDL DATABASE",
+                "teaserTitle": "PENNSYLVANIA TARGETS CDL SCHOOLS",
+                "visual_caption": "A federal court blocks central access to 17M commercial driver records. Motor carriers must navigate fragmented state clearance systems."
             },
             {
                 "slide_index": 5,
-                "headline": "AVIATION: AMAZON EXPANDS PRIME AIR",
-                "teaserTitle": "RUSSIAN TANKER ROUTE REVERSAL",
-                "visual_caption": "Amazon is expanding its Prime Air drone operations sixfold across Atlanta, Chicago, and Cleveland. Autonomous commercial flight networks are actively bypassing ground road congestion for rapid parcel delivery."
+                "headline": "COMPLIANCE: PENNSYLVANIA TARGETS CDL SCHOOLS",
+                "teaserTitle": "SAUDI OIL TANKER REVERSAL",
+                "visual_caption": "Pennsylvania law imposes $25K fines on unlicensed CDL training schools. Fleets must audit driver credentials to mitigate liability risks."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: RUSSIAN TANKER ROUTE REVERSAL",
-                "teaserTitle": "STATES BLOCK CDL ACCESS",
-                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia following refinery disruptions. This sudden trade reversal is tightening product tanker capacity and lifting maritime charter rates."
+                "headline": "ENERGY: SAUDI OIL TANKER REVERSAL",
+                "teaserTitle": "CK HUTCHISON PANAMA LAWSUIT",
+                "visual_caption": "Tankers transport oil north to evade threats near the Strait of Hormuz. Liquid bulk charterers absorb higher costs and longer voyage routes."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: STATES BLOCK CDL ACCESS",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "22 states secured an injunction blocking federal access to 17M commercial driver records. Motor carriers must manage driver compliance across fragmented individual state verification systems."
+                "headline": "LEGAL: CK HUTCHISON PANAMA LAWSUIT",
+                "teaserTitle": "",
+                "visual_caption": "CK Hutchison seeks $1.5B in damages over seized Panama port terminals. International operators face rising sovereign risks in infrastructure assets."
             },
             {
                 "slide_index": 8,

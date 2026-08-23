@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR expands Section 301 tariffs across 60 trade partners as Section 122 expires, escalating compliance risk and landed costs."
+        "titleWhite": "CANADA TARIFFS",
+        "titleBlue": "STALL",
+        "footerSummary": "Trump 50% tariffs on Canada imports take effect as bilateral talks stall, prompting threats of dollar-for-dollar retaliation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "COMPLIANCE: USTR FORCED LABOR TARIFFS",
+            "heading": "TARIFFS: CANADA TARIFFS STALL",
             "paragraphs": [
-                "The Office of the United States Trade Representative has confirmed new tariff actions targeting 60 trading partners under Section 301 of the Trade Act of 1974. This enforcement pivot takes effect immediately as Section 122 duties expire, placing mandatory forced-labor auditing standards across global supplier networks.",
-                "Importers face immediate increases in customs scrutiny, documentation burdens, and landed duty costs across diversified sourcing hubs. Trade compliance teams must instantly verify Tier 1 through Tier 3 origin data to defend supply chain continuity against border cargo holds."
+                "President Donald Trump has allowed a 50% tariff on many Canadian imports to take effect following the collapse of bilateral trade negotiations. The two nations failed to reach a formal agreement before the deadline for Section 338 levies, prompting Canadian officials to vow dollar-for-dollar retaliatory duties.",
+                "Importers moving goods across the northern border face immediate cost inflation and severe supply chain friction as customs brokers process the new punitive rates. Shippers must rapidly evaluate alternative sourcing options to protect landed margins against escalating trade barriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR 392M TARIFF REFUND",
+            "nextUpTease": "PANAMA CANAL DWELL SLOTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-22T14:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FINANCE: CATERPILLAR 392M TARIFF REFUND",
+            "heading": "MARITIME: PANAMA CANAL DWELL SLOTS",
             "paragraphs": [
-                "Caterpillar secured a $392M duty refund following complex trade renegotiations, substantially offsetting the $400M in gross tariff liabilities incurred during the second quarter. The heavy-machinery manufacturer managed to curtail net duty drag through aggressive customs classification reviews and bonded channel routing.",
-                "Corporate shippers navigating volatile cross-border tariffs must actively leverage drawback mechanisms and trade preference programs to protect operating margins. Recovering capital from duty outlays requires rigorous ledger tracking and automated tariff audit controls."
+                "The Panama Canal Authority is moving to trim daily vessel transit slots due to persistent El Nino weather disruptions and shifting draught constraints. Container lines navigating the critical waterway face tighter scheduling windows and mounting congestion as available capacity shrinks.",
+                "Logistics planners must anticipate extended maritime transit times and reroute vessel strings toward intermodal alternatives to bypass anticipated bottlenecks. Failure to adjust lead times early will result in costly cargo delays and compromised delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG BUYS ROTTERDAM STAKE",
+            "nextUpTease": "ROADONE EXPANDS PORT OPERATIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T11:15:00Z",
+                "Published: 2026-08-22T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TERMINALS: HAPAG BUYS ROTTERDAM STAKE",
+            "heading": "INTERMODAL: ROADONE EXPANDS PORT OPERATIONS",
             "paragraphs": [
-                "Hapag-Lloyd has acquired a 25% ownership stake from Maersk in the highly automated Maasvlakte II container terminal at the Port of Rotterdam. The strategic transaction solidifies terminal control ahead of the operational rollout of the Gemini Cooperation network.",
-                "Securing direct equity in European gateway infrastructure grants ocean carriers prioritized berth windows, accelerated crane handling, and improved equipment turnaround times. Shippers benefit from higher schedule reliability across transatlantic and Asia-Europe freight corridors."
+                "RoadOne has officially finalized the acquisition of regional drayage assets to significantly expand its container operations at the Port of Charleston. The strategic buyout strengthens the logistics provider's terminal footprint to handle rising import volumes ahead of the peak shipping season.",
+                "Port logistics managers gain enhanced drayage reliability and expanded chassis availability across southeastern export gateways. Shippers can leverage these localized terminal investments to streamline container velocity and mitigate inland gate congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "HOME DEPOT EXPRESS DELIVERY",
+            "nextUpTease": "STATES BLOCK CDL DATABASE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-22T09:40:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-21T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
+            "heading": "REGULATION: STATES BLOCK CDL DATABASE",
             "paragraphs": [
-                "Home Depot has launched nationwide express delivery within 3 hours or less across thousands of stock-keeping units. The service leverages more than 2,000 retail storefronts as micro-fulfillment distribution hubs to meet surging demand for urgent job-site materials.",
-                "Retail logistics networks are rapidly decentralizing inventory to compress last-mile cycle times and reduce regional line-haul expenses. Final-mile logistics managers must balance urban fleet dispatch density against store replenishment frequencies to sustain profitable rapid order execution."
+                "A coalition of 22 states has successfully secured a federal court injunction blocking centralized access to records covering 17M commercial driver license holders. The legal challenge halts federal data consolidation efforts over strict state sovereignty and driver privacy protections.",
+                "Motor carriers and fleet safety directors must continue navigating a fragmented network of state-level clearinghouses for driver vetting and background checks. This administrative complexity increases compliance overhead and demands dedicated legal oversight for cross-border operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON EXPANDS PRIME AIR",
+            "nextUpTease": "PENNSYLVANIA TARGETS CDL SCHOOLS",
             "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: 2026-08-22T08:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-21T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AVIATION: AMAZON EXPANDS PRIME AIR",
+            "heading": "COMPLIANCE: PENNSYLVANIA TARGETS CDL SCHOOLS",
             "paragraphs": [
-                "Amazon has announced plans to expand its Prime Air drone delivery operations sixfold throughout the current fiscal year. New autonomous flight networks are launching across major metropolitan zones, including Atlanta, Chicago, and Cleveland, to bypass ground road bottlenecks.",
-                "Air freight and parcel operators face growing competition from low-altitude automated delivery corridors capable of bypassing terrestrial transit congestion. Integrating automated aerial assets demands continuous compliance with strict commercial airspace safety parameters."
+                "Pennsylvania regulators are enforcing a new state law empowering authorities to impose civil penalties of up to $25K on unlicensed commercial driver training schools. The strict oversight measure aims to eliminate substandard instruction and ensure rigorous operator competency standards across local programs.",
+                "Carriers recruiting entry-level talent must meticulously audit training school credentials to avoid onboarding drivers with invalid certifications. Maintaining a compliant driver pipeline requires heightened verification protocols to protect fleets from vicarious liability risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RUSSIAN TANKER ROUTE REVERSAL",
+            "nextUpTease": "SAUDI OIL TANKER REVERSAL",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T07:25:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T14:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: RUSSIAN TANKER ROUTE REVERSAL",
+            "heading": "ENERGY: SAUDI OIL TANKER REVERSAL",
             "paragraphs": [
-                "Russia is importing approximately 270K tonnes of refined fuels from Asian refining hubs this month, marking a historic reversal in global tanker flow patterns. Ongoing domestic refinery disruptions have forced one of the world's primary energy producers to become a net product importer.",
-                "Liquid bulk tanker markets are absorbing sudden ton-mile structural shifts that tighten vessel availability and drive up charter rates across Asian maritime lanes. Shippers moving refined petrochemicals must prepare for elevated bunker fuel adjustment factors and extended voyage lead times."
+                "Middle Eastern energy operators are shuttling crude oil northward on Sinokor tankers to bypass persistent security threats and Houthi activity around the Strait of Hormuz. This maritime route adaptation maintains regional export flows while avoiding high-risk chokepoints in the southern Gulf.",
+                "Liquid bulk charterers face increased voyage expenses and extended ton-mile calculations as vessels take circuitous paths to secure energy shipments. Energy supply chains must price in volatile bunker adjustments and shifting vessel availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATES BLOCK CDL ACCESS",
+            "nextUpTease": "CK HUTCHISON PANAMA LAWSUIT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T22:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: STATES BLOCK CDL ACCESS",
+            "heading": "LEGAL: CK HUTCHISON PANAMA LAWSUIT",
             "paragraphs": [
-                "A federal court ruling has granted 22 states an injunction blocking centralized federal access to records covering 17M commercial driver license holders. The legal victory halts immediate federal data consolidation over statutory privacy and state sovereignty protections.",
-                "Fleet safety directors and motor carriers must continue navigating fragmented state-level clearinghouses for driver qualification and background compliance audits. Maintaining cross-border trucking capacity requires dedicated compliance resources to manage varying state enforcement protocols."
+                "CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial damages. The legal action follows the controversial seizure of the Balboa and Cristobal port terminals after local courts nullified existing operating concessions.",
+                "Global terminal operators and infrastructure investors face heightened sovereign risk when evaluating long-term concession agreements in emerging trade corridors. Legal disputes of this magnitude underscore the necessity of robust risk mitigation frameworks for international port assets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-22T01:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T09:15:00Z",
                 "Status: Audited & True"
             ]
         }
