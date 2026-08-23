@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE SURGES",
-                "teaserTitle": "CANADA TARIFF DEADLINE",
-                "visual_caption": "An LPG tanker paid $4.6M to cut the Panama Canal queue. This record fee highlights severe maritime bottlenecks and rising voyage costs."
+                "headline": "MARITIME: ASIA USWC RATES SURGE",
+                "teaserTitle": "PANAMA TRANSIT SLOTS",
+                "visual_caption": "Asia to U.S. West Coast freight rates are surging rapidly as shippers race to circumvent Panama Canal restrictions. Carriers report an immediate influx of cargo bookings seeking alternative routings."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: CANADA DEADLINE",
-                "teaserTitle": "HUTCHISON SEEKING DAMAGES",
-                "visual_caption": "President Trump's 50% tariff on Canadian imports took effect after trade talks collapsed. Ottawa vowed to match levies dollar for dollar."
+                "headline": "WATERWAYS: PANAMA TRANSIT SLOTS",
+                "teaserTitle": "CANADA TARIFF STALLS",
+                "visual_caption": "The Panama Canal Authority will cut 1 daily Neopanamax ship transit starting in September due to water resource constraints. This reduction removes vital capacity from global supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: HUTCHISON SEEKING DAMAGES",
-                "teaserTitle": "BULKER SINKS OFF INDIA",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama through international arbitration. The dispute stems from the seizure of two port terminals."
+                "headline": "TARIFFS: CANADA DEADLINE STALLS",
+                "teaserTitle": "ATA CHIEF DEPARTS",
+                "visual_caption": "U.S. and Canadian trade negotiations have stalled ahead of enforcement deadlines for Section 338 levies. Ottawa plans to deploy retaliatory duties if the 50% tariffs take effect."
             },
             {
                 "slide_index": 4,
-                "headline": "SAFETY: BULKER SINKS OFF INDIA",
-                "teaserTitle": "AMAZON DRONE EXPANSION",
-                "visual_caption": "The bulker Ocean Winner sank in the Bay of Bengal with 22 crew members missing. Coast guard and navy vessels are conducting rescue operations."
+                "headline": "LEADERSHIP: ATA CHIEF DEPARTS",
+                "teaserTitle": "INTERMODAL VOLUME REBOUND",
+                "visual_caption": "American Trucking Associations President and CEO Chris Spear has departed, initiating an urgent leadership search. The trucking sector navigates intense regulatory pressure and compliance mandates."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "teaserTitle": "RUSSIAN FUEL REVERSAL",
-                "visual_caption": "Amazon announced a 6X expansion of its Prime Air drone delivery footprint into major metros. The automated rollout increases courier pressure."
+                "headline": "RAIL: INTERMODAL VOLUME REBOUND",
+                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
+                "visual_caption": "U.S. domestic intermodal traffic has increased as shippers return to historical norms due to tightening truckload capacity. Surging spot rates have made rail intermodal a key cost-mitigation alternative."
             },
             {
                 "slide_index": 6,
-                "headline": "TANKERS: RUSSIAN FUEL REVERSAL",
-                "teaserTitle": "ATA CHIEF STEPS DOWN",
-                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia to offset refinery strikes. This trade reversal creates fresh tanker market volatility."
+                "headline": "PORT: ROTTERDAM TERMINAL STAKE",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the automated Maasvlakte II facility at Rotterdam. This strategic move reinforces carrier control over key European gateway infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "LEADERSHIP: ATA CHIEF STEPS DOWN",
+                "headline": "LOGISTICS: DRONE DELIVERY EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "American Trucking Associations President Chris Spear has stepped down from his post. The exit coincides with mounting regulatory hurdles for carriers."
+                "visual_caption": "Amazon has announced a 6x expansion of its Prime Air drone delivery footprint across major U.S. metropolitan markets. The rollout scales automated aerial fulfillment to capture high-density demand."
             },
             {
                 "slide_index": 8,
