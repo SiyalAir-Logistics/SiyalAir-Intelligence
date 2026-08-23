@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL SLOTS REDUCED",
+        "hookTitle": "PANAMA CANAL RESTRICTIONS TRIGGER ASIA SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL SLOTS",
-                "teaserTitle": "PANAMA PORTS ARBITRATION",
+                "headline": "MARITIME: ASIA RATE SURGE",
+                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal is cutting daily booking capacity to 32 ships from mid-September due to worsening rainfall deficits. This restriction forces carriers to seek alternatives while driving queue jump fees past 4.6 million dollars."
+                "narration_line": "Asia to West Coast ocean freight rates are surging rapidly as carriers preempt Panama Canal slot reductions. This capacity contraction threatens severe schedule unreliability across transpacific trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: PANAMA PORTS ARBITRATION",
-                "teaserTitle": "RUSSIAN FUEL TANKER SHIFT",
+                "headline": "LEGAL: TERMINALS COMPENSATION",
+                "teaserTitle": "ATA PRESIDENT DEPARTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison has initiated international arbitration proceedings seeking 1.5 billion dollars in damages from Panama. The legal dispute stems from the seizure of terminal concessions following a supreme court ruling."
+                "narration_line": "CK Hutchison Holdings has initiated international arbitration seeking one point five billion dollars from Panama. The legal dispute follows the controversial seizure of terminal operations at Balboa and Cristobal."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: RUSSIAN TANKER SHIFT",
-                "teaserTitle": "TRUCKING LEADERSHIP TRANSITION",
+                "headline": "TRUCKING: ATA CHIEF DEPARTS",
+                "teaserTitle": "CAPACITY ABSORPTION METRICS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Persistent refinery strikes have forced Russia to import 270 thousand tons of refined fuels from Asia this month. This extraordinary trade reversal strains regional tanker availability and disrupts traditional routes."
+                "narration_line": "American Trucking Associations President Chris Spear has officially stepped down from his post. The leadership transition introduces strategic uncertainty during a critical regulatory period."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA CHIEF DEPARTS",
-                "teaserTitle": "CONTAINER CAPACITY ABSORPTION",
+                "headline": "MARITIME: CAPACITY ABSORPTION",
+                "teaserTitle": "STATE CDL LAWS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Trucking Associations President and CEO Chris Spear has officially departed the federation. The leadership change introduces strategic uncertainty during a critical period of regulatory enforcement."
+                "narration_line": "Global port bottlenecks are currently absorbing five percent of total container shipping capacity. This immobilization of vessel assets underpins elevated spot freight rates across major corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: CAPACITY ABSORPTION",
-                "teaserTitle": "USMCA TARIFF DEADLINE",
+                "headline": "REGULATION: STATE CDL LAWS",
+                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Global port delays and network disruptions are currently absorbing 5% of the shipping industry's total TEU capacity. This immobilization of assets reduces effective fleet availability and supports elevated freight rates."
+                "narration_line": "Pennsylvania regulators can now impose civil penalties of up to twenty five thousand dollars on unlicensed schools. The measure targets unqualified training operations to enhance corridor safety."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: TARIFF DEADLINES",
-                "teaserTitle": "INTERMODAL FREIGHT REBOUND",
+                "headline": "MARITIME: ROTTERDAM STAKE",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "President Trump's 50% tariffs on Canadian imports officially took effect after bilateral trade talks stalled. Shippers must absorb surging duty costs or restructure supply chains to mitigate tariff exposure."
+                "narration_line": "Maersk has sold a twenty five percent equity stake in Rotterdam's terminal to Hapag-Lloyd. The divestment solidifies infrastructure coordination for the upcoming Gemini Cooperation network."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: TRAFFIC REBOUND",
+                "headline": "LOGISTICS: DRONE EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Tightening truckload capacity is driving a strong return of domestic intermodal traffic to North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in transportation budgets."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major metropolitan markets. The scaling initiative integrates autonomous aerial fulfillment directly into last-mile loops."
             },
             {
                 "slide_index": 8,

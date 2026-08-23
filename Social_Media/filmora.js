@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL SLOTS",
-                "teaserTitle": "PANAMA PORTS ARBITRATION",
-                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships from mid-September due to worsening rainfall deficits. This restriction forces carriers to seek alternatives while driving queue-jump fees past $4.6M."
+                "headline": "MARITIME: ASIA RATE SURGE",
+                "teaserTitle": "PANAMA TERMINALS COMPENSATION",
+                "visual_caption": "Asia-US West Coast rates surge as carriers preempt Panama Canal slot cuts. Capacity contraction threatens severe schedule unreliability across transpacific trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: PANAMA PORTS ARBITRATION",
-                "teaserTitle": "RUSSIAN FUEL TANKER SHIFT",
-                "visual_caption": "CK Hutchison has initiated international arbitration proceedings seeking $1.5B in damages from Panama. The legal dispute stems from the seizure of terminal concessions following a supreme court ruling."
+                "headline": "LEGAL: TERMINALS COMPENSATION",
+                "teaserTitle": "ATA PRESIDENT DEPARTS",
+                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over port seizures. The legal action escalates sovereign risk profiles for international terminal operators."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: RUSSIAN TANKER SHIFT",
-                "teaserTitle": "TRUCKING LEADERSHIP TRANSITION",
-                "visual_caption": "Persistent refinery strikes have forced Russia to import 270K tons of refined fuels from Asia this month. This extraordinary trade reversal strains regional tanker availability and disrupts traditional routes."
+                "headline": "TRUCKING: ATA CHIEF DEPARTS",
+                "teaserTitle": "CAPACITY ABSORPTION METRICS",
+                "visual_caption": "ATA President Chris Spear has officially stepped down from his position. The transition introduces strategic uncertainty during active regulatory enforcement."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ATA CHIEF DEPARTS",
-                "teaserTitle": "CONTAINER CAPACITY ABSORPTION",
-                "visual_caption": "American Trucking Associations President and CEO Chris Spear has officially departed the federation. The leadership change introduces strategic uncertainty during a critical period of regulatory enforcement."
+                "headline": "MARITIME: CAPACITY ABSORPTION",
+                "teaserTitle": "STATE CDL LAWS",
+                "visual_caption": "Global port bottlenecks are absorbing 5% of total container shipping capacity. Vessel asset immobilization underpins elevated spot freight rates globally."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: CAPACITY ABSORPTION",
-                "teaserTitle": "USMCA TARIFF DEADLINE",
-                "visual_caption": "Global port delays and network disruptions are currently absorbing 5% of the shipping industry's total TEU capacity. This immobilization of assets reduces effective fleet availability and supports elevated freight rates."
+                "headline": "REGULATION: STATE CDL LAWS",
+                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
+                "visual_caption": "Pennsylvania enforces up to $25K fines on unlicensed CDL training schools. The crackdown increases compliance scrutiny across commercial motor carrier networks."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: TARIFF DEADLINES",
-                "teaserTitle": "INTERMODAL FREIGHT REBOUND",
-                "visual_caption": "President Trump's 50% tariffs on Canadian imports officially took effect after bilateral trade talks stalled. Shippers must absorb surging duty costs or restructure supply chains to mitigate tariff exposure."
+                "headline": "MARITIME: ROTTERDAM STAKE",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "visual_caption": "Maersk sold a 25% stake in Rotterdam terminal to Hapag-Lloyd. The asset sale aligns gateway infrastructure for the Gemini Cooperation network."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: TRAFFIC REBOUND",
+                "headline": "LOGISTICS: DRONE EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Tightening truckload capacity is driving a strong return of domestic intermodal traffic to North American railroads. Shippers are aggressively shifting long-haul freight off highways to rein in transportation budgets."
+                "visual_caption": "Amazon is expanding Prime Air drone delivery reach 6x across US metros. Autonomous aerial fulfillment integrates directly into urban last-mile loops."
             },
             {
                 "slide_index": 8,
