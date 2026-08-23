@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA TARIFFS STALL",
+        "hookTitle": "PANAMA CANAL CAPACITY CUTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA TARIFFS STALL",
-                "teaserTitle": "PANAMA CANAL DWELL SLOTS",
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "President Trump implemented fifty percent tariffs on Canadian imports after bilateral trade talks collapsed. Affected shippers must evaluate alternative sourcing to protect operating margins."
+                "narration_line": "The Panama Canal Authority is cutting daily transits down to thirty-two ships starting in mid-September due to severe drought constraints. Shippers face surging spot rates and tighter booking windows across Asia and West Coast trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL DWELL SLOTS",
-                "teaserTitle": "ROADONE EXPANDS PORT OPERATIONS",
+                "headline": "REGULATION: FORCED LABOR TARIFFS",
+                "teaserTitle": "HUTCHISON PANAMA ARBITRATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal Authority is reducing daily transit slots due to persistent weather and draught limits. Logistics teams must anticipate longer transit times."
+                "narration_line": "The United States Trade Representative is advancing forced labor tariffs on sixty trading nations under Section three hundred one. Importers must execute rigorous upstream vendor audits to prevent costly customs seizures."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL: ROADONE EXPANDS PORT OPERATIONS",
-                "teaserTitle": "STATES BLOCK CDL DATABASE",
+                "headline": "LEGAL: HUTCHISON PANAMA ARBITRATION",
+                "teaserTitle": "TANKER TRADE REVERSAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "RoadOne acquired regional assets to expand container operations at the Port of Charleston. This investment enhances regional drayage reliability for shippers."
+                "narration_line": "CK Hutchison Holdings is seeking one point five billion dollars in international arbitration over seized Panama ports. Global terminal operators face escalating sovereign risks in emerging trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: STATES BLOCK CDL DATABASE",
-                "teaserTitle": "PENNSYLVANIA TARGETS CDL SCHOOLS",
+                "headline": "ENERGY: TANKER TRADE REVERSAL",
+                "teaserTitle": "UNLICENSED CDL PENALTIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A federal court blocked central access to records for seventeen million commercial drivers. Motor carriers must continue managing fragmented state clearinghouses."
+                "narration_line": "Russia is importing two hundred seventy thousand tons of Asian refined fuels following crippling refinery strikes. Liquid bulk charterers face extended ton-mile calculations and volatile bunker costs."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: PENNSYLVANIA TARGETS CDL SCHOOLS",
-                "teaserTitle": "SAUDI OIL TANKER REVERSAL",
+                "headline": "COMPLIANCE: UNLICENSED CDL PENALTIES",
+                "teaserTitle": "ARCTIC CONTAINER ROUTE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Pennsylvania enacted a law imposing twenty-five thousand dollar fines on unlicensed training schools. Fleets must audit driver credentials to ensure compliance."
+                "narration_line": "Pennsylvania regulators are imposing civil penalties of up to twenty-five thousand dollars on unlicensed CDL schools. Fleets must audit driver training credentials to eliminate severe liability exposures."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: SAUDI OIL TANKER REVERSAL",
-                "teaserTitle": "CK HUTCHISON PANAMA LAWSUIT",
+                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
+                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Tankers are moving oil northward to bypass security threats in the Strait of Hormuz. Bulk charterers face higher voyage expenses and longer lead times."
+                "narration_line": "Sea Legend has launched a regular container shipping service connecting China to Europe via Arctic routes. Logistics planners must weigh transit time savings against severe ice and weather risks."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: CK HUTCHISON PANAMA LAWSUIT",
+                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CK Hutchison seeks one point five billion dollars in damages over seized Panama ports. Investors face rising sovereign risks in global maritime infrastructure."
+                "narration_line": "The Port of Los Angeles recorded its second-busiest July as shippers aggressively front-load peak inventory. Terminal managers must maintain container velocity to avoid inland gate congestion."
             },
             {
                 "slide_index": 8,

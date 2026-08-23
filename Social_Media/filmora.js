@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA TARIFFS STALL",
-                "teaserTitle": "PANAMA CANAL DWELL SLOTS",
-                "visual_caption": "President Trump implements 50% tariffs on Canada imports after trade talks stall. Shippers face immediate cost increases and retaliatory trade friction."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "FORCED LABOR TARIFFS",
+                "visual_caption": "The Panama Canal Authority is cutting daily transits to 32 ships from mid-September due to severe drought constraints. Shippers face surging spot freight rates and tighter booking windows across major trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL DWELL SLOTS",
-                "teaserTitle": "ROADONE EXPANDS PORT OPERATIONS",
-                "visual_caption": "The Panama Canal Authority trims daily transits due to El Nino and draught limits. Shippers must prepare for extended maritime transit lead times."
+                "headline": "REGULATION: FORCED LABOR TARIFFS",
+                "teaserTitle": "HUTCHISON PANAMA ARBITRATION",
+                "visual_caption": "The USTR is advancing forced labor tariffs on 60 trading nations under Section 301. Importers must execute rigorous upstream vendor audits to prevent costly customs seizures."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL: ROADONE EXPANDS PORT OPERATIONS",
-                "teaserTitle": "STATES BLOCK CDL DATABASE",
-                "visual_caption": "RoadOne acquires drayage assets to expand Charleston port operations. The investment boosts container velocity and gateway terminal reliability."
+                "headline": "LEGAL: HUTCHISON PANAMA ARBITRATION",
+                "teaserTitle": "TANKER TRADE REVERSAL",
+                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in international arbitration over seized Panama ports. Global terminal operators face escalating sovereign risks in emerging trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: STATES BLOCK CDL DATABASE",
-                "teaserTitle": "PENNSYLVANIA TARGETS CDL SCHOOLS",
-                "visual_caption": "A federal court blocks central access to 17M commercial driver records. Motor carriers must navigate fragmented state clearance systems."
+                "headline": "ENERGY: TANKER TRADE REVERSAL",
+                "teaserTitle": "UNLICENSED CDL PENALTIES",
+                "visual_caption": "Russia is importing 270K tons of Asian refined fuels following crippling refinery strikes. Liquid bulk charterers face extended ton-mile calculations and volatile bunker costs."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: PENNSYLVANIA TARGETS CDL SCHOOLS",
-                "teaserTitle": "SAUDI OIL TANKER REVERSAL",
-                "visual_caption": "Pennsylvania law imposes $25K fines on unlicensed CDL training schools. Fleets must audit driver credentials to mitigate liability risks."
+                "headline": "COMPLIANCE: UNLICENSED CDL PENALTIES",
+                "teaserTitle": "ARCTIC CONTAINER ROUTE",
+                "visual_caption": "Pennsylvania regulators are imposing civil penalties of up to $25K on unlicensed CDL schools. Fleets must audit driver training credentials to eliminate severe liability exposures."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: SAUDI OIL TANKER REVERSAL",
-                "teaserTitle": "CK HUTCHISON PANAMA LAWSUIT",
-                "visual_caption": "Tankers transport oil north to evade threats near the Strait of Hormuz. Liquid bulk charterers absorb higher costs and longer voyage routes."
+                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
+                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
+                "visual_caption": "Sea Legend has launched a regular container shipping service connecting China to Europe via Arctic routes. Logistics planners must weigh transit time savings against severe ice and weather risks."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: CK HUTCHISON PANAMA LAWSUIT",
+                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages over seized Panama port terminals. International operators face rising sovereign risks in infrastructure assets."
+                "visual_caption": "The Port of Los Angeles recorded its 2nd-busiest July as shippers aggressively front-load peak inventory. Terminal managers must maintain container velocity to avoid inland gate congestion."
             },
             {
                 "slide_index": 8,

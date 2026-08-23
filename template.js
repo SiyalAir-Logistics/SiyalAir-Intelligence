@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFFS",
-        "titleBlue": "STALL",
-        "footerSummary": "Trump 50% tariffs on Canada imports take effect as bilateral talks stall, prompting threats of dollar-for-dollar retaliation."
+        "titleWhite": "PANAMA CANAL CAPACITY",
+        "titleBlue": "CUTS",
+        "footerSummary": "Panama Canal cuts daily transits to 32 ships from September, driving Asia-USWC spot freight rates higher amid looming capacity crunches."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: CANADA TARIFFS STALL",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
             "paragraphs": [
-                "President Donald Trump has allowed a 50% tariff on many Canadian imports to take effect following the collapse of bilateral trade negotiations. The two nations failed to reach a formal agreement before the deadline for Section 338 levies, prompting Canadian officials to vow dollar-for-dollar retaliatory duties.",
-                "Importers moving goods across the northern border face immediate cost inflation and severe supply chain friction as customs brokers process the new punitive rates. Shippers must rapidly evaluate alternative sourcing options to protect landed margins against escalating trade barriers."
+                "The Panama Canal Authority is slashing daily booking capacity down to 32 ships starting in mid-September as worsening rainfall deficits force the waterway into defensive El Nino measures. For booking dates beginning September 4, the restricted transit schedule offers only nine Neopanamax and 23 Panamax slots, immediately tightening global container liquidity.",
+                "Shippers moving cargo from Asia to the US West Coast face mounting rate shocks and severe booking competition as vessel strings bypass restricted bottlenecks. Logistics planners must secure alternative routing agreements early to mitigate cascading transit delays and escalating spot market exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL DWELL SLOTS",
+            "nextUpTease": "FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T08:00:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL DWELL SLOTS",
+            "heading": "REGULATION: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority is moving to trim daily vessel transit slots due to persistent El Nino weather disruptions and shifting draught constraints. Container lines navigating the critical waterway face tighter scheduling windows and mounting congestion as available capacity shrinks.",
-                "Logistics planners must anticipate extended maritime transit times and reroute vessel strings toward intermodal alternatives to bypass anticipated bottlenecks. Failure to adjust lead times early will result in costly cargo delays and compromised delivery schedules."
+                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict forced labor-based tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive enforcement wave coincides with the expiration of legacy Section 122 tariffs, shifting compliance oversight directly onto enterprise supply chains.",
+                "Importers must perform comprehensive upstream tier-one through tier-three vendor audits to prevent crippling customs seizures and prohibitive duty penalties at ports of entry. Maintaining landed cost viability requires immediate legal and operational realignment with these expanded federal trade barriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROADONE EXPANDS PORT OPERATIONS",
+            "nextUpTease": "HUTCHISON PANAMA ARBITRATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T07:30:00Z",
+                "Source: https://www.logisticsmgmt.com/news/article/3312019/ustr-moves-ahead-with-forced-labor-based-tariffs-on-60-trading-partners",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INTERMODAL: ROADONE EXPANDS PORT OPERATIONS",
+            "heading": "LEGAL: HUTCHISON PANAMA ARBITRATION",
             "paragraphs": [
-                "RoadOne has officially finalized the acquisition of regional drayage assets to significantly expand its container operations at the Port of Charleston. The strategic buyout strengthens the logistics provider's terminal footprint to handle rising import volumes ahead of the peak shipping season.",
-                "Port logistics managers gain enhanced drayage reliability and expanded chassis availability across southeastern export gateways. Shippers can leverage these localized terminal investments to streamline container velocity and mitigate inland gate congestion."
+                "CK Hutchison Holdings has formally initiated international arbitration proceedings against the government of Panama, demanding $1.5B in financial damages following the seizure of strategic port terminals. The legal dispute escalates after local supreme court rulings nullified long-standing operating concessions at Balboa and Cristobal facilities.",
+                "Global terminal operators and infrastructure investors face heightened sovereign risk profiles when evaluating long-term concession agreements across volatile emerging trade corridors. This high-stakes litigation underscores the urgent need for structured risk mitigation clauses in international maritime contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATES BLOCK CDL DATABASE",
+            "nextUpTease": "TANKER TRADE REVERSAL",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-21T18:45:00Z",
+                "Source: https://theloadstar.com/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: STATES BLOCK CDL DATABASE",
+            "heading": "ENERGY: TANKER TRADE REVERSAL",
             "paragraphs": [
-                "A coalition of 22 states has successfully secured a federal court injunction blocking centralized access to records covering 17M commercial driver license holders. The legal challenge halts federal data consolidation efforts over strict state sovereignty and driver privacy protections.",
-                "Motor carriers and fleet safety directors must continue navigating a fragmented network of state-level clearinghouses for driver vetting and background checks. This administrative complexity increases compliance overhead and demands dedicated legal oversight for cross-border operations."
+                "Russia is importing nearly 270K tons of refined fuels from Asia this month, driving an extraordinary reversal in historical tanker trade flows across international markets. Repeated Ukrainian military strikes on domestic processing refineries have left the major energy producer critically short of refined products.",
+                "Liquid bulk charterers face soaring voyage expenses and extended ton-mile calculations as regional supply deficits force vessels into circuitous delivery pathways. Energy supply chains must continuously reprice bunker adjustments and monitor shifting fleet availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENNSYLVANIA TARGETS CDL SCHOOLS",
+            "nextUpTease": "UNLICENSED CDL PENALTIES",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-21T16:20:00Z",
+                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: PENNSYLVANIA TARGETS CDL SCHOOLS",
+            "heading": "COMPLIANCE: UNLICENSED CDL PENALTIES",
             "paragraphs": [
-                "Pennsylvania regulators are enforcing a new state law empowering authorities to impose civil penalties of up to $25K on unlicensed commercial driver training schools. The strict oversight measure aims to eliminate substandard instruction and ensure rigorous operator competency standards across local programs.",
-                "Carriers recruiting entry-level talent must meticulously audit training school credentials to avoid onboarding drivers with invalid certifications. Maintaining a compliant driver pipeline requires heightened verification protocols to protect fleets from vicarious liability risks."
+                "Pennsylvania regulators are aggressively enforcing a new state statute empowering authorities to levy civil penalties of up to $25K against unlicensed commercial driver training schools. The rigorous oversight measure aims to eliminate substandard instruction and enforce strict operator competency standards across local driver programs.",
+                "Motor carriers recruiting entry-level talent must meticulously audit school credentials to prevent onboarding operators with invalid certifications and high liability risks. Maintaining a fully compliant driver pipeline requires dedicated administrative oversight and rigorous verification protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAUDI OIL TANKER REVERSAL",
+            "nextUpTease": "ARCTIC CONTAINER ROUTE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T14:10:00Z",
+                "Source: https://www.ttnews.com/articles/new-pennsylvania-law-targets-unlicensed-cdl-schools",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: SAUDI OIL TANKER REVERSAL",
+            "heading": "MARITIME: ARCTIC CONTAINER ROUTE",
             "paragraphs": [
-                "Middle Eastern energy operators are shuttling crude oil northward on Sinokor tankers to bypass persistent security threats and Houthi activity around the Strait of Hormuz. This maritime route adaptation maintains regional export flows while avoiding high-risk chokepoints in the southern Gulf.",
-                "Liquid bulk charterers face increased voyage expenses and extended ton-mile calculations as vessels take circuitous paths to secure energy shipments. Energy supply chains must price in volatile bunker adjustments and shifting vessel availability."
+                "Chinese shipping line Sea Legend has officially announced the launch of a regular container service connecting Chinese ports to Europe via the emerging Arctic trade route. The commercial rollout follows a successful 2025 trial crossing that transported cargo from Ningbo to Felixstowe in just 20 days.",
+                "While northern passages offer reduced nautical distances compared to traditional southern channels, severe ice obstacles and limited escort infrastructure continue to limit widespread adoption. Logistics executives must balance transit time reductions against extreme weather risks and specialized vessel requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON PANAMA LAWSUIT",
+            "nextUpTease": "PORT OF LOS ANGELES VOLUME",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T11:00:00Z",
+                "Source: https://maritime-executive.com/article/china-opens-new-arctic-trade-route-but-obstacles-will-prevent-its-wider-use",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LEGAL: CK HUTCHISON PANAMA LAWSUIT",
+            "heading": "PORT: PORT OF LOS ANGELES VOLUME",
             "paragraphs": [
-                "CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial damages. The legal action follows the controversial seizure of the Balboa and Cristobal port terminals after local courts nullified existing operating concessions.",
-                "Global terminal operators and infrastructure investors face heightened sovereign risk when evaluating long-term concession agreements in emerging trade corridors. Legal disputes of this magnitude underscore the necessity of robust risk mitigation frameworks for international port assets."
+                "The Port of Los Angeles has recorded its second-busiest July in operational history, handling massive import volumes as supply chain managers front-load inventory ahead of peak season disruptions. Terminal operators are successfully absorbing high container throughput despite lingering intermodal gate congestion.",
+                "Pacific import managers must leverage these resilient western gateway volumes while planning for inland rail and drayage capacity constraints. Proactive container velocity management remains essential to preventing costly demurrage charges during peak throughput cycles."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T09:15:00Z",
+                "Source: https://www.ttnews.com/articles/port-los-angeles-second-busiest-july",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
