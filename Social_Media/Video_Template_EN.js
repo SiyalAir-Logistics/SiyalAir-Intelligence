@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP FIFTY PERCENT CANADA TARIFFS IN EFFECT",
+        "hookTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA LEVIES EFFECTIVE",
-                "teaserTitle": "PANAMA CANAL TRANSIT CAPACITY",
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "ASIA-USWC RATES SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "President Trump's fifty percent tariff on Canadian imports took effect as trade talks stalled. Canada promised immediate retaliatory duties, threatening cross-border supply chain margins."
+                "narration_line": "The Panama Canal is slashing daily bookings to thirty-two ships starting in September due to severe rainfall deficits. Carriers must secure forward allocations to avoid costly delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL TRANSIT CAPACITY",
-                "teaserTitle": "USTR FORCED LABOR TARIFFS",
+                "headline": "FREIGHT: ASIA-USWC RATES SURGE",
+                "teaserTitle": "PORT OF LOS ANGELES VOLUME",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal is trimming daily shipping slots starting in mid-September due to water deficits. This capacity reduction threatens to elevate freight rates across transpacific routes."
+                "narration_line": "Asia to West Coast ocean freight rates are surging as shippers race to beat Panama Canal restrictions. Logistics teams must absorb rising spot costs."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "ATA EXECUTIVE LEADERSHIP TRANSITION",
+                "headline": "PORTS: PORT OF LOS ANGELES VOLUME",
+                "teaserTitle": "CK HUTCHISON PANAMA ARBITRATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States Trade Representative is advancing forced labor tariffs on sixty trading partners. Shippers face strict compliance audits and severe liability risks."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July as shippers frontload cargo. Terminals are expanding landside handling capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "WORKFORCE: ATA EXECUTIVE LEADERSHIP TRANSITION",
-                "teaserTitle": "PORT OF LOS ANGELES VOLUME SURGE",
+                "headline": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
+                "teaserTitle": "TRUMP CANADA TARIFFS STALL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Trucking Associations leader Chris Spear has stepped down from his post. Fleets must navigate regulatory headwinds and escalating tariff pressures."
+                "narration_line": "CK Hutchison has launched international arbitration seeking one point five billion dollars over seized Panama ports. Investors face rising sovereign risk."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: PORT OF LOS ANGELES VOLUME SURGE",
-                "teaserTitle": "AMAZON DRONE DELIVERY EXPANSION",
+                "headline": "TARIFFS: TRUMP CANADA TARIFFS STALL",
+                "teaserTitle": "PORT TERMINAL ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Los Angeles is preparing for an incoming cargo volume surge as shippers reroute freight. Terminals are scaling landside handling capacity to manage heavy inflows."
+                "narration_line": "Proposed fifty percent tariffs on Canadian imports remain stalled amid ongoing trade negotiations. Importers must maintain flexible procurement strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: AMAZON DRONE DELIVERY EXPANSION",
-                "teaserTitle": "CONTAINER SHIPPING CAPACITY DRAIN",
+                "headline": "EQUIPMENT: PORT TERMINAL ELECTRIC TRUCKS",
+                "teaserTitle": "CONTAINER CAPACITY DRAIN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major urban markets. Retail logistics leaders must evaluate autonomous delivery models."
+                "narration_line": "A New Jersey seaport ordered ninety-six electric terminal trucks to advance yard decarbonization. Fleets must build out heavy-duty charging infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "OPERATIONS: CONTAINER SHIPPING CAPACITY DRAIN",
+                "headline": "OPERATIONS: CONTAINER CAPACITY DRAIN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global container shipping networks are absorbing a five percent capacity drain from port congestion. Carriers must optimize turnaround times to counter equipment shortages."
+                "narration_line": "Global shipping networks are absorbing a five percent capacity drain from port congestion and diversions. Operators must optimize fleet turnaround times."
             },
             {
                 "slide_index": 8,
