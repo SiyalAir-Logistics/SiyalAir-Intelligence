@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "CK HUTCHISON SEEKING 1.5B DAMAGES",
-                "visual_caption": "The Panama Canal is reducing daily ship capacity to 32 vessels starting in mid-September due to El Ni\u00f1o droughts. This restriction triggers vessel bunching and upward pressure on transpacific spot rates."
+                "headline": "COMPLIANCE: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CATERPILLAR 392M TARIFF REFUND",
+                "visual_caption": "The USTR is rolling out Section 301 tariffs across 60 trading nations. Importers must verify full supply chain origin data immediately to prevent severe border cargo seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKING 1.5B DAMAGES",
-                "teaserTitle": "CANADA TARIFFS STALL TRADE",
-                "visual_caption": "CK Hutchison Holdings initiated international arbitration against Panama seeking $1.5B in damages. The legal action follows the seizure of key port terminals after local concession disputes."
+                "headline": "FINANCE: CATERPILLAR 392M TARIFF REFUND",
+                "teaserTitle": "HAPAG BUYS ROTTERDAM STAKE",
+                "visual_caption": "Caterpillar secured a $392M duty refund, offsetting $400M in quarterly tariff costs. Effective duty drawback programs remain critical for defending industrial manufacturing margins."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: CANADA TARIFFS STALL TRADE",
-                "teaserTitle": "ATA CHIEF SPEAR DEPARTS",
-                "visual_caption": "U.S.-Canada trade talks stalled, bringing 50% tariffs on steel and aluminum imports into effect. Importers moving goods across northern supply corridors face immediate cost inflation."
+                "headline": "TERMINALS: HAPAG BUYS ROTTERDAM STAKE",
+                "teaserTitle": "HOME DEPOT EXPRESS DELIVERY",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II terminal at Rotterdam. This hub acquisition secures vital berth priority ahead of upcoming Gemini Cooperation alliance sailings."
             },
             {
                 "slide_index": 4,
-                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
-                "teaserTitle": "QUEUE JUMP FEE HITS 4.6M",
-                "visual_caption": "American Trucking Associations President and CEO Chris Spear has departed from his post. The leadership transition arrives amid intense federal oversight and broker liability litigation."
+                "headline": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR",
+                "visual_caption": "Home Depot launched nationwide 3-hour delivery using 2,000 retail stores as fulfillment hubs. Decentralized store inventory continues to compress last-mile transit times across urban consumer markets."
             },
             {
                 "slide_index": 5,
-                "headline": "OPERATIONS: QUEUE JUMP FEE HITS 4.6M",
-                "teaserTitle": "NEW JERSEY ELECTRIC TRUCKS",
-                "visual_caption": "A gas tanker paid a record $4.6M queue-jump fee to bypass Panama Canal transit delays. Asset owners are paying massive tolls to avoid multi-week waterway bottlenecks."
+                "headline": "AVIATION: AMAZON EXPANDS PRIME AIR",
+                "teaserTitle": "RUSSIAN TANKER ROUTE REVERSAL",
+                "visual_caption": "Amazon is expanding its Prime Air drone operations sixfold across Atlanta, Chicago, and Cleveland. Autonomous commercial flight networks are actively bypassing ground road congestion for rapid parcel delivery."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: NEW JERSEY ELECTRIC TRUCKS",
-                "teaserTitle": "CONTAINER CAPACITY DRAIN",
-                "visual_caption": "A New Jersey seaport operator ordered a fleet of 96 electric terminal tractors for yard decarbonization. The investment modernizes drayage handling while targeting zero-emission operations."
+                "headline": "ENERGY: RUSSIAN TANKER ROUTE REVERSAL",
+                "teaserTitle": "STATES BLOCK CDL ACCESS",
+                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia following refinery disruptions. This sudden trade reversal is tightening product tanker capacity and lifting maritime charter rates."
             },
             {
                 "slide_index": 7,
-                "headline": "NETWORK: CONTAINER CAPACITY DRAIN",
-                "teaserTitle": "",
-                "visual_caption": "Global shipping networks continue absorbing a 5% capacity drain from port congestion and security diversions. These cumulative bottlenecks restrict effective TEU availability across trade lanes."
+                "headline": "REGULATION: STATES BLOCK CDL ACCESS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "22 states secured an injunction blocking federal access to 17M commercial driver records. Motor carriers must manage driver compliance across fragmented individual state verification systems."
             },
             {
                 "slide_index": 8,

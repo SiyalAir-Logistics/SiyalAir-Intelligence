@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CAPACITY CUTS SPARK RATE",
-        "titleBlue": "SURGES",
-        "footerSummary": "Panama Canal reduces neopanamax slots to 32 ships as drought intensifies, driving up transpacific spot rates and shipper costs."
+        "titleWhite": "USTR FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR expands Section 301 tariffs across 60 trade partners as Section 122 expires, escalating compliance risk and landed costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+            "heading": "COMPLIANCE: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 vessels beginning in mid-September as severe rainfall deficits intensify waterway restrictions. Neopanamax transit slots are being curtailed from September 4, triggering immediate vessel bunching and upward pressure on transpacific spot rates.",
-                "Logistics planners must secure forward space allocations early to bypass mounting port congestion and avoid costly cargo rolling schedules. Managing these persistent waterway constraints requires agile routing alternatives to maintain reliable supply chain cadence."
+                "The Office of the United States Trade Representative has confirmed new tariff actions targeting 60 trading partners under Section 301 of the Trade Act of 1974. This enforcement pivot takes effect immediately as Section 122 duties expire, placing mandatory forced-labor auditing standards across global supplier networks.",
+                "Importers face immediate increases in customs scrutiny, documentation burdens, and landed duty costs across diversified sourcing hubs. Trade compliance teams must instantly verify Tier 1 through Tier 3 origin data to defend supply chain continuity against border cargo holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKING 1.5B DAMAGES",
+            "nextUpTease": "CATERPILLAR 392M TARIFF REFUND",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-22T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: CK HUTCHISON SEEKING 1.5B DAMAGES",
+            "heading": "FINANCE: CATERPILLAR 392M TARIFF REFUND",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in financial compensation. This legal action follows the controversial seizure of the Balboa and Cristobal ports after local court rulings invalidated prior terminal concessions.",
-                "Global port operators and maritime investors face heightened asset security risks and elevated compliance exposure when operating across Latin American trade gateways. Protecting long-term capital investments requires rigorous legal due diligence and localized risk mitigation frameworks."
+                "Caterpillar secured a $392M duty refund following complex trade renegotiations, substantially offsetting the $400M in gross tariff liabilities incurred during the second quarter. The heavy-machinery manufacturer managed to curtail net duty drag through aggressive customs classification reviews and bonded channel routing.",
+                "Corporate shippers navigating volatile cross-border tariffs must actively leverage drawback mechanisms and trade preference programs to protect operating margins. Recovering capital from duty outlays requires rigorous ledger tracking and automated tariff audit controls."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA TARIFFS STALL TRADE",
+            "nextUpTease": "HAPAG BUYS ROTTERDAM STAKE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE: CANADA TARIFFS STALL TRADE",
+            "heading": "TERMINALS: HAPAG BUYS ROTTERDAM STAKE",
             "paragraphs": [
-                "Bilateral trade negotiations between the United States and Canada have officially stalled, triggering the implementation of steep 50% tariffs on cross-border steel and aluminum imports. Importers moving raw materials and finished goods across northern supply corridors face immediate cost inflation and duty exposure.",
-                "Procurement teams must establish agile contingency sourcing models to absorb potential duty increases without disrupting manufacturing production lines. Proactive tariff risk management is essential for preserving profitability across North American trade networks."
+                "Hapag-Lloyd has acquired a 25% ownership stake from Maersk in the highly automated Maasvlakte II container terminal at the Port of Rotterdam. The strategic transaction solidifies terminal control ahead of the operational rollout of the Gemini Cooperation network.",
+                "Securing direct equity in European gateway infrastructure grants ocean carriers prioritized berth windows, accelerated crane handling, and improved equipment turnaround times. Shippers benefit from higher schedule reliability across transatlantic and Asia-Europe freight corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA CHIEF SPEAR DEPARTS",
+            "nextUpTease": "HOME DEPOT EXPRESS DELIVERY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-22T09:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
+            "heading": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has stepped down from his post, initiating a formal leadership transition as the federation navigates complex regulatory headwinds. The departure comes at a pivotal juncture marked by intense federal oversight, mounting broker liability litigation, and cross-border trade friction.",
-                "Motor carriers and logistics executives must closely monitor upcoming policy shifts and advocacy stances as new leadership takes the helm at the nation's premier trucking lobby. Sustaining carrier compliance and freight advocacy remains vital for navigating ongoing regulatory pressures."
+                "Home Depot has launched nationwide express delivery within 3 hours or less across thousands of stock-keeping units. The service leverages more than 2,000 retail storefronts as micro-fulfillment distribution hubs to meet surging demand for urgent job-site materials.",
+                "Retail logistics networks are rapidly decentralizing inventory to compress last-mile cycle times and reduce regional line-haul expenses. Final-mile logistics managers must balance urban fleet dispatch density against store replenishment frequencies to sustain profitable rapid order execution."
             ],
             "imageUrl": "",
-            "nextUpTease": "QUEUE JUMP FEE HITS 4.6M",
+            "nextUpTease": "AMAZON EXPANDS PRIME AIR",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-22T08:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPERATIONS: QUEUE JUMP FEE HITS 4.6M",
+            "heading": "AVIATION: AMAZON EXPANDS PRIME AIR",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker has set a new record by paying a $4.6M queue-jump fee to bypass transit delays at the Panama Canal. This escalating surcharge reflects the extreme financial lengths asset owners are willing to go to avoid multi-week waterway bottlenecks.",
-                "Shippers operating tight delivery windows must factor premium priority fees into their ocean freight budgeting models to maintain delivery predictability. Assessing the financial trade-off between priority tolls and inventory holding costs is vital for margin defense."
+                "Amazon has announced plans to expand its Prime Air drone delivery operations sixfold throughout the current fiscal year. New autonomous flight networks are launching across major metropolitan zones, including Atlanta, Chicago, and Cleveland, to bypass ground road bottlenecks.",
+                "Air freight and parcel operators face growing competition from low-altitude automated delivery corridors capable of bypassing terrestrial transit congestion. Integrating automated aerial assets demands continuous compliance with strict commercial airspace safety parameters."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEW JERSEY ELECTRIC TRUCKS",
+            "nextUpTease": "RUSSIAN TANKER ROUTE REVERSAL",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T07:25:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: NEW JERSEY ELECTRIC TRUCKS",
+            "heading": "ENERGY: RUSSIAN TANKER ROUTE REVERSAL",
             "paragraphs": [
-                "A major New Jersey seaport operator has ordered a fleet of 96 electric terminal tractors from Orange EV to accelerate yard decarbonization and comply with evolving environmental mandates. This heavy-duty investment modernizes drayage handling equipment while targeting zero-emission yard operations.",
-                "Terminal operators and fleet managers scaling electric commercial assets must deploy robust charging infrastructure to ensure round-the-clock facility productivity. Balancing sustainability capital outlays with continuous throughput efficiency remains a top operational priority."
+                "Russia is importing approximately 270K tonnes of refined fuels from Asian refining hubs this month, marking a historic reversal in global tanker flow patterns. Ongoing domestic refinery disruptions have forced one of the world's primary energy producers to become a net product importer.",
+                "Liquid bulk tanker markets are absorbing sudden ton-mile structural shifts that tighten vessel availability and drive up charter rates across Asian maritime lanes. Shippers moving refined petrochemicals must prepare for elevated bunker fuel adjustment factors and extended voyage lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER CAPACITY DRAIN",
+            "nextUpTease": "STATES BLOCK CDL ACCESS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETWORK: CONTAINER CAPACITY DRAIN",
+            "heading": "REGULATION: STATES BLOCK CDL ACCESS",
             "paragraphs": [
-                "Global container shipping networks continue to absorb a 5% capacity drain driven by persistent port congestion, security diversions around the Middle East, and terminal bottlenecks. These cumulative disruptions tie up active vessel strings and restrict effective TEU availability across primary international trade lanes.",
-                "Ocean carriers and freight forwarders must optimize schedule reliability and vessel turnaround times to counter equipment leakage and maintain service integrity. Effective network visibility is critical for preventing cascading service failures and global equipment shortages."
+                "A federal court ruling has granted 22 states an injunction blocking centralized federal access to records covering 17M commercial driver license holders. The legal victory halts immediate federal data consolidation over statutory privacy and state sovereignty protections.",
+                "Fleet safety directors and motor carriers must continue navigating fragmented state-level clearinghouses for driver qualification and background compliance audits. Maintaining cross-border trucking capacity requires dedicated compliance resources to manage varying state enforcement protocols."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T03:51:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-22T01:15:00Z",
                 "Status: Audited & True"
             ]
         }
