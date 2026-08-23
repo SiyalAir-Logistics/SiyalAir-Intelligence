@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
-                "visual_caption": "USTR enforces Section 301 tariffs across 60 trading partners to curb forced labor. Importers face immediate audit exposure and cargo clearance scrutiny."
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
+                "teaserTitle": "CANADA TARIFF DEADLINE",
+                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships starting in September. Queue-jump fees exceeding $4.6M will significantly inflate ocean transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
-                "teaserTitle": "AIRCRAFT CAPACITY CRUNCH",
-                "visual_caption": "Hapag-Lloyd acquires a 25% stake in Rotterdam's Maasvlakte II terminal. The strategic asset secures priority container berths for Gemini Cooperation."
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "BULKER SINKS OFF INDIA",
+                "visual_caption": "U.S. and Canadian trade talks stall over 50% tariffs on northern imports. Procurement teams must audit supplier origins to mitigate cross-border friction."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: AIRCRAFT CAPACITY CRUNCH",
-                "teaserTitle": "SAUDI TANKER EVASIONS",
-                "visual_caption": "BOC Aviation warns aircraft delivery delays will restrict airfreight capacity through 2030. Carriers battle rising fuel surcharges caused by geopolitical flight diversions."
+                "headline": "SAFETY: BULKER SINKS OFF INDIA",
+                "teaserTitle": "PCC TERMINAL DAMAGES",
+                "visual_caption": "A panamax bulk carrier sinks in the Bay of Bengal leaving 22 crew members missing. Coast Guard rescue operations highlight persistent regional safety risks."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: SAUDI TANKER EVASIONS",
-                "teaserTitle": "INDUSTRIAL WAREHOUSE REBOUND",
-                "visual_caption": "Saudi crude exports divert to northern routes via Sinokor tankers to bypass attacks. Extended sailing times mount as Brent crude trades at $94.46/bbl."
+                "headline": "LEGAL: PCC TERMINAL DAMAGES",
+                "teaserTitle": "TRUCK LOBBY CHIEF",
+                "visual_caption": "CK Hutchison seeks $1.5B in damages over seized Panama port concessions. The legal dispute introduces severe operational uncertainty for gateway terminals."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL WAREHOUSE REBOUND",
-                "teaserTitle": "AMAZON AUTOSTORE DEAL",
-                "visual_caption": "U.S. warehouse vacancy dropped 7 bps to 7.3% in Q2 2026 as leasing rebounded. Shippers must prepare for higher storage rates as space tightens."
+                "headline": "TRUCKING: LOBBY CHIEF",
+                "teaserTitle": "RUSSIAN FUEL REVERSAL",
+                "visual_caption": "ATA President Chris Spear departs amid ongoing federal regulatory challenges. Motor carriers must monitor upcoming legislative shifts to protect compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMATION: AMAZON AUTOSTORE DEAL",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE",
-                "visual_caption": "Amazon signs a global deal with AutoStore to install dense automated storage systems. The robotics integration accelerates high-velocity fulfillment operations."
+                "headline": "ENERGY: RUSSIAN REVERSAL",
+                "teaserTitle": "PORT CAPACITY ABSORPTION",
+                "visual_caption": "Russia imports 270K tons of refined fuel from Asia due to domestic refinery strikes. This unusual trade reversal alters regional bunker availability."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
+                "headline": "ANALYTICS: CAPACITY ABSORPTION",
                 "teaserTitle": "",
-                "visual_caption": "Sea Legend launches regular Arctic liner sailings between China and European gateways. The northern transit route slashes standard voyage times to 20 days."
+                "visual_caption": "Global port congestion ties up 5% of total container shipping capacity. Shippers must secure equipment contracts early to insulate against rising spot rates."
             },
             {
                 "slide_index": 8,

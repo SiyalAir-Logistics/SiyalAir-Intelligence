@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL SLOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "ROTTERDAM TERMINAL STAKE",
+                "headline": "MARITIME: PANAMA CANAL SLOTS",
+                "teaserTitle": "CANADA TARIFF DEADLINE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States trade officials are implementing Section three oh one tariffs on sixty trading partners. Importers face immediate cargo auditing and heightened customs documentation checks."
+                "narration_line": "The Panama Canal is slashing daily booking capacity to thirty-two ships starting in September. Surging queue-jump fees exceeding four million dollars will significantly inflate ocean voyage costs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
-                "teaserTitle": "AIRCRAFT CAPACITY CRUNCH",
+                "headline": "TARIFFS: CANADA DEADLINE",
+                "teaserTitle": "BULKER SINKS OFF INDIA",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in Rotterdam's Maasvlakte two terminal. The deal secures dedicated berth capacity to protect alliance schedules."
+                "narration_line": "U.S. and Canadian trade talks have stalled over fifty percent tariffs on northern imports. Procurement teams must audit supplier country origins immediately to mitigate cross-border friction."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: AIRCRAFT CAPACITY CRUNCH",
-                "teaserTitle": "SAUDI TANKER EVASIONS",
+                "headline": "SAFETY: BULKER SINKS OFF INDIA",
+                "teaserTitle": "PCC TERMINAL DAMAGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Aviation lessors project air cargo capacity bottlenecks will persist through twenty thirty. Airfreight operators face sustained rate pressure from soaring jet fuel expenses."
+                "narration_line": "A panamax bulk carrier sank in the Bay of Bengal leaving twenty-two crew members missing. Coast Guard rescue operations highlight persistent safety hazards across regional bulk routes."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: SAUDI TANKER EVASIONS",
-                "teaserTitle": "INDUSTRIAL WAREHOUSE REBOUND",
+                "headline": "LEGAL: PCC TERMINAL DAMAGES",
+                "teaserTitle": "TRUCK LOBBY CHIEF",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Saudi crude shipments are diverting northward on Sinokor tankers to evade maritime threats. The rerouting adds fuel costs with oil near ninety-four dollars a barrel."
+                "narration_line": "CK Hutchison is seeking one point five billion dollars in damages over seized Panama ports. The legal dispute introduces severe operational uncertainty for gateway terminal concessions."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL WAREHOUSE REBOUND",
-                "teaserTitle": "AMAZON AUTOSTORE DEAL",
+                "headline": "TRUCKING: LOBBY CHIEF",
+                "teaserTitle": "RUSSIAN FUEL REVERSAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Industrial warehouse vacancy tightened to seven point three percent as tenant demand outpaced new builds. Logistics operators should expect rising facility lease rates through next year."
+                "narration_line": "American Trucking Associations head Chris Spear has departed amid ongoing regulatory challenges. Motor carriers must monitor upcoming legislative shifts to protect their compliance margins."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMATION: AMAZON AUTOSTORE DEAL",
-                "teaserTitle": "ARCTIC CONTAINER ROUTE",
+                "headline": "ENERGY: RUSSIAN REVERSAL",
+                "teaserTitle": "PORT CAPACITY ABSORPTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon has partnered with AutoStore to expand automated cube storage across fulfillment centers. The robotics rollout aims to accelerate same-day order processing speeds."
+                "narration_line": "Russia is importing two hundred seventy thousand tons of refined fuel from Asia due to refinery strikes. This unusual trade reversal is altering regional bunker availability for ocean carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: ARCTIC CONTAINER ROUTE",
+                "headline": "ANALYTICS: CAPACITY ABSORPTION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Sea Legend has launched regular container services connecting China to Europe across the Arctic. The northern passage cuts ocean transit duration to twenty days."
+                "narration_line": "Global port congestion is currently tying up five percent of total container capacity. Shippers must secure equipment contracts early to insulate operations from rising spot rates."
             },
             {
                 "slide_index": 8,

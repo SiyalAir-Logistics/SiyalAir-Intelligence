@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces sweeping Section 301 tariffs across 60 trade partners as Section 122 duties expire, forcing immediate compliance auditing."
+        "titleWhite": "PANAMA CANAL",
+        "titleBlue": "SLOTS",
+        "footerSummary": "Panama Canal capacity cuts and rising queue fees threaten carrier schedule reliability as El Nino rainfall deficits squeeze vessel transits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MARITIME: PANAMA CANAL SLOTS",
             "paragraphs": [
-                "The USTR is implementing new Section 301 tariffs targeting 60 trading partners to penalize forced labor practices following the expiration of Section 122 duties. The enforcement framework imposes stringent evidentiary requirements on raw material origins across apparel, solar, and electronics supply chains.",
-                "Importers face immediate customs audit exposure and potential border holds on unverified multi-tier vendor shipments. Procurement teams must rapidly institutionalize traceability protocols to prevent costly cargo seizures and maintain landed cost stability."
+                "The Panama Canal Authority is slashing daily booking capacity to 32 ships starting in mid-September due to severe rainfall deficits driven by El Nino. Neopanamax vessel slots will be restricted to nine per day, forcing carriers to reevaluate routing options or face escalating transit delays.",
+                "Surging queue-jump fees have already eclipsed $4.6M for priority passage, significantly inflating voyage operational costs for liner services. Shippers must factor tighter transit bottlenecks and unpredictable schedule slippage into Q4 ocean contract allocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROTTERDAM TERMINAL STAKE",
+            "nextUpTease": "CANADA TARIFF DEADLINE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-22T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: ROTTERDAM TERMINAL STAKE",
+            "heading": "TARIFFS: CANADA DEADLINE",
             "paragraphs": [
-                "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II container terminal at the Port of Rotterdam from APM Terminals. The transaction secures dedicated hub capacity for the Gemini Cooperation ahead of scheduled long-haul network deployments.",
-                "Dedicated berth access protects liner schedule integrity against escalating European port congestion. Shippers utilizing non-aligned alliances may experience shifted feeder connections and tighter handling windows at northern continental hubs."
+                "U.S. and Canadian trade negotiations have stalled, leaving a looming 50% tariff on Canadian imports under Section 338 in effect as deadlines pass. Ottawa has vowed to match any punitive duties dollar for dollar, threatening cross-border supply chains for automotive and manufacturing sectors.",
+                "The trade standoff introduces immediate cost inflation for just-in-time components moving across northern entry points. Procurement executives must audit supplier country-of-origin data and establish contingency buffer stock to mitigate border friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRCRAFT CAPACITY CRUNCH",
+            "nextUpTease": "BULKER SINKS OFF INDIA",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T14:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: AIRCRAFT CAPACITY CRUNCH",
+            "heading": "SAFETY: BULKER SINKS OFF INDIA",
             "paragraphs": [
-                "BOC Aviation reports that commercial aircraft delivery bottlenecks and engine shortages will constrain global air freight capacity through 2030. Escalating jet fuel surcharges driven by ongoing Middle East airspace detours are further compounding bellyhold operating costs.",
-                "Sustained airframe scarcity restricts spot charter flexibility and solidifies elevated baseline rate structures across Asia-Europe lanes. Forwarders must secure long-term block space agreements to insulate high-value electronics and pharma cargo from seasonal rate volatility."
+                "The Panama-flagged panamax bulk carrier Ocean Winner sank in the Bay of Bengal roughly 240 nautical miles off the coast, leaving 22 crew members missing. A joint search and rescue operation involving the Indian Coast Guard and Navy is currently underway amid treacherous regional waters.",
+                "The tragic casualty highlights ongoing maritime safety risks and structural vulnerabilities across South Asian dry bulk routes. Charterers must enforce rigorous vessel vetting standards to prevent catastrophic losses and severe cargo disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAUDI TANKER EVASIONS",
+            "nextUpTease": "PCC TERMINAL DAMAGES",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-22T11:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY: SAUDI TANKER EVASIONS",
+            "heading": "LEGAL: PCC TERMINAL DAMAGES",
             "paragraphs": [
-                "Saudi Arabian oil exporters are rerouting crude shipments northward on Sinokor tankers to bypass persistent maritime security threats in the Red Sea. The strategic diversion comes as Brent crude benchmark pricing holds firm at $94.46 a barrel amid ongoing Strait of Hormuz standoff negotiations.",
-                "Extended tanker transit corridors increase bunker consumption and amplify maritime insurance war-risk premiums for international voyages. BCOs must budget for rising fuel surcharge adjustments across ocean carrier contracts through Q4."
+                "CK Hutchison Holdings has initiated international arbitration proceedings against the government of Panama, seeking $1.5B in damages. The legal action follows the state seizure of the Balboa and Cristobal port terminals after local courts invalidated long-standing operating concessions.",
+                "The dispute threatens foreign investor confidence and introduces operational uncertainty for terminal handling continuity in Central America. Global terminal operators must reassess jurisdictional risk exposure when managing strategic gateway concessions."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL WAREHOUSE REBOUND",
+            "nextUpTease": "TRUCK LOBBY CHIEF",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T16:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: INDUSTRIAL WAREHOUSE REBOUND",
+            "heading": "TRUCKING: LOBBY CHIEF",
             "paragraphs": [
-                "National industrial real estate vacancy contracted 7 bps sequentially to 7.3% in Q2 2026 as net warehouse absorption outpaced new speculative construction completions. Developer construction starts have slowed significantly, signaling an end to the multi-year post-pandemic supply glut.",
-                "Tightening warehouse availability in primary inland distribution hubs will accelerate lease rate appreciation over the coming 12 months. Enterprise logistics directors must negotiate lease renewals early to mitigate commercial storage cost expansion."
+                "American Trucking Associations President and CEO Chris Spear has stepped down from his post after leading the federation through years of regulatory overhaul. His departure coincides with intensifying legal battles over electronic logging device mandates and federal driver database access.",
+                "Leadership transition at the nation's premier trucking lobby comes as motor carriers grapple with severe liability verdicts and tightening capacity margins. Fleet operators must monitor upcoming legislative shifts closely to protect operational compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON AUTOSTORE DEAL",
+            "nextUpTease": "RUSSIAN FUEL REVERSAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-22T09:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMATION: AMAZON AUTOSTORE DEAL",
+            "heading": "ENERGY: RUSSIAN REVERSAL",
             "paragraphs": [
-                "Amazon has executed a comprehensive global supply agreement with warehouse automation leader AutoStore to deploy cube-storage robotics across its fulfillment network. The integration targets dense micro-fulfillment hubs to accelerate same-day SKU picking and reduce per-unit handling costs.",
-                "The scale implementation sets a new competitive benchmark for automated inventory density and rapid direct-to-consumer dispatch cycles. Competing retailers must upgrade facility robotics architectures to match sub-three-hour regional delivery expectations."
+                "Russia is importing nearly 270K tons of refined fuels from Asia this month, completely reversing traditional trade flows due to severe domestic shortages. Persistent Ukrainian drone strikes on domestic refineries have crippled production capacity across one of the world's largest energy exporters.",
+                "The regional fuel supply deficit is redirecting tanker tonnage and altering bunker availability in key Asian fueling ports. Energy procurement teams must navigate shifting regional product flows to secure predictable bunker pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC CONTAINER ROUTE",
+            "nextUpTease": "PORT CAPACITY ABSORPTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-22T10:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: ARCTIC CONTAINER ROUTE",
+            "heading": "ANALYTICS: CAPACITY ABSORPTION",
             "paragraphs": [
-                "Chinese carrier Sea Legend has inaugurated a commercial container liner service connecting China and Europe via the Northern Sea Route following successful 20-day trial transits. The Arctic routing shaves nearly 14 days off traditional Cape of Good Hope detours.",
-                "While seasonal ice conditions present operational barriers, the shortcut offers massive fuel and transit time reductions during peak summer windows. Global shippers must balance harsh weather risk exposure against significant container turnaround efficiencies."
+                "Data from Sea-Intelligence reveals that global port delays and ongoing maritime congestion are currently absorbing 5% of the total industry TEU capacity. This operational drag removes millions of boxes from active circulation, artificially tightening equipment availability across major trade lanes.",
+                "Prolonged vessel turnaround times and secondary route detours amplify equipment scarcity and sustain elevated ocean spot rates. Logistics managers must secure rolling equipment contracts early to insulate supply chains from unexpected container shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T16:10:00Z",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
