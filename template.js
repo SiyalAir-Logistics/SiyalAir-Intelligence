@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fee hits $4.6M as regional draft cuts and geopolitical carrier rerouting squeeze global maritime container transit capacity."
+        "titleWhite": "TRUMP TARIFFS PUSH CANADA TO TRADE",
+        "titleBlue": "WAR",
+        "footerSummary": "Trump tariffs on Canada trigger immediate retaliatory trade conflict as North American supply chains brace for soaring cross-border freight costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+            "heading": "TRADE: TRUMP TARIFFS PUSH CANADA TO TRADE WAR",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid $4.6M to cut the Panama Canal queue, marking the highest publicly reported priority fee to date. Persistent regional drought constraints and El Ni\u00f1o weather patterns have forced the canal authority to trim daily Neopanamax vessel transits.",
-                "Shippers face severe schedule disruptions and elevated container spot rates as ocean carriers absorb mounting operational bottlenecks. Logistics directors must evaluate premium queue-jump costs against extended transit delays when routing time-sensitive cargo."
+                "President Trump has allowed aggressive 50% tariffs on numerous Canadian imports to take full effect as bilateral negotiations stall completely. Canadian leadership responded swiftly by declaring an active trade conflict, vowing to match every single U.S. duty dollar for dollar across cross-border freight corridors.",
+                "The abrupt escalation threatens to upend established automotive and manufacturing supply chains that rely on frictionless northern border transit. Shippers must rapidly re-evaluate landed product costs and explore alternative sourcing channels to protect operating margins from severe tariff burdens."
             ],
             "imageUrl": "",
-            "nextUpTease": "JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY NEOPANAMAX SLOTS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
+            "heading": "MARITIME: PANAMA CANAL TRIMS DAILY NEOPANAMAX SLOTS",
             "paragraphs": [
-                "Japan has officially launched a 5-year, 15.1B yen subsidy program worth $95M to accelerate commercial orders for vessels powered by hydrogen, ammonia, methanol, and batteries. Jointly administered by transport and environment ministries, the fund covers up to 50% of eligible green ship construction costs.",
-                "Maritime operators must upgrade fleet decarbonization strategies to capture federal capital incentives while complying with tightening global emission standards. Fleet owners failing to invest in alternative propulsion face accelerated asset depreciation across primary trade lanes."
+                "The Panama Canal Authority has officially announced plans to cut one daily Neopanamax vessel transit starting in September due to persistent El Nino weather disruptions. The reduction further tightens maritime capacity across primary global trade lanes already strained by geopolitical rerouting and regional draft constraints.",
+                "Ocean carriers are absorbing mounting scheduling bottlenecks that translate directly into surging container spot rates and extended transit delays. Logistics directors must factor reduced slot availability and higher priority fees into their Q4 deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON DROUGHT TRIGGERS $1900 CONTAINER SURCHARGES",
+            "nextUpTease": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINERS: AMAZON DROUGHT TRIGGERS $1900 SURCHARGES",
+            "heading": "CONTAINERS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
             "paragraphs": [
-                "Severe low-water levels across the Amazon river basin have forced ocean carriers to implement emergency low-water surcharges of up to $1,900 per container. The environmental constraint disrupts vital inland supply routes connecting Manaus to global shipping networks.",
+                "Severe low-water levels across the Amazon River basin have forced ocean carriers to implement emergency low-water surcharges reaching 1,900 USD per container. The environmental constraint severely disrupts vital inland supply routes connecting Manaus distribution networks to global shipping lanes.",
                 "Supply chain operators managing South American import networks must absorb sudden freight surcharges or establish costly multimodal contingency plans. Shippers need to audit regional distribution contracts to protect operating margins from unexpected water-level penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOMALI INCIDENTS RISING AS NAVIES STRETCHED",
+            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL WITH 22 MISSING",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -53,54 +53,54 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "GLOBAL GATEWAYS: SOMALI PIRACY INCIDENTS RISING",
+            "heading": "MARITIME: BULKER SINKS IN BAY OF BENGAL WITH 22 MISSING",
             "paragraphs": [
-                "Maritime security observers report a sharp increase in pirate incidents off the coast of Somalia as international naval patrols remain overextended across critical Middle Eastern chokepoints. The resurgence introduces severe security risks for commercial tonnage navigating the Bab el-Mandeb Strait and Gulf of Aden.",
-                "Fleet operators must elevate threat-assessment protocols and deploy armed security details to safeguard vessels transiting high-risk maritime corridors. Failure to maintain strict vessel hardening standards exposes cargo owners to catastrophic ransom and delay liabilities."
+                "The Panama-flagged panamax bulker Ocean Winner sank abruptly in the Bay of Bengal approximately 240 nautical miles off the coast, leaving 22 crewmembers missing. A joint search and rescue operation involving the Indian Coast Guard and Navy was immediately launched across the stricken maritime sector.",
+                "The tragic casualty introduces sudden localized capacity losses and highlights persistent safety risks across regional bulk shipping corridors. Vessel operators must verify strict structural compliance and emergency readiness standards to mitigate catastrophic voyage liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
+            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS ON 60 NATIONS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "BORDER: CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
+            "heading": "REGULATORY: USTR ADVANCES FORCED LABOR TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "U.S. Customs and Border Protection officers at the Roma International Bridge discovered 240 packages containing $9.5M in suspected methamphetamine concealed inside a commercial detergent shipment. The illicit narcotics were uncovered during an intensive secondary inspection of a cross-border tractor-trailer.",
-                "Border enforcement operations continue to subject commercial freight moving across southern entry points to heightened cargo screening scrutiny. Logistics providers must enforce stringent vendor vetting procedures to prevent illicit cargo contamination and costly customs delays."
+                "The Office of the United States Trade Representative has officially moved forward with implementing strict Section 301 tariffs targeting 60 trading partners over forced labor compliance. The enforcement action coincides with the formal expiration of prior Section 122 tariff measures across key import categories.",
+                "Importers face heightened regulatory scrutiny and complex documentation requirements to prove end-to-end supply chain transparency. Failure to audit tier-one and tier-two vendor networks risks severe border detentions and unexpected duty assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+            "nextUpTease": "IRAN WAR FUEL SPIKES PUSH FREIGHT TO INTERMODAL",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+            "heading": "INTERMODAL: IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
             "paragraphs": [
-                "New Jersey port authorities have placed a landmark commercial equipment order for 96 electric terminal trucks from Orange EV to accelerate regional drayage decarbonization. The heavy-duty fleet acquisition forms a core pillar of terminal sustainability mandates and infrastructure upgrades.",
-                "Terminal operators must upgrade facility charging grids to support heavy commercial electric vehicle duty cycles without disrupting gate turnaround times. Fleet managers should assess available federal grant funding to offset upfront capital expenditures on zero-emission assets."
+                "Surging diesel costs, driver shortages, and tightening over-the-road trucking capacity driven by the ongoing Iran conflict are pushing US shippers toward rail intermodal networks. Transport buyers are actively shifting freight off highways to capture more stable pricing and reliable long-haul transit times.",
+                "Rail marketing companies and intermodal providers must optimize terminal gate throughput to absorb the sudden influx of diverted highway volume. Shippers should secure multi-year intermodal service contracts now to lock in capacity before peak season demand strains rail networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
             "paragraphs": [
-                "Hong Kong-based CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama, seeking $1.5B in compensation. The legal action follows the government's seizure of the Balboa and Cristobal port terminals after a supreme court ruling invalidated operating concessions.",
+                "Hong Kong-based CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama, seeking 1.5B USD in compensation. The legal action stems from the state seizure of the Balboa and Cristobal port terminals after local supreme court rulings invalidated operating concessions.",
                 "Global port operators face elevated legal and geopolitical risks when managing international terminal concessions under shifting domestic legislation. Investors must incorporate sovereign risk premiums into long-term infrastructure valuation models across emerging trade gateways."
             ],
             "imageUrl": "",

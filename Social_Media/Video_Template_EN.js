@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "TRUMP TARIFFS PUSH CANADA TO TRADE WAR",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
-                "teaserTitle": "JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
+                "headline": "TRADE: TRUMP TARIFFS PUSH CANADA TO TRADE WAR",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY NEOPANAMAX SLOTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe drought constraints and El Ni\u00f1o draft limits continue to squeeze maritime container capacity."
+                "narration_line": "President Trump implemented fifty percent tariffs on Canadian imports as talks collapsed entirely. Canada responded by vowing to match every duty dollar for dollar."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
-                "teaserTitle": "AMAZON DROUGHT TRIGGERS $1900 CONTAINER SURCHARGES",
+                "headline": "MARITIME: PANAMA CANAL TRIMS DAILY NEOPANAMAX SLOTS",
+                "teaserTitle": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Japan launched a ninety five million dollar subsidy program for green ships. The five year scheme covers half the construction costs for hydrogen and ammonia vessels."
+                "narration_line": "The Panama Canal Authority will cut daily Neopanamax transits starting in September. The reduction adds severe scheduling bottlenecks and drives up spot container rates."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: AMAZON DROUGHT TRIGGERS $1900 SURCHARGES",
-                "teaserTitle": "SOMALI INCIDENTS RISING AS NAVIES STRETCHED",
+                "headline": "CONTAINERS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL WITH 22 MISSING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Severe low water levels on the Amazon River triggered nineteen hundred dollar container surcharges. Carriers are deploying emergency contingency plans to keep Manaus connected."
+                "narration_line": "Low water levels across the Amazon basin triggered nineteen hundred dollar container surcharges. Shippers must absorb sudden freight penalties or establish costly contingency routes."
             },
             {
                 "slide_index": 4,
-                "headline": "GLOBAL GATEWAYS: SOMALI PIRACY INCIDENTS RISING",
-                "teaserTitle": "CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
+                "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL WITH 22 MISSING",
+                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS ON 60 NATIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Maritime security monitors report rising Somali piracy incidents as international navies remain stretched. The threat introduces severe operational risk across the Bab el-Mandeb Strait."
+                "narration_line": "A panamax bulker sank suddenly in the Bay of Bengal leaving twenty-two crewmembers missing. Joint search operations highlight severe safety risks across regional bulk corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "BORDER: CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "REGULATORY: USTR ADVANCES FORCED LABOR TARIFFS ON 60 NATIONS",
+                "teaserTitle": "IRAN WAR FUEL SPIKES PUSH FREIGHT TO INTERMODAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Customs officers seized nine point five million dollars of methamphetamine hidden inside a detergent shipment. Secondary inspections at the Texas border continue to catch contraband."
+                "narration_line": "The United States Trade Representative is advancing forced labor tariffs across sixty nations. Importers face strict compliance audits and heightened border scrutiny."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
+                "headline": "INTERMODAL: IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey port authorities ordered ninety six electric terminal trucks to accelerate decarbonization. Facilities must upgrade electrical charging grids to support heavy commercial duty cycles."
+                "narration_line": "Surging diesel costs driven by the Iran conflict are pushing freight to rail intermodal networks. Shippers are seeking stable pricing amid tightening trucking capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CK Hutchison initiated one point five billion dollars in arbitration proceedings against Panama. The legal dispute follows government seizures of key terminal concessions."
+                "narration_line": "CK Hutchison initiated international arbitration seeking one point five billion dollars from Panama. The legal action follows the disputed seizure of key port terminals."
             },
             {
                 "slide_index": 8,
