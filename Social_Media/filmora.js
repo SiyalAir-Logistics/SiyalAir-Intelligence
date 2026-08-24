@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: CANADA TARIFFS STALL",
+                "headline": "USTR: FORCED LABOR TARIFFS",
                 "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
-                "visual_caption": "U.S.-Canada trade talks have collapsed as 50% tariffs take effect. Canadian leadership promises retaliatory duties, disrupting cross-border supply chains."
+                "visual_caption": "USTR implements Section 301 tariffs across 60 trading partners. Importers must audit supply chain origins immediately to prevent customs detentions."
             },
             {
                 "slide_index": 2,
                 "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
-                "teaserTitle": "IRAN WAR KEEPS BRENT CRUDE NEAR 94",
-                "visual_caption": "The Panama Canal Authority is cutting daily transits to 31 ships due to drought. Queue-jump fees surpass $4.6M as transpacific spot rates surge."
+                "teaserTitle": "ASIA-USWC RATES SURGE ON CAPACITY PINCH",
+                "visual_caption": "Panama Canal draft restrictions reduce daily transits to 31 ships. Queue-jump fees surpass $4.6M amid severe capacity constraints."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: IRAN WAR KEEPS BRENT NEAR 94",
-                "teaserTitle": "HAPAG LLOYD BUYS ROTTERDAM TERMINAL",
-                "visual_caption": "Strait of Hormuz tensions keep Brent crude at $94.46 per barrel. Surging fuel expenses are squeezing operating margins across intermodal networks."
+                "headline": "CONTAINER: ASIA-USWC RATES SURGE",
+                "teaserTitle": "CANADA HITS BACK ON US TARIFFS",
+                "visual_caption": "Asia-USWC spot freight rates surge as carriers bypass Panama restrictions. BCOs face escalating shipping costs and tight vessel capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "ALLIANCE: HAPAG LLOYD BUYS ROTTERDAM",
-                "teaserTitle": "CATERPILLAR SECURES 392M TARIFF REFUND",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in Rotterdam from Maersk. This terminal investment strengthens schedule reliability for the Gemini Cooperation."
+                "headline": "TRADE: CANADA HITS BACK ON US TARIFFS",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "visual_caption": "US-Canada trade negotiations collapse as Section 338 tariff deadlines expire. Canada vows dollar-for-dollar retaliatory duties on imports."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: CATERPILLAR SECURES 392M REFUND",
-                "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
-                "visual_caption": "Caterpillar secured a $392M tariff refund following federal customs reviews. Importers are now auditing historical duty payments to capture savings."
+                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "visual_caption": "Bulk carrier Ocean Winner sinks in the Bay of Bengal with 22 crew missing. Joint rescue operations continue across maritime search zones."
             },
             {
                 "slide_index": 6,
-                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
-                "teaserTitle": "PENNSYLVANIA PASSES NEW CDL LAW",
-                "visual_caption": "ATA President and CEO Chris Spear has officially departed his leadership post. An executive search is underway amid major regulatory challenges."
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS ELECTRIC TRUCKS",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE REACH",
+                "visual_caption": "New Jersey seaport orders a fleet of 96 electric terminal trucks. Terminal operators must prepare electrical grids for heavy commercial charging."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: PENNSYLVANIA PASSES CDL LAW",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE",
                 "teaserTitle": "",
-                "visual_caption": "Pennsylvania enacted a law levying penalties up to $25K on unlicensed CDL schools. Fleets must verify driver training credentials to avoid liability."
+                "visual_caption": "Amazon expands Prime Air drone delivery reach sixfold across major hubs. Traditional delivery networks accelerate automation to maintain speed."
             },
             {
                 "slide_index": 8,

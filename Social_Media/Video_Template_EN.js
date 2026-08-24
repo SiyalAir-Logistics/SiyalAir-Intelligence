@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA TARIFFS STALL",
+        "hookTitle": "USTR MOVES FORWARD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: CANADA TARIFFS STALL",
+                "headline": "USTR: FORCED LABOR TARIFFS",
                 "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trade talks between the United States and Canada have collapsed as fifty percent tariffs take effect. Canadian leadership promises retaliatory duties, disrupting cross border supply chains."
+                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty nations. Importers must audit supply chains immediately to avoid severe customs penalties."
             },
             {
                 "slide_index": 2,
                 "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
-                "teaserTitle": "IRAN WAR KEEPS BRENT CRUDE NEAR 94",
+                "teaserTitle": "ASIA-USWC RATES SURGE ON CAPACITY PINCH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal Authority is cutting daily transits to thirty one ships due to drought. Queue jump fees surpass four point six million dollars as spot rates surge."
+                "narration_line": "Persistent drought has forced the Panama Canal to cut daily transits to thirty-one ships. Queue jump fees have surged past four point six million dollars."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: IRAN WAR KEEPS BRENT NEAR 94",
-                "teaserTitle": "HAPAG LLOYD BUYS ROTTERDAM TERMINAL",
+                "headline": "CONTAINER: ASIA-USWC RATES SURGE",
+                "teaserTitle": "CANADA HITS BACK ON US TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Middle East tensions keep Brent crude at ninety four dollars per barrel. Surging fuel expenses are squeezing operating margins across intermodal and trucking networks."
+                "narration_line": "Transpacific container freight rates are spiking as shippers bypass Panama Canal bottlenecks. Shippers must lock in contract rates to protect operating margins."
             },
             {
                 "slide_index": 4,
-                "headline": "ALLIANCE: HAPAG LLOYD BUYS ROTTERDAM",
-                "teaserTitle": "CATERPILLAR SECURES 392M TARIFF REFUND",
+                "headline": "TRADE: CANADA HITS BACK ON US TARIFFS",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hapag Lloyd has acquired a twenty five percent stake in Rotterdam from Maersk. This terminal investment strengthens schedule reliability for the Gemini Cooperation partnership."
+                "narration_line": "US and Canadian trade talks have collapsed following stalled Section three thirty-eight tariff negotiations. Canada is preparing retaliatory duties across northern trade corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: CATERPILLAR SECURES 392M REFUND",
-                "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
+                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Caterpillar secured a three hundred ninety two million dollar tariff refund following customs reviews. Importers are now auditing historical duty payments to capture savings."
+                "narration_line": "A bulk carrier has sunk in the Bay of Bengal with twenty-two crewmembers missing. Coast guard rescue operations are actively scanning the region."
             },
             {
                 "slide_index": 6,
-                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
-                "teaserTitle": "PENNSYLVANIA PASSES NEW CDL LAW",
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS ELECTRIC TRUCKS",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE REACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "American Trucking Associations CEO Chris Spear has officially departed his leadership post. The search is underway for a successor amid major regulatory challenges."
+                "narration_line": "New Jersey ports have ordered ninety-six electric terminal trucks to cut emissions. Fleet operators must upgrade facility charging grids for heavy equipment."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: PENNSYLVANIA PASSES CDL LAW",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Pennsylvania regulators enacted a law targeting unlicensed commercial driver training schools. Fleets must now verify driver credentials to avoid severe civil penalties."
+                "narration_line": "Amazon is expanding its drone delivery network sixfold across major US metropolitan markets. Traditional parcel carriers face mounting pressure to adopt automation."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

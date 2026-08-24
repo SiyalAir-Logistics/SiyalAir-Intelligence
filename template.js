@@ -1,23 +1,23 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFFS STALL AS CARNEY",
-        "titleBlue": "VOWS",
-        "footerSummary": "US Canada trade talks collapse as bilateral 50% tariffs take effect, prompting retaliatory threats and supply chain re-routing across North American networks."
+        "titleWhite": "USTR MOVES FORWARD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 forced labor tariffs across 60 trading partners as Section 122 duties expire, driving compliance and margin risks for global importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: CANADA TARIFFS STALL",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Bilateral trade talks between the United States and Canada have officially collapsed following the expiration of the negotiation deadline for Section 338 and 50% tariff measures. Canadian leadership responded by confirming immediate retaliatory duties and asserting a state of trade conflict across integrated cross-border corridors.",
-                "Automotive and industrial supply chains face severe cost inflation on raw materials and intermediate components moving across northern ports of entry. Logistics directors must immediately execute contingency sourcing blueprints to mitigate impending border clearance bottlenecks."
+                "The Office of the United States Trade Representative has officially announced the implementation of comprehensive tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This decisive regulatory enforcement action coincides with the formal expiration of Section 122 trade measures, shifting the federal compliance framework toward strict labor auditing.",
+                "Importers must immediately review supply chain tiers and raw material origins to prevent severe border detention risks and unexpected duty liabilities. Failure to secure verifiable supplier transparency will trigger immediate margin compression across global import channels."
             ],
             "imageUrl": "",
             "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trumps-50-percent-tariff-on-canada-imports-in-effect/759000/",
-                "Published: 2026-08-22T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-23T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -25,89 +25,89 @@ const dailyData = {
             "id": 2,
             "heading": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
             "paragraphs": [
-                "Persistent El Nino rainfall deficits have compelled the Panama Canal Authority to implement further defensive draft restrictions, cutting daily neopanamax transits to 31 ships starting in September. The capacity reduction removes critical booking availability, driving premium queue-jump fees past $4.6M as ocean carriers scramble for transit priority.",
-                "Container lines are actively omitting major Chinese ports and rerouting strings, sending Asia-to-US West Coast spot rates surging to multi-month highs. Shippers relying on transpacific maritime routes must absorb climbing freight premiums or transition cargo to intermodal alternatives."
+                "Persistent regional rainfall deficits have forced the Panama Canal Authority to implement defensive draft restrictions, cutting daily neopanamax transits to 31 vessels. The resulting capacity reduction has driven queue-jump fees past $4.6M as container lines compete fiercely for priority scheduling.",
+                "Carriers are actively omitting major Asian port calls and rerouting strings, sending Asia-to-US West Coast spot rates surging to multi-month highs. Logistics directors must absorb rising freight premiums or transition cargo to intermodal alternatives to maintain delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "IRAN WAR KEEPS BRENT CRUDE NEAR 94",
+            "nextUpTease": "ASIA-USWC RATES SURGE ON CAPACITY PINCH",
             "tags": [
-                "Source: https://www.joc.com/article/panama-canal-to-cut-one-daily-neopanamax-ship-transit-by-september_20260821.html",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-21T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FUEL: IRAN WAR KEEPS BRENT NEAR 94",
+            "heading": "CONTAINER: ASIA-USWC RATES SURGE",
             "paragraphs": [
-                "Prolonged military friction surrounding the Strait of Hormuz has maintained international Brent crude benchmarks at $94.46 per barrel, keeping retail diesel prices near their highest levels since May. Elevated bunker expenses and over-the-road fuel surcharges are severely compressing operating margins across long-haul trucking and intermodal networks.",
-                "Freight forwarders and procurement teams must dynamically recalculate variable fuel adjustments and prioritize energy-efficient routing strategies. Supply chain managers are increasingly shifting freight to rail intermodal to offset surging highway transport costs through Q4."
+                "Transpacific container shipping rates from Asia to the US West Coast are accelerating rapidly as shippers scramble to bypass impending Panama Canal draft restrictions. Drewry's composite indices reflect escalating carrier pricing power amid constrained vessel availability and persistent terminal congestion.",
+                "BCOs face substantial spot market volatility and must re-evaluate multi-carrier contracting strategies to insulate annual freight budgets. Procurement teams should lock in minimum volume commitments promptly to mitigate peak season surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG LLOYD BUYS ROTTERDAM TERMINAL",
+            "nextUpTease": "CANADA HITS BACK ON US TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-steady-strait-hormuz-stalled-talks",
+                "Source: https://www.theloadstar.com",
                 "Published: 2026-08-21T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALLIANCE: HAPAG LLOYD BUYS ROTTERDAM",
+            "heading": "TRADE: CANADA HITS BACK ON US TARIFFS",
             "paragraphs": [
-                "Hapag-Lloyd has concluded a definitive agreement to acquire a 25% ownership stake in Europe's automated Maasvlakte II terminal in Rotterdam from alliance partner Maersk. The strategic acquisition secures dedicated gateway handling capacity and reinforces operational alignment within the Gemini Cooperation network.",
-                "Consolidating terminal assets enhances schedule reliability for ocean liners seeking to insulate European import hubs from regional labor volatility. Supply chain professionals benefit from tighter port integration, though diminished multi-carrier competition requires close performance tracking."
+                "Bilateral trade friction between the United States and Canada has intensified following the collapse of negotiations over proposed Section 338 levies. Canadian leadership has formally vowed to match US duties dollar for dollar, establishing an active trade conflict across northern corridors.",
+                "Automotive and industrial supply chains face immediate cost inflation on components moving across border checkpoints. Cross-border operators must execute contingency routing blueprints to navigate anticipated customs clearance delays and retaliatory duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR SECURES 392M TARIFF REFUND",
+            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL",
             "tags": [
-                "Source: https://www.joc.com/article/maersk-sells-25-pct-stake-in-rotterdam-terminal-to-hapag-loyd_20260820.html",
-                "Published: 2026-08-20T11:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-23T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CUSTOMS: CATERPILLAR SECURES 392M REFUND",
+            "heading": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
             "paragraphs": [
-                "Heavy-equipment manufacturer Caterpillar has successfully recovered a $392M tariff refund following an exhaustive administrative review of federal duty payments and item classifications. Excluding this reimbursement, the corporation absorbed $400M in net tariff expenses during the quarter ending June 30.",
-                "Industrial importers must proactively audit historical customs filings and product harmonized codes to identify comparable statutory refund opportunities. Corporate financial controllers should leverage licensed customs brokers to implement automated duty screening systems."
+                "The Panama-flagged panamax bulk carrier Ocean Winner has suddenly sunk approximately 240 nautical miles off the Indian coast in the Bay of Bengal, leaving 22 crewmembers missing. A joint search and rescue operation involving the Indian Coast Guard and Navy is currently underway.",
+                "The maritime casualty introduces immediate safety scrutiny for aging dry bulk tonnage operating across South Asian trade routes. Charterers and insurers must enforce rigorous vessel vetting standards to mitigate operational risk exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA CHIEF SPEAR DEPARTS FEDERATION",
+            "nextUpTease": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-costs-shrink/758000/",
-                "Published: 2026-08-20T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-24T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
+            "heading": "EQUIPMENT: NEW JERSEY ORDERS ELECTRIC TRUCKS",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership post, initiating an executive search for his successor amid sweeping regulatory shifts. His departure comes as motor carriers navigate complex federal rulemakings, judicial challenges, and aggressive tariff enforcement.",
-                "The transition introduces leadership uncertainty for the nation's primary trucking lobby during a critical legislative window for freight transportation. Fleet executives must monitor association policy continuity closely as advocacy groups address driver credential databases and safety mandates."
+                "New Jersey port authorities have placed a landmark commercial order for 96 electric terminal trucks from Orange EV to accelerate drayage decarbonization. The heavy-duty fleet acquisition forms a core pillar of regional port sustainability mandates and infrastructure upgrades.",
+                "Terminal operators must upgrade facility charging grids to support heavy commercial EV duty cycles without disrupting gate turnaround times. Fleet managers should assess available federal grant funding to offset upfront capital expenditures on zero-emission equipment."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENNSYLVANIA PASSES NEW CDL LAW",
+            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE REACH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
-                "Published: 2026-08-21T12:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-20T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: PENNSYLVANIA PASSES CDL LAW",
+            "heading": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE",
             "paragraphs": [
-                "Pennsylvania state regulators have enacted rigorous legislation empowering authorities to levy civil penalties of up to $25,000 against unlicensed commercial driver training schools. The new enforcement framework targets substandard driver education providers to bolster highway safety standards across commercial corridors.",
-                "Motor carriers must verify that driver recruitment pipelines rely exclusively on fully certified training institutions to prevent compliance liabilities. Fleet safety directors should audit internal qualification protocols to ensure alignment with expanding state-level credentialing statutes."
+                "Amazon has announced a sixfold expansion of its Prime Air drone delivery network, rolling out automated aerial fulfillment to metropolitan Atlanta, Chicago, and Cleveland. The scaling initiative leverages localized suburban fulfillment hubs to compress parcel transit times under 30 minutes.",
+                "Traditional parcel carriers face mounting competitive pressure to integrate high-speed autonomous delivery alternatives into urban logistics models. Regional logistics providers must invest in advanced software routing and automated sortation to preserve last-mile market share."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/new-pennsylvania-law-targets-unlicensed-cdl-schools",
-                "Published: 2026-08-19T14:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-20T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
