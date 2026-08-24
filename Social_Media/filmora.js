@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
+                "headline": "REGULATION: FORCED LABOR TARIFFS 60",
                 "teaserTitle": "PANAMA CANAL FEE HITS 4.6M USD",
-                "visual_caption": "Washington and Ottawa trade talks collapsed, leading to a 50% tariff on Canadian auto imports. Canadian officials immediately announced retaliatory measures dollar for dollar."
+                "visual_caption": "The USTR advances Section 301 tariffs targeting 60 trading partners as Section 122 expires. Importers must upgrade compliance protocols to prevent costly customs seizures at the border."
             },
             {
                 "slide_index": 2,
                 "headline": "MARITIME: PANAMA CANAL FEE HITS 4.6M USD",
                 "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "An empty LPG tanker paid $4.6M to cut the Panama Canal queue. The payment sets a new record for priority transit fees amid severe slot constraints."
+                "visual_caption": "An empty tanker paid a record $4.6M queue-jump fee to transit the Panama Canal. Vessel operators must factor priority tolls into voyage calculations to avoid delays."
             },
             {
                 "slide_index": 3,
                 "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
                 "teaserTitle": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
-                "visual_caption": "The panamax bulk carrier Ocean Winner sank abruptly in the Bay of Bengal with 22 crewmembers missing. An international search operation is currently underway across regional lanes."
+                "visual_caption": "The bulk carrier Ocean Winner sank in the Bay of Bengal with 22 crewmembers missing. The incident introduces sudden capacity contractions across regional dry bulk lanes."
             },
             {
                 "slide_index": 4,
                 "headline": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
                 "teaserTitle": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
-                "visual_caption": "Severe low water levels across the Amazon basin forced carriers to implement $1,900 surcharges. The environmental constraint disrupts vital inland distribution networks."
+                "visual_caption": "Low water levels across the Amazon basin forced carriers to implement $1,900 surcharges. Supply chain operators must absorb sudden freight fees or establish contingencies."
             },
             {
                 "slide_index": 5,
                 "headline": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
                 "teaserTitle": "LOGISTICS PIONEER KUEHNE DIES AT 89",
-                "visual_caption": "Singapore maritime authorities defended regional transhipment operations following U.S. allegations. The regulatory friction introduces heightened compliance scrutiny for freight forwarders."
+                "visual_caption": "Singapore defended transhipment operations following U.S. allegations of shadow networks. Managers must enhance documentation rigor to protect shipments from customs holds."
             },
             {
                 "slide_index": 6,
                 "headline": "BUSINESS: LOGISTICS PIONEER KUEHNE DIES AT 89",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "Logistics billionaire Klaus-Michael Kuehne passed away at age 89 in Switzerland. His leadership transformed family forwarding into a dominant global transport empire."
+                "teaserTitle": "CANADA AUTO TARIFFS 50%",
+                "visual_caption": "Logistics billionaire Klaus-Michael Kuehne has died at age 89. Industry stakeholders are evaluating future governance and strategic direction following his passing."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
                 "teaserTitle": "",
-                "visual_caption": "The USTR is advancing forced labor tariffs across 60 trading partners. The action coincides with the expiration of older trade provisions and stricter customs audits."
+                "visual_caption": "U.S.-Canada trade talks collapsed as 50% tariffs on Canadian auto imports took effect. Shippers must rapidly re-evaluate cross-border procurement strategies to protect margins."
             },
             {
                 "slide_index": 8,

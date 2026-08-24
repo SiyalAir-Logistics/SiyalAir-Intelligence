@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA AUTO TARIFFS",
-        "titleBlue": "50%",
-        "footerSummary": "Trade talks collapse as Washington implements 50% tariffs on Canadian auto imports, triggering retaliatory measures and regional supply chain reallocations."
+        "titleWhite": "FORCED LABOR TARIFFS",
+        "titleBlue": "60",
+        "footerSummary": "USTR advances Section 301 tariffs across 60 trading partners as Section 122 expires, forcing global importers to overhaul compliance and audit protocols immediately."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
+            "heading": "REGULATION: FORCED LABOR TARIFFS 60",
             "paragraphs": [
-                "Trade negotiations between Washington and Ottawa collapsed completely, prompting the implementation of a 50% tariff on Canadian automotive imports across North American borders. Canadian officials immediately announced retaliatory measures dollar for dollar, escalating trade tensions and disrupting highly integrated regional manufacturing supply chains.",
-                "The severe duty spike forces automotive shippers to rapidly re-evaluate procurement strategies and explore alternative sourcing locations to protect operating margins. Logistics planners must immediately model cross-border transit costs under the new 50% tariff regime to prevent catastrophic financial exposure."
+                "The Office of the United States Trade Representative announced the formal advancement of Section 301 tariffs targeting goods linked to forced labor across 60 trading partners. The sweeping regulatory action coincides with the expiration of older Section 122 tariffs, reshaping import compliance obligations for global importers.",
+                "Importers must upgrade supply chain mapping and supplier auditing protocols to ensure absolute transparency and prevent costly customs seizures at the border. Proactive compliance management is critical to neutralizing regulatory exposure under heightened enforcement frameworks."
             ],
             "imageUrl": "",
             "nextUpTease": "PANAMA CANAL FEE HITS 4.6M USD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -89,24 +89,24 @@ const dailyData = {
                 "Industry stakeholders are evaluating the future governance and strategic direction of major logistics entities following the passing of a defining global transport figure. Market participants must monitor corporate leadership transitions for potential impacts on long-term freight partnerships and M&A activities."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "CANADA AUTO TARIFFS 50%",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced the formal advancement of Section 301 tariffs targeting goods linked to forced labor across 60 trading partners. The sweeping regulatory action coincides with the expiration of older Section 122 tariffs, reshaping import compliance obligations for global importers.",
-                "Importers must upgrade supply chain mapping and supplier auditing protocols to ensure absolute transparency and prevent costly customs seizures at the border. Proactive compliance management is critical to neutralizing regulatory exposure under heightened enforcement frameworks."
+                "Trade negotiations between Washington and Ottawa collapsed completely, prompting the implementation of a 50% tariff on Canadian automotive imports across North American borders. Canadian officials immediately announced retaliatory measures dollar for dollar, escalating trade tensions and disrupting highly integrated regional manufacturing supply chains.",
+                "The severe duty spike forces automotive shippers to rapidly re-evaluate procurement strategies and explore alternative sourcing locations to protect operating margins. Logistics planners must immediately model cross-border transit costs under the new 50% tariff regime to prevent catastrophic financial exposure."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
