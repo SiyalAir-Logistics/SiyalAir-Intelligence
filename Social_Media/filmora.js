@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
-                "teaserTitle": "PANAMA CANAL TRANSIT CUT",
-                "visual_caption": "U.S. tariffs on Canadian auto imports are hiking to 50% after trade talks collapsed. Both nations are bracing for an escalating cross-border trade war."
+                "headline": "REGULATION: COURT UPHOLDS DETENTION FEE RULES",
+                "teaserTitle": "CANADA AUTO TARIFFS 50%",
+                "visual_caption": "The federal appeals court upheld rules stating detention fees must promote freight fluidity. Shippers can now contest unjustified terminal storage billing."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL TRANSIT CUT",
+                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
                 "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "The Panama Canal is cutting daily Neopanamax transits by 1 slot starting in September due to draft limits. Carriers are implementing steep priority tolls."
+                "visual_caption": "Trade talks collapsed, forcing a 50% tariff on Canadian auto imports. Automotive supply chains face severe cost spikes and routing shifts."
             },
             {
                 "slide_index": 3,
                 "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD",
-                "visual_caption": "The bulk carrier Ocean Winner sank in the Bay of Bengal, leaving 22 crewmembers missing. Search operations continue across the stricken maritime sector."
+                "teaserTitle": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "visual_caption": "A panamax bulk carrier sank in the Bay of Bengal with 22 crew missing. The casualty creates sudden dry bulk capacity contractions."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
-                "teaserTitle": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
-                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama following terminal seizures. Global port operators now face heightened sovereign investment risks."
+                "headline": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "teaserTitle": "OIL PRICES FALL ON IRAN SANCTIONS",
+                "visual_caption": "Amazon River low water forced carriers to implement $1,900 container surcharges. Regional distribution routes face severe operational disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
-                "teaserTitle": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
-                "visual_caption": "Singapore defended its transhipment hub against U.S. shadow network allegations. Freight forwarders face increased compliance checks and cargo audits."
+                "headline": "FUEL: OIL PRICES FALL ON IRAN SANCTIONS",
+                "teaserTitle": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
+                "visual_caption": "Crude oil prices declined as the United States prepared new sanctions on Iran. Fleet operators should optimize fuel contracts ahead of market shifts."
             },
             {
                 "slide_index": 6,
-                "headline": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "headline": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
                 "teaserTitle": "CATERPILLAR BAGS 392M USD REFUND",
-                "visual_caption": "Amazon River drought conditions triggered emergency container surcharges of up to $1,900. Shippers must navigate severe inland distribution disruptions."
+                "visual_caption": "Singapore defended transhipment operations against United States shadow network claims. Forwarders face heightened customs scrutiny and documentation risks."
             },
             {
                 "slide_index": 7,
                 "headline": "FINANCE: CATERPILLAR BAGS 392M USD REFUND",
                 "teaserTitle": "",
-                "visual_caption": "Caterpillar secured a $392M tariff refund as quarterly duty expenses contracted. Industrial firms continue to leverage duty recovery mechanisms."
+                "visual_caption": "Caterpillar secured a $392M tariff refund. Industrial shippers must track duty recovery mechanisms to protect margins."
             },
             {
                 "slide_index": 8,
