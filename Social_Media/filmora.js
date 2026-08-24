@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
-                "teaserTitle": "CK HUTCHISON SEEKS $1.5B PANAMA CLAIM",
-                "visual_caption": "Severe rainfall deficits forced the Panama Canal to cut daily capacity to 32 ships. Ocean carriers are omitting ports and rerouting strings, sending transpacific spot rates surging."
+                "headline": "TRADE: CANADA TARIFFS STALL",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
+                "visual_caption": "U.S.-Canada trade talks have collapsed as 50% tariffs take effect. Canadian leadership promises retaliatory duties, disrupting cross-border supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA CLAIM",
-                "teaserTitle": "US AND CANADA TARIFF TALKS STALL",
-                "visual_caption": "CK Hutchison Holdings launched arbitration seeking $1.5B from Panama. The legal action follows terminal concession seizures that create major jurisdictional risks."
+                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
+                "teaserTitle": "IRAN WAR KEEPS BRENT CRUDE NEAR 94",
+                "visual_caption": "The Panama Canal Authority is cutting daily transits to 31 ships due to drought. Queue-jump fees surpass $4.6M as transpacific spot rates surge."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE WAR: US AND CANADA TARIFF TALKS STALL",
-                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "visual_caption": "Trade negotiations between the United States and Canada stalled amid tariff disputes. Shippers face sudden cost increases on intermediate components moving across borders."
+                "headline": "FUEL: IRAN WAR KEEPS BRENT NEAR 94",
+                "teaserTitle": "HAPAG LLOYD BUYS ROTTERDAM TERMINAL",
+                "visual_caption": "Strait of Hormuz tensions keep Brent crude at $94.46 per barrel. Surging fuel expenses are squeezing operating margins across intermodal networks."
             },
             {
                 "slide_index": 4,
-                "headline": "ALLIANCE: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "CATERPILLAR SECURES $392M TARIFF REFUND",
-                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam Maasvlakte terminal from Maersk. This asset transfer strengthens schedule reliability within the Gemini Cooperation partnership."
+                "headline": "ALLIANCE: HAPAG LLOYD BUYS ROTTERDAM",
+                "teaserTitle": "CATERPILLAR SECURES 392M TARIFF REFUND",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in Rotterdam from Maersk. This terminal investment strengthens schedule reliability for the Gemini Cooperation."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: CATERPILLAR SECURES $392M REFUND",
-                "teaserTitle": "STATES SUE FMCSA OVER CDL DATABASE",
-                "visual_caption": "Caterpillar successfully secured a $392M tariff refund from federal duty expenses. Importers must audit historical duty payments to capture comparable statutory refunds."
+                "headline": "CUSTOMS: CATERPILLAR SECURES 392M REFUND",
+                "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
+                "visual_caption": "Caterpillar secured a $392M tariff refund following federal customs reviews. Importers are now auditing historical duty payments to capture savings."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: STATES SUE FMCSA OVER CDL DATABASE",
-                "teaserTitle": "IRAN CONFLICT SURGES DIESEL COSTS",
-                "visual_caption": "22 states filed a federal lawsuit to block a database mandate for 17M truckers. The legal challenge addresses motor vehicle agency overreach and driver privacy."
+                "headline": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
+                "teaserTitle": "PENNSYLVANIA PASSES NEW CDL LAW",
+                "visual_caption": "ATA President and CEO Chris Spear has officially departed his leadership post. An executive search is underway amid major regulatory challenges."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL: IRAN CONFLICT SURGES DIESEL COSTS",
+                "headline": "REGULATION: PENNSYLVANIA PASSES CDL LAW",
                 "teaserTitle": "",
-                "visual_caption": "Strait of Hormuz tensions pushed crude benchmarks to $94.46 per barrel. Surging fuel expenses are squeezing operating margins across intermodal and trucking networks."
+                "visual_caption": "Pennsylvania enacted a law levying penalties up to $25K on unlicensed CDL schools. Fleets must verify driver training credentials to avoid liability."
             },
             {
                 "slide_index": 8,

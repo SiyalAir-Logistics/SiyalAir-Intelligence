@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL TRIMS SLOTS TO",
-        "titleBlue": "32",
-        "footerSummary": "Panama Canal capacity restrictions tighten as drought forces neopanamax slots down to 32, compounding global freight congestion and surging Asia-USWC spot rates."
+        "titleWhite": "CANADA TARIFFS STALL AS CARNEY",
+        "titleBlue": "VOWS",
+        "footerSummary": "US Canada trade talks collapse as bilateral 50% tariffs take effect, prompting retaliatory threats and supply chain re-routing across North American networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
+            "heading": "TRADE: CANADA TARIFFS STALL",
             "paragraphs": [
-                "Worsening rainfall deficits driven by El Nino have forced the Panama Canal Authority to implement stricter defensive draft and booking limits, cutting daily transit capacity to 32 ships starting in mid-September. The reduction removes crucial neopanamax booking slots from the schedule, immediately triggering severe queue bottlenecks and driving queue-jump fees past $4.6M for desperate operators.",
-                "Ocean carriers are responding to the capacity contraction by omitting key Chinese ports and redirecting transpacific strings, sending Asia-to-US West Coast spot rates surging higher. Shippers dependent on the intermodal gateway must secure alternative routing or absorb escalating ocean freight premiums to maintain Q4 inventory timelines."
+                "Bilateral trade talks between the United States and Canada have officially collapsed following the expiration of the negotiation deadline for Section 338 and 50% tariff measures. Canadian leadership responded by confirming immediate retaliatory duties and asserting a state of trade conflict across integrated cross-border corridors.",
+                "Automotive and industrial supply chains face severe cost inflation on raw materials and intermediate components moving across northern ports of entry. Logistics directors must immediately execute contingency sourcing blueprints to mitigate impending border clearance bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS $1.5B PANAMA ARBITRATION",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trumps-50-percent-tariff-on-canada-imports-in-effect/759000/",
+                "Published: 2026-08-22T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA CLAIM",
+            "heading": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
             "paragraphs": [
-                "Hong Kong-based conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama seeking $1.5B in damages. The legal action stems from the controversial seizure and cancellation of lucrative terminal concessions at Balboa and Cristobal following a Supreme Court ruling.",
-                "The escalating dispute creates profound legal uncertainty for global operators managing maritime asset investments across Latin American port infrastructure. Terminal operators and ocean liners must reassess jurisdictional risk exposure when entering long-term public-private port agreements in emerging trade lanes."
+                "Persistent El Nino rainfall deficits have compelled the Panama Canal Authority to implement further defensive draft restrictions, cutting daily neopanamax transits to 31 ships starting in September. The capacity reduction removes critical booking availability, driving premium queue-jump fees past $4.6M as ocean carriers scramble for transit priority.",
+                "Container lines are actively omitting major Chinese ports and rerouting strings, sending Asia-to-US West Coast spot rates surging to multi-month highs. Shippers relying on transpacific maritime routes must absorb climbing freight premiums or transition cargo to intermodal alternatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "US AND CANADA TARIFF TALKS STALL",
+            "nextUpTease": "IRAN WAR KEEPS BRENT CRUDE NEAR 94",
             "tags": [
-                "Source: https://www.joc.com/article/hutchison-seeks-15-billion-from-panama-over-cancellation-of-terminal-leases_20260820.html",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.joc.com/article/panama-canal-to-cut-one-daily-neopanamax-ship-transit-by-september_20260821.html",
+                "Published: 2026-08-21T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE WAR: US AND CANADA TARIFF TALKS STALL",
+            "heading": "FUEL: IRAN WAR KEEPS BRENT NEAR 94",
             "paragraphs": [
-                "High-stakes trade negotiations between the United States and Canada have formally stalled, locking in plans for aggressive bilateral tariff enforcement and retaliatory measures. Canadian leadership has vowed to match proposed levies dollar-for-dollar, cementing severe friction across integrated North American supply chains.",
-                "Automotive and industrial shippers face sudden cost increases on intermediate components moving across northern border crossings. Corporate logistics directors must evaluate immediate inventory stockpiling or alternative sourcing structures to mitigate impending border clearance delays."
+                "Prolonged military friction surrounding the Strait of Hormuz has maintained international Brent crude benchmarks at $94.46 per barrel, keeping retail diesel prices near their highest levels since May. Elevated bunker expenses and over-the-road fuel surcharges are severely compressing operating margins across long-haul trucking and intermodal networks.",
+                "Freight forwarders and procurement teams must dynamically recalculate variable fuel adjustments and prioritize energy-efficient routing strategies. Supply chain managers are increasingly shifting freight to rail intermodal to offset surging highway transport costs through Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "nextUpTease": "HAPAG LLOYD BUYS ROTTERDAM TERMINAL",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trumps-50-percent-tariff-on-canada-imports-in-effect/759000/",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/oil-prices-steady-strait-hormuz-stalled-talks",
+                "Published: 2026-08-21T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ALLIANCE: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "heading": "ALLIANCE: HAPAG LLOYD BUYS ROTTERDAM",
             "paragraphs": [
-                "Hapag-Lloyd has finalized an agreement to acquire a 25% ownership stake in Europe's heavily automated Maasvlakte II terminal in Rotterdam from alliance partner Maersk. The strategic asset transfer solidifies operational alignment within the Gemini Cooperation partnership, securing dedicated gateway handling capacity ahead of new service rollouts.",
-                "Consolidating terminal ownership strengthens schedule reliability for container lines striving to insulate European hub networks from regional labor volatility. Supply chain managers benefit from tighter terminal integration, though reduced multi-carrier competition at key European entry points requires close service monitoring."
+                "Hapag-Lloyd has concluded a definitive agreement to acquire a 25% ownership stake in Europe's automated Maasvlakte II terminal in Rotterdam from alliance partner Maersk. The strategic acquisition secures dedicated gateway handling capacity and reinforces operational alignment within the Gemini Cooperation network.",
+                "Consolidating terminal assets enhances schedule reliability for ocean liners seeking to insulate European import hubs from regional labor volatility. Supply chain professionals benefit from tighter port integration, though diminished multi-carrier competition requires close performance tracking."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR SECURES $392M TARIFF REFUND",
+            "nextUpTease": "CATERPILLAR SECURES 392M TARIFF REFUND",
             "tags": [
                 "Source: https://www.joc.com/article/maersk-sells-25-pct-stake-in-rotterdam-terminal-to-hapag-loyd_20260820.html",
-                "Published: 2026-08-20T00:00:00Z",
+                "Published: 2026-08-20T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TARIFFS: CATERPILLAR SECURES $392M REFUND",
+            "heading": "CUSTOMS: CATERPILLAR SECURES 392M REFUND",
             "paragraphs": [
-                "Heavy-equipment manufacturer Caterpillar has successfully secured a $392M tariff refund following a comprehensive review of federal duty expenses and classification filings. The substantial payout highlights the ongoing volatility and complex administrative burden associated with navigating multi-tier Section 301 trade levies.",
-                "Industrial importers must proactively audit historical duty payments and customs classifications to capture comparable statutory refunds. Supply chain financial controllers should partner with licensed customs brokers to implement automated compliance screening and minimize excess duty exposure."
+                "Heavy-equipment manufacturer Caterpillar has successfully recovered a $392M tariff refund following an exhaustive administrative review of federal duty payments and item classifications. Excluding this reimbursement, the corporation absorbed $400M in net tariff expenses during the quarter ending June 30.",
+                "Industrial importers must proactively audit historical customs filings and product harmonized codes to identify comparable statutory refund opportunities. Corporate financial controllers should leverage licensed customs brokers to implement automated duty screening systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATES SUE FMCSA OVER CDL DATABASE",
+            "nextUpTease": "ATA CHIEF SPEAR DEPARTS FEDERATION",
             "tags": [
                 "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-costs-shrink/758000/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Published: 2026-08-20T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: STATES SUE FMCSA OVER CDL DATABASE",
+            "heading": "LEADERSHIP: ATA CHIEF SPEAR DEPARTS",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit seeking to block a sweeping federal mandate requiring states to surrender commercial driver licensing records for 17M truckers. The legal challenge targets federal overreach into state motor vehicle agency databases and driver privacy protections.",
-                "The intergovernmental clash introduces regulatory uncertainty for motor carriers tracking compliance credentials and driver safety qualifications across state lines. Fleet safety directors must monitor ongoing judicial proceedings to anticipate potential disruptions in federal driver database integration."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership post, initiating an executive search for his successor amid sweeping regulatory shifts. His departure comes as motor carriers navigate complex federal rulemakings, judicial challenges, and aggressive tariff enforcement.",
+                "The transition introduces leadership uncertainty for the nation's primary trucking lobby during a critical legislative window for freight transportation. Fleet executives must monitor association policy continuity closely as advocacy groups address driver credential databases and safety mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "IRAN CONFLICT SURGES DIESEL COSTS",
+            "nextUpTease": "PENNSYLVANIA PASSES NEW CDL LAW",
             "tags": [
-                "Source: https://www.freightwaves.com/news/why-22-states-are-suing-to-block-a-federal-demand-for-17-million-truckers-records",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/ata-president-chris-spear-departs",
+                "Published: 2026-08-21T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FUEL: IRAN CONFLICT SURGES DIESEL COSTS",
+            "heading": "REGULATION: PENNSYLVANIA PASSES CDL LAW",
             "paragraphs": [
-                "Protracted military tensions surrounding the Strait of Hormuz have pushed international crude benchmarks to $94.46 per barrel, driving retail diesel prices to their highest level since May. Surging bunker and over-the-road fuel expenses are severely squeezing operating margins across intermodal rail and long-haul trucking networks.",
-                "Freight forwarders and shippers must immediately recalculate variable fuel surcharges and evaluate network modal shifts to mitigate escalating transport expenditures. Logistics procurement teams should prioritize energy-efficient routing strategies to protect bottom-line performance through Q4."
+                "Pennsylvania state regulators have enacted rigorous legislation empowering authorities to levy civil penalties of up to $25,000 against unlicensed commercial driver training schools. The new enforcement framework targets substandard driver education providers to bolster highway safety standards across commercial corridors.",
+                "Motor carriers must verify that driver recruitment pipelines rely exclusively on fully certified training institutions to prevent compliance liabilities. Fleet safety directors should audit internal qualification protocols to ensure alignment with expanding state-level credentialing statutes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/intermodal-gains-momentum-as-iran-war-sends-fuel-prices-higher",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/new-pennsylvania-law-targets-unlicensed-cdl-schools",
+                "Published: 2026-08-19T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
