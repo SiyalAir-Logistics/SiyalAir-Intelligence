@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORWARD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS TO 31",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+                "teaserTitle": "JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty nations. Importers must audit supply chains immediately to avoid severe customs penalties."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe drought constraints and El Ni\u00f1o draft limits continue to squeeze maritime container capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 31",
-                "teaserTitle": "ASIA-USWC RATES SURGE ON CAPACITY PINCH",
+                "headline": "MARITIME: JAPAN OPENS $95M ZERO EMISSION SHIP SUBSIDY",
+                "teaserTitle": "AMAZON DROUGHT TRIGGERS $1900 CONTAINER SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent drought has forced the Panama Canal to cut daily transits to thirty-one ships. Queue jump fees have surged past four point six million dollars."
+                "narration_line": "Japan launched a ninety five million dollar subsidy program for green ships. The five year scheme covers half the construction costs for hydrogen and ammonia vessels."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER: ASIA-USWC RATES SURGE",
-                "teaserTitle": "CANADA HITS BACK ON US TARIFFS",
+                "headline": "CONTAINERS: AMAZON DROUGHT TRIGGERS $1900 SURCHARGES",
+                "teaserTitle": "SOMALI INCIDENTS RISING AS NAVIES STRETCHED",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Transpacific container freight rates are spiking as shippers bypass Panama Canal bottlenecks. Shippers must lock in contract rates to protect operating margins."
+                "narration_line": "Severe low water levels on the Amazon River triggered nineteen hundred dollar container surcharges. Carriers are deploying emergency contingency plans to keep Manaus connected."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE: CANADA HITS BACK ON US TARIFFS",
-                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "headline": "GLOBAL GATEWAYS: SOMALI PIRACY INCIDENTS RISING",
+                "teaserTitle": "CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "US and Canadian trade talks have collapsed following stalled Section three thirty-eight tariff negotiations. Canada is preparing retaliatory duties across northern trade corridors."
+                "narration_line": "Maritime security monitors report rising Somali piracy incidents as international navies remain stretched. The threat introduces severe operational risk across the Bab el-Mandeb Strait."
             },
             {
                 "slide_index": 5,
-                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "headline": "BORDER: CBP FINDS $9.5M METH IN DETERGENT SHIPMENT",
                 "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A bulk carrier has sunk in the Bay of Bengal with twenty-two crewmembers missing. Coast guard rescue operations are actively scanning the region."
+                "narration_line": "Customs officers seized nine point five million dollars of methamphetamine hidden inside a detergent shipment. Secondary inspections at the Texas border continue to catch contraband."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS ELECTRIC TRUCKS",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE REACH",
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey ports have ordered ninety-six electric terminal trucks to cut emissions. Fleet operators must upgrade facility charging grids for heavy equipment."
+                "narration_line": "New Jersey port authorities ordered ninety six electric terminal trucks to accelerate decarbonization. Facilities must upgrade electrical charging grids to support heavy commercial duty cycles."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR DRONE",
+                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA DAMAGES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its drone delivery network sixfold across major US metropolitan markets. Traditional parcel carriers face mounting pressure to adopt automation."
+                "narration_line": "CK Hutchison initiated one point five billion dollars in arbitration proceedings against Panama. The legal dispute follows government seizures of key terminal concessions."
             },
             {
                 "slide_index": 8,
