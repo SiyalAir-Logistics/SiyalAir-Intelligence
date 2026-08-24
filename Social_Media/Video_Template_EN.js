@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS ACROSS SIXTY TRADING PARTNERS",
+        "hookTitle": "COURT UPHOLDS DETENTION FEE RULING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FORCED LABOR TARIFFS 60",
-                "teaserTitle": "PANAMA CANAL FEE HITS 4.6M USD",
+                "headline": "MARITIME: COURT UPHOLDS DETENTION FEE RULING",
+                "teaserTitle": "HOME DEPOT LAUNCHES EXPRESS DELIVERY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The trade representative advances Section 301 tariffs targeting sixty trading partners. Importers must upgrade compliance protocols to prevent costly customs seizures."
+                "narration_line": "A federal appeals court upheld the maritime commission rule requiring detention fees to promote freight fluidity. Ocean carriers must now justify demurrage charges or face severe regulatory penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL FEE HITS 4.6M USD",
-                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "headline": "LOGISTICS: HOME DEPOT LAUNCHES EXPRESS DELIVERY",
+                "teaserTitle": "EBAY RELEASES HOLIDAY PLAYBOOK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid a record four point six million dollar queue jump fee to transit the canal. Vessel operators must factor priority tolls into voyage calculations."
+                "narration_line": "Home Depot deployed an express delivery service guaranteeing fulfillment in three hours or less nationwide. The retailer utilizes over two thousand stores as active local fulfillment hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "headline": "ECOMMERCE: EBAY RELEASES HOLIDAY PLAYBOOK",
+                "teaserTitle": "KUEHNE + NAGEL LEADER DIES AT 89",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A panamax bulk carrier sank in the Bay of Bengal leaving twenty-two crewmembers missing. The incident introduces sudden capacity contractions across regional dry bulk lanes."
+                "narration_line": "EBay published its holiday selling playbook alongside reduced shipping rates for online merchants. The strategy helps marketplace sellers optimize inventory and manage peak shipping costs."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
-                "teaserTitle": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
+                "headline": "BUSINESS: KUEHNE + NAGEL LEADER DIES AT 89",
+                "teaserTitle": "EU TRADE CURBS THREATEN 27% EXPORTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Low water levels across the Amazon basin forced carriers to implement emergency surcharges. Supply chain operators must absorb sudden freight fees or establish contingencies."
+                "narration_line": "Logistics visionary Klaus-Michael Kuehne passed away at eighty-nine after transforming his family enterprise into a global titan. Industry leaders are evaluating future corporate governance and forwarding partnerships."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
-                "teaserTitle": "LOGISTICS PIONEER KUEHNE DIES AT 89",
+                "headline": "REGULATION: EU TRADE CURBS THREATEN 27% EXPORTS",
+                "teaserTitle": "ATA SEARCHES FOR NEW CEO SPEAR",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Singapore defended transhipment operations following United States allegations regarding shadow networks. Managers must enhance documentation rigor to protect shipments from holds."
+                "narration_line": "New European Union regulatory curbs threaten twenty-seven percent of Chinese exports into the bloc. Importers must diversify sourcing regions to navigate tightening cross-border compliance standards."
             },
             {
                 "slide_index": 6,
-                "headline": "BUSINESS: LOGISTICS PIONEER KUEHNE DIES AT 89",
-                "teaserTitle": "CANADA AUTO TARIFFS 50%",
+                "headline": "TRUCKING: ATA SEARCHES FOR NEW CEO SPEAR",
+                "teaserTitle": "CATERPILLAR BAGS 392M REFUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Logistics billionaire Klaus-Michael Kuehne has died at the age of eighty-nine. Industry stakeholders are evaluating future governance and strategic direction."
+                "narration_line": "The American Trucking Associations launched an executive search following the departure of leader Chris Spear. Motor carriers are monitoring regulatory shifts and compliance policies closely."
             },
             {
                 "slide_index": 7,
-                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
+                "headline": "COMPLIANCE: CATERPILLAR BAGS 392M REFUND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Washington and Ottawa trade talks collapsed as a fifty percent tariff on Canadian autos took effect. Shippers must rapidly re-evaluate cross-border procurement strategies."
+                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund as duty expenses shrank. Industrial manufacturers continue utilizing duty-mitigation programs to protect operating margins."
             },
             {
                 "slide_index": 8,

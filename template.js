@@ -1,107 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFFS",
-        "titleBlue": "60",
-        "footerSummary": "USTR advances Section 301 tariffs across 60 trading partners as Section 122 expires, forcing global importers to overhaul compliance and audit protocols immediately."
+        "titleWhite": "COURT UPHOLDS DETENTION FEE",
+        "titleBlue": "RULING",
+        "footerSummary": "U.S. Appeals Court upholds FMC detention fee mandate to protect freight fluidity, forcing ocean carriers to justify demurrage charges or face regulatory penalties."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: FORCED LABOR TARIFFS 60",
+            "heading": "MARITIME: COURT UPHOLDS DETENTION FEE RULING",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced the formal advancement of Section 301 tariffs targeting goods linked to forced labor across 60 trading partners. The sweeping regulatory action coincides with the expiration of older Section 122 tariffs, reshaping import compliance obligations for global importers.",
-                "Importers must upgrade supply chain mapping and supplier auditing protocols to ensure absolute transparency and prevent costly customs seizures at the border. Proactive compliance management is critical to neutralizing regulatory exposure under heightened enforcement frameworks."
+                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive ruling upholding the Federal Maritime Commission decision that demurrage and detention fees must actively promote freight fluidity. The legal affirmation validates regulatory oversight on carrier billing practices and reinforces compliance obligations across international ocean shipping operations.",
+                "Ocean carriers and terminal operators must audit billing transparency and ensure penalty structures comply directly with federal standards to mitigate legal exposure. Shippers should leverage the judicial backing to contest unjustified port storage fees and reclaim disputed terminal charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL FEE HITS 4.6M USD",
+            "nextUpTease": "HOME DEPOT LAUNCHES EXPRESS DELIVERY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL FEE HITS 4.6M USD",
+            "heading": "LOGISTICS: HOME DEPOT LAUNCHES EXPRESS DELIVERY",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record 4.6M USD queue-jump fee to cut the line and transit the Panama Canal amid ongoing regional shipping disruptions. The unprecedented priority toll reflects severe capacity constraints and intense competition for scarce passage slots through the critical global waterway.",
-                "Vessel operators and cargo owners must factor exorbitant priority fees into voyage calculations to maintain tight delivery schedules and avoid extended anchoring delays. Shippers managing urgent shipments face escalating transit overhead as canal authorities leverage premium pricing structures."
+                "Home Depot has officially rolled out an expedited delivery service guaranteeing fulfillment in 3 hours or less across the United States. The nationwide rollout leverages more than 2,000 retail locations as active fulfillment hubs to handle thousands of SKUs and accelerate last-mile delivery speeds.",
+                "Retail supply chains face mounting pressure to optimize local inventory positioning and store-level fulfillment workflows to support rapid delivery demands. Logistics managers must balance high-frequency replenishment costs against customer expectations for speed in omnichannel networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL",
+            "nextUpTease": "EBAY RELEASES HOLIDAY PLAYBOOK",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
-            "paragraphs": [
-                "The panamax bulk carrier Ocean Winner sank abruptly in the Bay of Bengal approximately 240 nautical miles off the coast, leaving 22 crewmembers missing and triggering an extensive international search operation. The catastrophic maritime incident introduces sudden capacity contractions and vessel scarcity across regional dry bulk shipping lanes.",
-                "Vessel operators must enforce rigorous structural safety audits and emergency compliance standards to mitigate severe voyage liabilities and route disruptions. Cargo owners managing regional commodities face heightened marine insurance premiums and increased vetting requirements for operating fleets."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
-            "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.retaildive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+            "id": 3,
+            "heading": "ECOMMERCE: EBAY RELEASES HOLIDAY PLAYBOOK",
             "paragraphs": [
-                "Severe low-water levels across the Amazon River basin have forced ocean carriers to implement emergency low-water surcharges reaching 1,900 USD per container. The environmental constraint severely disrupts vital inland supply routes connecting Manaus distribution networks to global shipping lanes.",
-                "Supply chain operators managing South American import networks must absorb sudden freight surcharges or establish costly multimodal contingency plans. Shippers need to audit regional distribution contracts to protect operating margins from unexpected water-level penalties."
+                "eBay has published its 2026 Holiday Selling Playbook alongside announcements of reduced USPS shipping rates for marketplace sellers starting August 22nd. The strategic guidance and cost adjustments aim to help online merchants optimize inventory preparation and manage peak-season logistics overhead.",
+                "Online sellers must integrate platform fulfillment tools and discounted shipping tiers early to protect operating margins during high-volume retail quarters. Proactive inventory planning is essential to mitigating carrier capacity constraints and delivery bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
+            "nextUpTease": "KUEHNE + NAGEL LEADER DIES AT 89",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-22T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "BUSINESS: KUEHNE + NAGEL LEADER DIES AT 89",
+            "paragraphs": [
+                "Klaus-Michael Kuehne, the billionaire industrialist and long-serving leader who transformed Kuehne + Nagel into a global freight forwarding powerhouse, has passed away at age 89. His visionary leadership shaped international maritime and logistics infrastructure over decades of rapid industry expansion.",
+                "Market participants are closely monitoring corporate governance transitions and strategic direction for potential shifts in global freight partnerships and M&A activities. Enterprise shippers must evaluate long-term forwarding contracts to ensure operational continuity following executive leadership changes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EU TRADE CURBS THREATEN 27% EXPORTS",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
+            "heading": "REGULATION: EU TRADE CURBS THREATEN 27% EXPORTS",
             "paragraphs": [
-                "Singapore maritime authorities have strongly defended regional transhipment operations following recent United States allegations regarding shadow transhipment networks involving Chinese goods. The regulatory friction introduces heightened compliance scrutiny for freight forwarders moving cargo through primary Asian transhipment hubs.",
-                "Supply chain managers must enhance documentation rigor and end-to-end cargo visibility to protect shipments from unexpected customs holds and clearance delays. Failure to audit third-party routing compliance risks severe border penalties and extended transit bottlenecks."
+                "New regulatory curbs introduced by the European Union threaten up to 27 percent of Chinese exports destined for the bloc, according to Goldman Sachs analyses. The escalating trade friction adds significant cross-border compliance complexity for manufacturers routing goods through European gateways.",
+                "Importers must diversify sourcing geographies and upgrade end-to-end supply chain visibility to navigate tightening regulatory scrutiny in European markets. Strategic risk planning is critical to preventing sudden customs blockages and maintaining inventory flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS PIONEER KUEHNE DIES AT 89",
+            "nextUpTease": "ATA SEARCHES FOR NEW CEO SPEAR",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BUSINESS: LOGISTICS PIONEER KUEHNE DIES AT 89",
+            "heading": "TRUCKING: ATA SEARCHES FOR NEW CEO SPEAR",
             "paragraphs": [
-                "Klaus-Michael Kuehne, the legendary German billionaire who transformed his family enterprise into a global logistics titan and anchored major shipping investments, has died at 89. His decades of visionary leadership shaped the modern forwarding landscape and left an indelible mark on international supply chain infrastructure.",
-                "Industry stakeholders are evaluating the future governance and strategic direction of major logistics entities following the passing of a defining global transport figure. Market participants must monitor corporate leadership transitions for potential impacts on long-term freight partnerships and M&A activities."
+                "The American Trucking Associations has initiated a formal executive search for a new president and CEO following the departure of Chris Spear. The leadership transition comes at a critical juncture for the nation's trucking lobby as motor carriers navigate regulatory shifts, driver database policies, and insurance liabilities.",
+                "Motor carriers must monitor federal policy developments and advocacy efforts closely as the organization navigates upcoming legislative challenges. Maintaining active engagement with industry associations helps fleets anticipate regulatory hurdles affecting over-the-road operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA AUTO TARIFFS 50%",
+            "nextUpTease": "CATERPILLAR BAGS 392M REFUND",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
+            "heading": "COMPLIANCE: CATERPILLAR BAGS 392M REFUND",
             "paragraphs": [
-                "Trade negotiations between Washington and Ottawa collapsed completely, prompting the implementation of a 50% tariff on Canadian automotive imports across North American borders. Canadian officials immediately announced retaliatory measures dollar for dollar, escalating trade tensions and disrupting highly integrated regional manufacturing supply chains.",
-                "The severe duty spike forces automotive shippers to rapidly re-evaluate procurement strategies and explore alternative sourcing locations to protect operating margins. Logistics planners must immediately model cross-border transit costs under the new 50% tariff regime to prevent catastrophic financial exposure."
+                "Heavy-equipment manufacturer Caterpillar secured a 392M USD tariff refund as overall duty expenses contracted during the quarterly reporting period. Despite the substantial recovery, the firm incurred 400M USD in ongoing tariff costs, underscoring the persistent financial friction of international trade policies.",
+                "Industrial manufacturers must implement rigorous tariff recovery tracking and duty-mitigation programs to protect operating margins against complex trade duties. Financial optimization strategies are vital for neutralizing the long-term impact of cross-border trade restrictions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
