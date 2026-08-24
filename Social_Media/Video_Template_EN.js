@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS ON SIXTY NATIONS",
+        "hookTitle": "PANAMA CANAL FEE TOPS 4.6M USD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: USTR FORCED LABOR TARIFFS ON 60",
-                "teaserTitle": "DESCARTES ACQUIRES TAI FOR 100M USD",
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M USD",
+                "teaserTitle": "DESCARTES BUYS TAI FOR 100M USD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative enacted Section three oh one tariffs across sixty nations. Importers must upgrade compliance auditing to avoid severe port delays."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue next week. Record fees reflect mounting supply chain congestion and routing friction."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI FOR 100M USD",
+                "headline": "TECHNOLOGY: DESCARTES BUYS TAI FOR 100M USD",
                 "teaserTitle": "TRUMP VOWS 50% TARIFFS ON CANADA CARS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Descartes acquired Tai Software for one hundred million dollars to expand transportation management capabilities. Brokerages must evaluate tech stacks to maintain competitive efficiency."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to expand brokerage technology. The buyout integrates advanced cloud tools into global logistics networks."
             },
             {
                 "slide_index": 3,
                 "headline": "TRADE: TRUMP VOWS 50% TARIFFS ON CANADA CARS",
-                "teaserTitle": "COURT UPHOLDS FMC DETENTION FEE DECISION",
+                "teaserTitle": "COURT UPHOLDS FMC DETENTION FEE RULES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States announced fifty percent tariffs on Canadian autos following failed trade talks. Automotive shippers must model alternative sourcing corridors immediately."
+                "narration_line": "The United States announced plans for a fifty percent tariff on Canadian autos following failed trade talks. The escalation threatens cross-border supply chains and production schedules."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: COURT UPHOLDS FMC DETENTION FEE DECISION",
-                "teaserTitle": "MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
+                "headline": "REGULATION: COURT UPHOLDS FMC DETENTION FEE RULES",
+                "teaserTitle": "KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The appellate court upheld Federal Maritime Commission rules requiring detention fees to promote fluidity. Logistics operators can contest unjustified terminal access charges."
+                "narration_line": "A federal court upheld Federal Maritime Commission rules enforcing strict standards on demurrage billing. Penalty fees must directly incentivize freight fluidity rather than revenue."
             },
             {
                 "slide_index": 5,
-                "headline": "SOFTWARE: MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
-                "teaserTitle": "EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+                "headline": "LEADERSHIP: KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
+                "teaserTitle": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "McLeod Software integrated Augment artificial intelligence into its transportation management system. Automated dispatch workflows enable teams to cover spot loads faster."
+                "narration_line": "Logistics billionaire Klaus-Michael Kuehne has passed away at eighty-nine years of age. He transformed a regional forwarding firm into a global transport empire."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: EU CURBS THREATEN 27% OF CHINESE EXPORTS",
-                "teaserTitle": "HOME DEPOT EXPANDS 3 HOUR EXPRESS DELIVERY",
+                "headline": "LOGISTICS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
+                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New European Union trade restrictions threaten twenty seven percent of Chinese exports. Importers must diversify manufacturing footprints to mitigate regulatory exposure."
+                "narration_line": "Carriers are launching emergency surcharges of up to nineteen hundred dollars due to Amazon basin drought. Low water levels disrupt vital inland barge networks."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: HOME DEPOT EXPANDS 3 HOUR EXPRESS DELIVERY",
+                "headline": "TRUCKING: ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Home Depot launched three hour express delivery utilizing two thousand stores as fulfillment hubs. Retailers must optimize local inventory visibility for speed."
+                "narration_line": "The American Transportation Research Institute opened its annual survey on critical motor carrier issues. Findings help industry leaders direct advocacy and operational resources."
             },
             {
                 "slide_index": 8,
