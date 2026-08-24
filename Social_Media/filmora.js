@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
+                "headline": "WATERWAYS: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
                 "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partners. This regulatory move forces supply chain leaders to audit global sourcing networks immediately."
+                "visual_caption": "An empty tanker secured transit priority by paying a record $4.6M fee. Severe water constraints continue to restrict daily transits through the Panama Canal."
             },
             {
                 "slide_index": 2,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
-                "visual_caption": "Descartes acquired Tai Software for $100M to consolidate freight brokerage technology. Shippers must evaluate platform connectivity to sustain competitive execution."
+                "teaserTitle": "TRUMP VOWS CANADA AUTO TARIFFS",
+                "visual_caption": "Descartes Systems Group completed a $100M acquisition of Tai Software. The strategic buyout expands digital freight brokerage and multimodal management tools."
             },
             {
                 "slide_index": 3,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
-                "visual_caption": "The Panama Canal Authority reduced daily vessel transits due to ongoing water level constraints. Logistics networks are rerouting cargo through West Coast ports to bypass pinch points."
+                "headline": "GOVERNMENT: TRUMP VOWS CANADA AUTO TARIFFS",
+                "teaserTitle": "FMC UPHOLDS DETENTION FEE RULES",
+                "visual_caption": "Washington announced plans for a 50% tariff on Canadian automotive goods. North American supply chains face immediate border friction and sourcing disruption."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON EXPANDS PRIME AIR DRONES",
-                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
-                "visual_caption": "Amazon is scaling its Prime Air drone network 6x across major metropolitan markets. Retail supply chains are deploying urban micro-fulfillment nodes to support fast delivery models."
+                "headline": "REGULATION: FMC UPHOLDS DETENTION FEE RULES",
+                "teaserTitle": "OIL PRICES DROP ON IRAN SANCTIONS",
+                "visual_caption": "The court upheld Federal Maritime Commission rules on demurrage and detention charges. Regulations mandate that storage fees must directly promote freight fluidity."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
-                "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
-                "visual_caption": "The American Transportation Research Institute opened its annual motor carrier challenge survey. Fleet operators use these benchmarks to optimize cost structures and guide advocacy."
+                "headline": "FUEL: OIL PRICES DROP ON IRAN SANCTIONS",
+                "teaserTitle": "KUEHNE NAHEL LEADER PASSES",
+                "visual_caption": "Global crude benchmarks dipped 2% as new anti-Iran sanctions were prepared. Energy markets responded to anticipated petroleum supply realignments."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
-                "teaserTitle": "US-CANADA TRADE TALKS COLLAPSE",
-                "visual_caption": "Crude oil prices fell 2% to $90.78 as the US prepared new sanctions against Iran. Fleet managers must implement dynamic fuel surcharges to protect operating budgets."
+                "headline": "LEADERSHIP: KUEHNE NAHEL LEADER PASSES",
+                "teaserTitle": "ATRI LAUNCHES TRUCKING SURVEY",
+                "visual_caption": "Logistics billionaire Klaus-Michael Kuehne passed away at age 89. His leadership turned Kuehne and Nagel into a global forwarding giant."
             },
             {
                 "slide_index": 7,
-                "headline": "GOVERNMENT: US-CANADA TRADE TALKS COLLAPSE",
+                "headline": "TRUCKING: ATRI LAUNCHES TRUCKING SURVEY",
                 "teaserTitle": "",
-                "visual_caption": "Trade negotiations between Washington and Ottawa collapsed over heavy-duty truck policies. North American manufacturers must restructure component sourcing to mitigate severe tariff exposure."
+                "visual_caption": "The American Transportation Research Institute opened its annual motor carrier survey. Fleets utilize benchmark intelligence to optimize internal cost structures."
             },
             {
                 "slide_index": 8,
