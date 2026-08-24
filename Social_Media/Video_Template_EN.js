@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEE TOPS 4.6M",
+        "hookTitle": "PANAMA CANAL TRIMS SLOTS TO 32",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
-                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
+                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN PANAMA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to jump the Panama Canal queue. Surging transit premiums and restricted vessel slots are forcing carriers to hike spot rates."
+                "narration_line": "The Panama Canal Authority is reducing daily bookings to thirty-two ships due to severe water deficits. Shippers face rising spot rates and must factor longer transit delays into fourth quarter models."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
-                "teaserTitle": "TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN PANAMA",
+                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is moving forward with tariffs on sixty trading nations under section three oh one. Importers must conduct immediate audits to mitigate unexpected duty liabilities."
+                "narration_line": "CK Hutchison has launched international arbitration for one point five billion dollars over seized ports. The dispute heightens sovereign risk for global terminal investors and supply chain operators."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "headline": "TERMINALS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A sweeping fifty percent tariff on Canadian imports took effect after bilateral trade talks collapsed. Procurement managers must recalibrate sourcing models to absorb rising cross-border costs."
+                "narration_line": "Hapag Lloyd has acquired a twenty-five percent stake in the Rotterdam Maasvlakte two terminal facility. Carriers are securing dedicated capacity hubs to isolate main service loops from ongoing congestion."
             },
             {
                 "slide_index": 4,
                 "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
                 "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The bulker Ocean Winner sank unexpectedly in the Bay of Bengal while carrying iron ore to Singapore. Emergency rescue teams are actively searching for twenty-two missing crew members."
+                "narration_line": "A bulk carrier has sunk in the Bay of Bengal with twenty-two crew members still missing. Vessel charterers must audit operator safety standards to comply with international maritime codes."
             },
             {
                 "slide_index": 5,
                 "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "HAPAG-LLOYD BUYS ROTTERDAM STAKE",
+                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A New Jersey seaport authority placed a fleet order for ninety-six electric terminal trucks. Port operators face heavy capital outlays to comply with regional environmental standards."
+                "narration_line": "New Jersey ports ordered ninety-six electric terminal trucks to meet strict environmental standards. Fleet operators face high capital expenditures to balance electrification costs against long-term savings."
             },
             {
                 "slide_index": 6,
-                "headline": "TERMINALS: HAPAG-LLOYD BUYS ROTTERDAM STAKE",
-                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
+                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
+                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hapag-Lloyd acquired a twenty-five percent stake in the Maasvlakte two terminal in Rotterdam. This investment strengthens carrier control over key gateway hubs."
+                "narration_line": "States won a legal battle blocking federal access to commercial driver database records. Motor carriers must continue navigating fragmented regional regulations while federal appeals move forward."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
+                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State authorities scored a legal victory to block federal demands for commercial driver database records. Fleets must continue managing fragmented state reporting standards."
+                "narration_line": "The USTR is advancing tariffs on sixty trading nations under section three hundred one. Importers must conduct immediate vendor audits to mitigate unexpected duty liabilities and supply chain costs."
             },
             {
                 "slide_index": 8,

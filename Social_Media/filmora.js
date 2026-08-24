@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
-                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
-                "visual_caption": "An empty LPG tanker paid $4.6M to jump the Panama Canal queue. Canal authorities are cutting daily transit slots to 32 ships from mid-September due to El Nino deficits."
+                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN PANAMA",
+                "visual_caption": "The Panama Canal Authority is cutting daily transits to 32 ships due to El Nino deficits. Shippers face compounding supply chain friction and must adjust Q4 deployment strategies."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
-                "teaserTitle": "TRUMP TARIFFS ON CANADA TAKE EFFECT",
-                "visual_caption": "The USTR is advancing Section 301 tariffs on 60 trading nations. Importers must audit vendor compliance immediately to avoid unexpected duty costs."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN PANAMA",
+                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "visual_caption": "CK Hutchison initiated arbitration seeking $1.5B over the seizure of Panama terminals. The dispute highlights severe sovereign risks for global terminal operators and investors."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "headline": "TERMINALS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "A 50% tariff on Canadian imports took effect as trade talks collapsed. Canada has vowed to match the duties dollar for dollar."
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam Maasvlakte II container facility. Deepening carrier investments help insulate main service loops from port congestion."
             },
             {
                 "slide_index": 4,
                 "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
                 "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "visual_caption": "The bulker Ocean Winner sank unexpectedly in the Bay of Bengal. Joint rescue operations are underway for 22 missing crew members."
+                "visual_caption": "The bulker Ocean Winner sank in the Bay of Bengal leaving 22 crew members missing. Charterers must review operator vetting and strict maritime safety compliance."
             },
             {
                 "slide_index": 5,
                 "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "HAPAG-LLOYD BUYS ROTTERDAM STAKE",
-                "visual_caption": "A New Jersey seaport ordered 96 electric terminal trucks from Orange EV. Ports are investing heavily in zero-emission drayage infrastructure."
+                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
+                "visual_caption": "A New Jersey port authority ordered 96 electric terminal trucks to cut emissions. Fleets face substantial capital costs as terminals mandate strict environmental compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "TERMINALS: HAPAG-LLOYD BUYS ROTTERDAM STAKE",
-                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
-                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam Maasvlakte II terminal. Carriers are securing dedicated capacity to protect service reliability."
+                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
+                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
+                "visual_caption": "State authorities won a legal ruling blocking federal access to 17M driver records. Motor carriers must continue navigating fragmented state qualification regulations."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
+                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
                 "teaserTitle": "",
-                "visual_caption": "States won a legal battle blocking federal access to 17M driver records. Fleets must balance federal rules against state-level data privacy laws."
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partner nations. Importers must execute immediate audits to verify vendor compliance and mitigate duty exposure."
             },
             {
                 "slide_index": 8,
