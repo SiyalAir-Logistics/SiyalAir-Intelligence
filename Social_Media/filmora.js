@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS AND TRADE WAR",
-                "teaserTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
-                "visual_caption": "50% tariffs on Canadian imports took effect as trade talks collapsed. Canada vowed to match the levies dollar for dollar across northern corridors."
+                "headline": "GOVERNMENT: CANADA AUTO TARIFFS 50%",
+                "teaserTitle": "PANAMA CANAL TRANSIT CUT",
+                "visual_caption": "U.S. tariffs on Canadian auto imports are hiking to 50% after trade talks collapsed. Both nations are bracing for an escalating cross-border trade war."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
-                "teaserTitle": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
-                "visual_caption": "An empty tanker paid a record $4.6M to jump the Panama Canal queue. Persistent draft constraints continue to squeeze available daily transit slots."
+                "headline": "MARITIME: PANAMA CANAL TRANSIT CUT",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "visual_caption": "The Panama Canal is cutting daily Neopanamax transits by 1 slot starting in September due to draft limits. Carriers are implementing steep priority tolls."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
-                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "Low water levels across the Amazon basin triggered surcharges reaching $1,900. Operators must absorb freight penalties or build multimodal contingencies."
+                "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD",
+                "visual_caption": "The bulk carrier Ocean Winner sank in the Bay of Bengal, leaving 22 crewmembers missing. Search operations continue across the stricken maritime sector."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "CBP FINDS 9.5M USD IN METH",
-                "visual_caption": "The bulker Ocean Winner sank in the Bay of Bengal, leaving 22 crewmembers missing. Joint rescue operations continue across the stricken shipping sector."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
+                "teaserTitle": "SINGAPORE SHIPMENTS UNDER SCRUTINY",
+                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama following terminal seizures. Global port operators now face heightened sovereign investment risks."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: CBP FINDS 9.5M USD IN METH",
-                "teaserTitle": "UPS INVESTS 2B USD IN EXPANSION",
-                "visual_caption": "Border officers seized $9.5M in methamphetamine hidden inside a commercial shipment. Stringent vendor screening is critical to prevent illicit freight delays."
+                "headline": "COMPLIANCE: SINGAPORE SHIPMENTS UNDER SCRUTINY",
+                "teaserTitle": "AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "visual_caption": "Singapore defended its transhipment hub against U.S. shadow network allegations. Freight forwarders face increased compliance checks and cargo audits."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: UPS INVESTS 2B USD IN EXPANSION",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD DAMAGES",
-                "visual_caption": "UPS announced a $2B capital investment to scale international logistics units. Procurement teams should align long-term agreements with expanding carriers."
+                "headline": "CONTAINERS: AMAZON DROUGHT SURCHARGES HIT 1900 USD",
+                "teaserTitle": "CATERPILLAR BAGS 392M USD REFUND",
+                "visual_caption": "Amazon River drought conditions triggered emergency container surcharges of up to $1,900. Shippers must navigate severe inland distribution disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD DAMAGES",
+                "headline": "FINANCE: CATERPILLAR BAGS 392M USD REFUND",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison initiated international arbitration seeking $1.5B from Panama. The legal action follows the state seizure of major port terminal concessions."
+                "visual_caption": "Caterpillar secured a $392M tariff refund as quarterly duty expenses contracted. Industrial firms continue to leverage duty recovery mechanisms."
             },
             {
                 "slide_index": 8,
