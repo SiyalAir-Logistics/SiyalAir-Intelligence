@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CK HUTCHISON DEMANDS 1.5B USD OVER PORT SEIZURES",
+        "hookTitle": "PANAMA CANAL FEE TOPS 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ARBITRATION: CK HUTCHISON DEMANDS 1.5B",
-                "teaserTitle": "ATA CHIEF CHRIS SPEAR DEPARTS",
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
+                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CK Hutchison is seeking one point five billion dollars in compensation from Panama following port terminal seizures. The legal battle creates major jurisdictional uncertainty across key canal transshipment gateways."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to jump the Panama Canal queue. Surging transit premiums and restricted vessel slots are forcing carriers to hike spot rates."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: ATA CHIEF CHRIS SPEAR DEPARTS",
-                "teaserTitle": "CBP INTERCEPTS 9.5M CONTRABAND",
+                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
+                "teaserTitle": "TRUMP TARIFFS ON CANADA TAKE EFFECT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "American Trucking Associations head Chris Spear has resigned during a crucial period of regulatory reform. The unexpected departure leaves the national trucking lobby searching for new executive leadership."
+                "narration_line": "The United States Trade Representative is moving forward with tariffs on sixty trading nations under section three oh one. Importers must conduct immediate audits to mitigate unexpected duty liabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: CBP INTERCEPTS 9.5M CONTRABAND",
-                "teaserTitle": "22 STATES SUE OVER CDL DATA",
+                "headline": "TRADE: TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Customs officers seized nine point five million dollars of concealed narcotics inside commercial detergent cargo. Border authorities are expanding secondary inspections across southwest commercial border crossings."
+                "narration_line": "A sweeping fifty percent tariff on Canadian imports took effect after bilateral trade talks collapsed. Procurement managers must recalibrate sourcing models to absorb rising cross-border costs."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: 22 STATES SUE OVER CDL DATA",
-                "teaserTitle": "SINGAPORE TESTS CASHEW BIOFUEL",
+                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Twenty-two states have sued to block federal mandates requiring access to seventeen million commercial driver records. The legal challenge aims to protect driver privacy against unverified federal agency demands."
+                "narration_line": "The bulker Ocean Winner sank unexpectedly in the Bay of Bengal while carrying iron ore to Singapore. Emergency rescue teams are actively searching for twenty-two missing crew members."
             },
             {
                 "slide_index": 5,
-                "headline": "BUNKERING: SINGAPORE TESTS CASHEW BIOFUEL",
-                "teaserTitle": "CATERPILLAR CLAIMS 392M TARIFF REFUND",
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "teaserTitle": "HAPAG-LLOYD BUYS ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Singapore completed its first marine biofuel bunkering test utilizing processed cashew nutshell liquid. The alternative formulation cut voyage carbon emissions by over one hundred and twenty tons."
+                "narration_line": "A New Jersey seaport authority placed a fleet order for ninety-six electric terminal trucks. Port operators face heavy capital outlays to comply with regional environmental standards."
             },
             {
                 "slide_index": 6,
-                "headline": "DUTIES: CATERPILLAR CLAIMS 392M TARIFF REFUND",
-                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+                "headline": "TERMINALS: HAPAG-LLOYD BUYS ROTTERDAM STAKE",
+                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Caterpillar secured a three hundred and ninety-two million dollar tariff refund from customs authorities. The recovery demonstrates how proactive duty drawback strategies can protect corporate operating margins."
+                "narration_line": "Hapag-Lloyd acquired a twenty-five percent stake in the Maasvlakte two terminal in Rotterdam. This investment strengthens carrier control over key gateway hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "FULFILLMENT: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Home Depot launched nationwide three-hour delivery using two thousand retail stores as fulfillment hubs. The rapid expansion increases competitive pressure across regional last-mile distribution networks."
+                "narration_line": "State authorities scored a legal victory to block federal demands for commercial driver database records. Fleets must continue managing fragmented state reporting standards."
             },
             {
                 "slide_index": 8,

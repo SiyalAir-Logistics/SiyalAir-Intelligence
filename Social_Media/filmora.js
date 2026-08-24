@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ARBITRATION: CK HUTCHISON DEMANDS 1.5B",
-                "teaserTitle": "ATA CHIEF CHRIS SPEAR DEPARTS",
-                "visual_caption": "CK Hutchison is seeking $1.5B in compensation from Panama following port terminal seizures. The legal battle creates major jurisdictional uncertainty across key canal transshipment gateways."
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
+                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
+                "visual_caption": "An empty LPG tanker paid $4.6M to jump the Panama Canal queue. Canal authorities are cutting daily transit slots to 32 ships from mid-September due to El Nino deficits."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: ATA CHIEF CHRIS SPEAR DEPARTS",
-                "teaserTitle": "CBP INTERCEPTS 9.5M CONTRABAND",
-                "visual_caption": "American Trucking Associations head Chris Spear has resigned during a crucial period of regulatory reform. The unexpected departure leaves the national trucking lobby searching for new executive leadership."
+                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
+                "teaserTitle": "TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "visual_caption": "The USTR is advancing Section 301 tariffs on 60 trading nations. Importers must audit vendor compliance immediately to avoid unexpected duty costs."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: CBP INTERCEPTS 9.5M CONTRABAND",
-                "teaserTitle": "22 STATES SUE OVER CDL DATA",
-                "visual_caption": "Customs officers seized $9.5M of concealed narcotics inside commercial detergent cargo. Border authorities are expanding secondary inspections across southwest commercial border crossings."
+                "headline": "TRADE: TRUMP TARIFFS ON CANADA TAKE EFFECT",
+                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "visual_caption": "A 50% tariff on Canadian imports took effect as trade talks collapsed. Canada has vowed to match the duties dollar for dollar."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: 22 STATES SUE OVER CDL DATA",
-                "teaserTitle": "SINGAPORE TESTS CASHEW BIOFUEL",
-                "visual_caption": "22 states have sued to block federal mandates requiring access to 17M commercial driver records. The legal challenge aims to protect driver privacy against unverified federal agency demands."
+                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "visual_caption": "The bulker Ocean Winner sank unexpectedly in the Bay of Bengal. Joint rescue operations are underway for 22 missing crew members."
             },
             {
                 "slide_index": 5,
-                "headline": "BUNKERING: SINGAPORE TESTS CASHEW BIOFUEL",
-                "teaserTitle": "CATERPILLAR CLAIMS 392M TARIFF REFUND",
-                "visual_caption": "Singapore completed its first marine biofuel bunkering test utilizing processed cashew nutshell liquid. The alternative formulation cut voyage carbon emissions by over 120 tons."
+                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "teaserTitle": "HAPAG-LLOYD BUYS ROTTERDAM STAKE",
+                "visual_caption": "A New Jersey seaport ordered 96 electric terminal trucks from Orange EV. Ports are investing heavily in zero-emission drayage infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "DUTIES: CATERPILLAR CLAIMS 392M TARIFF REFUND",
-                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
-                "visual_caption": "Caterpillar secured a $392M tariff refund from customs authorities. The recovery demonstrates how proactive duty drawback strategies can protect corporate operating margins."
+                "headline": "TERMINALS: HAPAG-LLOYD BUYS ROTTERDAM STAKE",
+                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in the Rotterdam Maasvlakte II terminal. Carriers are securing dedicated capacity to protect service reliability."
             },
             {
                 "slide_index": 7,
-                "headline": "FULFILLMENT: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
                 "teaserTitle": "",
-                "visual_caption": "Home Depot launched nationwide 3-hour delivery using 2,000 retail stores as fulfillment hubs. The rapid expansion increases competitive pressure across regional last-mile distribution networks."
+                "visual_caption": "States won a legal battle blocking federal access to 17M driver records. Fleets must balance federal rules against state-level data privacy laws."
             },
             {
                 "slide_index": 8,

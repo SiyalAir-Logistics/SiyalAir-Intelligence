@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CK HUTCHISON DEMANDS",
-        "titleBlue": "1.5B",
-        "footerSummary": "CK Hutchison launches $1.5B arbitration against Panama as global terminal seizures create unprecedented port risk."
+        "titleWhite": "PANAMA CANAL FEE TOPS",
+        "titleBlue": "4.6M",
+        "footerSummary": "Panama Canal queue-jump fee hits $4.6M amid El Nino cuts as shippers face soaring spot freight costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ARBITRATION: CK HUTCHISON DEMANDS 1.5B",
+            "heading": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison has launched formal international arbitration proceedings demanding $1.5B in damages from the government of Panama. The legal claim follows the state seizure of key container facilities at Balboa and Cristobal after court rulings voided long-standing operating concessions.",
-                "This escalating legal battle threatens terminal stability across vital transshipment nodes linking Atlantic and Pacific maritime corridors. Ocean carriers and beneficial cargo owners must evaluate jurisdictional risks and prepare for potential service disruptions across Panamanian gateway ports."
+                "An empty liquefied petroleum gas tanker paid $4.6M to jump the Panama Canal queue, marking the highest publicly reported priority fee to date. This record disbursement comes as the Panama Canal Authority prepares to cut daily booking capacity to 32 ships from mid-September due to worsening El Nino rainfall deficits.",
+                "Surging transit premiums and restricted vessel slots are driving carriers to re-route networks and hike spot rates across major transpacific lanes. Beneficial cargo owners must factor escalating canal costs and potential schedule bunching into their Q4 deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA CHIEF CHRIS SPEAR DEPARTS",
+            "nextUpTease": "USTR ADVANCES 60 TRADING TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com/news/ck-hutchison-wants-1-5bn-in-panama-terminals-compensation/",
-                "Published: 2026-08-21T12:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: ATA CHIEF CHRIS SPEAR DEPARTS",
+            "heading": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership post, triggering an executive search. Spear departs during an intense phase of federal regulatory overhauls, shifting cross-border tariffs, and mounting carrier litigation across North America.",
-                "The unexpected leadership vacancy at the nation's premier trucking lobby complicates coordinated advocacy on driver logging enforcement and independent contractor regulations. Freight executives must track upcoming legislative filings closely as industry lobbying priorities enter a transition period."
+                "The Office of the United States Trade Representative has announced it is moving forward with the implementation of tariffs on 60 trading nations under Section 301 of the Trade Act of 1974. This aggressive trade policy expansion targets multiple import sectors as legacy Section 122 duties approach expiration.",
+                "The broad implementation of forced-labor and retaliatory country tariffs will require importers to conduct immediate audits of their supply chain tiers. Corporate compliance teams must evaluate tariff exposure and verify foreign vendor compliance to mitigate unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP INTERCEPTS 9.5M CONTRABAND",
+            "nextUpTease": "TRUMP TARIFFS ON CANADA TAKE EFFECT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/chris-spear-departs-ata",
-                "Published: 2026-08-21T15:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-22T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CUSTOMS: CBP INTERCEPTS 9.5M CONTRABAND",
+            "heading": "TRADE: TRUMP TARIFFS ON CANADA TAKE EFFECT",
             "paragraphs": [
-                "U.S. Customs and Border Protection officers intercepted 240 packages of methamphetamine valued at $9.5M concealed within a commercial detergent consignment at the Texas border. The illicit cargo was discovered during advanced secondary non-intrusive imaging at the Roma International Bridge facility.",
-                "Heightened border enforcement protocols are driving rigorous secondary examinations for high-risk commodity classes originating from northern Mexico. Cross-border shippers must anticipate elevated inspection dwell times and bolster chain-of-custody documentation to prevent border transit bottlenecks."
+                "A sweeping 50% U.S. tariff on numerous Canadian imports has officially taken effect after bilateral trade talks stalled ahead of the regulatory deadline. Canada has responded by vowing to match the duties dollar for dollar across cross-border freight corridors.",
+                "The abrupt collapse of trade negotiations introduces severe cost pressures for automotive and manufacturing supply chains reliant on frictionless northern borders. Procurement managers must recalibrate sourcing models and model immediate margin impacts under the new 50% tariff regime."
             ],
             "imageUrl": "",
-            "nextUpTease": "22 STATES SUE OVER CDL DATA",
+            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL",
             "tags": [
-                "Source: https://www.freightwaves.com/news/cbp-finds-9-5m-in-meth-hidden-inside-detergent-shipment-at-texas-border",
-                "Published: 2026-08-22T14:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-22T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: 22 STATES SUE OVER CDL DATA",
+            "heading": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit to halt government mandates demanding centralized access to 17M commercial driver database files. The legal challenge argues that the administrative directive infringes on state driver privacy statutes and oversteps regulatory authority.",
-                "The ongoing courtroom dispute creates regulatory uncertainty for motor carriers managing multi-state driver qualification files and automated safety tracking. Fleet compliance directors must balance federal reporting requirements against emerging state-level data restrictions."
+                "The Panama-flagged bulker Ocean Winner sank unexpectedly in the Bay of Bengal while carrying a full cargo of iron ore from India to Singapore. An intensive joint search and rescue operation involving the Indian Coast Guard and Navy is underway for the twenty-two missing crew members.",
+                "This tragic maritime incident highlights ongoing safety and structural risks facing bulk carriers navigating rough monsoon conditions along Asian export routes. Vessel charterers must review operator vetting standards and ensure stringent compliance with international maritime safety codes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SINGAPORE TESTS CASHEW BIOFUEL",
+            "nextUpTease": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/why-22-states-are-suing-to-block-a-federal-demand-for-17-million-truckers-records",
-                "Published: 2026-08-22T11:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-23T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "BUNKERING: SINGAPORE TESTS CASHEW BIOFUEL",
+            "heading": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
             "paragraphs": [
-                "Vitol Bunkers has executed Singapore's first commercial marine bio-bunkering trial using very low sulfur fuel oil co-processed with cashew nutshell liquid. The alternative formulation completed long-haul sea trials to Europe, verifying net carbon reductions of over 120 tons per voyage.",
-                "The successful test unlocks a scalable bio-feedstock avenue for vessel operators navigating tightening maritime decarbonization mandates and carbon tax penalties. Ship charterers must evaluate alternative fuel premiums against escalating regulatory costs across EU and international emission control areas."
+                "A major New Jersey seaport authority has placed a landmark fleet order for 96 electric terminal trucks from manufacturer Orange EV. This infrastructure investment aims to accelerate zero-emission drayage operations and comply with tightening regional port environmental standards.",
+                "Port drayage operators face substantial capital expenditures as major terminals mandate fleet electrification to meet state decarbonization targets. Logistics fleets must balance infrastructure financing costs against long-term operational savings and potential grants."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR CLAIMS 392M TARIFF REFUND",
+            "nextUpTease": "HAPAG-LLOYD BUYS ROTTERDAM STAKE",
             "tags": [
-                "Source: https://maritime-executive.com/article/bulker-gets-co-processed-vlsfo-bio-bunkering-with-cashew-nutshell-liquid",
-                "Published: 2026-08-21T17:39:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-20T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DUTIES: CATERPILLAR CLAIMS 392M TARIFF REFUND",
+            "heading": "TERMINALS: HAPAG-LLOYD BUYS ROTTERDAM STAKE",
             "paragraphs": [
-                "Industrial equipment giant Caterpillar secured a $392M tariff refund following successful customs litigation, offsetting a substantial portion of its gross quarterly duty outlays. The recovery underscores aggressive corporate maneuvers to claw back import duties paid under disputed trade classifications.",
-                "Large-scale importers are increasingly deploying duty drawback programs and tariff litigation to defend manufacturing operating margins against volatile customs assessments. Enterprise procurement teams must conduct forensic tariff audits across their Harmonized Tariff Schedule classifications to recover overpaid levies."
+                "Hapag-Lloyd has signed a definitive agreement with Maersk subsidiary APM Terminals to acquire a 25% ownership stake in the Maasvlakte II facility in Rotterdam. The transaction strengthens operational control over a primary European gateway critical to their Gemini Cooperation network.",
+                "Deepening carrier investment in dedicated terminal capacity reflects a strategic push to insulate main service loops from port congestion and labor friction. Ocean shippers should monitor how carrier-controlled container hubs impact schedule reliability and berth prioritization."
             ],
             "imageUrl": "",
-            "nextUpTease": "HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+            "nextUpTease": "STATES WIN CDL DATABASE LAWSUIT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-costs-shrink/825100/",
-                "Published: 2026-08-21T16:45:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FULFILLMENT: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+            "heading": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
             "paragraphs": [
-                "The Home Depot has officially rolled out express delivery within 3 hours or less nationwide, transforming over 2,000 retail storefronts into decentralized local fulfillment hubs. The service leverages proprietary store-inventory networks to rapidly dispatch thousands of building materials and home products.",
-                "This widespread fulfillment deployment accelerates pressure on regional distributors to shorten delivery windows for commercial and contractor accounts. Logistics operators must optimize localized warehouse management systems and micro-fulfillment networks to defend their share in expedited last-mile delivery."
+                "A coalition of state authorities has scored a major legal victory in an ongoing battle to block federal demands for centralized access to millions of commercial driver database records. The ruling protects state-level data privacy frameworks against sweeping federal mandates.",
+                "This courtroom decision preserves complex state reporting boundaries for motor carriers managing multi-state driver qualification files. Fleet compliance teams must continue navigating fragmented state regulations while monitoring federal appeals on safety data access."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.retaildive.com/news/home-depot-express-delivery-3-hours-us/725050/",
-                "Published: 2026-08-21T13:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-22T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
