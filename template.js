@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL TRIMS DAILY SLOTS TO",
-        "titleBlue": "NINE",
-        "footerSummary": "Panama Canal cuts daily Neopanamax transits as drought limits draft levels, forcing shippers to absorb queue surcharges or route via alternative hubs."
+        "titleWhite": "USTR MOVES FORCED LABOR TARIFFS ON 60",
+        "titleBlue": "NATIONS",
+        "footerSummary": "USTR implements Section 301 forced labor tariffs across 60 trading partners, imposing strict compliance verification and margin friction for importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL TRIMS DAILY SLOTS TO 9",
+            "heading": "REGULATION: USTR FORCED LABOR TARIFFS ON 60",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily Neopanamax transit slots starting in September due to prolonged water level constraints driven by El Nino weather patterns. The capacity restriction limits daily throughput across the vital maritime gateway, amplifying vessel wait times and creating immediate scheduling bottlenecks for container lines.",
-                "Supply chain planners must factor in extended transit delays and potential queue-jump fees exceeding $4.6M to maintain tight delivery windows. Shippers should evaluate multi-modal routing strategies or alternative coastal hubs to insulate freight networks from escalating spot rate volatility."
+                "The Office of the United States Trade Representative has officially moved forward with the implementation of comprehensive tariffs on 60 nations under Section 301 of the Trade Act of 1974. The sweeping regulatory action targets trading partners over forced labor compliance, introducing immediate border friction and mandatory documentary verification for all incoming shipments.",
+                "Importers must rapidly upgrade upstream supply chain visibility and supplier auditing protocols to prevent costly customs detentions at major ports of entry. Failing to align sourcing databases with federal compliance mandates risks severe inventory delays and unpredictable duty escalations."
             ],
             "imageUrl": "",
             "nextUpTease": "DESCARTES ACQUIRES TAI FOR 100M USD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -25,11 +25,11 @@ const dailyData = {
             "id": 2,
             "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI FOR 100M USD",
             "paragraphs": [
-                "Descartes Systems Group has completed the acquisition of freight brokerage technology vendor Tai Software for 100M USD in a strategic move to consolidate TMS capabilities. The transaction integrates advanced transportation management software with Descartes' existing global logistics network to streamline broker workflows.",
-                "Freight brokerages must assess their technology stack compatibility as major software consolidations reshape the digital forwarding ecosystem. Enterprise forwarders should leverage unified TMS platforms to enhance shipment visibility and automate complex load-covering operations."
+                "Descartes Systems Group has completed the strategic acquisition of freight brokerage technology vendor Tai Software for 100M USD to expand its transportation management capabilities. The transaction integrates advanced cloud-based brokerage tools directly into Descartes' global logistics network to streamline freight execution workflows.",
+                "Freight forwarders and 3PL providers must evaluate their existing software vendor stack to maintain competitive efficiency in a consolidating technology market. Adopting unified TMS platforms remains critical for automating complex load matching and scaling brokerage operations without proportional overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+            "nextUpTease": "TRUMP VOWS 50% TARIFFS ON CANADA CARS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -38,31 +38,31 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "REGULATION: EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+            "heading": "TRADE: TRUMP VOWS 50% TARIFFS ON CANADA CARS",
             "paragraphs": [
-                "New trade restrictions implemented by the European Union threaten up to 27% of Chinese export volume entering member state gateways, according to recent Goldman Sachs trade analysis. The tightening regulatory barriers introduce severe cross-border compliance friction for manufacturers routing commodities through European ports.",
-                "Importers must diversify sourcing regions and upgrade upstream supplier auditing to prevent sudden customs detentions at European entry points. Proactive risk modeling is essential to mitigating duty exposure and safeguarding long-term inventory liquidity."
+                "The U.S. administration has announced plans to implement a 50% tariff on Canadian automobiles, trucks, auto parts, and steel effective January 1, following a sudden breakdown in bilateral trade negotiations. The aggressive trade escalation threatens cross-border automotive supply chains and forces manufacturers to re-evaluate their North American distribution networks.",
+                "Automotive shippers and tier-one suppliers face immense cost pressures and must model alternative component sourcing corridors to mitigate margin erosion. Proactive supply chain restructuring is essential to absorbing prospective duty spikes without crippling regional production schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "BULK CARRIER SINKS IN BAY OF BENGAL",
+            "nextUpTease": "COURT UPHOLDS FMC DETENTION FEE DECISION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAFETY: BULK CARRIER SINKS IN BAY OF BENGAL",
+            "heading": "MARITIME: COURT UPHOLDS FMC DETENTION FEE DECISION",
             "paragraphs": [
-                "The panamax bulk carrier Ocean Winner has sunk in the Bay of Bengal, leaving 22 crew members missing and sparking a multi-nation joint search and rescue operation. The maritime casualty highlights persistent safety hazards and structural risks impacting dry bulk vessels operating across South Asian trade routes.",
-                "Cargo owners utilizing regional bulk transport must review carrier safety records and marine insurance coverage to mitigate severe liability exposure. Supply chain directors should mandate rigorous vessel vetting procedures before booking sensitive dry cargo consignments."
+                "The U.S. Court of Appeals for the D.C. Circuit has issued a landmark ruling upholding the Federal Maritime Commission decision enforcing strict standards on demurrage and detention billing. The judicial affirmation mandates that all carrier penalty fees must directly incentivize freight fluidity rather than function as revenue centers.",
+                "Shippers and drayage operators should leverage the legal precedent to contest unjustified terminal access fees and recover historical billing overcharges. Logistics directors must audit carrier invoices closely to capitalize on enhanced federal protection against predatory terminal charges."
             ],
             "imageUrl": "",
             "nextUpTease": "MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -70,11 +70,11 @@ const dailyData = {
             "id": 5,
             "heading": "SOFTWARE: MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
             "paragraphs": [
-                "McLeod Software has partnered with Augment to integrate an advanced AI assistant named Augie directly into the PowerBroker transportation management system. The software integration automates routine freight brokerage tasks, enabling teams to cover loads significantly faster and optimize carrier capacity matching.",
-                "Logistics providers must adopt embedded artificial intelligence tools to maintain operational speed and reduce manual overhead in competitive brokerage environments. Implementing automated dispatch solutions helps brokerages scale freight handling capabilities without increasing headcount."
+                "McLeod Software has partnered with Augment to embed an advanced artificial intelligence assistant named Augie directly into the PowerBroker transportation management system. The software integration automates complex freight brokerage tasks, enabling teams to cover spot market loads significantly faster.",
+                "Brokerages failing to adopt embedded machine learning tools risk severe operational disadvantages in speed and carrier capacity matching. Integrating conversational AI agents into daily dispatch workflows allows mid-sized logistics providers to scale throughput without expanding headcount."
             ],
             "imageUrl": "",
-            "nextUpTease": "MEXICO OPTIMISTIC ON US TRADE DEAL",
+            "nextUpTease": "EU CURBS THREATEN 27% OF CHINESE EXPORTS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -83,30 +83,30 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "TRADE: MEXICO OPTIMISTIC ON US TRADE DEAL",
+            "heading": "REGULATION: EU CURBS THREATEN 27% OF CHINESE EXPORTS",
             "paragraphs": [
-                "Mexican trade officials have expressed optimism regarding ongoing bilateral commercial negotiations with the United States following the sudden breakdown of U.S.-Canada talks. The diplomatic alignment underscores shifting cross-border supply chain dynamics as industrial manufacturers prioritize nearshoring corridors in North America.",
-                "North American importers should pivot logistics investments toward Mexican manufacturing hubs to capitalize on stable trade frameworks and reduced ocean transit risks. Strategic facility placement along southern border crossings ensures uninterrupted component flows."
+                "New trade restrictions implemented by the European Union threaten up to 27% of Chinese export volume entering member state ports, according to recent Goldman Sachs trade analysis. The tightening regulatory barriers introduce severe cross-border compliance friction for manufacturers routing industrial commodities through European gateways.",
+                "Importers must diversify manufacturing footprints and upgrade upstream vendor auditing to prevent sudden customs detentions at European entry points. Proactive geopolitical risk modeling is crucial to maintaining inventory liquidity and mitigating unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
+            "nextUpTease": "HOME DEPOT EXPANDS 3 HOUR EXPRESS DELIVERY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
+            "heading": "LOGISTICS: HOME DEPOT EXPANDS 3 HOUR EXPRESS DELIVERY",
             "paragraphs": [
-                "Extreme operational congestion at South Africa's Durban Gateway Terminal has reached crisis levels, prompting urgent appeals from freight forwarder associations. Severe vessel backlogs and terminal equipment shortages are crippling container turnaround times and stranding import shipments.",
-                "Ocean carriers are implementing emergency port surcharges and omitting regional terminal calls to preserve vessel schedule reliability across African trade lanes. Shippers must build extended lead times into their inventory planning to absorb unpredictable maritime delays."
+                "Home Depot has rolled out a nationwide express delivery service promising fulfillment in 3 hours or less across thousands of SKUs utilizing more than 2,000 U.S. stores as local inventory hubs. The accelerated fulfillment initiative enhances omnichannel competitiveness by transforming traditional retail locations into micro-distribution centers.",
+                "Supply chain leaders must optimize store-level inventory visibility and local courier networks to match rising consumer expectations for ultra-fast delivery. Managing decentralized fulfillment stock effectively prevents stockouts while preserving last-mile margin efficiency."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.retaildive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
