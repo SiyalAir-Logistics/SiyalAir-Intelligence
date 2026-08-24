@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "COURT UPHOLDS DETENTION FEE RULING",
+        "hookTitle": "PANAMA CANAL TRIMS DAILY SLOTS TO NINE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: COURT UPHOLDS DETENTION FEE RULING",
-                "teaserTitle": "HOME DEPOT LAUNCHES EXPRESS DELIVERY",
+                "headline": "MARITIME: PANAMA CANAL TRIMS DAILY SLOTS TO 9",
+                "teaserTitle": "DESCARTES ACQUIRES TAI FOR 100M USD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A federal appeals court upheld the maritime commission rule requiring detention fees to promote freight fluidity. Ocean carriers must now justify demurrage charges or face severe regulatory penalties."
+                "narration_line": "The Panama Canal Authority reduces daily Neopanamax transit slots due to prolonged drought conditions. Shippers must absorb queue fees or route via alternative coastal hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: HOME DEPOT LAUNCHES EXPRESS DELIVERY",
-                "teaserTitle": "EBAY RELEASES HOLIDAY PLAYBOOK",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI FOR 100M USD",
+                "teaserTitle": "EU CURBS THREATEN 27% OF CHINESE EXPORTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Home Depot deployed an express delivery service guaranteeing fulfillment in three hours or less nationwide. The retailer utilizes over two thousand stores as active local fulfillment hubs."
+                "narration_line": "Descartes acquires freight software vendor Tai for one hundred million dollars. The integration enhances digital brokerage workflows across global supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOMMERCE: EBAY RELEASES HOLIDAY PLAYBOOK",
-                "teaserTitle": "KUEHNE + NAGEL LEADER DIES AT 89",
+                "headline": "REGULATION: EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+                "teaserTitle": "BULK CARRIER SINKS IN BAY OF BENGAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "EBay published its holiday selling playbook alongside reduced shipping rates for online merchants. The strategy helps marketplace sellers optimize inventory and manage peak shipping costs."
+                "narration_line": "New European Union trade curbs threaten twenty-seven percent of Chinese export volume. Importers face tightening compliance friction and customs scrutiny."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: KUEHNE + NAGEL LEADER DIES AT 89",
-                "teaserTitle": "EU TRADE CURBS THREATEN 27% EXPORTS",
+                "headline": "SAFETY: BULK CARRIER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Logistics visionary Klaus-Michael Kuehne passed away at eighty-nine after transforming his family enterprise into a global titan. Industry leaders are evaluating future corporate governance and forwarding partnerships."
+                "narration_line": "A bulk carrier has sunk in the Bay of Bengal leaving twenty-two crew members missing. Emergency search operations highlight persistent regional maritime hazards."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU TRADE CURBS THREATEN 27% EXPORTS",
-                "teaserTitle": "ATA SEARCHES FOR NEW CEO SPEAR",
+                "headline": "SOFTWARE: MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
+                "teaserTitle": "MEXICO OPTIMISTIC ON US TRADE DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New European Union regulatory curbs threaten twenty-seven percent of Chinese exports into the bloc. Importers must diversify sourcing regions to navigate tightening cross-border compliance standards."
+                "narration_line": "McLeod Software integrates an artificial intelligence assistant into its brokerage platform. The technology automates routine tasks to cover freight loads faster."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ATA SEARCHES FOR NEW CEO SPEAR",
-                "teaserTitle": "CATERPILLAR BAGS 392M REFUND",
+                "headline": "TRADE: MEXICO OPTIMISTIC ON US TRADE DEAL",
+                "teaserTitle": "SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The American Trucking Associations launched an executive search following the departure of leader Chris Spear. Motor carriers are monitoring regulatory shifts and compliance policies closely."
+                "narration_line": "Mexican officials express strong optimism regarding bilateral trade deals with the United States. Manufacturers increasingly prioritize stable nearshoring corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: CATERPILLAR BAGS 392M REFUND",
+                "headline": "PORTS: SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund as duty expenses shrank. Industrial manufacturers continue utilizing duty-mitigation programs to protect operating margins."
+                "narration_line": "Extreme terminal congestion at South Africa ports creates severe container bottlenecks. Carriers are implementing emergency surcharges to manage delays."
             },
             {
                 "slide_index": 8,

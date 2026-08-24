@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: COURT UPHOLDS DETENTION FEE RULING",
-                "teaserTitle": "HOME DEPOT LAUNCHES EXPRESS DELIVERY",
-                "visual_caption": "A federal appeals court upheld the FMC rule requiring detention fees to promote freight fluidity. Ocean carriers must justify demurrage charges or face regulatory penalties."
+                "headline": "MARITIME: PANAMA CANAL TRIMS DAILY SLOTS TO 9",
+                "teaserTitle": "DESCARTES ACQUIRES TAI FOR 100M USD",
+                "visual_caption": "The Panama Canal Authority reduces daily Neopanamax transit slots due to drought. Shippers must absorb queue fees or route via alternative hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: HOME DEPOT LAUNCHES EXPRESS DELIVERY",
-                "teaserTitle": "EBAY RELEASES HOLIDAY PLAYBOOK",
-                "visual_caption": "Home Depot deployed an express delivery service guaranteeing fulfillment in 3 hours or less nationwide. The retailer utilizes over 2,000 stores as active local fulfillment hubs."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI FOR 100M USD",
+                "teaserTitle": "EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+                "visual_caption": "Descartes acquires freight software vendor Tai for $100M. The integration enhances digital brokerage workflows across global supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOMMERCE: EBAY RELEASES HOLIDAY PLAYBOOK",
-                "teaserTitle": "KUEHNE + NAGEL LEADER DIES AT 89",
-                "visual_caption": "eBay published its holiday selling playbook alongside reduced shipping rates for online merchants. The strategy helps marketplace sellers optimize inventory and manage peak shipping costs."
+                "headline": "REGULATION: EU CURBS THREATEN 27% OF CHINESE EXPORTS",
+                "teaserTitle": "BULK CARRIER SINKS IN BAY OF BENGAL",
+                "visual_caption": "New European Union trade curbs threaten 27% of Chinese export volume. Importers face tightening compliance friction and customs scrutiny."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: KUEHNE + NAGEL LEADER DIES AT 89",
-                "teaserTitle": "EU TRADE CURBS THREATEN 27% EXPORTS",
-                "visual_caption": "Logistics visionary Klaus-Michael Kuehne passed away at 89 after building a global transport titan. Industry stakeholders are evaluating future corporate governance and forwarding partnerships."
+                "headline": "SAFETY: BULK CARRIER SINKS IN BAY OF BENGAL",
+                "teaserTitle": "MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
+                "visual_caption": "A bulk carrier sank in the Bay of Bengal leaving 22 crew members missing. Emergency search operations highlight persistent regional maritime hazards."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU TRADE CURBS THREATEN 27% EXPORTS",
-                "teaserTitle": "ATA SEARCHES FOR NEW CEO SPEAR",
-                "visual_caption": "New European Union regulatory curbs threaten 27% of Chinese exports into the bloc. Importers must diversify sourcing regions to navigate tightening cross-border compliance standards."
+                "headline": "SOFTWARE: MCLEOD INTEGRATES AI INTO BROKER WORKFLOWS",
+                "teaserTitle": "MEXICO OPTIMISTIC ON US TRADE DEAL",
+                "visual_caption": "McLeod Software integrates an artificial intelligence assistant into its brokerage platform. The technology automates routine tasks to cover freight loads faster."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ATA SEARCHES FOR NEW CEO SPEAR",
-                "teaserTitle": "CATERPILLAR BAGS 392M REFUND",
-                "visual_caption": "The American Trucking Associations launched an executive search following the departure of leader Chris Spear. Motor carriers are monitoring regulatory shifts and compliance policies closely."
+                "headline": "TRADE: MEXICO OPTIMISTIC ON US TRADE DEAL",
+                "teaserTitle": "SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
+                "visual_caption": "Mexican officials express strong optimism regarding bilateral trade deals with the United States. Manufacturers increasingly prioritize stable nearshoring corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: CATERPILLAR BAGS 392M REFUND",
+                "headline": "PORTS: SOUTH AFRICA PORTS HIT BY CRISIS CONGESTION",
                 "teaserTitle": "",
-                "visual_caption": "Caterpillar secured a $392M tariff refund as duty expenses shrank during the quarter. Industrial manufacturers continue utilizing duty-mitigation programs to protect operating margins."
+                "visual_caption": "Extreme terminal congestion at South Africa ports creates severe container bottlenecks. Carriers are implementing emergency surcharges to manage delays."
             },
             {
                 "slide_index": 8,
