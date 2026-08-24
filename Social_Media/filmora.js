@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE WAR: US-CANADA 50% TARIFFS ACTIVE",
-                "teaserTitle": "IRAN THREATENS HORMUZ TANKER SEIZURES",
-                "visual_caption": "Trade talks between the US and Canada collapsed, triggering 50% tariffs under Section 338. Canada confirmed dollar-for-dollar retaliatory tariffs starting Sept 8."
+                "headline": "MARITIME: PANAMA CANAL CUTS SLOTS TO 32",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B PANAMA ARBITRATION",
+                "visual_caption": "Severe drought forces the Panama Canal to cut daily transits to 32 ships starting mid-September. The capacity reduction drives queue jump fees past $4.6M and spikes spot rates."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAN THREATENS HORMUZ SEIZURES",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
-                "visual_caption": "Iran warned of vessel seizures across the Strait of Hormuz ahead of new sanctions. Over 1,514 tankers have disabled tracking systems since March."
+                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA CLAIM",
+                "teaserTitle": "US-CANADA TRADE TALKS COLLAPSE",
+                "visual_caption": "CK Hutchison initiates international arbitration against Panama seeking $1.5B in damages. The legal action follows controversial terminal concession seizures at Balboa and Cristobal."
             },
             {
                 "slide_index": 3,
-                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR EXITS",
-                "teaserTitle": "US WAREHOUSE VACANCY FALLS TO 7.3%",
-                "visual_caption": "American Trucking Associations head Chris Spear has departed the organization. His exit comes amid intense ELD enforcement and driver regulatory battles."
+                "headline": "TRADE WAR: US-CANADA TALKS COLLAPSE",
+                "teaserTitle": "MAERSK SELLS ROTTERDAM TERMINAL STAKE",
+                "visual_caption": "United States and Canada trade negotiations collapse, cementing plans for aggressive bilateral tariff enforcement. Shippers across northern corridors face sudden cost spikes on industrial components."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: US WAREHOUSE VACANCY HITS 7.3%",
-                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERIES SIXFOLD",
-                "visual_caption": "US warehouse vacancy fell to 7.3% as leasing outpaced supply. Industrial storage markets are stabilizing after consecutive quarters of excess space."
+                "headline": "ALLIANCE: MAERSK SELLS ROTTERDAM STAKE",
+                "teaserTitle": "CATERPILLAR BAGS $392M TARIFF REFUND",
+                "visual_caption": "Maersk sells a 25% stake in the Rotterdam Maasvlakte II terminal to Hapag-Lloyd. The asset transfer consolidates operational alignment within the Gemini Cooperation."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: AMAZON EXPANDS DRONE DELIVERY",
-                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR EXPRESS SERVICE",
-                "visual_caption": "Amazon will expand Prime Air drone deliveries 6X across Atlanta, Chicago, and Cleveland. The rollout brings sub-1-hour automated parcel transport to major hubs."
+                "headline": "TARIFFS: CATERPILLAR BAGS $392M REFUND",
+                "teaserTitle": "STATES SUE OVER 17M TRUCKER RECORDS",
+                "visual_caption": "Caterpillar secures a $392M tariff refund after a review of customs duty expenses. Industrial importers should audit historical filings to capture similar refunds."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
-                "teaserTitle": "STUDIES VALIDATE ARCTIC HUDSON BAY SHIPPING",
-                "visual_caption": "Home Depot launched nationwide express delivery within 3 hours across thousands of products. Over 2,000 retail stores now function as rapid fulfillment hubs."
+                "headline": "REGULATION: 22 STATES SUE FMCSA OVER CDL",
+                "teaserTitle": "IRAN WAR SENDS FUEL PRICES HIGHER",
+                "visual_caption": "22 states file a federal lawsuit to block a mandate demanding 17M trucker records. The legal clash introduces compliance uncertainty for motor carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE LANES: HUDSON BAY SHIPPING CONFIRMED",
-                "teaserTitle": "MOMENTUM POINT HOURLY INTELLIGENCE",
-                "visual_caption": "Technical studies confirmed the viability of year-round shipping through Canada's Hudson Bay. The Port of Churchill route offers bulk shippers direct transit to Europe."
+                "headline": "FUEL: IRAN CONFLICT SURGES DIESEL COSTS",
+                "teaserTitle": "",
+                "visual_caption": "Strait of Hormuz military tensions push international crude to $94.46 per barrel, spiking diesel costs. Shippers must recalculate fuel surcharges to protect operating margins."
             },
             {
                 "slide_index": 8,

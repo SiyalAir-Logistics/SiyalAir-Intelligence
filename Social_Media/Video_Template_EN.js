@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "US CANADA TARIFFS COLLAPSE TRADE TALKS",
+        "hookTitle": "PANAMA CANAL CUTS DAILY SLOTS TO 32",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE WAR: US-CANADA 50% TARIFFS ACTIVE",
-                "teaserTitle": "IRAN THREATENS HORMUZ TANKER SEIZURES",
+                "headline": "MARITIME: PANAMA CANAL CUTS SLOTS TO 32",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B PANAMA ARBITRATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trade talks between the United States and Canada collapsed, triggering fifty percent tariffs under Section three thirty-eight. Canada confirmed dollar-for-dollar retaliatory tariffs starting September eighth."
+                "narration_line": "Severe drought forces the Panama Canal to cut daily transits to thirty-two ships starting mid-September. The capacity reduction drives queue jump fees past four point six million dollars and spikes spot rates."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAN THREATENS HORMUZ SEIZURES",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
+                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B PANAMA CLAIM",
+                "teaserTitle": "US-CANADA TRADE TALKS COLLAPSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran warned of vessel seizures across the Strait of Hormuz ahead of new sanctions. Over fifteen hundred tankers have disabled tracking systems since March."
+                "narration_line": "CK Hutchison initiates international arbitration against Panama seeking one point five billion dollars in damages. The legal action follows controversial terminal concession seizures at Balboa and Cristobal."
             },
             {
                 "slide_index": 3,
-                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR EXITS",
-                "teaserTitle": "US WAREHOUSE VACANCY FALLS TO 7.3%",
+                "headline": "TRADE WAR: US-CANADA TALKS COLLAPSE",
+                "teaserTitle": "MAERSK SELLS ROTTERDAM TERMINAL STAKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "American Trucking Associations head Chris Spear has departed the organization. His exit comes amid intense electronic logging enforcement and driver regulatory battles."
+                "narration_line": "United States and Canada trade negotiations collapse, cementing plans for aggressive bilateral tariff enforcement. Shippers across northern corridors face sudden cost spikes on industrial components."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: US WAREHOUSE VACANCY HITS 7.3%",
-                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERIES SIXFOLD",
+                "headline": "ALLIANCE: MAERSK SELLS ROTTERDAM STAKE",
+                "teaserTitle": "CATERPILLAR BAGS $392M TARIFF REFUND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States warehouse vacancy fell to seven point three percent as leasing outpaced supply. Industrial storage markets are stabilizing after consecutive quarters of excess space."
+                "narration_line": "Maersk sells a twenty-five percent stake in the Rotterdam Maasvlakte two terminal to Hapag-Lloyd. The asset transfer consolidates operational alignment within the Gemini Cooperation."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: AMAZON EXPANDS DRONE DELIVERY",
-                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR EXPRESS SERVICE",
+                "headline": "TARIFFS: CATERPILLAR BAGS $392M REFUND",
+                "teaserTitle": "STATES SUE OVER 17M TRUCKER RECORDS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon will expand Prime Air drone deliveries sixfold across Atlanta, Chicago, and Cleveland. The rollout brings sub-one-hour automated parcel transport to major metropolitan hubs."
+                "narration_line": "Caterpillar secures a three hundred ninety-two million dollar tariff refund after a review of customs duty expenses. Industrial importers should audit historical filings to capture similar refunds."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
-                "teaserTitle": "STUDIES VALIDATE ARCTIC HUDSON BAY SHIPPING",
+                "headline": "REGULATION: 22 STATES SUE FMCSA OVER CDL",
+                "teaserTitle": "IRAN WAR SENDS FUEL PRICES HIGHER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Home Depot launched nationwide express delivery within three hours across thousands of products. Over two thousand retail stores now function as rapid micro-fulfillment hubs."
+                "narration_line": "Twenty-two states file a federal lawsuit to block a mandate demanding seventeen million trucker records. The legal clash introduces compliance uncertainty for motor carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE LANES: HUDSON BAY SHIPPING CONFIRMED",
-                "teaserTitle": "MOMENTUM POINT HOURLY INTELLIGENCE",
+                "headline": "FUEL: IRAN CONFLICT SURGES DIESEL COSTS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Technical studies confirmed the viability of year-round shipping through Canada's Hudson Bay. The Port of Churchill route offers bulk shippers direct transit to European markets."
+                "narration_line": "Strait of Hormuz military tensions push international crude to ninety-four dollars per barrel, spiking diesel costs. Shippers must recalculate fuel surcharges to protect operating margins."
             },
             {
                 "slide_index": 8,
