@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL TRIMS SLOTS TO",
-        "titleBlue": "32",
-        "footerSummary": "Panama Canal cuts daily transits to 32 ships as El Nino deficits force tighter booking limits and push up spot rates."
+        "titleWhite": "US-CANADA 50% TARIFFS",
+        "titleBlue": "ACTIVE",
+        "footerSummary": "Cross-border supply chains face severe friction as 50% Section 338 duties trigger immediate dollar-for-dollar retaliatory tariffs across North American freight lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
+            "heading": "TRADE WAR: US-CANADA 50% TARIFFS ACTIVE",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid-September due to worsening El Nino rainfall deficits and dropping reservoir levels. This defensive scheduling adjustment restricts neopanamax and panamax transits, threatening to create severe vessel bunching and queue congestion across key trade lanes.",
-                "Shippers face compounding supply chain friction as reduced capacity forces carriers to deploy costly alternative routes and implement surcharges. Logistics planners must immediately factor longer transit windows and inflated spot rates into their upcoming Q4 freight allocation models."
+                "Cross-border trade negotiations between the United States and Canada have formally collapsed, triggering 50% tariffs under Section 338 across critical industrial and consumer import categories. Canadian officials confirmed immediate reciprocal measures, implementing matching dollar-for-dollar retaliatory tariffs starting September 8. Cross-border freight corridors are preparing for severe clearance bottlenecks and localized volume contractions.",
+                "Shippers operating integrated North American manufacturing networks must immediately evaluate tariff exposure across cross-border assemblies and intermediate components. Supply chain directors are forced to choose between absorbing substantial duty surcharges or initiating costly routing diversions through non-tariffed international distribution hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B IN PANAMA",
+            "nextUpTease": "IRAN THREATENS HORMUZ TANKER SEIZURES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-23T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B IN PANAMA",
+            "heading": "MARITIME: IRAN THREATENS HORMUZ SEIZURES",
             "paragraphs": [
-                "CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama demanding 1.5B USD in damages. This legal dispute stems from the controversial February seizure of the Balboa and Cristobal port terminals after local courts invalidated their operating concession.",
-                "The multi-billion dollar arbitration highlights mounting sovereign and regulatory risks for global terminal operators managing foreign infrastructure assets. Port users and maritime investors must monitor escalating legal friction that could destabilize long-term concession stability and terminal investment returns."
+                "Iranian military authorities have issued formal warnings threatening vessel seizures across the Strait of Hormuz ahead of impending United States Treasury sanctions packages. Intelligence monitoring indicates over 1,514 commercial vessels have disabled automatic identification transponders during Middle East transits since March, sharply increasing maritime collision risks.",
+                "Ocean freight carriers and bulk energy operators face compounding insurance premiums and unpredictable route disruptions across critical Persian Gulf export corridors. Fleet managers must determine whether to maintain high-risk Hormuz transits with inflated war risk insurance or reroute assets around the Cape of Good Hope at severe schedule and fuel penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-24T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TERMINALS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "heading": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR EXITS",
             "paragraphs": [
-                "Hapag Lloyd has signed a binding agreement to acquire a 25% ownership stake in APM Terminals Maasvlakte II facility located in the Port of Rotterdam. The strategic transaction strengthens carrier control over a crucial European gateway designated as a primary hub for their upcoming Gemini Cooperation network.",
-                "Deepening ocean carrier investment in dedicated automated terminal infrastructure reflects a concerted push to insulate main service loops from port congestion. Shippers should evaluate how tighter carrier alignment over major container terminals impacts berth prioritization and schedule reliability."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down after leading the commercial trucking federation through transformative legislative and regulatory cycles. The leadership transition arrives as the United States motor carrier sector confronts intense federal electronic logging enforcement, escalating nuclear verdicts, and shifting trade policies.",
+                "The departure creates interim policy uncertainty for long-haul motor carriers navigating federal commercial driver licensing rules and complex carbon emission mandates. Corporate fleet executives must closely watch federation lobbying realignment to anticipate shifting regulatory advocacy across state and federal transportation committees."
             ],
             "imageUrl": "",
-            "nextUpTease": "BULKER SINKS IN BAY OF BENGAL",
+            "nextUpTease": "US WAREHOUSE VACANCY FALLS TO 7.3%",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T18:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-23T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
+            "heading": "REAL ESTATE: US WAREHOUSE VACANCY HITS 7.3%",
             "paragraphs": [
-                "The Panama flagged bulk carrier Ocean Winner sank suddenly in the middle of the Bay of Bengal while transporting an iron ore cargo from India to Singapore. An intensive search and rescue operation led by the Indian Coast Guard and Navy continues for the 22 missing crew members after the vessel went down.",
-                "This maritime disaster underscores severe structural and operational hazards facing bulk carriers navigating severe seasonal weather along major Asian export corridors. Vessel charterers must rigorously audit operator safety standards and verify strict compliance with international maritime protocols."
+                "The United States industrial real estate market has re-established market equilibrium as net leasing demand outpaced new warehouse supply during Q2, according to Colliers data. National industrial vacancy dropped 7 basis points sequentially to 7.3%, signaling that excess warehouse inventory from prior construction booms has finally stabilized.",
+                "Third-party logistics providers and enterprise shippers are seeing prime port-adjacent warehousing capacity tighten, limiting leverage during multi-year lease renewal negotiations. Corporate logistics managers must accelerate lease commitments for modern high-cube facilities before anticipated Q4 rent accelerations materialize."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+            "nextUpTease": "AMAZON EXPANDS DRONE DELIVERIES SIXFOLD",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-23T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-23T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+            "heading": "AUTOMATION: AMAZON EXPANDS DRONE DELIVERY",
             "paragraphs": [
-                "A major New Jersey seaport authority has placed a landmark fleet order for 96 electric terminal trucks from manufacturer Orange EV to modernize drayage operations. This infrastructure investment directly addresses tightening regional port environmental mandates and accelerates zero emission yard logistics.",
-                "Port drayage providers face significant capital expenditure hurdles as major terminals enforce aggressive fleet electrification and decarbonization timelines. Motor carriers must balance upfront equipment financing costs against potential long-term operational savings and available environmental grants."
+                "Amazon has announced plans to expand its Prime Air drone delivery operations sixfold by launching commercial aerial networks across metropolitan Atlanta, Chicago, and Cleveland. The automated delivery rollout leverages advanced regulatory approvals to service high-density suburban markets with sub-one-hour delivery capabilities.",
+                "The expansion intensifies competition within final-mile e-commerce logistics, raising service-level expectations for regional parcel couriers and omni-channel retailers. Competitors must evaluate substantial capital investments in autonomous fulfillment automation or risk losing premium market share to rapid aerial delivery networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATES WIN CDL DATABASE LAWSUIT",
+            "nextUpTease": "HOME DEPOT LAUNCHES 3-HOUR EXPRESS SERVICE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-23T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
+            "heading": "LAST MILE: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
             "paragraphs": [
-                "A coalition of state authorities has secured a major legal victory blocking federal demands for centralized access to millions of commercial driver database records. The court ruling safeguards established state-level data privacy frameworks against sweeping federal oversight mandates.",
-                "This judicial decision preserves complex state reporting boundaries for motor carriers managing multi-state driver qualification files and safety compliance. Fleet legal teams must continue navigating fragmented state regulations while monitoring ongoing federal appeals regarding driver data access."
+                "The Home Depot has deployed nationwide express delivery services guaranteeing fulfillment within 3 hours across thousands of product lines. The program utilizes more than 2,000 retail storefronts as localized distribution hubs to service commercial contractors and high-value project orders directly.",
+                "The conversion of brick-and-mortar stores into active micro-fulfillment hubs reshapes localized replenishment schedules and inventory buffer requirements. Building supply competitors and industrial distributors face margin pressure as store-based fulfillment speeds shrink standard commercial procurement lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES 60 TRADING TARIFFS",
+            "nextUpTease": "STUDIES VALIDATE ARCTIC HUDSON BAY SHIPPING",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-23T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
+            "heading": "TRADE LANES: HUDSON BAY SHIPPING CONFIRMED",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of tariffs on 60 trading nations under Section 301 of the Trade Act. This aggressive trade policy expansion targets multiple import sectors as legacy trade provisions expire.",
-                "The broad enforcement of retaliatory and forced-labor country tariffs mandates immediate tier-one through tier-three supply chain audits for global importers. Corporate compliance officers must quantify tariff exposure and verify foreign vendor transparency to prevent unexpected duty liabilities."
+                "Three independent technical feasibility studies have confirmed the commercial viability of year-round Arctic maritime navigation through Canada's Hudson Bay and the Port of Churchill. The trade corridor expansion aims to provide North American agricultural and resource exporters with a direct maritime routing alternative bypassing congested southern choke points.",
+                "Opening an operational northern trade gateway offers grain and bulk shippers substantial transit time reductions to European and transatlantic markets. Supply chain strategists must assess cold-weather vessel charter availability and long-term rail connection reliability into Churchill to capitalize on emergent sub-Arctic routing economies."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-22T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-23T17:34:00Z",
                 "Status: Audited & True"
             ]
         }

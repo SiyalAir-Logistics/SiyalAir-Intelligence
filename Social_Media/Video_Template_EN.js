@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL TRIMS SLOTS TO 32",
+        "hookTitle": "US CANADA TARIFFS COLLAPSE TRADE TALKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL TRIMS SLOTS TO 32",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B IN PANAMA",
+                "headline": "TRADE WAR: US-CANADA 50% TARIFFS ACTIVE",
+                "teaserTitle": "IRAN THREATENS HORMUZ TANKER SEIZURES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is reducing daily bookings to thirty-two ships due to severe water deficits. Shippers face rising spot rates and must factor longer transit delays into fourth quarter models."
+                "narration_line": "Trade talks between the United States and Canada collapsed, triggering fifty percent tariffs under Section three thirty-eight. Canada confirmed dollar-for-dollar retaliatory tariffs starting September eighth."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B IN PANAMA",
-                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "headline": "MARITIME: IRAN THREATENS HORMUZ SEIZURES",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR STEPS DOWN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison has launched international arbitration for one point five billion dollars over seized ports. The dispute heightens sovereign risk for global terminal investors and supply chain operators."
+                "narration_line": "Iran warned of vessel seizures across the Strait of Hormuz ahead of new sanctions. Over fifteen hundred tankers have disabled tracking systems since March."
             },
             {
                 "slide_index": 3,
-                "headline": "TERMINALS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
+                "headline": "LEADERSHIP: ATA PRESIDENT CHRIS SPEAR EXITS",
+                "teaserTitle": "US WAREHOUSE VACANCY FALLS TO 7.3%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Hapag Lloyd has acquired a twenty-five percent stake in the Rotterdam Maasvlakte two terminal facility. Carriers are securing dedicated capacity hubs to isolate main service loops from ongoing congestion."
+                "narration_line": "American Trucking Associations head Chris Spear has departed the organization. His exit comes amid intense electronic logging enforcement and driver regulatory battles."
             },
             {
                 "slide_index": 4,
-                "headline": "SAFETY: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
+                "headline": "REAL ESTATE: US WAREHOUSE VACANCY HITS 7.3%",
+                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERIES SIXFOLD",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A bulk carrier has sunk in the Bay of Bengal with twenty-two crew members still missing. Vessel charterers must audit operator safety standards to comply with international maritime codes."
+                "narration_line": "United States warehouse vacancy fell to seven point three percent as leasing outpaced supply. Industrial storage markets are stabilizing after consecutive quarters of excess space."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: NEW JERSEY ORDERS 96 ELECTRIC TRUCKS",
-                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
+                "headline": "AUTOMATION: AMAZON EXPANDS DRONE DELIVERY",
+                "teaserTitle": "HOME DEPOT LAUNCHES 3-HOUR EXPRESS SERVICE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New Jersey ports ordered ninety-six electric terminal trucks to meet strict environmental standards. Fleet operators face high capital expenditures to balance electrification costs against long-term savings."
+                "narration_line": "Amazon will expand Prime Air drone deliveries sixfold across Atlanta, Chicago, and Cleveland. The rollout brings sub-one-hour automated parcel transport to major metropolitan hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: STATES WIN CDL DATABASE LAWSUIT",
-                "teaserTitle": "USTR ADVANCES 60 TRADING TARIFFS",
+                "headline": "LAST MILE: HOME DEPOT LAUNCHES 3-HOUR DELIVERY",
+                "teaserTitle": "STUDIES VALIDATE ARCTIC HUDSON BAY SHIPPING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "States won a legal battle blocking federal access to commercial driver database records. Motor carriers must continue navigating fragmented regional regulations while federal appeals move forward."
+                "narration_line": "Home Depot launched nationwide express delivery within three hours across thousands of products. Over two thousand retail stores now function as rapid micro-fulfillment hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: USTR ADVANCES 60 TRADING TARIFFS",
-                "teaserTitle": "",
+                "headline": "TRADE LANES: HUDSON BAY SHIPPING CONFIRMED",
+                "teaserTitle": "MOMENTUM POINT HOURLY INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The USTR is advancing tariffs on sixty trading nations under section three hundred one. Importers must conduct immediate vendor audits to mitigate unexpected duty liabilities and supply chain costs."
+                "narration_line": "Technical studies confirmed the viability of year-round shipping through Canada's Hudson Bay. The Port of Churchill route offers bulk shippers direct transit to European markets."
             },
             {
                 "slide_index": 8,
