@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP TARIFFS ON CANADA EFFECT",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
-                "visual_caption": "President Trump allowed 50% tariffs on Canadian imports to take effect as trade talks stall. Canada responded by vowing to match those duties dollar for dollar."
+                "headline": "GOVERNMENT: CANADA TARIFFS AND TRADE WAR",
+                "teaserTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
+                "visual_caption": "50% tariffs on Canadian imports took effect as trade talks collapsed. Canada vowed to match the levies dollar for dollar across northern corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL TRIMS DAILY SLOTS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
                 "teaserTitle": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
-                "visual_caption": "The Panama Canal Authority will cut 1 daily Neopanamax transit starting in September due to weather disruptions. This reduction tightens capacity and raises spot rates."
+                "visual_caption": "An empty tanker paid a record $4.6M to jump the Panama Canal queue. Persistent draft constraints continue to squeeze available daily transit slots."
             },
             {
                 "slide_index": 3,
                 "headline": "CONTAINERS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
                 "teaserTitle": "BULKER SINKS IN BAY OF BENGAL",
-                "visual_caption": "Low water levels across the Amazon River basin forced carriers to implement $1,900 container surcharges. Operators must absorb these fees or establish multimodal contingencies."
+                "visual_caption": "Low water levels across the Amazon basin triggered surcharges reaching $1,900. Operators must absorb freight penalties or build multimodal contingencies."
             },
             {
                 "slide_index": 4,
                 "headline": "MARITIME: BULKER SINKS IN BAY OF BENGAL",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "The bulker Ocean Winner sank in the Bay of Bengal, leaving 22 crewmembers missing. A joint rescue operation was launched across the maritime sector."
+                "teaserTitle": "CBP FINDS 9.5M USD IN METH",
+                "visual_caption": "The bulker Ocean Winner sank in the Bay of Bengal, leaving 22 crewmembers missing. Joint rescue operations continue across the stricken shipping sector."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
-                "visual_caption": "The USTR is advancing Section 301 tariffs targeting 60 trading partners over forced labor compliance. Importers face heightened regulatory scrutiny and strict border audits."
+                "headline": "COMPLIANCE: CBP FINDS 9.5M USD IN METH",
+                "teaserTitle": "UPS INVESTS 2B USD IN EXPANSION",
+                "visual_caption": "Border officers seized $9.5M in methamphetamine hidden inside a commercial shipment. Stringent vendor screening is critical to prevent illicit freight delays."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
+                "headline": "LOGISTICS: UPS INVESTS 2B USD IN EXPANSION",
                 "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD DAMAGES",
-                "visual_caption": "Surging diesel costs and tightening trucking capacity are pushing US shippers toward rail intermodal networks. Transport buyers are shifting freight to capture stable pricing."
+                "visual_caption": "UPS announced a $2B capital investment to scale international logistics units. Procurement teams should align long-term agreements with expanding carriers."
             },
             {
                 "slide_index": 7,
                 "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD DAMAGES",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison Holdings is seeking $1.5B in damages from Panama. The legal action stems from the state seizure of the Balboa and Cristobal port terminals."
+                "visual_caption": "CK Hutchison initiated international arbitration seeking $1.5B from Panama. The legal action follows the state seizure of major port terminal concessions."
             },
             {
                 "slide_index": 8,

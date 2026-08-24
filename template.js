@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP TARIFFS ON CANADA",
-        "titleBlue": "EFFECT",
-        "footerSummary": "Trump tariffs on Canada take effect as bilateral talks stall, forcing shippers to navigate surging cross-border freight costs and supply chain bottlenecks."
+        "titleWhite": "CANADA TARIFFS AND TRADE",
+        "titleBlue": "WAR",
+        "footerSummary": "Canada tariffs trigger an all out trade war after bilateral talks collapse, forcing shippers to navigate severe cross border supply chain risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: TRUMP TARIFFS ON CANADA EFFECT",
+            "heading": "GOVERNMENT: CANADA TARIFFS AND TRADE WAR",
             "paragraphs": [
-                "President Donald Trump has officially allowed 50% tariffs on numerous Canadian imports to take effect as bilateral trade negotiations stall before the final deadline. Canadian leadership responded swiftly by vowing to match those levies dollar for dollar across primary North American logistics corridors.",
+                "President Donald Trump has allowed 50% tariffs on numerous Canadian imports to take effect as bilateral trade negotiations collapsed before the final deadline. Canadian leadership responded swiftly by vowing to match those levies dollar for dollar across primary North American logistics corridors.",
                 "The sudden policy escalation threatens to upend established manufacturing and automotive supply chains that rely on frictionless northern border transit. Shippers must rapidly re-evaluate landed product costs and explore alternative sourcing channels to protect operating margins from severe tariff burdens."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
+            "nextUpTease": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -23,16 +23,16 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL TRIMS DAILY SLOTS",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD",
             "paragraphs": [
-                "The Panama Canal Authority has officially announced plans to cut one daily Neopanamax vessel transit starting in September due to persistent El Nino weather disruptions. The reduction further tightens maritime capacity across primary global trade lanes already strained by geopolitical rerouting and regional draft constraints.",
-                "Ocean carriers are absorbing mounting scheduling bottlenecks that translate directly into surging container spot rates and extended transit delays. Logistics directors must factor reduced slot availability and higher priority fees into their Q4 deployment strategies."
+                "An empty liquefied petroleum gas tanker set a new record by paying a staggering $4.6M queue jump fee to bypass congestion in the Panama Canal. Persistent draft constraints and regional security disruptions continue to squeeze available daily transit slots for global carriers.",
+                "Ocean shippers face escalating priority tolls and unpredictable scheduling delays that inflate landed inventory costs across vital Asia-US trade lanes. Logistics directors must factor these extraordinary passage fees into Q4 budgeting and route optimization models."
             ],
             "imageUrl": "",
             "nextUpTease": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -40,7 +40,7 @@ const dailyData = {
             "id": 3,
             "heading": "CONTAINERS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
             "paragraphs": [
-                "Severe low-water levels across the Amazon River basin have forced ocean carriers to implement emergency low-water surcharges reaching 1,900 USD per container. The environmental constraint severely disrupts vital inland supply routes connecting Manaus distribution networks to global shipping lanes.",
+                "Severe low-water levels across the Amazon River basin have forced ocean carriers to implement emergency low-water surcharges reaching $1,900 per container. The environmental constraint severely disrupts vital inland supply routes connecting Manaus distribution networks to global shipping lanes.",
                 "Supply chain operators managing South American import networks must absorb sudden freight surcharges or establish costly multimodal contingency plans. Shippers need to audit regional distribution contracts to protect operating margins from unexpected water-level penalties."
             ],
             "imageUrl": "",
@@ -59,7 +59,7 @@ const dailyData = {
                 "The tragic casualty introduces sudden localized capacity losses and highlights persistent safety risks across regional bulk shipping corridors. Vessel operators must verify strict structural compliance and emergency readiness standards to mitigate catastrophic voyage liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "CBP FINDS 9.5M USD IN METH",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -68,30 +68,30 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "REGULATORY: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "COMPLIANCE: CBP FINDS 9.5M USD IN METH",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with implementing strict Section 301 tariffs targeting 60 trading partners over forced labor compliance. The enforcement action coincides with the formal expiration of prior Section 122 tariff measures across key import categories.",
-                "Importers face heightened regulatory scrutiny and complex documentation requirements to prove end-to-end supply chain transparency. Failure to audit tier-one and tier-two vendor networks risks severe border detentions and unexpected duty assessments."
+                "Customs and Border Protection officers at a Texas land border crossing discovered $9.5M worth of methamphetamine concealed within a commercial detergent shipment. The high-value narcotics interception underscores the ongoing security vulnerabilities exploited by transnational criminal organizations along freight entry points.",
+                "Heightened border enforcement actions frequently trigger rigorous secondary cargo inspections and extended dwell times for compliant motor carriers. Supply chain managers must ensure stringent vendor screening to prevent illicit trafficking from delaying legitimate cross-border freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
+            "nextUpTease": "UPS INVESTS 2B USD IN EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INTERMODAL: IRAN WAR FUEL SPIKES PUSH FREIGHT TO RAIL",
+            "heading": "LOGISTICS: UPS INVESTS 2B USD IN EXPANSION",
             "paragraphs": [
-                "Surging diesel costs, fewer available drivers, and tightening over-the-road trucking capacity driven by the ongoing Iran conflict are pushing US shippers toward rail intermodal networks. Transport buyers are actively shifting freight off highways to capture more stable pricing and reliable long-haul transit times.",
-                "Rail marketing companies and intermodal providers must optimize terminal gate throughput to absorb the sudden influx of diverted highway volume. Shippers should secure multi-year intermodal service contracts now to lock in capacity before peak season demand strains rail networks."
+                "United Parcel Service has announced a massive $2B capital investment targeted at scaling up its international, healthcare, and supply chain logistics units. The strategic deployment aims to capture higher-margin enterprise business as global trade routes experience ongoing structural realignment.",
+                "Corporate shippers evaluating carrier partnerships can expect enhanced global network resiliency and specialized temperature-controlled infrastructure for sensitive freight. Procurement teams should align long-term service agreements with carriers aggressively expanding advanced logistics capabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "CK HUTCHISON SEEKS 1.5B USD DAMAGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -100,14 +100,14 @@ const dailyData = {
             "id": 7,
             "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD DAMAGES",
             "paragraphs": [
-                "Hong Kong-based CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama, seeking 1.5B USD in compensation. The legal action stems from the state seizure of the Balboa and Cristobal port terminals after local supreme court rulings invalidated operating concessions.",
+                "Hong Kong-based CK Hutchison Holdings has initiated formal international arbitration proceedings against the government of Panama, seeking $1.5B in compensation. The legal action stems from the state seizure of the Balboa and Cristobal port terminals after local supreme court rulings invalidated operating concessions.",
                 "Global port operators face elevated legal and geopolitical risks when managing international terminal concessions under shifting domestic legislation. Investors must incorporate sovereign risk premiums into long-term infrastructure valuation models across emerging trade gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
