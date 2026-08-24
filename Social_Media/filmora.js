@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS SPARK 50% ESCALATION",
-                "teaserTitle": "IRAN BLACKLISTS MARITIME VESSELS",
-                "visual_caption": "US-Canada trade talks collapse over heavy-duty trucks. The administration plans a 50% tariff on Canadian autos and steel starting Jan 1."
+                "headline": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partners. This regulatory move forces supply chain leaders to audit global sourcing networks immediately."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAN BLACKLISTS MARITIME VESSELS",
-                "teaserTitle": "SUEZ CANAL RESTORES MAJOR SERVICES",
-                "visual_caption": "Iran issues its first blacklist of non-compliant commercial vessels in the Persian Gulf. Authorities threaten shipowners with steep fines and seizure."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
+                "visual_caption": "Descartes acquired Tai Software for $100M to consolidate freight brokerage technology. Shippers must evaluate platform connectivity to sustain competitive execution."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: SUEZ CANAL RESTORES MAJOR SERVICES",
-                "teaserTitle": "DURBAN GATEWAY TERMINAL CONGESTION",
-                "visual_caption": "Major ocean carriers return ultra-large vessels to the Red Sea corridor. The Suez Canal Authority honors carriers to incentivize traffic recovery."
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
+                "visual_caption": "The Panama Canal Authority reduced daily vessel transits due to ongoing water level constraints. Logistics networks are rerouting cargo through West Coast ports to bypass pinch points."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT OPERATIONS: DURBAN GATEWAY TERMINAL CONGESTION",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
-                "visual_caption": "Severe terminal congestion at South Africa's Durban port halts landside container operations. Freight forwarders face mounting demurrage penalties."
+                "headline": "LOGISTICS: AMAZON EXPANDS PRIME AIR DRONES",
+                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "visual_caption": "Amazon is scaling its Prime Air drone network 6x across major metropolitan markets. Retail supply chains are deploying urban micro-fulfillment nodes to support fast delivery models."
             },
             {
                 "slide_index": 5,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
-                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
-                "visual_caption": "The Panama Canal cuts daily Neopanamax transits due to weather constraints. Shippers encounter soaring priority queue fees and rate volatility."
+                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
+                "visual_caption": "The American Transportation Research Institute opened its annual motor carrier challenge survey. Fleet operators use these benchmarks to optimize cost structures and guide advocacy."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
-                "visual_caption": "The American Transportation Research Institute opens its annual motor carrier survey. Fleets provide vital feedback on regulatory and economic pressures."
+                "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
+                "teaserTitle": "US-CANADA TRADE TALKS COLLAPSE",
+                "visual_caption": "Crude oil prices fell 2% to $90.78 as the US prepared new sanctions against Iran. Fleet managers must implement dynamic fuel surcharges to protect operating budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONES",
+                "headline": "GOVERNMENT: US-CANADA TRADE TALKS COLLAPSE",
                 "teaserTitle": "",
-                "visual_caption": "Amazon expands its Prime Air drone delivery network 6x across major US markets. The retail giant scales autonomous fulfillment for last-mile speed."
+                "visual_caption": "Trade negotiations between Washington and Ottawa collapsed over heavy-duty truck policies. North American manufacturers must restructure component sourcing to mitigate severe tariff exposure."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFFS SPARK 50%",
-        "titleBlue": "ESCALATION",
-        "footerSummary": "US-Canada trade talks collapse as President Trump vows 50% automotive and steel tariffs, threatening cross-border supply chains."
+        "titleWhite": "USTR MOVES FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "The USTR advances Section 301 tariffs across 60 trading partners, forcing supply chain directors to reassess global sourcing margins and compliance risk."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: CANADA TARIFFS SPARK 50% ESCALATION",
+            "heading": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Bilateral trade negotiations between the United States and Canada collapsed following disagreements over heavy-duty trucks and cross-border protections. In response, the US administration announced plans to implement a 50% tariff on Canadian automobiles, trucks, auto parts, and steel effective January 1.",
-                "Automotive manufacturers and tier-one suppliers face immense margin pressure as regional supply chains are forced to absorb steep duty spikes. Logistics planners must immediately model alternative component sourcing corridors to mitigate widespread production delays across North America."
+                "The Office of the United States Trade Representative announced the formal implementation of Section 301 tariffs targeting 60 trading nations. This regulatory enforcement action introduces rigorous compliance checkpoints across cross-border material flows.",
+                "Supply chain operators must audit tier-one and tier-two vendor networks immediately to avoid severe customs detentions and unexpected duty liabilities. The financial penalty for non-compliance directly threatens operating margins across global trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "IRAN BLACKLISTS MARITIME VESSELS",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-24T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: IRAN BLACKLISTS MARITIME VESSELS",
+            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
             "paragraphs": [
-                "The Persian Gulf Strait Authority released its inaugural list of non-compliant commercial vessels, threatening vessel operators with steep fines, seizure, and confiscation. The enforcement action follows the expiration of the Hormuz Memorandum of Understanding and rising geopolitical tensions across critical Middle Eastern chokepoints.",
-                "Shipowners and charterers operating in the Strait of Hormuz face severe risk exposure and escalating insurance premiums for regional voyages. Maritime logistics directors must evaluate alternative routing strategies to protect vessel assets and maintain crew safety amid heightened state intervention."
+                "Descartes Systems Group completed a $100M acquisition of freight brokerage technology provider Tai Software to consolidate market share. This strategic buy expands Descartes digital freight management capabilities and integrates multimodal brokerage tools.",
+                "Shippers and brokers utilizing disparate transportation management systems must evaluate how platform consolidation impacts carrier connectivity and workflow automation. Technology investments must align with unified network architectures to sustain competitive execution."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ CANAL RESTORES MAJOR SERVICES",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T14:26:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-24T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: SUEZ CANAL RESTORES MAJOR SERVICES",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
             "paragraphs": [
-                "Major ocean carriers are actively returning ultra-large container vessels to the Red Sea and Suez Canal corridor, marked by a coordinated double transit of Maersk flagships. The Suez Canal Authority has launched special plaque ceremonies to incentivize traffic recovery and rebuild operational reliability through the shortcut.",
-                "Restoring transit through the Suez Canal allows ocean liners to bypass lengthy Cape of Good Hope detours, sharply reducing maritime transit times and bunker fuel consumption. Shippers utilizing the trade lane should anticipate improved schedule integrity as carriers optimize their vessel deployment rotations."
+                "The Panama Canal Authority has officially reduced daily Neopanamax vessel transits due to persistent freshwater constraints and weather pattern pressures. Commercial ocean liners are facing intense competition for dwindling transit slots and escalating priority queue fees.",
+                "Supply chain leaders managing Asia-to-US trade lanes face severe schedule unreliability and rising spot freight rates as maritime capacity tightens. Shippers are aggressively rerouting cargo through West Coast intermodal bridges to bypass Panama pinch points."
             ],
             "imageUrl": "",
-            "nextUpTease": "DURBAN GATEWAY TERMINAL CONGESTION",
+            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONES",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-24T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT OPERATIONS: DURBAN GATEWAY TERMINAL CONGESTION",
+            "heading": "LOGISTICS: AMAZON EXPANDS PRIME AIR DRONES",
             "paragraphs": [
-                "Severe terminal congestion at South Africa's Durban Gateway Container Port has reached crisis levels, prompting urgent appeals from freight forwarding associations. Operational bottlenecks and prolonged vessel waiting times have crippled landside container turnaround and disrupted regional supply distribution.",
-                "Cargo owners and logistics providers face mounting container detention charges and significant delivery delays across southern African supply chains. Shippers must factor port dwell time volatility into inventory buffers and explore alternative regional gateways to bypass terminal gridlock."
+                "Amazon announced a sixfold scaling of its Prime Air drone delivery network across metropolitan markets including Atlanta, Chicago, and Cleveland. The rapid deployment reflects surging consumer demand for sub-hour fulfillment capabilities and advanced last-mile automation.",
+                "Traditional parcel carriers and regional logistics providers must accelerate capital allocation toward automated delivery infrastructure to retain market share. Retail supply chains are decentralizing inventory into urban micro-fulfillment nodes to support aerial logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
+            "nextUpTease": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-24T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+            "heading": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
             "paragraphs": [
-                "The Panama Canal Authority is moving forward with reductions in daily Neopanamax vessel transits due to ongoing El Ni\u00f1o weather pattern pressures and water level management. The capacity restriction forces commercial shippers to compete for fewer available transit windows or pay multimillion-dollar priority queue fees.",
-                "Supply chain directors managing Asia-to-US East Coast lanes face heightened freight rate volatility and schedule unpredictability as canal capacity shrinks. Forward-thinking logistics networks are diversifying intermodal routing options through West Coast ports and rail bridges to bypass maritime pinch points."
+                "The American Transportation Research Institute has opened its annual industry survey to capture operational data and rank top motor carrier challenges. The nationwide initiative aggregates executive feedback on regulatory bottlenecks, infrastructure costs, and driver retention.",
+                "Fleet operators leverage ATRI benchmark intelligence to optimize internal cost structures and guide advocacy on federal highway safety mandates. Monitoring these operational metrics is vital for motor carriers navigating shifting labor markets and compliance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+            "nextUpTease": "OIL PRICES DECLINE ON IRAN SANCTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-24T12:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+            "heading": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
             "paragraphs": [
-                "The American Transportation Research Institute has officially opened its annual industry survey to capture operational data and rank top challenges facing motor carriers. The nationwide polling aggregates driver and executive feedback regarding critical regulatory hurdles, infrastructure costs, and driver retention.",
-                "Fleet operators leverage ATRI benchmark intelligence to optimize internal cost structures and guide industry advocacy on federal highway safety policies. Monitoring these operational metrics remains vital for motor carriers navigating shifting labor markets and regulatory compliance burdens."
+                "Global crude benchmarks dipped 2% to $90.78 per barrel as the United States prepared an aggressive anti-Iran global sanctions package. Energy markets responded to anticipated supply realignment and diplomatic measures designed to restrict regional petroleum exports.",
+                "Fluctuating bunker and diesel fuel expenses directly impact operating margins for over-the-road fleets and ocean carriers alike. Logistics directors must implement dynamic fuel surcharge mechanisms to protect transport budgets against sudden commodity swings."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONES",
+            "nextUpTease": "US-CANADA TRADE TALKS COLLAPSE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Published: 2026-08-24T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONES",
+            "heading": "GOVERNMENT: US-CANADA TRADE TALKS COLLAPSE",
             "paragraphs": [
-                "Amazon announced an aggressive sixfold expansion of its Prime Air drone delivery network, deploying autonomous fulfillment operations across major metropolitan markets including Atlanta, Chicago, and Cleveland. The rapid scaling reflects heightened retail demand for sub-hour fulfillment capabilities and advanced last-mile automation.",
-                "Traditional parcel carriers and regional logistics providers must accelerate technology investments in automated delivery infrastructure to remain competitive in express fulfillment. Retail supply chains are shifting toward decentralized urban micro-fulfillment nodes to support high-frequency drone and ground delivery models."
+                "Bilateral trade negotiations between Washington and Ottawa collapsed over heavy-duty truck protections, triggering a proposed 50% tariff on Canadian automotive goods. Canadian leadership announced preparations for a protracted trade dispute and domestic business support packages.",
+                "North American supply chains face severe friction and cross-border delivery delays as manufacturers scramble to restructure component sourcing corridors. Logistics planners must model alternative regional logistics networks to mitigate tariff exposure."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-24T14:00:00Z",
                 "Status: Audited & True"
             ]
         }

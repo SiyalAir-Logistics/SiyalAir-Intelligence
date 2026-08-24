@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA TARIFFS SPARK FIFTY PERCENT ESCALATION",
+        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS SPARK 50% ESCALATION",
-                "teaserTitle": "IRAN BLACKLISTS MARITIME VESSELS",
+                "headline": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States and Canada trade talks collapsed after disputes over heavy duty trucks. The administration plans to implement a fifty percent tariff on Canadian autos and steel starting January first."
+                "narration_line": "The United States Trade Representative is advancing Section three zero one tariffs across sixty trading partners. This regulatory move forces supply chain leaders to audit global sourcing networks immediately."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAN BLACKLISTS MARITIME VESSELS",
-                "teaserTitle": "SUEZ CANAL RESTORES MAJOR SERVICES",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran issued its first blacklist of non-compliant commercial vessels in the Persian Gulf. Authorities threatened shipowners with severe fines and vessel confiscation following the expiration of regional accords."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to consolidate freight brokerage technology. Shippers must evaluate platform connectivity to sustain competitive execution."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: SUEZ CANAL RESTORES MAJOR SERVICES",
-                "teaserTitle": "DURBAN GATEWAY TERMINAL CONGESTION",
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Major container lines are successfully returning ultra-large vessels to the Red Sea corridor. The Suez Canal Authority hosted special ceremonies to incentivize traffic recovery and reduce transit times."
+                "narration_line": "The Panama Canal Authority reduced daily vessel transits due to ongoing water level constraints. Logistics networks are rerouting cargo through West Coast ports to bypass pinch points."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT OPERATIONS: DURBAN GATEWAY TERMINAL CONGESTION",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
+                "headline": "LOGISTICS: AMAZON EXPANDS PRIME AIR DRONES",
+                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Extreme terminal congestion at South Africa is crippling landside container turnaround times. Freight forwarders report severe vessel waiting delays that threaten regional supply chains."
+                "narration_line": "Amazon is scaling its Prime Air drone network sixfold across major metropolitan markets. Retail supply chains are deploying urban micro-fulfillment nodes to support fast delivery models."
             },
             {
                 "slide_index": 5,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
-                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Panama Canal is reducing daily Neopanamax transits due to persistent weather constraints. Shippers face soaring priority fees and increased freight rate volatility across global routes."
+                "narration_line": "The American Transportation Research Institute opened its annual motor carrier challenge survey. Fleet operators use these benchmarks to optimize cost structures and guide advocacy."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
+                "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
+                "teaserTitle": "US-CANADA TRADE TALKS COLLAPSE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The American Transportation Research Institute opened its annual trucking industry survey. Motor carriers are polled on critical regulatory hurdles, operating costs, and workforce retention challenges."
+                "narration_line": "Crude oil prices fell two percent as the United States prepared new sanctions against Iran. Fleet managers must implement dynamic fuel surcharges to protect operating budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONES",
+                "headline": "GOVERNMENT: US-CANADA TRADE TALKS COLLAPSE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major US markets. The retail giant is scaling autonomous last-mile fulfillment to meet growing consumer demand."
+                "narration_line": "Trade negotiations between Washington and Ottawa collapsed over heavy-duty truck policies. North American manufacturers must restructure component sourcing to mitigate severe tariff exposure."
             },
             {
                 "slide_index": 8,
