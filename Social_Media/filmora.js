@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M USD",
-                "teaserTitle": "DESCARTES BUYS TAI FOR 100M USD",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue next week. Record fees reflect mounting supply chain congestion and routing friction."
+                "headline": "GOVERNMENT: CANADA TARIFFS SPARK 50% ESCALATION",
+                "teaserTitle": "IRAN BLACKLISTS MARITIME VESSELS",
+                "visual_caption": "US-Canada trade talks collapse over heavy-duty trucks. The administration plans a 50% tariff on Canadian autos and steel starting Jan 1."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES BUYS TAI FOR 100M USD",
-                "teaserTitle": "TRUMP VOWS 50% TARIFFS ON CANADA CARS",
-                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M to expand brokerage technology. The buyout integrates advanced cloud tools into global logistics networks."
+                "headline": "MARITIME: IRAN BLACKLISTS MARITIME VESSELS",
+                "teaserTitle": "SUEZ CANAL RESTORES MAJOR SERVICES",
+                "visual_caption": "Iran issues its first blacklist of non-compliant commercial vessels in the Persian Gulf. Authorities threaten shipowners with steep fines and seizure."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: TRUMP VOWS 50% TARIFFS ON CANADA CARS",
-                "teaserTitle": "COURT UPHOLDS FMC DETENTION FEE RULES",
-                "visual_caption": "The U.S. announced plans for a 50% tariff on Canadian autos following failed trade talks. The escalation threatens cross-border supply chains and production schedules."
+                "headline": "LOGISTICS: SUEZ CANAL RESTORES MAJOR SERVICES",
+                "teaserTitle": "DURBAN GATEWAY TERMINAL CONGESTION",
+                "visual_caption": "Major ocean carriers return ultra-large vessels to the Red Sea corridor. The Suez Canal Authority honors carriers to incentivize traffic recovery."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: COURT UPHOLDS FMC DETENTION FEE RULES",
-                "teaserTitle": "KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
-                "visual_caption": "A federal court upheld Federal Maritime Commission rules enforcing strict standards on demurrage billing. Penalty fees must directly incentivize freight fluidity rather than revenue."
+                "headline": "PORT OPERATIONS: DURBAN GATEWAY TERMINAL CONGESTION",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
+                "visual_caption": "Severe terminal congestion at South Africa's Durban port halts landside container operations. Freight forwarders face mounting demurrage penalties."
             },
             {
                 "slide_index": 5,
-                "headline": "LEADERSHIP: KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
-                "teaserTitle": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
-                "visual_caption": "Logistics billionaire Klaus-Michael Kuehne has passed away at 89. He transformed a regional forwarding firm into a global transport empire."
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "teaserTitle": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "visual_caption": "The Panama Canal cuts daily Neopanamax transits due to weather constraints. Shippers encounter soaring priority queue fees and rate volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
-                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
-                "visual_caption": "Carriers are launching emergency surcharges of up to $1,900 due to Amazon basin drought. Low water levels disrupt vital inland barge networks."
+                "headline": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONES",
+                "visual_caption": "The American Transportation Research Institute opens its annual motor carrier survey. Fleets provide vital feedback on regulatory and economic pressures."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONES",
                 "teaserTitle": "",
-                "visual_caption": "The American Transportation Research Institute opened its annual survey on critical motor carrier issues. Findings help industry leaders direct advocacy and operational resources."
+                "visual_caption": "Amazon expands its Prime Air drone delivery network 6x across major US markets. The retail giant scales autonomous fulfillment for last-mile speed."
             },
             {
                 "slide_index": 8,

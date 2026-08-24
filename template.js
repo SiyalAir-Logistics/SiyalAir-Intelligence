@@ -1,50 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE TOPS 4.6M",
-        "titleBlue": "USD",
-        "footerSummary": "Panama Canal queue jump fee surges to 4.6M USD as geopolitical tensions and dry weather squeeze global vessel routing efficiency."
+        "titleWhite": "CANADA TARIFFS SPARK 50%",
+        "titleBlue": "ESCALATION",
+        "footerSummary": "US-Canada trade talks collapse as President Trump vows 50% automotive and steel tariffs, threatening cross-border supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL FEE TOPS 4.6M USD",
+            "heading": "GOVERNMENT: CANADA TARIFFS SPARK 50% ESCALATION",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record 4.6M USD priority fee, according to recent shipping reports. The unprecedented payment shatters prior transit cost records as vessel operators scramble to bypass mounting congestion driven by regional conflicts and draft restrictions.",
-                "Shippers face escalating operational expenses and severe schedule unpredictability as premium transit slots become financial gatekeepers for global supply chains. Logistics directors must factor extreme queue jump costs into lane economics or pivot toward alternative intermodal corridors."
+                "Bilateral trade negotiations between the United States and Canada collapsed following disagreements over heavy-duty trucks and cross-border protections. In response, the US administration announced plans to implement a 50% tariff on Canadian automobiles, trucks, auto parts, and steel effective January 1.",
+                "Automotive manufacturers and tier-one suppliers face immense margin pressure as regional supply chains are forced to absorb steep duty spikes. Logistics planners must immediately model alternative component sourcing corridors to mitigate widespread production delays across North America."
             ],
             "imageUrl": "",
-            "nextUpTease": "DESCARTES BUYS TAI FOR 100M USD",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TECHNOLOGY: DESCARTES BUYS TAI FOR 100M USD",
-            "paragraphs": [
-                "Descartes Systems Group has acquired freight brokerage technology vendor Tai Software for 100M USD to expand its core transportation management capabilities. The strategic buyout integrates advanced cloud-based brokerage tools directly into Descartes' global logistics network to streamline freight execution workflows.",
-                "Freight forwarders and 3PL providers must evaluate their existing software vendor stack to maintain competitive efficiency in a consolidating technology market. Adopting unified TMS platforms remains critical for automating complex load matching and scaling brokerage operations without proportional overhead."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUMP VOWS 50% TARIFFS ON CANADA CARS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-24T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TRADE: TRUMP VOWS 50% TARIFFS ON CANADA CARS",
-            "paragraphs": [
-                "The U.S. administration has announced plans to implement a 50% tariff on Canadian automobiles, trucks, auto parts, and steel following a sudden breakdown in bilateral trade talks. The aggressive trade escalation threatens cross-border automotive supply chains and forces manufacturers to re-evaluate their North American distribution networks.",
-                "Automotive shippers and tier-one suppliers face immense cost pressures and must model alternative component sourcing corridors to mitigate margin erosion. Proactive supply chain restructuring is essential to absorbing prospective duty spikes without crippling regional production schedules."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COURT UPHOLDS FMC DETENTION FEE RULES",
+            "nextUpTease": "IRAN BLACKLISTS MARITIME VESSELS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -52,61 +22,91 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "REGULATION: COURT UPHOLDS FMC DETENTION FEE RULES",
+            "id": 2,
+            "heading": "MARITIME: IRAN BLACKLISTS MARITIME VESSELS",
             "paragraphs": [
-                "The U.S. Court of Appeals for the D.C. Circuit has issued a landmark ruling upholding the Federal Maritime Commission decision enforcing strict standards on demurrage and detention billing. The judicial affirmation mandates that all carrier penalty fees must directly incentivize freight fluidity rather than function as revenue centers.",
-                "Shippers and drayage operators should leverage the legal precedent to contest unjustified terminal access fees and recover historical billing overcharges. Logistics directors must audit carrier invoices closely to capitalize on enhanced federal protection against predatory terminal charges."
+                "The Persian Gulf Strait Authority released its inaugural list of non-compliant commercial vessels, threatening vessel operators with steep fines, seizure, and confiscation. The enforcement action follows the expiration of the Hormuz Memorandum of Understanding and rising geopolitical tensions across critical Middle Eastern chokepoints.",
+                "Shipowners and charterers operating in the Strait of Hormuz face severe risk exposure and escalating insurance premiums for regional voyages. Maritime logistics directors must evaluate alternative routing strategies to protect vessel assets and maintain crew safety amid heightened state intervention."
             ],
             "imageUrl": "",
-            "nextUpTease": "KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
+            "nextUpTease": "SUEZ CANAL RESTORES MAJOR SERVICES",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-24T14:26:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "LOGISTICS: SUEZ CANAL RESTORES MAJOR SERVICES",
+            "paragraphs": [
+                "Major ocean carriers are actively returning ultra-large container vessels to the Red Sea and Suez Canal corridor, marked by a coordinated double transit of Maersk flagships. The Suez Canal Authority has launched special plaque ceremonies to incentivize traffic recovery and rebuild operational reliability through the shortcut.",
+                "Restoring transit through the Suez Canal allows ocean liners to bypass lengthy Cape of Good Hope detours, sharply reducing maritime transit times and bunker fuel consumption. Shippers utilizing the trade lane should anticipate improved schedule integrity as carriers optimize their vessel deployment rotations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DURBAN GATEWAY TERMINAL CONGESTION",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-24T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "PORT OPERATIONS: DURBAN GATEWAY TERMINAL CONGESTION",
+            "paragraphs": [
+                "Severe terminal congestion at South Africa's Durban Gateway Container Port has reached crisis levels, prompting urgent appeals from freight forwarding associations. Operational bottlenecks and prolonged vessel waiting times have crippled landside container turnaround and disrupted regional supply distribution.",
+                "Cargo owners and logistics providers face mounting container detention charges and significant delivery delays across southern African supply chains. Shippers must factor port dwell time volatility into inventory buffers and explore alternative regional gateways to bypass terminal gridlock."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LEADERSHIP: KLAUS-MICHAEL KUEHNE PASSES AWAY AT 89",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
             "paragraphs": [
-                "Klaus-Michael K\u00fchne, the billionaire majority owner of German logistics giant K\u00fchne + Nagel and a key investor in Hapag-Lloyd, has died at the age of 89. K\u00fchne transformed a regional family freight-forwarding firm into a dominant global transport empire over a transformative seven-decade career.",
-                "The passing of a titan marks the end of an era for European freight forwarding, prompting industry stakeholders to monitor potential governance shifts across his major holdings. Long-term strategic stability at K\u00fchne + Nagel and Hapag-Lloyd remains a core focus for institutional partners."
+                "The Panama Canal Authority is moving forward with reductions in daily Neopanamax vessel transits due to ongoing El Ni\u00f1o weather pattern pressures and water level management. The capacity restriction forces commercial shippers to compete for fewer available transit windows or pay multimillion-dollar priority queue fees.",
+                "Supply chain directors managing Asia-to-US East Coast lanes face heightened freight rate volatility and schedule unpredictability as canal capacity shrinks. Forward-thinking logistics networks are diversifying intermodal routing options through West Coast ports and rail bridges to bypass maritime pinch points."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
+            "nextUpTease": "ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS: AMAZON DROUGHT TRIGGERS 1900 USD SURCHARGES",
+            "heading": "TRUCKING: ATRI LAUNCHES ANNUAL TRUCKING SURVEY",
             "paragraphs": [
-                "Ocean carriers are implementing emergency contingency surcharges of up to 1,900 USD per container to maintain connectivity to Manaus as severe drought plagues the Amazon basin. Unprecedented low water levels are disrupting vital inland river barge networks and isolating key industrial manufacturing hubs.",
-                "Supply chain operators managing regional cargo flows must absorb steep supplemental freight charges or restructure delivery routes through alternative regional gateways. Proactive contingency planning is essential to preventing prolonged inventory starvation in remote Amazonian markets."
+                "The American Transportation Research Institute has officially opened its annual industry survey to capture operational data and rank top challenges facing motor carriers. The nationwide polling aggregates driver and executive feedback regarding critical regulatory hurdles, infrastructure costs, and driver retention.",
+                "Fleet operators leverage ATRI benchmark intelligence to optimize internal cost structures and guide industry advocacy on federal highway safety policies. Monitoring these operational metrics remains vital for motor carriers navigating shifting labor markets and regulatory compliance burdens."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
+            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONES",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: ATRI OPENS ANNUAL TRUCKING ISSUES SURVEY",
+            "heading": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONES",
             "paragraphs": [
-                "The American Transportation Research Institute has officially kicked off its annual industry survey to identify and rank the critical operational challenges facing motor carriers. The nationwide polling captures direct feedback from drivers and executives to isolate key regulatory and economic pressures impacting the sector.",
-                "Fleet operators and logistics managers use ATRI benchmark findings to direct advocacy resources and optimize internal operational strategies against prevailing headwinds. Participating in the assessment ensures carrier perspectives shape federal policy and highway safety initiatives."
+                "Amazon announced an aggressive sixfold expansion of its Prime Air drone delivery network, deploying autonomous fulfillment operations across major metropolitan markets including Atlanta, Chicago, and Cleveland. The rapid scaling reflects heightened retail demand for sub-hour fulfillment capabilities and advanced last-mile automation.",
+                "Traditional parcel carriers and regional logistics providers must accelerate technology investments in automated delivery infrastructure to remain competitive in express fulfillment. Retail supply chains are shifting toward decentralized urban micro-fulfillment nodes to support high-frequency drone and ground delivery models."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
