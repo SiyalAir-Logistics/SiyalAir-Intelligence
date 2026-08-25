@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
-                "teaserTitle": "MAERSK SHIPS TRANSIT SUEZ CANAL",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partners. Importers must audit supply chain provenance to avoid severe border penalties."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+                "teaserTitle": "SUEZ CANAL TRANSITS RESUME",
+                "visual_caption": "The Panama Canal Authority is trimming daily vessel transits due to water constraints. Carriers face slot scarcity and rising spot rates across trans-Pacific lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MAERSK SHIPS TRANSIT SUEZ CANAL",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
-                "visual_caption": "Two Maersk container vessels successfully completed a Suez Canal transit. This operational shift helps ocean carriers bypass costly African detours."
+                "headline": "LOGISTICS: SUEZ CANAL TRANSITS RESUME",
+                "teaserTitle": "CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
+                "visual_caption": "Maersk container ships recently completed a coordinated transit through the Suez Canal. The corridor reopening aims to restore maritime efficiency and reduce fuel costs."
             },
             {
                 "slide_index": 3,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "headline": "GOVERNMENT: CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
                 "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "The Panama Canal Authority is trimming daily Neopanamax transits. Shippers face rising slot scarcity and higher spot market premiums."
+                "visual_caption": "Canada awarded a C$11B ($7.9B) contract for Arctic icebreakers. Chantier Davie will build 6 new vessels to replace aging Coast Guard fleet infrastructure."
             },
             {
                 "slide_index": 4,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
-                "visual_caption": "Descartes has acquired Tai Software for $100M. Logistics technology consolidation is accelerating across digital freight brokerage platforms."
+                "teaserTitle": "USPS STOLEN CHECKS CHECK FRAUD",
+                "visual_caption": "Descartes acquired Tai Software for $100M in cash. The acquisition strengthens digital brokerage execution and automated load dispatching capabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
-                "teaserTitle": "JAPAN OPENS SHIPBUILDING SUBSIDY",
-                "visual_caption": "The ATRI opened its annual survey on top industry challenges. Motor carriers rely on these metrics to guide capital and regulatory strategy."
+                "headline": "SECURITY: USPS STOLEN CHECKS CHECK FRAUD",
+                "teaserTitle": "JAPAN ZERO EMISSION SHIP SUBSIDY",
+                "visual_caption": "Federal prosecutors uncovered a scheme where postal carriers stole nearly $24M in checks. Stolen instruments were shipped through commercial carriers nationwide."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: JAPAN OPENS SHIPBUILDING SUBSIDY",
-                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
-                "visual_caption": "Japan launched a $95M subsidy scheme for zero-emission vessels. The initiative accelerates orders for hydrogen and ammonia-powered ships."
+                "headline": "MARITIME: JAPAN ZERO EMISSION SHIP SUBSIDY",
+                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "visual_caption": "Japan opened a \u00a515.1B ($95M) subsidy program for zero-emission ships. The initiative covers up to half the construction costs for alternative fuel vessels."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is scaling its Prime Air drone delivery network 6x across major cities. Retail networks are rapidly integrating autonomous aerial fulfillment."
+                "visual_caption": "ATRI launched its annual national survey on top trucking challenges. Motor carriers are prioritizing regulatory compliance, driver retention, and infrastructure capacity."
             },
             {
                 "slide_index": 8,
