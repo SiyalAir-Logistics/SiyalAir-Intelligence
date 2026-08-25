@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA RETALIATES WITH 50% TARIFFS",
-                "teaserTitle": "CONTAINER PORT CONGESTION SMASHES RECORD",
-                "visual_caption": "Ottawa imposes up to 50% retaliatory tariffs on $20B in US goods. Supply chain leaders must restructure cross-border logistics networks."
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
+                "teaserTitle": "CONTAINER PORT CONGESTION SURPASSES PEAK",
+                "visual_caption": "An empty tanker paid a record $4.6M fee to jump the Panama Canal queue. Severe draft restrictions and regional maritime rerouting have compressed available daily capacity slots."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: CONTAINER PORT CONGESTION SMASHES RECORD",
+                "headline": "PORTS: CONTAINER PORT CONGESTION SURPASSES PEAK",
                 "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
-                "visual_caption": "Global container port congestion has surpassed pandemic highs, removing 4.3M TEU. Shippers must secure buffer stock and diversify gateway entry points."
+                "visual_caption": "Global container port congestion surpassed peak pandemic levels, removing over 4.3M TEU of capacity. Severe regional typhoons have degraded terminal turnaround performance."
             },
             {
                 "slide_index": 3,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
                 "teaserTitle": "GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
-                "visual_caption": "Descartes acquired Tai Software for $100M to expand brokerage automation. Logistics providers must upgrade their digital orchestration tools."
+                "visual_caption": "Descartes Systems Group finalized a $100M acquisition of Tai Software to expand AI brokerage tools. Logistics providers must upgrade digital orchestration platforms to maintain margins."
             },
             {
                 "slide_index": 4,
                 "headline": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
-                "teaserTitle": "TANKER DISABLED NEAR STRAIT OF HORMUZ",
-                "visual_caption": "Gatik AI raised $200M to scale driverless middle-mile logistics networks. Fleet operators must evaluate autonomous transport for cost stability."
+                "teaserTitle": "CANADA MATCHES TARIFFS WITH 50% LEVIES",
+                "visual_caption": "Autonomous trucking pioneer Gatik AI secured $200M to scale its middle-mile delivery network. Fleet operators facing driver shortages must evaluate autonomous vehicle integration."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: TANKER DISABLED NEAR STRAIT OF HORMUZ",
-                "teaserTitle": "US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
-                "visual_caption": "An oil tanker was disabled by a projectile near the Strait of Hormuz. Marine insurers have responded with steep war-risk premium increases."
+                "headline": "GOVERNMENT: CANADA MATCHES TARIFFS WITH 50% LEVIES",
+                "teaserTitle": "USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+                "visual_caption": "Ottawa implemented retaliatory tariffs of up to 50% on $27.6B of imports. North American logistics leaders face immediate margin erosion and compliance friction."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
-                "teaserTitle": "SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
-                "visual_caption": "The US Treasury warned of secondary sanctions targeting Iranian financial enablers. Compliance teams must audit all international counterparty networks."
+                "headline": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+                "teaserTitle": "HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
+                "visual_caption": "The United States Postal Service announced a 6% rate increase for the upcoming peak shipping season. The surcharge takes effect on Oct 4, impacting e-commerce fulfillment operations."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
+                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
                 "teaserTitle": "",
-                "visual_caption": "US summer import volumes reached their highest monthly levels since 2022. Retailers continue front-loading inventory ahead of looming trade disruptions."
+                "visual_caption": "Shipowners navigating the Strait of Hormuz face severe compliance penalties after Iran blacklisted 45 vessels. Maritime operators must execute rigorous risk assessments to avoid regulatory lockouts."
             },
             {
                 "slide_index": 8,

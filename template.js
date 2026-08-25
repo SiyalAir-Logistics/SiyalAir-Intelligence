@@ -1,32 +1,32 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA RETALIATES WITH 50% TARIFFS ON",
-        "titleBlue": "IMPORTS",
-        "footerSummary": "Ottawa imposes up to 50% retaliatory levies on 20B USD in US goods as bilateral trade talks collapse, triggering multi-sector supply chain re-routing."
+        "titleWhite": "PANAMA CANAL FEE TOPS",
+        "titleBlue": "4.6M",
+        "footerSummary": "Panama Canal queue-jump fees surpass 4.6M USD as geopolitical tensions and regional conflicts force carriers to bypass traditional transit chokepoints."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: CANADA RETALIATES WITH 50% TARIFFS",
+            "heading": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
             "paragraphs": [
-                "Ottawa has officially implemented retaliatory tariffs of up to 50% on approximately 20B USD worth of US imports, targeting key sectors including steel, automotive, and manufacturing. The aggressive trade escalation follows the complete breakdown of bilateral negotiations over heavy-duty trucks and cross-border regulatory frameworks.",
-                "Supply chain leaders managing North American lanes face immediate margin erosion and severe compliance friction as cross-border transport costs spike. Shippers must rapidly evaluate near-shoring alternatives and restructure logistics networks to mitigate unexpected duty liabilities."
+                "An empty liquefied petroleum gas tanker has agreed to pay a record 4.6M USD queue-jump fee to bypass transit delays at the Panama Canal. Drought-driven draft restrictions combined with surging regional maritime rerouting have severely compressed available daily capacity slots.",
+                "Shippers utilizing trans-Pacific and interoceanic lanes face escalating voyage surcharges and unpredictable transit windows as priority access fees skyrocket. Logistics planners must model alternative routing economics and secure advance slot allocations to maintain cargo schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER PORT CONGESTION SMASHES RECORD",
+            "nextUpTease": "CONTAINER PORT CONGESTION SURPASSES PEAK",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: CONTAINER PORT CONGESTION SMASHES RECORD",
+            "heading": "PORTS: CONTAINER PORT CONGESTION SURPASSES PEAK",
             "paragraphs": [
-                "Global container port congestion has surged past peak pandemic-era levels, removing over 4.3M TEU of effective capacity from active circulation. Persistent East Asian typhoons and cascading schedule delays across major trade lanes have crippled vessel turnaround times at critical global gateways.",
-                "International freight forwarders face acute equipment shortages, soaring demurrage fees, and compounding schedule unreliability across primary maritime corridors. Cargo owners must secure buffer stock and diversify gateway entry points to protect vulnerable fourth-quarter inventory pipelines."
+                "Global container port congestion has climbed past historical pandemic-era thresholds, removing over 4.3M TEU of effective capacity from active service. Cascading schedule unreliability driven by severe regional typhoons and vessel bunching has severely degraded terminal turnaround performance.",
+                "Ocean freight forwarders face acute equipment shortages, surging demurrage penalties, and compounding schedule disruptions across primary maritime gateways. Cargo owners must establish robust inventory buffers and diversify port entry points to protect vulnerable supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
@@ -40,7 +40,7 @@ const dailyData = {
             "id": 3,
             "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
             "paragraphs": [
-                "The Descartes Systems Group has finalized a 100M USD acquisition of Tai Software to expand its artificial intelligence-powered transportation management software footprint for freight brokers. The strategic transaction consolidates digital brokerage tools designed to automate complex over-the-road freight matching and execution workflows.",
+                "The Descartes Systems Group has finalized a 100M USD acquisition of Tai Software to expand its artificial intelligence-powered transportation management software footprint for freight brokers. The strategic transaction consolidates digital brokerage tools designed to automate complex over-the-road freight matching workflows.",
                 "Logistics providers operating fragmented legacy platforms must upgrade their digital orchestration tools to maintain competitive broker margins and service velocity. Enterprise shippers should audit their 3PL technology stacks to leverage automated capacity sourcing and real-time load optimization."
             ],
             "imageUrl": "",
@@ -55,11 +55,11 @@ const dailyData = {
             "id": 4,
             "heading": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
             "paragraphs": [
-                "Autonomous trucking pioneer Gatik AI has secured 200M USD in its largest funding round to date, earmarked for scaling its driverless middle-mile logistics network across thousands of commercial routes. The capital injection accelerates the deployment of commercial B2B autonomous delivery fleets across dense regional distribution corridors.",
+                "Autonomous trucking pioneer Gatik AI has secured 200M USD in its largest funding round to date, earmarked for scaling its driverless middle-mile logistics network across commercial routes. The capital injection accelerates the deployment of commercial B2B autonomous delivery fleets across dense regional distribution corridors.",
                 "Fleet operators facing persistent driver shortages and rising labor overhead must evaluate autonomous middle-mile integration to secure long-term operating cost stability. Supply chain directors should assess fixed-route warehouse networks for early autonomous vehicle adoption feasibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER DISABLED NEAR STRAIT OF HORMUZ",
+            "nextUpTease": "CANADA MATCHES TARIFFS WITH 50% LEVIES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-25T00:00:00Z",
@@ -68,46 +68,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MARITIME: TANKER DISABLED NEAR STRAIT OF HORMUZ",
+            "heading": "GOVERNMENT: CANADA MATCHES TARIFFS WITH 50% LEVIES",
             "paragraphs": [
-                "An oil tanker suffered severe engine room damage and propulsion loss after being struck by a projectile east of the Musandam Peninsula in the Strait of Hormuz. The incident has intensified safety concerns for commercial shipping navigating vital Middle Eastern energy export chokepoints.",
-                "Maritime insurers have responded with steep war-risk premium adjustments and tighter operational underwriting constraints for vessels transiting the Persian Gulf. Energy importers and crude logistics planners must incorporate substantial risk buffers and alternative routing contingencies into voyage economics."
+                "Ottawa has officially announced retaliatory tariffs of up to 50% on approximately 27.6B USD worth of US imports, targeting key sectors including steel, automotive, and manufacturing. The aggressive trade escalation follows the complete breakdown of bilateral negotiations over heavy-duty trucks and cross-border regulatory frameworks.",
+                "Supply chain leaders managing North American lanes face immediate margin erosion and severe compliance friction as cross-border transport costs spike. Shippers must rapidly evaluate near-shoring alternatives and restructure logistics networks to mitigate unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
+            "nextUpTease": "USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T22:02:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATORY: US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
+            "heading": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
             "paragraphs": [
-                "The US Department of Treasury has issued a formal warning regarding an impending secondary sanctions campaign targeting international financial institutions and maritime intermediaries engaging with Iran. The policy targets five core industrial sectors, threatening severe exclusion from US dollar clearing mechanisms for non-compliant entities.",
-                "Global trade banks, vessel owners, and freight forwarding compliance divisions must execute rigorous counterparty audits to avoid catastrophic operational lockouts. Legal and compliance teams must immediately review all regional trade touchpoints to ensure total adherence to evolving Treasury guidelines."
+                "The United States Postal Service has officially announced a 6% rate increase for the upcoming peak shipping season, applying across Ground Advantage and Priority Mail services. The seasonal surcharge takes effect on October 4, impacting parcel shippers and e-commerce fulfillment operations nationwide.",
+                "High-volume shippers must incorporate these additional surcharges into their holiday pricing models and freight budget forecasts immediately. Distribution networks should evaluate multi-carrier consolidation strategies to mitigate escalating parcel transportation costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
+            "nextUpTease": "HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T19:41:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
+            "heading": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
             "paragraphs": [
-                "US import volumes for the peak summer shipping window have reached their highest monthly levels since 2022 as retailers aggressively front-load inventory ahead of anticipated regulatory hurdles. Importers are rushing goods through major coastal gateways to outpace looming tariff escalations and seasonal supply chain bottlenecks.",
-                "Port terminals and intermodal rail ramps face intensified yard density and chassis constraints as container throughput surges past nominal capacity baselines. Supply chain operators must maintain tight drayage coordination and pre-book inland transport assets to prevent costly demurrage accumulations."
+                "Shipowners navigating the Strait of Hormuz face an intense compliance bind after Iran blacklisted 45 commercial vessels and threatened heavy fines and cargo confiscation. Simultaneously, Washington has issued strict warnings against complying with Iranian transit directives, creating severe legal hazards for international carriers.",
+                "Maritime operators and legal compliance divisions must execute rigorous risk assessments to avoid catastrophic operational lockouts and sanctions violations. Voyage planners and cargo owners must incorporate substantial geopolitical risk buffers into Middle Eastern shipping schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
