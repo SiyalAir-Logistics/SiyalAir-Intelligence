@@ -1,50 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR activates Section 301 duties across 60 trade partners while Suez resumptions and Panama auction spikes reshape global routing margins."
+        "titleWhite": "CANADA RETALIATES WITH 50% TARIFFS ON",
+        "titleBlue": "IMPORTS",
+        "footerSummary": "Ottawa imposes up to 50% retaliatory levies on 20B USD in US goods as bilateral trade talks collapse, triggering multi-sector supply chain re-routing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR SECTION 301 TARIFFS",
+            "heading": "GOVERNMENT: CANADA RETALIATES WITH 50% TARIFFS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has finalized the implementation of forced labor-based tariffs on 60 trading partner nations under Section 301 of the Trade Act of 1974. The enforcement action immediately succeeds the expiration of Section 122 tariffs, introducing mandatory origin audits and expedited cargo inspections across key industrial sectors.",
-                "Importers face increased customs compliance exposure, extended clearance dwell times, and direct tariff liabilities on exposed intermediate goods. Procurement leaders must re-audit Tier-2 and Tier-3 supplier documentation to maintain duty compliance and eliminate catastrophic shipment detentions at US ports of entry."
+                "Ottawa has officially implemented retaliatory tariffs of up to 50% on approximately 20B USD worth of US imports, targeting key sectors including steel, automotive, and manufacturing. The aggressive trade escalation follows the complete breakdown of bilateral negotiations over heavy-duty trucks and cross-border regulatory frameworks.",
+                "Supply chain leaders managing North American lanes face immediate margin erosion and severe compliance friction as cross-border transport costs spike. Shippers must rapidly evaluate near-shoring alternatives and restructure logistics networks to mitigate unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "RECORD 5.3M PANAMA TRANSIT AUCTION",
+            "nextUpTease": "CONTAINER PORT CONGESTION SMASHES RECORD",
             "tags": [
-                "Source: https://logisticsmgmt.com",
-                "Published: 2026-08-25T10:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANAL: RECORD 5.3M TRANSIT AUCTION FEE",
+            "heading": "PORTS: CONTAINER PORT CONGESTION SMASHES RECORD",
             "paragraphs": [
-                "An Asian vessel operator secured a priority transit slot through the Panama Canal by bidding a record $5.3M at auction, surpassing the prior record high of $4.6M. The severe rate premium follows strict transit slot rationing imposed by the Panama Canal Authority due to prolonged reservoir level fluctuations.",
-                "High-value commodity and container shippers face immense financial premiums to bypass regional vessel queues that currently exceed normal wait times. Ocean routing strategists must weigh the cost of multi-million-dollar slot auctions against the prolonged transit times of Cape route diversions."
+                "Global container port congestion has surged past peak pandemic-era levels, removing over 4.3M TEU of effective capacity from active circulation. Persistent East Asian typhoons and cascading schedule delays across major trade lanes have crippled vessel turnaround times at critical global gateways.",
+                "International freight forwarders face acute equipment shortages, soaring demurrage fees, and compounding schedule unreliability across primary maritime corridors. Cargo owners must secure buffer stock and diversify gateway entry points to protect vulnerable fourth-quarter inventory pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "US SECONDARY MARITIME SANCTIONS",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
             "tags": [
-                "Source: https://ttnews.com",
-                "Published: 2026-08-25T11:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SANCTIONS: US SECONDARY MARITIME CRACKDOWN",
+            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
             "paragraphs": [
-                "The US Department of the Treasury issued formal guidance declaring an impending secondary sanctions enforcement regime targeting foreign financial institutions and maritime service providers supporting trade with Iran. The policy expands enforcement across 5 core industrial sectors, strictly barring non-compliant maritime intermediaries from accessing dollar clearing mechanisms.",
-                "Vessel operators, bunkering networks, and maritime insurers must execute exhaustive counterparty audits to prevent involuntary isolation from US financial rails. Global freight forwarders operating near the Persian Gulf face heightened contract termination risks and substantial underwriting premiums."
+                "The Descartes Systems Group has finalized a 100M USD acquisition of Tai Software to expand its artificial intelligence-powered transportation management software footprint for freight brokers. The strategic transaction consolidates digital brokerage tools designed to automate complex over-the-road freight matching and execution workflows.",
+                "Logistics providers operating fragmented legacy platforms must upgrade their digital orchestration tools to maintain competitive broker margins and service velocity. Enterprise shippers should audit their 3PL technology stacks to leverage automated capacity sourcing and real-time load optimization."
             ],
             "imageUrl": "",
-            "nextUpTease": "MSC RESTORES SUEZ CANAL TRANSITS",
+            "nextUpTease": "GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+            "paragraphs": [
+                "Autonomous trucking pioneer Gatik AI has secured 200M USD in its largest funding round to date, earmarked for scaling its driverless middle-mile logistics network across thousands of commercial routes. The capital injection accelerates the deployment of commercial B2B autonomous delivery fleets across dense regional distribution corridors.",
+                "Fleet operators facing persistent driver shortages and rising labor overhead must evaluate autonomous middle-mile integration to secure long-term operating cost stability. Supply chain directors should assess fixed-route warehouse networks for early autonomous vehicle adoption feasibility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TANKER DISABLED NEAR STRAIT OF HORMUZ",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MARITIME: TANKER DISABLED NEAR STRAIT OF HORMUZ",
+            "paragraphs": [
+                "An oil tanker suffered severe engine room damage and propulsion loss after being struck by a projectile east of the Musandam Peninsula in the Strait of Hormuz. The incident has intensified safety concerns for commercial shipping navigating vital Middle Eastern energy export chokepoints.",
+                "Maritime insurers have responded with steep war-risk premium adjustments and tighter operational underwriting constraints for vessels transiting the Persian Gulf. Energy importers and crude logistics planners must incorporate substantial risk buffers and alternative routing contingencies into voyage economics."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-24T22:02:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "REGULATORY: US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
+            "paragraphs": [
+                "The US Department of Treasury has issued a formal warning regarding an impending secondary sanctions campaign targeting international financial institutions and maritime intermediaries engaging with Iran. The policy targets five core industrial sectors, threatening severe exclusion from US dollar clearing mechanisms for non-compliant entities.",
+                "Global trade banks, vessel owners, and freight forwarding compliance divisions must execute rigorous counterparty audits to avoid catastrophic operational lockouts. Legal and compliance teams must immediately review all regional trade touchpoints to ensure total adherence to evolving Treasury guidelines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-24T19:41:00Z",
@@ -52,62 +97,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "OCEAN: MSC RESTORES SUEZ CANAL TRANSITS",
-            "paragraphs": [
-                "Mediterranean Shipping Company has initiated the phased restoration of selected East-West liner services through the Suez Canal, joining major carriers in resuming Red Sea passage. The strategic redeployment follows comprehensive security reviews and aims to recover transit speed between Asian manufacturing origins and Mediterranean hubs.",
-                "Liner capacity adjustments along the corridor are projected to compress transit schedules by 10 to 14 days compared to round-Africa routing. Shippers must evaluate carrier schedule stability against residual war-risk surcharges to optimize fourth-quarter inventory replenishment cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD SPOT RATES SURGE 32.4%",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-25T08:15:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRUCKLOAD: SPOT RATES SURGE 32.4%",
-            "paragraphs": [
-                "The latest RXO Curve freight index reported a 32.4% annual surge in US truckload spot rates, marking the sharpest sequential tightening observed in the domestic freight market since 2021. Accelerating capacity attrition and seasonal volume spikes have sharply reduced excess carrier availability across primary over-the-road corridors.",
-                "Shippers operating on volatile spot market arrangements face rapid freight budget erosion and declining tender acceptance rates. Logistics directors must rapidly convert transactional freight volume into dedicated contract capacity to secure baseline equipment commitments into the peak shipping season."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DURBAN TERMINAL DELAYS HIT 20 DAYS",
-            "tags": [
-                "Source: https://logisticsmgmt.com",
-                "Published: 2026-08-25T09:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "PORTS: DURBAN TERMINAL DELAYS HIT 20 DAYS",
-            "paragraphs": [
-                "Ocean carriers have issued operational advisories warning that vessel dwell times at South Africa's Durban Gateway Terminal have escalated up to 20 days due to severe equipment breakdowns and yard congestion. The critical maritime bottleneck has halted container flow across primary sub-Saharan distribution lanes.",
-                "International freight forwarders and cargo owners face steep vessel detention charges, missed intermodal connections, and escalating holding inventory costs. Logistics operators must consider alternate regional transshipment ports or air cargo conversions for critical time-sensitive shipments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS DROPS SELECT RATES ON EBAY",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-25T07:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "PARCEL: USPS DROPS SELECT RATES ON EBAY",
+            "heading": "PORTS: SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
             "paragraphs": [
-                "The United States Postal Service announced selective parcel rate reductions for commercial marketplace merchants on eBay, while explicitly excluding deliveries directed to rural ZIP codes. The policy adjustment follows recent broad-scale Ground Advantage rate hikes, creating a fragmented domestic pricing framework.",
-                "High-volume e-commerce fulfillment operators face regional margin variances, requiring dynamic order routing to prevent unrecovered shipping surcharges. Enterprise merchants must recalibrate carrier mix algorithms between national parcel integrators and regional couriers based on destination density."
+                "US import volumes for the peak summer shipping window have reached their highest monthly levels since 2022 as retailers aggressively front-load inventory ahead of anticipated regulatory hurdles. Importers are rushing goods through major coastal gateways to outpace looming tariff escalations and seasonal supply chain bottlenecks.",
+                "Port terminals and intermodal rail ramps face intensified yard density and chassis constraints as container throughput surges past nominal capacity baselines. Supply chain operators must maintain tight drayage coordination and pre-book inland transport assets to prevent costly demurrage accumulations."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://ecommercebytes.com",
-                "Published: 2026-08-25T06:30:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

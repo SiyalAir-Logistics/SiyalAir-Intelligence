@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR SECTION 301 TARIFFS ON 60 NATIONS",
+        "hookTitle": "CANADA RETALIATES WITH FIFTY PERCENT TARIFFS ON IMPORTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR SECTION 301 TARIFFS",
-                "teaserTitle": "RECORD 5.3M PANAMA TRANSIT AUCTION",
+                "headline": "GOVERNMENT: CANADA RETALIATES WITH 50% TARIFFS",
+                "teaserTitle": "CONTAINER PORT CONGESTION SMASHES RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has enacted Section three oh one tariffs on sixty trading partner nations targeting forced labor risks. Importers face immediate origin audits and elevated compliance liabilities across cross-border freight corridors."
+                "narration_line": "Ottawa has placed up to fifty percent retaliatory tariffs on twenty billion dollars of US goods. Supply chain leaders must quickly restructure cross border logistics networks."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL: RECORD 5.3M TRANSIT AUCTION FEE",
-                "teaserTitle": "US SECONDARY MARITIME SANCTIONS",
+                "headline": "PORTS: CONTAINER PORT CONGESTION SMASHES RECORD",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian ocean operator paid a record five point three million dollars at auction for priority Panama Canal transit. Tight slot rationing continues to force massive premiums for cargo avoiding lengthy detour routes."
+                "narration_line": "Global container port congestion has surpassed pandemic era levels by removing over four million twenty foot equivalent units. Shippers must secure buffer stock and diversify gateway entry points."
             },
             {
                 "slide_index": 3,
-                "headline": "SANCTIONS: US SECONDARY MARITIME CRACKDOWN",
-                "teaserTitle": "MSC RESTORES SUEZ CANAL TRANSITS",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+                "teaserTitle": "GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States Treasury issued formal notice of secondary sanctions targeting financial and maritime networks aiding Iranian commerce. Global carriers and bunkering providers face severe penalties and potential exclusion from dollar clearing systems."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to expand freight brokerage automation. Logistics providers must upgrade their digital orchestration tools."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN: MSC RESTORES SUEZ CANAL TRANSITS",
-                "teaserTitle": "TRUCKLOAD SPOT RATES SURGE 32.4%",
+                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+                "teaserTitle": "TANKER DISABLED NEAR STRAIT OF HORMUZ",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mediterranean Shipping Company has resumed Suez Canal sailings across selected east-west trade lanes after extensive security audits. This route restoration shortens key maritime transit times by up to two full weeks."
+                "narration_line": "Autonomous trucker Gatik AI raised two hundred million dollars to scale driverless middle mile logistics. Fleet operators must evaluate autonomous transport to ensure cost stability."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKLOAD: SPOT RATES SURGE 32.4%",
-                "teaserTitle": "DURBAN TERMINAL DELAYS HIT 20 DAYS",
+                "headline": "MARITIME: TANKER DISABLED NEAR STRAIT OF HORMUZ",
+                "teaserTitle": "US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States truckload spot rates surged thirty-two point four percent annually as carrier capacity contracted across national freight lanes. Shippers are rapidly locking in dedicated contracts to avoid escalating spot market volatility."
+                "narration_line": "An oil tanker was disabled by a projectile strike near the Strait of Hormuz in the Middle East. Maritime insurers responded with steep war risk premium increases."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: DURBAN TERMINAL DELAYS HIT 20 DAYS",
-                "teaserTitle": "USPS DROPS SELECT RATES ON EBAY",
+                "headline": "REGULATORY: US TREASURY SIGNALS NEW IRANIAN SANCTIONS",
+                "teaserTitle": "SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean carriers reported container dwell times of up to twenty days at South Africa's Durban Gateway Terminal due to severe yard bottlenecks. Cargo owners face mounting demurrage expenses and critical supply chain delays."
+                "narration_line": "The US Treasury warned of strict secondary sanctions targeting financial enablers working with Iran. Compliance teams must audit counterparty networks immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: USPS DROPS SELECT RATES ON EBAY",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "PORTS: SUMMER MONTHLY IMPORTS HIT 2022 HIGH",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Postal Service rolled out selective commercial rate discounts while explicitly excluding deliveries destined for rural postal codes. E-commerce logistics managers must rebalance regional carrier distribution networks to protect fulfillment margins."
+                "narration_line": "US summer import volumes reached their highest monthly levels since twenty twenty two. Retailers continue front loading inventory ahead of looming trade disruptions."
             },
             {
                 "slide_index": 8,
