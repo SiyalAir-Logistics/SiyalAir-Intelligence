@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "An empty tanker secured priority canal transit after paying a record $4.6M fee. This highlights severe capacity constraints and rising routing costs."
+                "headline": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA",
+                "teaserTitle": "SUEZ CANAL SUEZ TRANSITS",
+                "visual_caption": "President Trump announced 50% tariffs on Canadian auto imports following trade talks collapse. Supply chain executives face severe margin pressure and must reevaluate procurement footprints."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "SUMMER IMPORTS TO HIT 2022 PEAK",
-                "visual_caption": "Descartes acquired Tai Software for $100M in cash. The deal expands enterprise transport management and automated brokerage workflows."
+                "headline": "MARITIME: SUEZ CANAL SUEZ TRANSITS",
+                "teaserTitle": "PORTS DURBAN BOX CONGESTION",
+                "visual_caption": "Mediterranean Shipping Company is restoring regular Suez transits to bypass African capes. Logistics planners anticipate improved transit velocity across key trade lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: SUMMER IMPORTS TO HIT 2022 PEAK",
-                "teaserTitle": "DIANA SHIPPING SECURES CARGILL FIXTURE",
-                "visual_caption": "U.S. inbound container volumes are projected to reach their highest monthly levels since 2022. Retailers are accelerating inventory replenishment ahead of peak shipping cycles."
+                "headline": "PORTS: DURBAN BOX CONGESTION",
+                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE CLASH",
+                "visual_caption": "Severe gridlock at South African terminal Durban has pushed waiting times to 10 days. Shippers should deploy agile inventory buffers to avoid prolonged delays."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: DIANA SHIPPING SECURES CARGILL FIXTURE",
-                "teaserTitle": "DURBAN TERMINAL CONGESTION WORSENS",
-                "visual_caption": "Diana Shipping secured a 41% rate increase for the panamax Leto with Cargill. The vessel was fixed at $18,000 daily."
+                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
+                "teaserTitle": "OBITUARIES KLAUS MICHAEL KUEHNE",
+                "visual_caption": "Vessel operators in the Strait of Hormuz face blacklists and conflicting Washington warnings. Compliance teams must establish real-time tracking frameworks immediately."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: DURBAN TERMINAL CONGESTION WORSENS",
-                "teaserTitle": "CANADA DOUBLES DOWN ON ICEBREAKERS",
-                "visual_caption": "Severe congestion at the Durban Gateway Terminal has pushed vessel waiting times to 20 days. Carriers are warning clients of extensive trade lane disruptions."
+                "headline": "OBITUARIES: KLAUS MICHAEL KUEHNE",
+                "teaserTitle": "AIR CARGO DEMAND DIPS",
+                "visual_caption": "Global logistics tycoon Klaus-Michael Kuehne has passed away at age 89. Industry observers will monitor corporate stewardship continuity across his major holdings."
             },
             {
                 "slide_index": 6,
-                "headline": "GOVERNMENT: CANADA DOUBLES DOWN ON ICEBREAKERS",
-                "teaserTitle": "UPS INVESTS 2B IN GLOBAL NETWORK",
-                "visual_caption": "Canada awarded an $8.2B contract for 6 new Arctic icebreakers. The historic shipbuilding project aims to support northern navigation."
+                "headline": "AIR CARGO: AIR CARGO DEMAND DIPS",
+                "teaserTitle": "REGULATORY FORCED LABOR TARIFFS",
+                "visual_caption": "Airfreight volumes are softening for late summer while aerospace shipments face component bottlenecks. Freight forwarders must manage capacity allocations carefully."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK",
+                "headline": "REGULATORY: FORCED LABOR TARIFFS",
                 "teaserTitle": "",
-                "visual_caption": "UPS invested $2B to expand international parcel network air hubs. Projects include new facilities in the Philippines and Hong Kong."
+                "visual_caption": "The USTR is advancing forced labor tariffs targeting 60 trading partners under Section 301. Importers must perform rigorous vendor audits to prevent border detentions."
             },
             {
                 "slide_index": 8,

@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fees reach $4.6M as regional supply chain bottlenecks and transit restrictions drive vessel rerouting across global trade lanes."
+        "titleWhite": "TRUMP VOWS 50% TARIFFS ON CANADA",
+        "titleBlue": "CARS",
+        "footerSummary": "Trump vows 50% tariffs on Canada cars, trucks, and auto parts as trade talks collapse, forcing shippers to seek alternative markets."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
+            "heading": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured priority transit through the Panama Canal after paying a record-breaking $4.6M queue-jump fee. This unprecedented surcharge highlights intensifying capacity constraints as ongoing water resource management and draft restrictions squeeze intermodal pathways.",
-                "Logistics planners face escalating operational costs and heightened transit uncertainty when routing cargo between Asian manufacturing centers and U.S. East Coast ports. Shippers must evaluate transpacific alternatives and rail land-bridge options to protect delivery timelines from severe margin compression."
+                "President Donald Trump has announced aggressive 50% tariffs on Canadian cars, trucks, auto parts, and steel, effective Jan. 1. The sweeping duties follow the breakdown of high-stakes trade negotiations centered on heavy-duty truck policies and retaliatory threats.",
+                "Supply chain executives managing cross-border automotive flows face immediate margin pressure and severe regulatory friction. Shippers must rapidly re-evaluate procurement footprints and explore alternative North American manufacturing corridors to mitigate mounting cost exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
+            "nextUpTease": "SUEZ CANAL SUEZ TRANSITS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+            "heading": "MARITIME: SUEZ CANAL SUEZ TRANSITS",
             "paragraphs": [
-                "Global supply chain execution software leader Descartes has completed a $100M cash acquisition of freight brokerage technology provider Tai Software. This strategic consolidation aims to expand enterprise transport management capabilities and automate complex carrier brokerage workflows.",
-                "Freight brokers and 3PL providers face mounting pressure to upgrade core technology architectures as market consolidation accelerates digital adoption. Industry stakeholders must assess software interoperability to ensure seamless freight execution and maintain competitive client service levels."
+                "Mediterranean Shipping Company is actively restoring regular Suez Canal transits for selected east-west services, joining early operational risk assessments. This strategic routing shift aims to bypass congested southern African capes and reduce transit days for global ocean carriers.",
+                "Logistics planners can anticipate more reliable scheduling and improved transit velocity across key Asia-Europe trade lanes. Stakeholders must weigh fuel cost savings against ongoing regional security premiums when updating vessel routing protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUMMER IMPORTS TO HIT 2022 PEAK",
+            "nextUpTease": "PORTS DURBAN BOX CONGESTION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: SUMMER IMPORTS TO HIT 2022 PEAK",
+            "heading": "PORTS: DURBAN BOX CONGESTION",
             "paragraphs": [
-                "U.S. inbound container volumes are projected to reach their highest monthly levels since the 2022 surge as retailers accelerate inventory replenishment ahead of peak shipping cycles. This unexpected volume spike is testing port terminal throughput and drayage capacity across major gateway hubs.",
-                "Supply chain leaders must prepare for localized yard congestion and potential equipment imbalances as seasonal inventory flows intensify. Proactive drayage planning and enhanced shipment visibility are critical to preventing costly demurrage charges and dwell time delays."
+                "Severe operational gridlock at South Africa's Durban Gateway Terminal has escalated container waiting times to 10 days, prompting urgent industry appeals. Regional freight forwarding associations warn that crippled terminal throughput is destabilizing southern African supply chains.",
+                "Supply chain managers must factor in compounding vessel holding costs and schedule unreliability when moving cargo through the region. Shippers should deploy agile inventory safety buffers and reroute time-sensitive consignments to avoid prolonged delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "DIANA SHIPPING SECURES CARGILL FIXTURE",
+            "nextUpTease": "REGULATORY HORMUZ COMPLIANCE CLASH",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: DIANA SHIPPING SECURES CARGILL FIXTURE",
+            "heading": "REGULATORY: HORMUZ COMPLIANCE CLASH",
             "paragraphs": [
-                "New York-listed Greek bulker owner Diana Shipping successfully fixed the panamax vessel Leto in a direct charter continuation with commodities giant Cargill at a 41% rate increase. The 2010-built dry bulk carrier secured a lucrative daily rate of $18,000 amid tightening global tonnage availability.",
-                "Vessel operators and charterers are navigating a strengthening dry cargo market characterized by rising spot rates and firming charter durations. Procurement teams must lock in long-term capacity agreements early to hedge against anticipated maritime freight inflation."
+                "Vessel operators navigating the Strait of Hormuz are trapped in an intense compliance bind after Iran blacklisted 45 ships and threatened cargo confiscation. Washington simultaneously warned ocean carriers against complying with Tehran's transit demands, escalating geopolitical friction in the corridor.",
+                "Compliance officers and maritime legal teams face complex risk evaluations as contradictory regulatory mandates threaten fleet safety and asset security. Operators must establish real-time tracking frameworks to safeguard crews and maintain insurance validity."
             ],
             "imageUrl": "",
-            "nextUpTease": "DURBAN TERMINAL CONGESTION WORSENS",
+            "nextUpTease": "OBITUARIES KLAUS MICHAEL KUEHNE",
             "tags": [
-                "Source: https://splash247.com/diana-rolls-panamax-bulker-into-stronger-cargill-fixture/",
+                "Source: https://splash247.com",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORTS: DURBAN TERMINAL CONGESTION WORSENS",
+            "heading": "OBITUARIES: KLAUS MICHAEL KUEHNE",
             "paragraphs": [
-                "Severe operational bottlenecks at South Africa's Durban Gateway Terminal have escalated vessel waiting times to 20 days, triggering urgent appeals from regional freight forwarding associations. Carriers are warning clients of extensive disruptions across key African maritime trade corridors.",
-                "Supply chain managers utilizing southern African routes face compounding schedule delays and substantial vessel holding costs. Shippers must rapidly adjust inventory safety stocks and reroute time-sensitive consignments to bypass crippled terminal infrastructure."
+                "Legendary global logistics and shipping tycoon Klaus-Michael Kuehne has passed away at the age of 89. As the majority owner of Kuehne + Nagel and a pivotal investor in Hapag-Lloyd, his leadership shaped modern freight forwarding over seven decades.",
+                "The passing of a central pillar in global container shipping marks the end of an era for enterprise logistics governance. Industry observers will monitor corporate stewardship continuity and strategic investment directions across his major logistics holdings."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA DOUBLES DOWN ON ICEBREAKERS",
+            "nextUpTease": "AIR CARGO DEMAND DIPS",
             "tags": [
-                "Source: https://theloadstar.com/carriers-warn-of-20-day-delays-as-congestion-crisis-at-durban-worsens/",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOVERNMENT: CANADA DOUBLES DOWN ON ICEBREAKERS",
+            "heading": "AIR CARGO: AIR CARGO DEMAND DIPS",
             "paragraphs": [
-                "The Canadian government has awarded an $8.2B shipbuilding contract to Chantier Davie in Quebec to construct 6 large Arctic icebreakers for the Coast Guard fleet. This historic maritime investment aims to bolster national sovereignty and support growing commercial navigation in northern trade routes.",
-                "Domestic industrial suppliers and marine engineering firms stand to benefit from multi-year shipbuilding commitments amidst broader North American trade tensions. Long-term capacity planning will be vital for component manufacturers supporting heavy government procurement initiatives."
+                "Global airfreight volumes are softening as the market enters its traditional end-of-summer lull, though spot rates maintain unexpected operational resilience. Aerospace shipments specifically are encountering a severe supply chain capacity crunch driven by specialized component bottlenecks.",
+                "Freight forwarders must adjust capacity allocations and manage carrier relationships carefully ahead of the upcoming peak season surge. Shippers should lock in forward contracts early to secure valuable uplift and protect against seasonal rate volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "UPS INVESTS 2B IN GLOBAL NETWORK",
+            "nextUpTease": "REGULATORY FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://maritime-executive.com/article/canada-awards-quebec-s-largest-shipbuilding-project-for-arctic-icebreakers",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK",
+            "heading": "REGULATORY: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "UPS has committed $2B to expand its international parcel network, directing significant capital toward advanced air hubs at Clark Airport in the Philippines and Hong Kong International Airport. This infrastructure investment targets rapid growth in transpacific e-commerce and express freight demand.",
-                "Logistics providers must continually upgrade regional sorting and air cargo facilities to maintain competitive transit speeds in high-density trade lanes. Enterprise shippers should evaluate carrier network investments when optimizing multi-node parcel distribution strategies."
+                "The Office of the United States Trade Representative is advancing new forced labor-based tariffs targeting 60 trading partners under Section 301. This aggressive enforcement action coincides with the expiration of older trade provisions, significantly tightening import scrutiny.",
+                "Compliance executives must perform rigorous supply chain mapping and tier-one to tier-three vendor audits to prevent costly border detentions. Importers failing to secure end-to-end traceability risk severe financial penalties and extensive shipment delays."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
