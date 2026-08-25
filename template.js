@@ -3,7 +3,7 @@ const dailyData = {
         "kicker": "",
         "titleWhite": "TRUMP VOWS CANADA AUTO",
         "titleBlue": "TARIFFS",
-        "footerSummary": "U.S. trade talks collapse as a proposed 50% tariff on Canadian automotive imports threatens immediate cross-border supply chain disruption."
+        "footerSummary": "Trade talks collapse as a proposed 50% tariff on Canadian automotive imports threatens immediate cross-border supply chain disruption."
     },
     "slides": [
         {
@@ -25,7 +25,7 @@ const dailyData = {
             "id": 2,
             "heading": "GOVERNMENT: CANADA EXPECTS LONG TRADE WAR",
             "paragraphs": [
-                "Canadian Prime Minister Mark Carney stated that the nation is prepared for an extended trade conflict following the breakdown of bilateral negotiations with Washington. Ottawa is designing comprehensive domestic aid packages to support businesses impacted by the impending U.S. tariff hikes.",
+                "Canadian leader Mark Carney stated that the nation is prepared for an extended trade conflict following the breakdown of bilateral negotiations with Washington. Ottawa is designing comprehensive domestic aid packages to support businesses impacted by the impending U.S. tariff hikes.",
                 "Carriers and shippers operating across northern corridors must prepare for persistent regulatory friction and retaliatory border measures throughout the president's term. Long-term freight network planning requires building multi-region redundancies to mitigate trade exposure."
             ],
             "imageUrl": "",
@@ -59,7 +59,7 @@ const dailyData = {
                 "Fluctuating bunker and diesel fuel expenses directly impact operating margins for over-the-road fleets and ocean carriers alike. Logistics directors must implement dynamic fuel surcharge mechanisms to protect transport budgets against sudden commodity volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATRI OPENS ANNUAL TRUCKING SURVEY",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -68,15 +68,15 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "BUSINESS: ATRI OPENS ANNUAL TRUCKING SURVEY",
+            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
             "paragraphs": [
-                "The American Transportation Research Institute officially launched its annual industry survey to capture operational data and rank top motor carrier challenges. The nationwide initiative aggregates executive feedback on regulatory bottlenecks, infrastructure costs, and driver retention.",
-                "Fleet operators leverage ATRI benchmark intelligence to optimize internal cost structures and guide advocacy on federal highway safety mandates. Monitoring these operational metrics is vital for motor carriers navigating shifting labor markets and compliance costs."
+                "Acquisition-hungry logistics technology provider Descartes completed its fourth major purchase of the year by acquiring freight brokerage technology vendor Tai Software for $100 million. The strategic consolidation integrates advanced transportation management systems to streamline brokerage operations.",
+                "Brokerage platforms and third-party logistics providers face increasing market consolidation as leading software vendors expand end-to-end capabilities. Stakeholders must evaluate technological interoperability to maintain competitive efficiency in digital freight execution."
             ],
             "imageUrl": "",
             "nextUpTease": "CANADA AWARDS QUEBEC SHIPBUILDING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]

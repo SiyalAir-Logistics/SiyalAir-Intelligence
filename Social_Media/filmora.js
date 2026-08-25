@@ -6,43 +6,43 @@ module.exports = {
                 "slide_index": 1,
                 "headline": "GOVERNMENT: TRUMP VOWS CANADA AUTO TARIFFS",
                 "teaserTitle": "CANADA EXPECTS LONG TRADE WAR",
-                "visual_caption": "Bilateral trade talks collapsed over truck disputes. A proposed 50% tariff on Canada auto imports takes effect Jan. 1."
+                "visual_caption": "Bilateral trade talks collapsed as Washington proposed a 50% tariff on Canadian automotive imports. Supply chains face immediate border friction and severe duty liabilities."
             },
             {
                 "slide_index": 2,
                 "headline": "GOVERNMENT: CANADA EXPECTS LONG TRADE WAR",
                 "teaserTitle": "PANAMA CANAL TO TRIM DAILY SLOTS",
-                "visual_caption": "Canada prepares for an extended trade conflict with the U.S. Ottawa is designing domestic aid packages to offset tariff impacts."
+                "visual_caption": "Canadian leader Mark Carney announced domestic aid packages to prepare for an extended trade conflict. Shippers must build multi-region redundancies to mitigate trade exposure."
             },
             {
                 "slide_index": 3,
                 "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SLOTS",
                 "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
-                "visual_caption": "The Panama Canal will cut daily Neopanamax transits by September. Freshwater constraints drive slot scarcity across maritime lanes."
+                "visual_caption": "The Panama Canal Authority will reduce daily vessel transits by September due to freshwater constraints. Ocean carriers face heightened schedule unreliability and spot market premiums."
             },
             {
                 "slide_index": 4,
                 "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
-                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
-                "visual_caption": "Brent crude fell 2% to $90.78 per barrel on U.S. sanctions prep. Energy markets respond to anticipated petroleum export restrictions."
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "Global crude benchmarks fell 2% to $90.78 per barrel on new sanctions. Fleets must implement dynamic fuel surcharges to protect operating budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "BUSINESS: ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
                 "teaserTitle": "CANADA AWARDS QUEBEC SHIPBUILDING",
-                "visual_caption": "ATRI launched its annual survey to rank top motor carrier challenges. Fleet operators utilize benchmark data to optimize costs."
+                "visual_caption": "Descartes acquired freight brokerage technology vendor Tai Software for $100M. Industry consolidation accelerates as top software vendors expand end-to-end capabilities."
             },
             {
                 "slide_index": 6,
                 "headline": "MARITIME: CANADA AWARDS QUEBEC SHIPBUILDING",
                 "teaserTitle": "KUEHNE NAHEL LEADER PASSES AT 89",
-                "visual_caption": "Canada awarded a $7.9B contract for six Arctic icebreakers. Chantier Davie will execute the largest shipbuilding deal in Quebec."
+                "visual_caption": "Canada awarded a $7.9B contract to construct six new Arctic icebreakers. Shipyards must scale production capabilities to support federal fleet modernization."
             },
             {
                 "slide_index": 7,
                 "headline": "OBITUARY: KUEHNE NAHEL LEADER PASSES AT 89",
                 "teaserTitle": "",
-                "visual_caption": "Logistics billionaire Klaus-Michael Kuehne passed away at age 89. His leadership shaped global forwarding and maritime strategy."
+                "visual_caption": "Logistics titan Klaus-Michael K\u00fchne has passed away at age 89. Global forwarding networks enter a transitional phase following the loss of an industry pioneer."
             },
             {
                 "slide_index": 8,
