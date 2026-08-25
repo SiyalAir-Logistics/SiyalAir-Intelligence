@@ -1,9 +1,9 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CONTAINER PORT CONGESTION SMASHES COVID",
+        "titleWhite": "PORT CONGESTION SMASHES COVID",
         "titleBlue": "RECORD",
-        "footerSummary": "Global maritime logjams remove 4.3M TEU of effective vessel capacity from circulation, driving severe ocean freight spot rate volatility."
+        "footerSummary": "Global container port logjams remove 4.3M TEU of effective vessel capacity from circulation, driving severe ocean freight spot rate volatility."
     },
     "slides": [
         {
@@ -55,7 +55,7 @@ const dailyData = {
             "id": 4,
             "heading": "MARITIME: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
             "paragraphs": [
-                "The Panama Canal Authority announced forthcoming reductions in daily Neopanamax vessel transit slots due to developing El Ni\u00f1o weather patterns affecting water resource management. These capacity restrictions will constrain primary intermodal pathways linking Asian manufacturing hubs directly to U.S. East Coast ports.",
+                "The Panama Canal Authority announced forthcoming reductions in daily Neopanamax vessel transit slots due to developing El Nino weather patterns affecting water resource management. These capacity restrictions will constrain primary intermodal pathways linking Asian manufacturing hubs directly to U.S. East Coast ports.",
                 "Logistics planners face heightened transit uncertainty and rising queue-jump fees that have already exceeded $4.6M per vessel in recent weeks. Cargo owners should consider transpacific routing alternatives and rail land-bridge options to protect delivery timelines."
             ],
             "imageUrl": "",
