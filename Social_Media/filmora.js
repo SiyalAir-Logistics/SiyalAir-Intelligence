@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL 5.3M AUCTION",
-                "visual_caption": "The USTR has enacted Section 301 tariffs on 60 partner nations. Importers face immediate cargo holds without verified multi-tier supply chain audits."
+                "headline": "GOVERNMENT: CANADA RETALIATORY TARIFFS",
+                "teaserTitle": "CONTAINER CONGESTION SMASHES RECORD",
+                "visual_caption": "Canada enacts $20B in retaliatory tariffs as trade talks collapse. Cross-border supply chains face immediate administrative friction and severe cost inflation."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL 5.3M AUCTION",
-                "teaserTitle": "RXO SPOT RATES SURGE 32%",
-                "visual_caption": "An Asian shipper paid a record $5.3M for priority Panama Canal transit. Daily vessel crossing slots face severe reductions as drought conditions return this fall."
+                "headline": "MARITIME: CONTAINER CONGESTION SMASHES RECORD",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "Global container port congestion locks out over 4.3M TEU of capacity. Typhoon disruptions and Red Sea detours degrade vessel turnaround times worldwide."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: RXO SPOT RATES SURGE 32%",
-                "teaserTitle": "UPS INVESTS 2B NETWORK EXPANSION",
-                "visual_caption": "US truckload spot rates jumped 32.4% in the sharpest annual spike since 2021. Shippers must secure contract volume now to protect Q4 margins."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "GATIK AI RAISES 200M FUNDING",
+                "visual_caption": "Descartes Systems Group acquires Tai Software in a $100M transaction. The deal expands automated transportation management capabilities for freight brokers."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: UPS INVESTS 2B NETWORK EXPANSION",
-                "teaserTitle": "TRIMBLE INTRODUCES TRANSPORT AI AGENT",
-                "visual_caption": "UPS has launched a $2B capital investment to modernize automated sortation and cold chain networks. Enterprise parcel shippers gain expanded hub throughput across major medical and retail corridors."
+                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FUNDING",
+                "teaserTitle": "USPS ANNOUNCES 6% PEAK SURCHARGE",
+                "visual_caption": "Autonomous trucking pioneer Gatik AI raises $200M in new funding. Capital will scale driverless commercial freight operations across middle-mile routes."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: TRIMBLE INTRODUCES TRANSPORT AI AGENT",
-                "teaserTitle": "DURBAN FACES 20-DAY CONGESTION CRISIS",
-                "visual_caption": "Trimble introduced an autonomous AI agent that automates carrier dispatch and exception routing in real time. Fleet operators can substantially cut administrative overhead while optimizing daily driver utilization."
+                "headline": "PARCEL: USPS ANNOUNCES 6% PEAK SURCHARGE",
+                "teaserTitle": "TAIWAN TARGETS AI SERVER EXPORTS",
+                "visual_caption": "The USPS announces a 6% peak season surcharge effective October 4. E-commerce merchants face compressed fulfillment budgets heading into Q4."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: DURBAN FACES 20-DAY CONGESTION CRISIS",
-                "teaserTitle": "TAIWAN TARGETS B300 AI SERVER EXPORTS",
-                "visual_caption": "Ocean carriers issued warnings of 20-day berthing delays at the Durban Gateway Terminal due to equipment breakdowns. Shippers must reroute urgent regional freight to prevent catastrophic assembly plant shutdowns."
+                "headline": "COMPLIANCE: TAIWAN TARGETS AI SERVER EXPORTS",
+                "teaserTitle": "MSC RESTORES SUEZ CANAL TRANSITS",
+                "visual_caption": "Taiwanese authorities probe illicit AI server shipments to China. Shippers face intensified export compliance audits and strict verification protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: TAIWAN TARGETS B300 AI SERVER EXPORTS",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Taiwanese authorities intercepted an illicit transshipment network diverting restricted Nvidia B300 AI servers. Global forwarders face immediate KYC audits to avoid crippling export control violations."
+                "headline": "MARITIME: MSC RESTORES SUEZ CANAL TRANSITS",
+                "teaserTitle": "",
+                "visual_caption": "MSC resumes select East-West services through the Suez Canal. Ocean freight transit times between Asia and Europe are set to decrease."
             },
             {
                 "slide_index": 8,

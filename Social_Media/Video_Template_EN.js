@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS ACROSS 60 NATIONS",
+        "hookTitle": "CANADA RETALIATORY TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL 5.3M AUCTION",
+                "headline": "GOVERNMENT: CANADA RETALIATORY TARIFFS",
+                "teaserTitle": "CONTAINER CONGESTION SMASHES RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has enacted Section three oh one tariffs on sixty partner nations. Importers face immediate cargo holds without verified multi-tier supply chain audits."
+                "narration_line": "Canada enacted twenty billion dollars in retaliatory tariffs after trade talks collapsed. Cross border supply chains face immediate administrative friction and severe cost inflation."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL 5.3M AUCTION",
-                "teaserTitle": "RXO SPOT RATES SURGE 32%",
+                "headline": "MARITIME: CONTAINER CONGESTION SMASHES RECORD",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian shipper paid a record five point three million dollars for priority Panama Canal transit. Daily vessel crossing slots face severe reductions as drought conditions return this fall."
+                "narration_line": "Global container port congestion locked out over four million TEU of active capacity. Typhoon disruptions and Red Sea detours degraded vessel turnaround times worldwide."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: RXO SPOT RATES SURGE 32%",
-                "teaserTitle": "UPS INVESTS 2B NETWORK EXPANSION",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "GATIK AI RAISES 200M FUNDING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States truckload spot rates jumped thirty-two point four percent in the sharpest annual spike since twenty twenty-one. Shippers must secure contract volume now to protect fourth quarter margins."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars. The transaction expands automated transportation management capabilities for freight brokers."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: UPS INVESTS 2B NETWORK EXPANSION",
-                "teaserTitle": "TRIMBLE INTRODUCES TRANSPORT AI AGENT",
+                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FUNDING",
+                "teaserTitle": "USPS ANNOUNCES 6% PEAK SURCHARGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "UPS has launched a two billion dollar capital investment to modernize automated sortation and cold chain networks. Enterprise parcel shippers gain expanded hub throughput across major medical and retail corridors."
+                "narration_line": "Autonomous trucking leader Gatik AI raised two hundred million dollars in new funding. The capital will scale driverless commercial freight operations across middle mile routes."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: TRIMBLE INTRODUCES TRANSPORT AI AGENT",
-                "teaserTitle": "DURBAN FACES 20-DAY CONGESTION CRISIS",
+                "headline": "PARCEL: USPS ANNOUNCES 6% PEAK SURCHARGE",
+                "teaserTitle": "TAIWAN TARGETS AI SERVER EXPORTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Trimble introduced an autonomous artificial intelligence agent that automates carrier dispatch and exception routing in real time. Fleet operators can substantially cut administrative overhead while optimizing daily driver utilization."
+                "narration_line": "The United States Postal Service announced a six percent peak season surcharge. E-commerce merchants face compressed fulfillment budgets heading into the fourth quarter."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: DURBAN FACES 20-DAY CONGESTION CRISIS",
-                "teaserTitle": "TAIWAN TARGETS B300 AI SERVER EXPORTS",
+                "headline": "COMPLIANCE: TAIWAN TARGETS AI SERVER EXPORTS",
+                "teaserTitle": "MSC RESTORES SUEZ CANAL TRANSITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean carriers issued warnings of twenty-day berthing delays at the Durban Gateway Terminal due to equipment breakdowns. Shippers must reroute urgent regional freight to prevent catastrophic assembly plant shutdowns."
+                "narration_line": "Taiwanese authorities launched an aggressive enforcement probe into illicit AI server exports. Shippers face intensified dual-use export compliance audits and strict verification protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: TAIWAN TARGETS B300 AI SERVER EXPORTS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "MARITIME: MSC RESTORES SUEZ CANAL TRANSITS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Taiwanese authorities intercepted an illicit transshipment network diverting restricted Nvidia B300 artificial intelligence servers. Global forwarders face immediate Know-Your-Customer audits to avoid crippling export control violations."
+                "narration_line": "Mediterranean Shipping Company resumed select services through the Suez Canal. Ocean freight transit times between Asia and Europe are expected to decrease significantly."
             },
             {
                 "slide_index": 8,
