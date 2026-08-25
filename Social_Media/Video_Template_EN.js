@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL CONTAINER PORT CONGESTION SMASHES RECORD",
+        "hookTitle": "CANADA TARIFFS HIT TWENTY BILLION GOODS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: GLOBAL CONTAINER PORT CONGESTION",
-                "teaserTitle": "CANADA SHIPBUILDING ICEBREAKERS",
+                "headline": "GOVERNMENT: CANADA TARIFFS HIT 20B GOODS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global container port congestion has surpassed COVID era peaks, removing over four point three million TEU of active capacity. Logistics operators face escalating vessel holding expenses and tightened terminal turnaround times across major international hubs."
+                "narration_line": "Canada has unveiled retaliatory tariffs covering twenty billion dollars of U.S. goods after trade talks collapsed. This sudden breakdown introduces immediate border friction and cost inflation for cross-border shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: CANADA SHIPBUILDING ICEBREAKERS",
-                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "PORTS GLOBAL CONTAINER CONGESTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Canada awarded an eleven billion dollar contract to build six large Arctic icebreakers for the coast guard. Enterprise logistics leaders must monitor regional shipyard capacity constraints impacting commercial vessel availability."
+                "narration_line": "Descartes has acquired Tai Software for one hundred million dollars to expand its freight brokerage platform. Logistics providers can now leverage unified software to streamline domestic transport management."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE",
-                "teaserTitle": "TECHNOLOGY GATIK FUNDING",
+                "headline": "PORTS: GLOBAL CONTAINER CONGESTION",
+                "teaserTitle": "AUTONOMOUS GATIK AI FUNDING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Vessel operators navigating the Strait of Hormuz face severe legal friction after Iran blacklisted forty-five ships. Compliance teams must execute rigorous risk assessments to preserve operational safety and insurance validity."
+                "narration_line": "Global container port congestion has surpassed COVID-era peaks, removing over four point three million TEUs of capacity. Port delays are driving up vessel holding expenses and tightening terminal turn times."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: GATIK FUNDING",
-                "teaserTitle": "BUSINESS KUEHNE LEGACY",
+                "headline": "AUTONOMOUS: GATIK AI FUNDING",
+                "teaserTitle": "BUSINESS KUEHNE + NAGEL LEGACY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous trucking developer Gatik secured two hundred million dollars in its largest financing round to date. Supply chain executives should evaluate autonomous middle-mile assets to capture long-term labor efficiencies."
+                "narration_line": "Autonomous trucking developer Gatik has secured two hundred million dollars in new funding. This capital injection accelerates middle-mile automation to combat ongoing driver shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "BUSINESS: KUEHNE LEGACY",
-                "teaserTitle": "AIR CARGO CAPACITY SQUEEZE",
+                "headline": "BUSINESS: KUEHNE + NAGEL LEGACY",
+                "teaserTitle": "FUEL OIL PRICES DECLINE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Logistics tycoon Klaus-Michael Kuehne has passed away at the age of eighty-nine. Industry stakeholders will closely monitor corporate stewardship across his extensive global freight portfolio."
+                "narration_line": "Logistics magnate Klaus-Michael Kuehne has passed away at the age of eighty-nine. His career profoundly shaped the evolution of modern containerized freight forwarding and global supply chain governance."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: CAPACITY SQUEEZE",
-                "teaserTitle": "TARIFFS US CANADA TRADING",
+                "headline": "FUEL: OIL PRICES DECLINE",
+                "teaserTitle": "AIR CARGO DEMAND DIPS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Aerospace shipments encounter a severe capacity crunch driven by specialized component bottlenecks. Freight forwarders must adjust capacity allocations ahead of the upcoming peak shipping season."
+                "narration_line": "Crude oil prices fell two point eight percent to eighty-seven dollars and ninety-nine cents per barrel. Fleet managers must optimize fuel surcharges to protect operating margins."
             },
             {
                 "slide_index": 7,
-                "headline": "TARIFFS: US CANADA TRADING",
+                "headline": "AIR CARGO: DEMAND DIPS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US and Canadian trade negotiations have broken down, prompting shippers to diversify sourcing footprints. Organizations failing to establish alternative trade corridors risk severe cost escalation."
+                "narration_line": "Airfreight volumes are dipping as the market approaches its traditional late-summer lull. Forwarders should secure forward capacity contracts ahead of upcoming seasonal peaks."
             },
             {
                 "slide_index": 8,

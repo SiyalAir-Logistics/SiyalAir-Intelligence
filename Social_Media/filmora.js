@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: GLOBAL CONTAINER PORT CONGESTION",
-                "teaserTitle": "CANADA SHIPBUILDING ICEBREAKERS",
-                "visual_caption": "Global container port congestion has surpassed COVID era peaks, removing over 4.3M TEU of active capacity. Logistics operators face escalating vessel holding expenses and tightened terminal turnaround times."
+                "headline": "GOVERNMENT: CANADA TARIFFS HIT 20B GOODS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "Canada unveiled retaliatory tariffs on $20B of U.S. goods after trade talks collapsed. The sudden breakdown introduces immediate border friction and cost inflation for cross-border shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: CANADA SHIPBUILDING ICEBREAKERS",
-                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE",
-                "visual_caption": "Canada awarded an $11B contract to build 6 large Arctic icebreakers for the coast guard fleet. Enterprise logistics leaders must monitor regional shipyard capacity constraints impacting commercial vessel availability."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "PORTS GLOBAL CONTAINER CONGESTION",
+                "visual_caption": "Descartes acquired Tai Software for $100M to expand its freight brokerage platform. Logistics providers can now leverage unified software to streamline domestic transport management."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE",
-                "teaserTitle": "TECHNOLOGY GATIK FUNDING",
-                "visual_caption": "Vessel operators navigating the Strait of Hormuz face severe legal friction after Iran blacklisted 45 ships. Compliance teams must execute rigorous risk assessments to preserve operational safety."
+                "headline": "PORTS: GLOBAL CONTAINER CONGESTION",
+                "teaserTitle": "AUTONOMOUS GATIK AI FUNDING",
+                "visual_caption": "Global container port congestion surpassed COVID-era peaks, removing over 4.3M TEUs of capacity. Port delays are driving up vessel holding expenses and tightening terminal turn times."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: GATIK FUNDING",
-                "teaserTitle": "BUSINESS KUEHNE LEGACY",
-                "visual_caption": "Autonomous trucking developer Gatik secured $200M in its largest financing round to date. Supply chain executives should evaluate autonomous middle-mile assets to capture long-term labor efficiencies."
+                "headline": "AUTONOMOUS: GATIK AI FUNDING",
+                "teaserTitle": "BUSINESS KUEHNE + NAGEL LEGACY",
+                "visual_caption": "Autonomous trucking developer Gatik secured $200M in new funding. This capital injection accelerates middle-mile automation to combat ongoing driver shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "BUSINESS: KUEHNE LEGACY",
-                "teaserTitle": "AIR CARGO CAPACITY SQUEEZE",
-                "visual_caption": "Logistics tycoon Klaus-Michael Kuehne has passed away at the age of 89. Industry stakeholders will closely monitor corporate stewardship across his extensive global freight portfolio."
+                "headline": "BUSINESS: KUEHNE + NAGEL LEGACY",
+                "teaserTitle": "FUEL OIL PRICES DECLINE",
+                "visual_caption": "Logistics magnate Klaus-Michael Kuehne passed away at age 89. His career profoundly shaped the evolution of modern containerized freight forwarding and global supply chain governance."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: CAPACITY SQUEEZE",
-                "teaserTitle": "TARIFFS US CANADA TRADING",
-                "visual_caption": "Aerospace shipments encounter a severe capacity crunch driven by specialized component bottlenecks. Freight forwarders must adjust capacity allocations ahead of the upcoming peak shipping season."
+                "headline": "FUEL: OIL PRICES DECLINE",
+                "teaserTitle": "AIR CARGO DEMAND DIPS",
+                "visual_caption": "Crude oil prices fell 2.8% to $87.99 per barrel. Fleet managers must optimize fuel surcharges to protect operating margins against ongoing volatility."
             },
             {
                 "slide_index": 7,
-                "headline": "TARIFFS: US CANADA TRADING",
+                "headline": "AIR CARGO: DEMAND DIPS",
                 "teaserTitle": "",
-                "visual_caption": "US and Canadian trade negotiations have broken down, prompting shippers to diversify sourcing footprints. Organizations failing to establish alternative trade corridors risk severe cost escalation."
+                "visual_caption": "Airfreight volumes are dipping as the market approaches its traditional late-summer lull. Forwarders should secure forward capacity contracts ahead of upcoming seasonal peaks."
             },
             {
                 "slide_index": 8,
