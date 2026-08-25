@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP VOUCHES DOUBLE CANADA AUTO TARIFFS",
+        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: TRUMP VOUCHES DOUBLE CANADA AUTO TARIFFS",
-                "teaserTitle": "CANADA EXPECTS LONG TRADE WAR",
+                "headline": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
+                "teaserTitle": "MAERSK SHIPS TRANSIT SUEZ CANAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Bilateral trade talks between Washington and Ottawa collapsed after disputes over heavy duty trucks. The administration announced a proposed fifty percent tariff on Canadian automotive imports taking effect next January."
+                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty trading partners. Importers must audit supply chain provenance immediately to avoid severe border compliance penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: CANADA EXPECTS LONG TRADE WAR",
-                "teaserTitle": "PANAMA CANAL TO TRIM DAILY SLOTS",
+                "headline": "MARITIME: MAERSK SHIPS TRANSIT SUEZ CANAL",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Canadian leader Mark Carney stated the nation is prepared for an extended trade conflict with Washington. Ottawa is designing domestic aid packages to support businesses impacted by impending U S tariff hikes."
+                "narration_line": "Two major Maersk containerships successfully transited the Suez Canal. This operational return helps carriers bypass costly southern African detours and reduce transit times."
             },
             {
                 "slide_index": 3,
-                "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SLOTS",
-                "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Panama Canal Authority will reduce daily Neopanamax vessel transits due to persistent freshwater constraints. Ocean carriers face heightened schedule unreliability and escalating spot market premiums as slot availability drops."
+                "narration_line": "The Panama Canal Authority is reducing daily Neopanamax vessel transits due to ongoing water constraints. Shippers face rising slot scarcity and higher spot market premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global Brent crude benchmarks fell two percent to ninety dollars and seventy eight cents per barrel on sanctions. Energy markets responded to anticipated supply realignments and diplomatic measures restricting petroleum exports."
+                "narration_line": "Descartes has acquired freight brokerage technology vendor Tai Software for one hundred million dollars. Industry consolidation is accelerating as logistics providers expand digital capabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "CANADA AWARDS QUEBEC SHIPBUILDING",
+                "headline": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "teaserTitle": "JAPAN OPENS SHIPBUILDING SUBSIDY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Descartes completed its fourth major purchase of the year by acquiring freight broker vendor Tai Software for one hundred million dollars. The strategic consolidation integrates advanced transportation systems to streamline brokerage operations."
+                "narration_line": "The American Transportation Research Institute opened its annual survey on top trucking challenges. Motor carriers rely on these findings to guide capital allocation and regulatory strategy."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: CANADA AWARDS QUEBEC SHIPBUILDING",
-                "teaserTitle": "KUEHNE NAGEL LEADER PASSES AT 89",
+                "headline": "MARITIME: JAPAN OPENS SHIPBUILDING SUBSIDY",
+                "teaserTitle": "AMAZON EXPANDS DRONE DELIVERY REACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Canadian Prime Minister Mark Carney awarded an eleven billion dollar contract to Chantier Davie for Arctic icebreakers. This agreement represents the largest single shipbuilding contract in Quebec history amid rising polar activity."
+                "narration_line": "Japan launched a ninety-five million dollar subsidy program for zero-emission vessels. The initiative accelerates commercial orders for ships powered by clean alternative fuels."
             },
             {
                 "slide_index": 7,
-                "headline": "OBITUARY: KUEHNE NAGEL LEADER PASSES AT 89",
+                "headline": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Billionaire industrialist Klaus-Michael Kuehne, who transformed Kuehne + Nagel into a global forwarding titan, passed away at age eighty nine. His decades of leadership established foundational benchmarks for modern contract logistics."
+                "narration_line": "Amazon is scaling its Prime Air drone delivery network sixfold across major cities. Retail networks are rapidly integrating autonomous aerial fulfillment to boost speed."
             },
             {
                 "slide_index": 8,

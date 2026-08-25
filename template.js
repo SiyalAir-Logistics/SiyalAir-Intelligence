@@ -1,80 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP VOUCHES DOUBLE CANADA AUTO",
+        "titleWhite": "USTR MOVES FORCED LABOR",
         "titleBlue": "TARIFFS",
-        "footerSummary": "Trade talks collapse as a proposed 50% tariff on Canadian automotive imports threatens immediate cross-border supply chain disruption."
+        "footerSummary": "Global trade policy tightens as USTR advances targeted tariffs across 60 trading partners, escalating compliance oversight and duty liabilities for importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: TRUMP VOUCHES DOUBLE CANADA AUTO TARIFFS",
+            "heading": "GOVERNMENT: USTR MOVES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Bilateral trade talks between the United States and Canada collapsed following disputes over heavy-duty trucks and cross-border access. The administration announced a proposed 50% tariff on Canadian automobiles, trucks, and auto parts slated to take effect on January 1.",
-                "Automotive supply chains face immediate border friction and severe duty liabilities as regional sourcing corridors are forced to restructure. Logistics directors must model alternative manufacturing locations to protect operating margins against escalating trade penalties."
+                "The Office of the United States Trade Representative officially advanced the implementation of stringent forced labor-based tariffs targeting 60 trading partners under Section 301. This regulatory enforcement action coincides with the formal expiration of Section 122 tariffs, signaling a profound shift toward targeted compliance auditing.",
+                "Importers face immediate duty liabilities and elevated administrative burdens as supply chain provenance standards become absolute prerequisites for market access. Logistics executives must audit tier-3 supplier networks immediately to prevent severe border detentions and unbudgeted financial penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA EXPECTS LONG TRADE WAR",
+            "nextUpTease": "MAERSK SHIPS TRANSIT SUEZ CANAL",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOVERNMENT: CANADA EXPECTS LONG TRADE WAR",
+            "heading": "MARITIME: MAERSK SHIPS TRANSIT SUEZ CANAL",
             "paragraphs": [
-                "Canadian leader Mark Carney stated that the nation is prepared for an extended trade conflict following the breakdown of bilateral negotiations with Washington. Ottawa is designing comprehensive domestic aid packages to support businesses impacted by the impending U.S. tariff hikes.",
-                "Carriers and shippers operating across northern corridors must prepare for persistent regulatory friction and retaliatory border measures throughout the president's term. Long-term freight network planning requires building multi-region redundancies to mitigate trade exposure."
+                "Two of Maersk's largest container vessels successfully completed a coordinated transit through the Suez Canal, marking a significant operational milestone for major ocean carriers. The Suez Canal Authority welcomed the return of ultra-large box ships as part of broader efforts to restore maritime efficiency and shorten transit times.",
+                "The resumption of Red Sea routings offers carriers a vital opportunity to bypass congested southern African detours and reduce bunker fuel expenditures. Shippers must monitor evolving risk assessments to determine whether regular Suez sailings can reliably lower landed inventory costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TO TRIM DAILY SLOTS",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-24T17:03:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SLOTS",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
             "paragraphs": [
-                "The Panama Canal Authority announced plans to reduce daily Neopanamax vessel transits by September due to ongoing freshwater constraints driven by El Ni\u00f1o weather patterns. The capacity reduction restricts daily cargo flow and increases slot scarcity across vital maritime lanes.",
-                "Ocean carriers face heightened schedule unreliability and escalating spot market premiums as available transit slots diminish. Shippers must evaluate expensive alternative routing strategies or absorb higher slot bidding costs to maintain delivery timelines."
+                "The Panama Canal Authority announced a scheduled reduction in daily Neopanamax vessel transits heading into September due to persistent freshwater constraints. This operational adjustment restricts daily cargo throughput and increases vessel slot scarcity across crucial trans-Pacific trade lanes.",
+                "Ocean carriers are responding to reduced capacity by deploying premium queue-jump fees and alternative routing strategies that inflate operational budgets. Logistics planners must secure forward slot allocations early to mitigate schedule unreliability and unpredictable spot rate surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "OIL PRICES DECLINE ON IRAN SANCTIONS",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
-            "paragraphs": [
-                "Global Brent crude benchmarks fell 2% to $90.78 per barrel as the United States prepared an aggressive anti-Iran global sanctions package. Energy markets responded to anticipated supply realignments and diplomatic measures designed to restrict regional petroleum exports.",
-                "Fluctuating bunker and diesel fuel expenses directly impact operating margins for over-the-road fleets and ocean carriers alike. Logistics directors must implement dynamic fuel surcharge mechanisms to protect transport budgets against sudden commodity volatility."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-24T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
             "paragraphs": [
-                "Acquisition-hungry logistics technology provider Descartes completed its fourth major purchase of the year by acquiring freight brokerage technology vendor Tai Software for $100M. The strategic consolidation integrates advanced transportation management systems to streamline brokerage operations.",
-                "Brokerage platforms and third-party logistics providers face increasing market consolidation as leading software vendors expand end-to-end capabilities. Stakeholders must evaluate technological interoperability to maintain competitive efficiency in digital freight execution."
+                "Supply chain software provider Descartes expanded its market footprint by acquiring freight brokerage technology vendor Tai Software for $100M in cash. This strategic transaction integrates advanced transportation management systems to streamline digital brokerage execution and automated load dispatching.",
+                "Freight brokers and third-party logistics providers face mounting pressure to consolidate technology stacks as enterprise software vendors dominate operational infrastructure. Industry stakeholders must evaluate platform interoperability to maintain competitive efficiency in modern freight management."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA AWARDS QUEBEC SHIPBUILDING",
+            "nextUpTease": "ATRI OPENS ANNUAL TRUCKING SURVEY",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -82,31 +67,46 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME: CANADA AWARDS QUEBEC SHIPBUILDING",
+            "id": 5,
+            "heading": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
             "paragraphs": [
-                "Canadian Prime Minister Mark Carney awarded a C$11B ($7.9B) contract to Chantier Davie to construct six new Arctic icebreakers for the Coast Guard fleet. This contract represents the largest single shipbuilding agreement in Quebec's history amid rising polar activity.",
-                "Shipyards and maritime equipment suppliers must scale production capabilities to support long-term federal fleet modernization initiatives. Regional infrastructure investments provide critical capacity enhancements for northern logistics and security operations."
+                "The American Transportation Research Institute officially launched its annual national survey to identify and rank the critical operational challenges facing motor carriers. Industry stakeholders evaluate pressing bottlenecks including regulatory compliance, driver retention, and infrastructure capacity.",
+                "Motor carriers utilize these benchmark findings to allocate capital expenditure and lobby federal agencies for critical regulatory relief. Fleet directors must participate actively to ensure operational cost pressures and insurance liabilities are prioritized in national policy debates."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE NAGEL LEADER PASSES AT 89",
+            "nextUpTease": "JAPAN OPENS SHIPBUILDING SUBSIDY",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-24T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME: JAPAN OPENS SHIPBUILDING SUBSIDY",
+            "paragraphs": [
+                "The Japanese government launched a five-year, \u00a515.1B ($95M) financial subsidy program designed to accelerate commercial orders for zero-emission vessels. The joint initiative by transport and environment ministries covers up to half the construction costs for ships powered by hydrogen, ammonia, and methanol.",
+                "Shipbuilders and maritime operators gain substantial financial incentives to modernize fleets in alignment with stringent international decarbonization mandates. Vessel owners must evaluate alternative fuel infrastructure readiness to optimize long-term capital investments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AMAZON EXPANDS DRONE DELIVERY REACH",
+            "tags": [
+                "Source: https://splash247.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OBITUARY: KUEHNE NAGEL LEADER PASSES AT 89",
+            "heading": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY REACH",
             "paragraphs": [
-                "Klaus-Michael Kuehne, the billionaire industrialist who transformed Kuehne + Nagel into a global forwarding titan and shaped Hapag-Lloyd strategy, has passed away at age 89. His decades of leadership established foundational benchmarks for modern contract logistics and global freight management.",
-                "Global forwarding networks and maritime carriers enter a transitional phase following the loss of one of the industry's most influential financial backers. Executive teams must monitor potential shifts in major shareholder governance and long-term M&A strategies."
+                "Amazon announced a sixfold expansion of its Prime Air drone delivery network, deploying autonomous fulfillment infrastructure across major metropolitan markets including Atlanta, Chicago, and Cleveland. This scaling initiative brings rapid aerial logistics directly to suburban residential customers.",
+                "Retail fulfillment networks are rapidly evolving to incorporate autonomous aerial delivery models that bypass traditional urban traffic congestion. Supply chain executives must assess last-mile fulfillment integration to remain competitive against accelerating delivery speed benchmarks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
