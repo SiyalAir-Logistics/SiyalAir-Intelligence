@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP VOWS CANADA AUTO TARIFFS",
+        "hookTitle": "TRUMP VOUCHES DOUBLE CANADA AUTO TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: TRUMP VOWS CANADA AUTO TARIFFS",
+                "headline": "GOVERNMENT: TRUMP VOUCHES DOUBLE CANADA AUTO TARIFFS",
                 "teaserTitle": "CANADA EXPECTS LONG TRADE WAR",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Bilateral trade talks collapsed as Washington proposed a fifty percent tariff on Canadian automotive imports. Supply chains face immediate border friction and severe duty liabilities."
+                "narration_line": "Bilateral trade talks between Washington and Ottawa collapsed after disputes over heavy duty trucks. The administration announced a proposed fifty percent tariff on Canadian automotive imports taking effect next January."
             },
             {
                 "slide_index": 2,
                 "headline": "GOVERNMENT: CANADA EXPECTS LONG TRADE WAR",
                 "teaserTitle": "PANAMA CANAL TO TRIM DAILY SLOTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Canadian leader Mark Carney announced domestic aid packages to prepare for an extended trade conflict. Shippers must build multi-region redundancies to mitigate trade exposure."
+                "narration_line": "Canadian leader Mark Carney stated the nation is prepared for an extended trade conflict with Washington. Ottawa is designing domestic aid packages to support businesses impacted by impending U S tariff hikes."
             },
             {
                 "slide_index": 3,
                 "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SLOTS",
                 "teaserTitle": "OIL PRICES DECLINE ON IRAN SANCTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Panama Canal Authority will reduce daily vessel transits by September due to freshwater constraints. Ocean carriers face heightened schedule unreliability and spot market premiums."
+                "narration_line": "The Panama Canal Authority will reduce daily Neopanamax vessel transits due to persistent freshwater constraints. Ocean carriers face heightened schedule unreliability and escalating spot market premiums as slot availability drops."
             },
             {
                 "slide_index": 4,
                 "headline": "FUEL: OIL PRICES DECLINE ON IRAN SANCTIONS",
                 "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global crude benchmarks fell two percent to ninety dollars and seventy-eight cents per barrel on new sanctions. Fleets must implement dynamic fuel surcharges to protect budgets."
+                "narration_line": "Global Brent crude benchmarks fell two percent to ninety dollars and seventy eight cents per barrel on sanctions. Energy markets responded to anticipated supply realignments and diplomatic measures restricting petroleum exports."
             },
             {
                 "slide_index": 5,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
                 "teaserTitle": "CANADA AWARDS QUEBEC SHIPBUILDING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Descartes acquired freight brokerage technology vendor Tai Software for one hundred million dollars. Industry consolidation accelerates as top software vendors expand end-to-end capabilities."
+                "narration_line": "Descartes completed its fourth major purchase of the year by acquiring freight broker vendor Tai Software for one hundred million dollars. The strategic consolidation integrates advanced transportation systems to streamline brokerage operations."
             },
             {
                 "slide_index": 6,
                 "headline": "MARITIME: CANADA AWARDS QUEBEC SHIPBUILDING",
-                "teaserTitle": "KUEHNE NAHEL LEADER PASSES AT 89",
+                "teaserTitle": "KUEHNE NAGEL LEADER PASSES AT 89",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Canada awarded a seven point nine billion dollar contract to construct six new Arctic icebreakers. Shipyards must scale production capabilities to support federal fleet modernization."
+                "narration_line": "Canadian Prime Minister Mark Carney awarded an eleven billion dollar contract to Chantier Davie for Arctic icebreakers. This agreement represents the largest single shipbuilding contract in Quebec history amid rising polar activity."
             },
             {
                 "slide_index": 7,
-                "headline": "OBITUARY: KUEHNE NAHEL LEADER PASSES AT 89",
+                "headline": "OBITUARY: KUEHNE NAGEL LEADER PASSES AT 89",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Logistics titan Klaus-Michael K\u00fchne has passed away at eighty-nine years of age. Global forwarding networks enter a transitional phase following the loss of an industry pioneer."
+                "narration_line": "Billionaire industrialist Klaus-Michael Kuehne, who transformed Kuehne + Nagel into a global forwarding titan, passed away at age eighty nine. His decades of leadership established foundational benchmarks for modern contract logistics."
             },
             {
                 "slide_index": 8,
