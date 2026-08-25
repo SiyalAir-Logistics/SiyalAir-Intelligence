@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CONTAINER PORT CONGESTION SMASHES COVID RECORD",
+        "hookTitle": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CONTAINER PORT CONGESTION SMASHES COVID RECORD",
-                "teaserTitle": "HORMUZ COMPLIANCE CLASH TRAPS OWNERS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global container port congestion has surged past pandemic peaks, removing four point three million T E U from active circulation. Shippers face compounding delays and escalating ocean freight spot rate surcharges."
+                "narration_line": "An empty tanker secured priority canal transit after paying a record four point six million dollar fee. This highlights severe capacity constraints and rising routing costs."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS OWNERS",
-                "teaserTitle": "TRUMP VOWS 50% TARIFFS ON CANADA IMPORTS",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "SUMMER IMPORTS TO HIT 2022 PEAK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Vessel operators in the Strait of Hormuz face severe regulatory traps after Iran blacklisted forty-five commercial ships. Carriers must navigate conflicting compliance mandates between regional authorities and western sanctions."
+                "narration_line": "Descartes acquired Tai Software for one hundred million dollars in cash. The deal expands enterprise transport management and automated brokerage workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA IMPORTS",
-                "teaserTitle": "PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+                "headline": "LOGISTICS: SUMMER IMPORTS TO HIT 2022 PEAK",
+                "teaserTitle": "DIANA SHIPPING SECURES CARGILL FIXTURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The White House is implementing fifty percent tariffs on Canadian imports following the collapse of bilateral negotiations. Importers face massive customs duty exposures and must restructure North American supply chains."
+                "narration_line": "U.S. inbound container volumes are projected to reach their highest monthly levels since twenty twenty-two. Retailers are accelerating inventory replenishment ahead of peak shipping cycles."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
-                "teaserTitle": "HOME DEPOT ROLLS OUT EXPRESS DELIVERY",
+                "headline": "MARITIME: DIANA SHIPPING SECURES CARGILL FIXTURE",
+                "teaserTitle": "DURBAN TERMINAL CONGESTION WORSENS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Panama Canal Authority is reducing daily Neopanamax transit slots due to El Nino weather water constraints. Planners face rising queue jump fees exceeding four point six million dollars per vessel."
+                "narration_line": "Diana Shipping secured a forty-one percent rate increase for the panamax Leto with Cargill. The vessel was fixed at eighteen thousand dollars daily."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: HOME DEPOT ROLLS OUT EXPRESS DELIVERY",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "headline": "PORTS: DURBAN TERMINAL CONGESTION WORSENS",
+                "teaserTitle": "CANADA DOUBLES DOWN ON ICEBREAKERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Home Depot deployed a nationwide three-hour express delivery service utilizing over two thousand retail fulfillment hubs. Retailers must invest in local node automation to maintain competitive delivery speeds."
+                "narration_line": "Severe congestion at the Durban Gateway Terminal has pushed vessel waiting times to twenty days. Carriers are warning clients of extensive trade lane disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+                "headline": "GOVERNMENT: CANADA DOUBLES DOWN ON ICEBREAKERS",
+                "teaserTitle": "UPS INVESTS 2B IN GLOBAL NETWORK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Descartes acquired freight brokerage platform Tai Software for one hundred million dollars in cash to expand its digital footprint. Industry stakeholders must upgrade software platforms to ensure seamless freight execution."
+                "narration_line": "Canada awarded an eight point two billion dollar contract for six new Arctic icebreakers. The historic shipbuilding project aims to support northern navigation."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+                "headline": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The I M O reported over ninety seafarers remain held captive by armed maritime syndicates near global chokepoints. Underwriters are raising premium insurance rates across vulnerable international trade lanes."
+                "narration_line": "UPS invested two billion dollars to expand international parcel network air hubs. Projects include new facilities in the Philippines and Hong Kong."
             },
             {
                 "slide_index": 8,

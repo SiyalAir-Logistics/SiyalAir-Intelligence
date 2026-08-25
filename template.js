@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT CONGESTION SMASHES COVID",
-        "titleBlue": "RECORD",
-        "footerSummary": "Global container port logjams remove 4.3M TEU of effective vessel capacity from circulation, driving severe ocean freight spot rate volatility."
+        "titleWhite": "PANAMA CANAL QUEUE-JUMP FEE SURPASSES",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal queue-jump fees reach $4.6M as regional supply chain bottlenecks and transit restrictions drive vessel rerouting across global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: CONTAINER PORT CONGESTION SMASHES COVID RECORD",
+            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
             "paragraphs": [
-                "Global container port congestion has surged beyond historical peaks recorded during the pandemic era, effectively removing 4.3M TEU of vessel capacity from active circulation. This unprecedented bottleneck is severely compounding equipment imbalances and extending transit schedules across major international trade lanes.",
-                "Supply chain leaders face compounding vessel delays and escalating ocean freight surcharges as carriers absorb the financial impact of idle tonnage. Shippers must urgently adapt inventory buffers and secure flexible space commitments to mitigate severe margin compression."
+                "An empty liquefied petroleum gas tanker secured priority transit through the Panama Canal after paying a record-breaking $4.6M queue-jump fee. This unprecedented surcharge highlights intensifying capacity constraints as ongoing water resource management and draft restrictions squeeze intermodal pathways.",
+                "Logistics planners face escalating operational costs and heightened transit uncertainty when routing cargo between Asian manufacturing centers and U.S. East Coast ports. Shippers must evaluate transpacific alternatives and rail land-bridge options to protect delivery timelines from severe margin compression."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ COMPLIANCE CLASH TRAPS OWNERS",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
-                "Source: https://splash247.com/container-port-congestion-smashes-covid-era-record/",
+                "Source: https://www.inboundlogistics.com",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS OWNERS",
+            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
             "paragraphs": [
-                "Vessel operators navigating the vital Strait of Hormuz face an acute regulatory trap after Iran blacklisted 45 commercial ships while threatening severe fines, vessel detentions, and cargo confiscations. Simultaneously, Washington has issued strict warnings that complying with Tehran transit regimes could trigger severe U.S. sanctions.",
-                "Maritime carriers are forced into difficult risk management trade-offs between defying regional authorities or risking catastrophic western trade penalties. Logistics directors must rapidly audit vessel registry compliance and routing protocols to avoid stranded assets and legal liabilities."
+                "Global supply chain execution software leader Descartes has completed a $100M cash acquisition of freight brokerage technology provider Tai Software. This strategic consolidation aims to expand enterprise transport management capabilities and automate complex carrier brokerage workflows.",
+                "Freight brokers and 3PL providers face mounting pressure to upgrade core technology architectures as market consolidation accelerates digital adoption. Industry stakeholders must assess software interoperability to ensure seamless freight execution and maintain competitive client service levels."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUMP VOWS 50% TARIFFS ON CANADA IMPORTS",
+            "nextUpTease": "SUMMER IMPORTS TO HIT 2022 PEAK",
             "tags": [
-                "Source: https://splash247.com/hormuz-compliance-clash-traps-owners-between-tehran-and-washington/",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA IMPORTS",
+            "heading": "LOGISTICS: SUMMER IMPORTS TO HIT 2022 PEAK",
             "paragraphs": [
-                "The White House has moved forward with aggressive trade levies, implementing sweeping 50% tariffs on a wide array of Canadian imports including vehicles, auto parts, and steel following the collapse of bilateral negotiations. This sudden border barrier threatens deeply integrated manufacturing supply chains across North America.",
-                "Importers and tier-1 industrial suppliers face massive customs duty exposures and must immediately restructure cross-border sourcing models. Procurement teams need to evaluate alternative domestic suppliers and contingency logistics networks to absorb anticipated cost surges."
+                "U.S. inbound container volumes are projected to reach their highest monthly levels since the 2022 surge as retailers accelerate inventory replenishment ahead of peak shipping cycles. This unexpected volume spike is testing port terminal throughput and drayage capacity across major gateway hubs.",
+                "Supply chain leaders must prepare for localized yard congestion and potential equipment imbalances as seasonal inventory flows intensify. Proactive drayage planning and enhanced shipment visibility are critical to preventing costly demurrage charges and dwell time delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+            "nextUpTease": "DIANA SHIPPING SECURES CARGILL FIXTURE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-tariffs-canada-50-percent-cars-trucks-steel-implied-stalled-talks/828292/",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+            "heading": "MARITIME: DIANA SHIPPING SECURES CARGILL FIXTURE",
             "paragraphs": [
-                "The Panama Canal Authority announced forthcoming reductions in daily Neopanamax vessel transit slots due to developing El Nino weather patterns affecting water resource management. These capacity restrictions will constrain primary intermodal pathways linking Asian manufacturing hubs directly to U.S. East Coast ports.",
-                "Logistics planners face heightened transit uncertainty and rising queue-jump fees that have already exceeded $4.6M per vessel in recent weeks. Cargo owners should consider transpacific routing alternatives and rail land-bridge options to protect delivery timelines."
+                "New York-listed Greek bulker owner Diana Shipping successfully fixed the panamax vessel Leto in a direct charter continuation with commodities giant Cargill at a 41% rate increase. The 2010-built dry bulk carrier secured a lucrative daily rate of $18,000 amid tightening global tonnage availability.",
+                "Vessel operators and charterers are navigating a strengthening dry cargo market characterized by rising spot rates and firming charter durations. Procurement teams must lock in long-term capacity agreements early to hedge against anticipated maritime freight inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "HOME DEPOT ROLLS OUT EXPRESS DELIVERY",
+            "nextUpTease": "DURBAN TERMINAL CONGESTION WORSENS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/panama-canal-trim-daily-shipping-slots-el-nino/828245/",
+                "Source: https://splash247.com/diana-rolls-panamax-bulker-into-stronger-cargill-fixture/",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOGISTICS: HOME DEPOT ROLLS OUT EXPRESS DELIVERY",
+            "heading": "PORTS: DURBAN TERMINAL CONGESTION WORSENS",
             "paragraphs": [
-                "Home Depot has officially deployed a nationwide 3-hour or less express delivery service utilizing over 2,000 retail stores as localized fulfillment hubs covering thousands of SKUs. This operational shift aggressively accelerates decentralized inventory positioning to capture high-demand contractor and consumer orders.",
-                "Retailers and distributors must benchmark these rapid fulfillment capabilities to maintain competitive parity in omnichannel fulfillment speed. Supply chain operators are forced to invest heavily in inventory visibility and local node automation to match rising customer expectations."
+                "Severe operational bottlenecks at South Africa's Durban Gateway Terminal have escalated vessel waiting times to 20 days, triggering urgent appeals from regional freight forwarding associations. Carriers are warning clients of extensive disruptions across key African maritime trade corridors.",
+                "Supply chain managers utilizing southern African routes face compounding schedule delays and substantial vessel holding costs. Shippers must rapidly adjust inventory safety stocks and reroute time-sensitive consignments to bypass crippled terminal infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
+            "nextUpTease": "CANADA DOUBLES DOWN ON ICEBREAKERS",
             "tags": [
-                "Source: https://www.retaildive.com/news/home-depot-express-delivery-3-hours-or-less/758412/",
+                "Source: https://theloadstar.com/carriers-warn-of-20-day-delays-as-congestion-crisis-at-durban-worsens/",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+            "heading": "GOVERNMENT: CANADA DOUBLES DOWN ON ICEBREAKERS",
             "paragraphs": [
-                "Global supply chain execution software leader Descartes acquired freight brokerage technology platform Tai Software for $100M in cash to expand its digital logistics footprint. This strategic purchase consolidates transport management systems and enhances automated brokerage workflows for enterprise shippers.",
-                "Freight brokers and 3PL providers face mounting pressure to upgrade technology architectures as platform consolidation accelerates across the sector. Industry stakeholders must assess software interoperability to ensure seamless freight execution and carrier management."
+                "The Canadian government has awarded an $8.2B shipbuilding contract to Chantier Davie in Quebec to construct 6 large Arctic icebreakers for the Coast Guard fleet. This historic maritime investment aims to bolster national sovereignty and support growing commercial navigation in northern trade routes.",
+                "Domestic industrial suppliers and marine engineering firms stand to benefit from multi-year shipbuilding commitments amidst broader North American trade tensions. Long-term capacity planning will be vital for component manufacturers supporting heavy government procurement initiatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+            "nextUpTease": "UPS INVESTS 2B IN GLOBAL NETWORK",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/descartes-acquires-tai-software-for-100-million",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://maritime-executive.com/article/canada-awards-quebec-s-largest-shipbuilding-project-for-arctic-icebreakers",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+            "heading": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK",
             "paragraphs": [
-                "The International Maritime Organization reported that over 90 seafarers remain held captive by armed maritime syndicates following a sharp escalation of attacks near vital global chokepoints. Vessel operators are forced to implement costly security hardening and rerouting protocols to protect crews and cargo.",
-                "Maritime insurance underwriters are raising premium rates and applying high-risk surcharges across vulnerable international trade lanes. Shippers must factor escalating security costs and potential transit disruptions into total landed cost calculations."
+                "UPS has committed $2B to expand its international parcel network, directing significant capital toward advanced air hubs at Clark Airport in the Philippines and Hong Kong International Airport. This infrastructure investment targets rapid growth in transpacific e-commerce and express freight demand.",
+                "Logistics providers must continually upgrade regional sorting and air cargo facilities to maintain competitive transit speeds in high-density trade lanes. Enterprise shippers should evaluate carrier network investments when optimizing multi-node parcel distribution strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/imo-warns-piracy-surge-leaves-more-than-90-seafarers-captive/",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
