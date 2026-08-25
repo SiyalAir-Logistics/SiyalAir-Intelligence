@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS HIT 20B GOODS",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "Canada unveiled retaliatory tariffs on $20B of U.S. goods after trade talks collapsed. The sudden breakdown introduces immediate border friction and cost inflation for cross-border shippers."
+                "headline": "PORTS: CONTAINER CONGESTION SMASHES COVID RECORD",
+                "teaserTitle": "CANADA TARIFFS SPARK US ALTERNATIVES",
+                "visual_caption": "Global container port congestion has climbed beyond COVID-era thresholds, removing more than 4.3M TEU from circulation. Typhoon activity and vessel rerouting have severely degraded maritime schedule reliability."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "PORTS GLOBAL CONTAINER CONGESTION",
-                "visual_caption": "Descartes acquired Tai Software for $100M to expand its freight brokerage platform. Logistics providers can now leverage unified software to streamline domestic transport management."
+                "headline": "TRADE: CANADA TARIFFS SPARK US ALTERNATIVES",
+                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+                "visual_caption": "Commercial relations between Canada and the US have deteriorated, prompting shippers to eye alternatives. Looming retaliatory levies are forcing regional distribution changes."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: GLOBAL CONTAINER CONGESTION",
-                "teaserTitle": "AUTONOMOUS GATIK AI FUNDING",
-                "visual_caption": "Global container port congestion surpassed COVID-era peaks, removing over 4.3M TEUs of capacity. Port delays are driving up vessel holding expenses and tightening terminal turn times."
+                "headline": "REGULATORY: USTR ADVANCES FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL TRIMS SHIPPING SLOTS",
+                "visual_caption": "The USTR is implementing tariffs on 60 nations under Section 301 of the Trade Act. Importers must audit upstream supply tiers to prevent costly customs detentions."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: GATIK AI FUNDING",
-                "teaserTitle": "BUSINESS KUEHNE + NAGEL LEGACY",
-                "visual_caption": "Autonomous trucking developer Gatik secured $200M in new funding. This capital injection accelerates middle-mile automation to combat ongoing driver shortages."
+                "headline": "LOGISTICS: PANAMA CANAL TRIMS SHIPPING SLOTS",
+                "teaserTitle": "DIESEL SURGES TO HIGHEST LEVEL",
+                "visual_caption": "El Ni\u00f1o drought conditions are forcing the Panama Canal to trim daily Neopanamax slots. Priority queue-jump fees have surged past $4.6M."
             },
             {
                 "slide_index": 5,
-                "headline": "BUSINESS: KUEHNE + NAGEL LEGACY",
-                "teaserTitle": "FUEL OIL PRICES DECLINE",
-                "visual_caption": "Logistics magnate Klaus-Michael Kuehne passed away at age 89. His career profoundly shaped the evolution of modern containerized freight forwarding and global supply chain governance."
+                "headline": "FUEL: DIESEL SURGES TO HIGHEST LEVEL",
+                "teaserTitle": "MOBILITY GLOBAL TRIMS CLASS 8",
+                "visual_caption": "The national average diesel price jumped to $5.652 per gallon, reaching multi-year highs. Over-the-road trucking fleets are absorbing immediate transportation cost spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: OIL PRICES DECLINE",
-                "teaserTitle": "AIR CARGO DEMAND DIPS",
-                "visual_caption": "Crude oil prices fell 2.8% to $87.99 per barrel. Fleet managers must optimize fuel surcharges to protect operating margins against ongoing volatility."
+                "headline": "EQUIPMENT: MOBILITY GLOBAL TRIMS CLASS 8",
+                "teaserTitle": "GATIK AI RAISES 200M FUNDING",
+                "visual_caption": "Mobility Global cut its 2026 forecast for U.S. Class 8 truck registrations to 217,589 units. Tightening capital expenditures reflect reduced fleet expansion appetite."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: DEMAND DIPS",
+                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FUNDING",
                 "teaserTitle": "",
-                "visual_caption": "Airfreight volumes are dipping as the market approaches its traditional late-summer lull. Forwarders should secure forward capacity contracts ahead of upcoming seasonal peaks."
+                "visual_caption": "Autonomous trucking developer Gatik AI has secured $200M in new funding. This capital injection accelerates commercial deployment for B2B middle-mile networks."
             },
             {
                 "slide_index": 8,
