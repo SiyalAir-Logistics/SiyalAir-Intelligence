@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL CAPACITY",
-        "titleBlue": "CUTS",
-        "footerSummary": "Panama Canal capacity restrictions and escalating geopolitical trade friction threaten global maritime efficiency and drive up ocean freight costs for major shippers."
+        "titleWhite": "TRUMP VOWS 50% CANADIAN AUTO",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Escalating trade tensions between the U.S. and Canada threaten cross-border automotive supply chains as 50% tariffs loom for early 2027."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY CUTS",
+            "heading": "GOVERNMENT: TRUMP VOWS 50% CANADIAN AUTO TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority announced scheduled reductions in daily Neopanamax vessel transits heading into September due to persistent freshwater constraints. This operational adjustment restricts daily cargo throughput and increases vessel slot scarcity across crucial trans-Pacific trade lanes.",
-                "Ocean carriers are responding to reduced capacity by deploying premium queue-jump fees and alternative routing strategies that inflate operational budgets. Logistics planners must secure forward slot allocations early to mitigate schedule unreliability and unpredictable spot rate surges."
+                "President Trump announced plans to implement 50% tariffs on Canadian cars, trucks, auto parts, and steel effective Jan. 1, 2027, following a breakdown in trade negotiations. This aggressive escalation threatens deeply integrated North American automotive manufacturing supply chains and cross-border logistics flows.",
+                "Automakers and tier-1 suppliers face severe margin compression and must urgently re-evaluate sourcing strategies to mitigate massive import duty exposures. Supply chain planners should prepare for retaliatory Canadian measures that could further restrict regional freight velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ CANAL TRANSITS RESUME",
+            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -23,43 +23,13 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "LOGISTICS: SUEZ CANAL TRANSITS RESUME",
-            "paragraphs": [
-                "Two of Maersk's largest container vessels successfully completed a coordinated transit through the Suez Canal, marking a significant operational milestone for major ocean carriers. The Suez Canal Authority welcomed the return of ultra-large box ships as part of broader efforts to restore maritime efficiency and shorten transit times.",
-                "The resumption of Red Sea routings offers carriers a vital opportunity to bypass congested southern African detours and reduce bunker fuel expenditures. Shippers must monitor evolving risk assessments to determine whether regular Suez sailings can reliably lower landed inventory costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
-            "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T17:03:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GOVERNMENT: CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
-            "paragraphs": [
-                "Canada\u2019s Prime Minister Mark Carney announced the awarding of a contract valued at C$11B ($7.9B) to Chantier Davie to build 6 large new Arctic icebreakers for the Canadian Coast Guard. This historic shipbuilding order comes as Canada faces growing strategic and commercial activity in the Arctic region.",
-                "Domestic shipyards gain long-term production stability while regional supply chains adapt to strict government mandates for northern fleet modernization. Logistics stakeholders must evaluate local supplier capacity and heavy-lift requirements to support these massive marine infrastructure projects."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
-            "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-24T4:01:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
             "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
             "paragraphs": [
-                "Supply chain software provider Descartes expanded its market footprint by acquiring freight brokerage technology vendor Tai Software for $100M in cash. This strategic transaction integrates advanced transportation management systems to streamline digital brokerage execution and automated load dispatching.",
-                "Freight brokers and third-party logistics providers face mounting pressure to consolidate technology stacks as enterprise software vendors dominate operational infrastructure. Industry stakeholders must evaluate platform interoperability to maintain competitive efficiency in modern freight management."
+                "Global supply chain software provider Descartes acquired freight brokerage technology vendor Tai Software for $100M in cash to strengthen its logistics execution capabilities. This strategic acquisition integrates advanced transportation management systems to streamline digital brokerage operations and automated load dispatching.",
+                "Freight brokers and 3PLs face mounting pressure to consolidate technology stacks as enterprise software vendors dominate operational infrastructure. Industry stakeholders must evaluate platform interoperability to maintain competitive efficiency in modern freight management."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS STOLEN CHECKS CHECK FRAUD",
+            "nextUpTease": "ATRI OPENS ANNUAL TRUCKING SURVEY",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -67,47 +37,77 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SECURITY: USPS STOLEN CHECKS CHECK FRAUD",
+            "id": 3,
+            "heading": "BUSINESS: ATRI OPENS ANNUAL TRUCKING SURVEY",
             "paragraphs": [
-                "Federal prosecutors revealed that postal carriers stole nearly $24M in physical checks from mail routes and shipped them through commercial carriers to buyers nationwide. This criminal network exploited vulnerabilities in mail transit infrastructure to market stolen financial instruments online.",
-                "Logistics providers and corporate shippers face heightened risks of mail and cargo theft, demanding more robust chain-of-custody tracking protocols. Security directors must implement advanced vetting and real-time monitoring across parcel networks to protect sensitive documents and high-value shipments."
+                "The American Transportation Research Institute officially launched its annual national survey to identify and rank the critical operational challenges facing motor carriers. Industry stakeholders evaluate pressing bottlenecks including regulatory compliance, driver retention, and infrastructure capacity.",
+                "Motor carriers utilize these benchmark findings to allocate capital expenditure and lobby federal agencies for critical regulatory relief. Fleet directors must participate actively to ensure operational cost pressures and insurance liabilities are prioritized in national policy debates."
             ],
             "imageUrl": "",
-            "nextUpTease": "JAPAN ZERO EMISSION SHIP SUBSIDY",
+            "nextUpTease": "IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME: JAPAN ZERO EMISSION SHIP SUBSIDY",
+            "id": 4,
+            "heading": "MARITIME: IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
             "paragraphs": [
-                "The Japanese government launched a 5-year, \u00a515.1B ($95M) financial subsidy program designed to accelerate commercial orders for zero-emission vessels. The joint initiative by transport and environment ministries covers up to half the construction costs for ships powered by hydrogen, ammonia, and methanol.",
-                "Shipbuilders and maritime operators gain substantial financial incentives to modernize fleets in alignment with stringent international decarbonization mandates. Vessel owners must evaluate alternative fuel infrastructure readiness to optimize long-term capital investments."
+                "The International Maritime Organization reported that more than 90 seafarers are currently held captive by pirates and armed robbers following a sharp resurgence of attacks in the Gulf of Aden. This escalating security crisis forces vessel operators to implement costly evasive routing and enhanced onboard hardening measures.",
+                "Logistics planners face prolonged transit delays and higher insurance premiums as vessels navigate high-risk maritime chokepoints. Shippers must factor heightened security vulnerabilities into landed cost models and ocean carrier service evaluations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATRI OPENS ANNUAL TRUCKING SURVEY",
+            "nextUpTease": "UPS INVESTS 2B IN GLOBAL NETWORK EXPANSION",
             "tags": [
                 "Source: https://splash247.com",
+                "Published: 2026-08-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK EXPANSION",
+            "paragraphs": [
+                "UPS announced a $2B investment initiative directed toward expanding its international air hub infrastructure, including key facilities at Clark Airport in the Philippines and Hong Kong International Airport. This capital deployment aims to capture surging cross-border e-commerce demand and strengthen intra-Asia trade lanes.",
+                "Express carriers continue to aggressively scale physical footprint to outpace regional capacity constraints and service expectations. Shippers leveraging global parcel networks can anticipate improved transit reliability but should monitor potential carrier surcharge adjustments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO DEMAND DIPS AS RATES HOLD RESILIENT",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AIR CARGO: AIR CARGO DEMAND DIPS AS RATES HOLD RESILIENT",
+            "paragraphs": [
+                "Global airfreight volumes are experiencing a seasonal softening as the market approaches its traditional end-of-summer lull, according to recent WorldACD data. However, spot freight rates are proving notably resilient due to tightening aircraft capacity and rising aviation fuel costs.",
+                "Airlines and forwarders are successfully defending pricing floors even as baseline tonnage contracts, maintaining strong operating margins heading into peak season. Shippers must secure forward block-space agreements early to avoid impending Q4 spot rate volatility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WASHINGTON TURNS TO NUCLEAR POWER IN SHIPBUILDING",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
+            "heading": "MARITIME: WASHINGTON TURNS TO NUCLEAR POWER IN SHIPBUILDING",
             "paragraphs": [
-                "The American Transportation Research Institute officially launched its annual national survey to identify and rank the critical operational challenges facing motor carriers. Industry stakeholders evaluate pressing bottlenecks including regulatory compliance, driver retention, and infrastructure capacity.",
-                "Motor carriers utilize these benchmark findings to allocate capital expenditure and lobby federal agencies for critical regulatory relief. Fleet directors must participate actively to ensure operational cost pressures and insurance liabilities are prioritized in national policy debates."
+                "The U.S. Maritime Administration partnered with CORE POWER in a strategic memorandum of cooperation to accelerate the development of a U.S.-flagged fleet of nuclear-powered merchant ships. This initiative seeks to overcome regulatory and engineering hurdles to deploy zero-emission advanced propulsion across deep-sea trade routes.",
+                "Maritime operators and shipyards gain long-term technological horizons as federal agencies back next-generation propulsion solutions. Vessel investors must monitor regulatory frameworks and safety standards to align fleet renewal strategies with emerging nuclear propulsion options."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

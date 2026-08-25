@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY CUTS",
-                "teaserTitle": "SUEZ CANAL TRANSITS RESUME",
-                "visual_caption": "The Panama Canal Authority is trimming daily vessel transits due to water constraints. Carriers face slot scarcity and rising spot rates across trans-Pacific lanes."
+                "headline": "GOVERNMENT: TRUMP VOWS 50% CANADIAN AUTO TARIFFS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "President Trump announced 50% tariffs on Canadian automotive imports effective Jan. 1. This major trade escalation threatens deeply integrated North American manufacturing supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: SUEZ CANAL TRANSITS RESUME",
-                "teaserTitle": "CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
-                "visual_caption": "Maersk container ships recently completed a coordinated transit through the Suez Canal. The corridor reopening aims to restore maritime efficiency and reduce fuel costs."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "visual_caption": "Descartes acquired freight brokerage technology vendor Tai Software for $100M in cash. The transaction integrates advanced transportation management systems to streamline digital brokerage operations."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA SHIPBUILDING ARCTIC ICEBREAKERS",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "Canada awarded a C$11B ($7.9B) contract for Arctic icebreakers. Chantier Davie will build 6 new vessels to replace aging Coast Guard fleet infrastructure."
+                "headline": "BUSINESS: ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "teaserTitle": "IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+                "visual_caption": "The American Transportation Research Institute launched its annual national survey ranking critical trucking challenges. Motor carriers utilize these benchmark findings to allocate capital expenditure and lobby for regulatory relief."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "USPS STOLEN CHECKS CHECK FRAUD",
-                "visual_caption": "Descartes acquired Tai Software for $100M in cash. The acquisition strengthens digital brokerage execution and automated load dispatching capabilities."
+                "headline": "MARITIME: IMO WARNS PIRACY SURGE LEAVES SEAFARERS CAPTIVE",
+                "teaserTitle": "UPS INVESTS 2B IN GLOBAL NETWORK EXPANSION",
+                "visual_caption": "The International Maritime Organization warned that more than 90 seafarers remain captive following a piracy resurgence. This crisis forces vessel operators to implement costly evasive routing measures."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: USPS STOLEN CHECKS CHECK FRAUD",
-                "teaserTitle": "JAPAN ZERO EMISSION SHIP SUBSIDY",
-                "visual_caption": "Federal prosecutors uncovered a scheme where postal carriers stole nearly $24M in checks. Stolen instruments were shipped through commercial carriers nationwide."
+                "headline": "PARCEL: UPS INVESTS 2B IN GLOBAL NETWORK EXPANSION",
+                "teaserTitle": "AIR CARGO DEMAND DIPS AS RATES HOLD RESILIENT",
+                "visual_caption": "UPS announced a $2B investment to expand its international air hub infrastructure in Asia. This capital deployment aims to capture surging cross-border e-commerce demand."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: JAPAN ZERO EMISSION SHIP SUBSIDY",
-                "teaserTitle": "ATRI OPENS ANNUAL TRUCKING SURVEY",
-                "visual_caption": "Japan opened a \u00a515.1B ($95M) subsidy program for zero-emission ships. The initiative covers up to half the construction costs for alternative fuel vessels."
+                "headline": "AIR CARGO: AIR CARGO DEMAND DIPS AS RATES HOLD RESILIENT",
+                "teaserTitle": "WASHINGTON TURNS TO NUCLEAR POWER IN SHIPBUILDING",
+                "visual_caption": "Global airfreight volumes are softening heading into the end of summer lull. However, spot rates remain resilient due to tightening aircraft capacity and rising fuel costs."
             },
             {
                 "slide_index": 7,
-                "headline": "SURFACE: ATRI OPENS ANNUAL TRUCKING SURVEY",
+                "headline": "MARITIME: WASHINGTON TURNS TO NUCLEAR POWER IN SHIPBUILDING",
                 "teaserTitle": "",
-                "visual_caption": "ATRI launched its annual national survey on top trucking challenges. Motor carriers are prioritizing regulatory compliance, driver retention, and infrastructure capacity."
+                "visual_caption": "The U.S. Maritime Administration partnered with CORE POWER to accelerate nuclear-powered merchant shipping. The initiative seeks to develop zero-emission advanced propulsion across deep-sea routes."
             },
             {
                 "slide_index": 8,
