@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP VOWS FIFTY PERCENT TARIFFS ON CANADA CARS",
+        "hookTitle": "GLOBAL CONTAINER PORT CONGESTION SMASHES RECORD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA",
-                "teaserTitle": "SUEZ CANAL SUEZ TRANSITS",
+                "headline": "PORTS: GLOBAL CONTAINER PORT CONGESTION",
+                "teaserTitle": "CANADA SHIPBUILDING ICEBREAKERS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "President Trump announced fifty percent tariffs on Canadian automotive imports following trade talks collapse. Supply chain executives face severe margin pressure and must reevaluate procurement footprints."
+                "narration_line": "Global container port congestion has surpassed COVID era peaks, removing over four point three million TEU of active capacity. Logistics operators face escalating vessel holding expenses and tightened terminal turnaround times across major international hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CANAL SUEZ TRANSITS",
-                "teaserTitle": "PORTS DURBAN BOX CONGESTION",
+                "headline": "GOVERNMENT: CANADA SHIPBUILDING ICEBREAKERS",
+                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mediterranean Shipping Company is restoring regular Suez transits to bypass African capes. Logistics planners anticipate improved transit velocity across key trade lanes."
+                "narration_line": "Canada awarded an eleven billion dollar contract to build six large Arctic icebreakers for the coast guard. Enterprise logistics leaders must monitor regional shipyard capacity constraints impacting commercial vessel availability."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: DURBAN BOX CONGESTION",
-                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE CLASH",
+                "headline": "REGULATORY: HORMUZ COMPLIANCE",
+                "teaserTitle": "TECHNOLOGY GATIK FUNDING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Severe gridlock at South African terminal Durban has pushed waiting times to ten days. Shippers should deploy agile inventory buffers to avoid prolonged delays."
+                "narration_line": "Vessel operators navigating the Strait of Hormuz face severe legal friction after Iran blacklisted forty-five ships. Compliance teams must execute rigorous risk assessments to preserve operational safety and insurance validity."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
-                "teaserTitle": "OBITUARIES KLAUS MICHAEL KUEHNE",
+                "headline": "TECHNOLOGY: GATIK FUNDING",
+                "teaserTitle": "BUSINESS KUEHNE LEGACY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Vessel operators in the Strait of Hormuz face blacklists and conflicting Washington warnings. Compliance teams must establish real-time tracking frameworks immediately."
+                "narration_line": "Autonomous trucking developer Gatik secured two hundred million dollars in its largest financing round to date. Supply chain executives should evaluate autonomous middle-mile assets to capture long-term labor efficiencies."
             },
             {
                 "slide_index": 5,
-                "headline": "OBITUARIES: KLAUS MICHAEL KUEHNE",
-                "teaserTitle": "AIR CARGO DEMAND DIPS",
+                "headline": "BUSINESS: KUEHNE LEGACY",
+                "teaserTitle": "AIR CARGO CAPACITY SQUEEZE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Global logistics tycoon Klaus-Michael Kuehne has passed away at age eighty-nine. Industry observers will monitor corporate stewardship continuity across his holdings."
+                "narration_line": "Logistics tycoon Klaus-Michael Kuehne has passed away at the age of eighty-nine. Industry stakeholders will closely monitor corporate stewardship across his extensive global freight portfolio."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: AIR CARGO DEMAND DIPS",
-                "teaserTitle": "REGULATORY FORCED LABOR TARIFFS",
+                "headline": "AIR CARGO: CAPACITY SQUEEZE",
+                "teaserTitle": "TARIFFS US CANADA TRADING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Airfreight volumes are softening for late summer while aerospace shipments face component bottlenecks. Freight forwarders must manage capacity allocations carefully."
+                "narration_line": "Aerospace shipments encounter a severe capacity crunch driven by specialized component bottlenecks. Freight forwarders must adjust capacity allocations ahead of the upcoming peak shipping season."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: FORCED LABOR TARIFFS",
+                "headline": "TARIFFS: US CANADA TRADING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The USTR is advancing forced labor tariffs targeting sixty trading partners under Section three hundred one. Importers must perform rigorous vendor audits to prevent detentions."
+                "narration_line": "US and Canadian trade negotiations have broken down, prompting shippers to diversify sourcing footprints. Organizations failing to establish alternative trade corridors risk severe cost escalation."
             },
             {
                 "slide_index": 8,

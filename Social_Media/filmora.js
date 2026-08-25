@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: TRUMP VOWS 50% TARIFFS ON CANADA",
-                "teaserTitle": "SUEZ CANAL SUEZ TRANSITS",
-                "visual_caption": "President Trump announced 50% tariffs on Canadian auto imports following trade talks collapse. Supply chain executives face severe margin pressure and must reevaluate procurement footprints."
+                "headline": "PORTS: GLOBAL CONTAINER PORT CONGESTION",
+                "teaserTitle": "CANADA SHIPBUILDING ICEBREAKERS",
+                "visual_caption": "Global container port congestion has surpassed COVID era peaks, removing over 4.3M TEU of active capacity. Logistics operators face escalating vessel holding expenses and tightened terminal turnaround times."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CANAL SUEZ TRANSITS",
-                "teaserTitle": "PORTS DURBAN BOX CONGESTION",
-                "visual_caption": "Mediterranean Shipping Company is restoring regular Suez transits to bypass African capes. Logistics planners anticipate improved transit velocity across key trade lanes."
+                "headline": "GOVERNMENT: CANADA SHIPBUILDING ICEBREAKERS",
+                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE",
+                "visual_caption": "Canada awarded an $11B contract to build 6 large Arctic icebreakers for the coast guard fleet. Enterprise logistics leaders must monitor regional shipyard capacity constraints impacting commercial vessel availability."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: DURBAN BOX CONGESTION",
-                "teaserTitle": "REGULATORY HORMUZ COMPLIANCE CLASH",
-                "visual_caption": "Severe gridlock at South African terminal Durban has pushed waiting times to 10 days. Shippers should deploy agile inventory buffers to avoid prolonged delays."
+                "headline": "REGULATORY: HORMUZ COMPLIANCE",
+                "teaserTitle": "TECHNOLOGY GATIK FUNDING",
+                "visual_caption": "Vessel operators navigating the Strait of Hormuz face severe legal friction after Iran blacklisted 45 ships. Compliance teams must execute rigorous risk assessments to preserve operational safety."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
-                "teaserTitle": "OBITUARIES KLAUS MICHAEL KUEHNE",
-                "visual_caption": "Vessel operators in the Strait of Hormuz face blacklists and conflicting Washington warnings. Compliance teams must establish real-time tracking frameworks immediately."
+                "headline": "TECHNOLOGY: GATIK FUNDING",
+                "teaserTitle": "BUSINESS KUEHNE LEGACY",
+                "visual_caption": "Autonomous trucking developer Gatik secured $200M in its largest financing round to date. Supply chain executives should evaluate autonomous middle-mile assets to capture long-term labor efficiencies."
             },
             {
                 "slide_index": 5,
-                "headline": "OBITUARIES: KLAUS MICHAEL KUEHNE",
-                "teaserTitle": "AIR CARGO DEMAND DIPS",
-                "visual_caption": "Global logistics tycoon Klaus-Michael Kuehne has passed away at age 89. Industry observers will monitor corporate stewardship continuity across his major holdings."
+                "headline": "BUSINESS: KUEHNE LEGACY",
+                "teaserTitle": "AIR CARGO CAPACITY SQUEEZE",
+                "visual_caption": "Logistics tycoon Klaus-Michael Kuehne has passed away at the age of 89. Industry stakeholders will closely monitor corporate stewardship across his extensive global freight portfolio."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: AIR CARGO DEMAND DIPS",
-                "teaserTitle": "REGULATORY FORCED LABOR TARIFFS",
-                "visual_caption": "Airfreight volumes are softening for late summer while aerospace shipments face component bottlenecks. Freight forwarders must manage capacity allocations carefully."
+                "headline": "AIR CARGO: CAPACITY SQUEEZE",
+                "teaserTitle": "TARIFFS US CANADA TRADING",
+                "visual_caption": "Aerospace shipments encounter a severe capacity crunch driven by specialized component bottlenecks. Freight forwarders must adjust capacity allocations ahead of the upcoming peak shipping season."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: FORCED LABOR TARIFFS",
+                "headline": "TARIFFS: US CANADA TRADING",
                 "teaserTitle": "",
-                "visual_caption": "The USTR is advancing forced labor tariffs targeting 60 trading partners under Section 301. Importers must perform rigorous vendor audits to prevent border detentions."
+                "visual_caption": "US and Canadian trade negotiations have broken down, prompting shippers to diversify sourcing footprints. Organizations failing to establish alternative trade corridors risk severe cost escalation."
             },
             {
                 "slide_index": 8,
