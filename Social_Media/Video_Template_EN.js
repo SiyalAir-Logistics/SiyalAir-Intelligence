@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA TARIFFS HIT TWENTY-SEVEN POINT SIX BILLION",
+        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS ACROSS 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS HIT 27.6B",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL 5.3M AUCTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Ottawa has enacted retaliatory tariffs of up to fifty percent on twenty-seven point six billion dollars of United States imports. Supply chain leaders must evaluate near-shoring alternatives to mitigate unexpected duty liabilities."
+                "narration_line": "The United States Trade Representative has enacted Section three oh one tariffs on sixty partner nations. Importers face immediate cargo holds without verified multi-tier supply chain audits."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
-                "teaserTitle": "GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+                "headline": "MARITIME: PANAMA CANAL 5.3M AUCTION",
+                "teaserTitle": "RXO SPOT RATES SURGE 32%",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Descartes has finalized a one hundred million dollar acquisition of Tai Software to expand its freight brokerage platform. Logistics providers must upgrade digital orchestration tools to maintain broker margins."
+                "narration_line": "An Asian shipper paid a record five point three million dollars for priority Panama Canal transit. Daily vessel crossing slots face severe reductions as drought conditions return this fall."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
-                "teaserTitle": "CONTAINER PORT CONGESTION SMASHES COVID RECORD",
+                "headline": "TRUCKING: RXO SPOT RATES SURGE 32%",
+                "teaserTitle": "UPS INVESTS 2B NETWORK EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Autonomous trucking pioneer Gatik has secured two hundred million dollars to scale its middle-mile logistics network. Fleet operators facing labor overhead must evaluate autonomous vehicle integration."
+                "narration_line": "United States truckload spot rates jumped thirty-two point four percent in the sharpest annual spike since twenty twenty-one. Shippers must secure contract volume now to protect fourth quarter margins."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: CONTAINER PORT CONGESTION SMASHES COVID RECORD",
-                "teaserTitle": "MSC RETURNS TO SUEZ CANAL AND RED SEA",
+                "headline": "PARCEL: UPS INVESTS 2B NETWORK EXPANSION",
+                "teaserTitle": "TRIMBLE INTRODUCES TRANSPORT AI AGENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global container port congestion has surpassed pandemic-era levels, removing over four point three million teus from active service. Cargo owners must establish robust inventory buffers to protect vulnerable supply chains."
+                "narration_line": "UPS has launched a two billion dollar capital investment to modernize automated sortation and cold chain networks. Enterprise parcel shippers gain expanded hub throughput across major medical and retail corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: MSC RETURNS TO SUEZ CANAL AND RED SEA",
-                "teaserTitle": "USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+                "headline": "TECHNOLOGY: TRIMBLE INTRODUCES TRANSPORT AI AGENT",
+                "teaserTitle": "DURBAN FACES 20-DAY CONGESTION CRISIS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "MSC has joined other carriers in resuming select East-West services through the Suez Canal after a security review. Shippers must monitor evolving carrier schedules to secure competitive ocean freight rates."
+                "narration_line": "Trimble introduced an autonomous artificial intelligence agent that automates carrier dispatch and exception routing in real time. Fleet operators can substantially cut administrative overhead while optimizing daily driver utilization."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
-                "teaserTitle": "HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
+                "headline": "PORTS: DURBAN FACES 20-DAY CONGESTION CRISIS",
+                "teaserTitle": "TAIWAN TARGETS B300 AI SERVER EXPORTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The postal service announced a six percent rate increase for the upcoming peak shipping season starting in October. High-volume shippers must incorporate these surcharges into their holiday pricing models immediately."
+                "narration_line": "Ocean carriers issued warnings of twenty-day berthing delays at the Durban Gateway Terminal due to equipment breakdowns. Shippers must reroute urgent regional freight to prevent catastrophic assembly plant shutdowns."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
-                "teaserTitle": "",
+                "headline": "COMPLIANCE: TAIWAN TARGETS B300 AI SERVER EXPORTS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Vessel owners navigating Hormuz face severe compliance risks after Iran blacklisted forty-five commercial ships. Maritime operators must execute rigorous risk assessments to avoid catastrophic operational lockouts."
+                "narration_line": "Taiwanese authorities intercepted an illicit transshipment network diverting restricted Nvidia B300 artificial intelligence servers. Global forwarders face immediate Know-Your-Customer audits to avoid crippling export control violations."
             },
             {
                 "slide_index": 8,

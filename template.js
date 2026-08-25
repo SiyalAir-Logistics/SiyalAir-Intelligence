@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANADA TARIFFS HIT",
-        "titleBlue": "27.6B",
-        "footerSummary": "Ottawa enacts 50% tariffs on 27.6B USD of US goods as trade talks collapse, forcing North American supply chains into rapid restructuring."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners as Section 122 expires, exposing importers to immediate duty hikes and supply audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: CANADA TARIFFS HIT 27.6B",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Ottawa has officially announced retaliatory tariffs of up to 50% on 27.6B USD worth of US imports, targeting key sectors including steel, automotive, and manufacturing. The aggressive trade escalation follows the complete breakdown of bilateral negotiations over heavy-duty trucks and cross-border regulatory frameworks.",
-                "Supply chain leaders managing North American lanes face immediate margin erosion and severe compliance friction as cross-border transport costs spike. Shippers must rapidly evaluate near-shoring alternatives and restructure logistics networks to mitigate unexpected duty liabilities."
+                "The Office of the United States Trade Representative has finalized the rollout of new tariffs across 60 trading partner nations under Section 301 of the Trade Act of 1974. The regulatory enforcement directly succeeds the expiration of Section 122 tariffs, shifting customs audits toward strict forced labor supply chain traceability.",
+                "Importers face immediate margin erosion and heightened customs detention risk without fully mapped origin tracing. Trade compliance teams must instantly audit Tier-1 through Tier-3 supplier documentation to prevent costly cargo seizures at US ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+            "nextUpTease": "PANAMA CANAL 5.3M AUCTION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Published: 2026-08-25T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+            "heading": "MARITIME: PANAMA CANAL 5.3M AUCTION",
             "paragraphs": [
-                "The Descartes Systems Group has finalized a 100M USD acquisition of Tai Software to expand its artificial intelligence-powered transportation management software footprint for freight brokers. The strategic transaction consolidates digital brokerage tools designed to automate complex over-the-road freight matching workflows.",
-                "Logistics providers operating fragmented legacy platforms must upgrade their digital orchestration tools to maintain competitive broker margins and service velocity. Enterprise shippers should audit their 3PL technology stacks to leverage automated capacity sourcing and real-time load optimization."
+                "An Asian energy shipper has paid a record $5.3M auction fee to secure priority transit through the Panama Canal, surpassing the previous record of $4.6M. The extraordinary premium comes as the Panama Canal Authority prepares to trim daily Neopanamax transit slots amid returning El Ni\u00f1o drought conditions.",
+                "Ocean freight budgets face acute financial strain as bidding wars for limited canal slots drive spot transit surcharges to historic highs. Beneficial cargo owners must evaluate the cost-benefit of paying multi-million-dollar bypass fees versus enduring 14-day Cape of Good Hope detours."
             ],
             "imageUrl": "",
-            "nextUpTease": "GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+            "nextUpTease": "RXO SPOT RATES SURGE 32%",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Published: 2026-08-25T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AUTONOMOUS: GATIK AI RAISES 200M FOR DRIVERLESS FREIGHT",
+            "heading": "TRUCKING: RXO SPOT RATES SURGE 32%",
             "paragraphs": [
-                "Autonomous trucking pioneer Gatik AI has secured 200M USD in its largest funding round to date, earmarked for scaling its driverless middle-mile logistics network across commercial routes. The capital injection accelerates the deployment of commercial B2B autonomous delivery fleets across dense regional distribution corridors.",
-                "Fleet operators facing persistent driver shortages and rising labor overhead must evaluate autonomous middle-mile integration to secure long-term operating cost stability. Supply chain directors should assess fixed-route warehouse networks for early autonomous vehicle adoption feasibility."
+                "The proprietary RXO Curve indicator reveals that US dry van truckload spot rates have surged 32.4% year-over-year, marking the steepest pricing acceleration since 2021. Persistent carrier capacity attrition and tightening driver supply have compressed available over-the-road equipment across major freight corridors.",
+                "Enterprise shippers relying heavily on spot capacity face immediate margin compression as contract-to-spot rate parity evaporates heading into Q4. Logistics directors must accelerate mini-bids and lock in dedicated capacity agreements to prevent severe freight budget overruns."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER PORT CONGESTION SMASHES COVID RECORD",
+            "nextUpTease": "UPS INVESTS 2B NETWORK EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-25T12:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: CONTAINER PORT CONGESTION SMASHES COVID RECORD",
+            "heading": "PARCEL: UPS INVESTS 2B NETWORK EXPANSION",
             "paragraphs": [
-                "Global container port congestion has climbed past historical pandemic-era thresholds, removing over 4.3M TEU of effective capacity from active service. Cascading schedule unreliability driven by severe regional typhoons and vessel bunching has severely degraded terminal turnaround performance.",
-                "Ocean freight forwarders face acute equipment shortages, surging demurrage penalties, and compounding schedule disruptions across primary maritime gateways. Cargo owners must establish robust inventory buffers and diversify port entry points to protect vulnerable supply chains."
+                "UPS has announced a targeted $2B capital investment initiative to modernize and expand its global logistics infrastructure and automated sorting hubs. The multi-year capital deployment prioritizes advanced robotics, air network throughput, and healthcare-grade cold chain fulfillment capabilities.",
+                "High-volume e-commerce and pharmaceutical shippers gain enhanced delivery density but face continued carrier pricing discipline as operators seek returns on capital. Distribution strategists should benchmark service level agreements to leverage modernized hub access while auditing parcel surcharge matrices."
             ],
             "imageUrl": "",
-            "nextUpTease": "MSC RETURNS TO SUEZ CANAL AND RED SEA",
+            "nextUpTease": "TRIMBLE INTRODUCES TRANSPORT AI AGENT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-25T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: MSC RETURNS TO SUEZ CANAL AND RED SEA",
+            "heading": "TECHNOLOGY: TRIMBLE INTRODUCES TRANSPORT AI AGENT",
             "paragraphs": [
-                "MSC Mediterranean Shipping Company has confirmed the resumption of select East-West services through the Suez Canal and Red Sea following a comprehensive security review. The carrier joins other major lines in restoring traditional routing as operators reassess operational risks in the region.",
-                "Transit times and voyage economics are expected to adjust as carriers weigh Suez savings against ongoing security and compliance requirements. Shippers must monitor evolving carrier schedules to optimize inventory flow and secure competitive ocean freight rates."
+                "Trimble has launched an autonomous artificial intelligence agent designed to automate end-to-end transportation management workflows and carrier dispatch orchestration. The software natively integrates with carrier telematics to dynamically resolve dispatch exceptions, optimize load assignments, and predict transit delays.",
+                "Freight brokerages and private fleets utilizing legacy manual dispatching face widening operating margin deficits compared to automated competitors. Logistics executives must evaluate agentic AI deployment to reduce overhead per load while improving asset utilization metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+            "nextUpTease": "DURBAN FACES 20-DAY CONGESTION CRISIS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-25T10:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+            "heading": "PORTS: DURBAN FACES 20-DAY CONGESTION CRISIS",
             "paragraphs": [
-                "The United States Postal Service has officially announced a 6% rate increase for the upcoming peak shipping season, applying across Ground Advantage and Priority Mail services. The seasonal surcharge takes effect on October 4, impacting parcel shippers and e-commerce fulfillment operations nationwide.",
-                "High-volume shippers must incorporate these additional surcharges into their holiday pricing models and freight budget forecasts immediately. Distribution networks should evaluate multi-carrier consolidation strategies to mitigate escalating parcel transportation costs."
+                "Major ocean container lines have issued urgent customer advisories warning of vessel berthing delays reaching up to 20 days at South Africa's Durban Gateway Terminal. Severe equipment breakdowns, straddle carrier shortages, and adverse weather have incapacitated quayside container handling operations.",
+                "Shippers operating Southern African import-export lanes face compounding demurrage liabilities and extended supply chain lead times. Global supply chain planners must route high-priority freight through alternative regional hubs or switch urgent consignments to air cargo to prevent manufacturing plant shutdowns."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
+            "nextUpTease": "TAIWAN TARGETS B300 AI SERVER EXPORTS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-25T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: HORMUZ COMPLIANCE CLASH TRAPS VESSEL OWNERS",
+            "heading": "COMPLIANCE: TAIWAN TARGETS B300 AI SERVER EXPORTS",
             "paragraphs": [
-                "Shipowners navigating the Strait of Hormuz face an intense compliance bind after Iran blacklisted 45 commercial vessels and threatened heavy fines and cargo confiscation. Simultaneously, Washington has issued strict warnings against complying with Iranian transit directives, creating severe legal hazards for international carriers.",
-                "Maritime operators and legal compliance divisions must execute rigorous risk assessments to avoid catastrophic operational lockouts and sanctions violations. Voyage planners and cargo owners must incorporate substantial geopolitical risk buffers into Middle Eastern shipping schedules."
+                "Taiwanese trade authorities have launched an aggressive enforcement probe targeting an illicit transshipment network diverting advanced artificial intelligence servers to mainland China. The seized hardware contained restricted Nvidia B300 graphics processing units explicitly barred under multilateral export control regimes.",
+                "High-tech electronics manufacturers and global freight forwarders face intensified dual-use export compliance scrutinies and mandatory end-user verification audits. Trade compliance officers must enforce stringent Know-Your-Customer protocols to prevent catastrophic export licensing revocations and secondary sanctions penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-25T08:30:00Z",
                 "Status: Audited & True"
             ]
         }
