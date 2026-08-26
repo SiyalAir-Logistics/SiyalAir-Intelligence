@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT CONGESTION RECORD",
-                "teaserTitle": "CANADA IMPOSES TARIFFS",
-                "visual_caption": "Global container port congestion has reached a new record high, trapping over 4.3M TEU in stranded volume. Shippers face acute equipment shortages and escalating ocean freight rates across international trade lanes."
+                "headline": "MARITIME: PORT CONGESTION PEAKS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI",
+                "visual_caption": "Global container port congestion has reached 4.3M TEU in stranded capacity. Shippers face acute equipment shortages and escalating ocean freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: CANADA IMPOSES TARIFFS",
-                "teaserTitle": "DESCARTES ACQUIRES TAI",
-                "visual_caption": "Canada has implemented retaliatory tariffs of up to 50% on $27.6B in U.S. goods. Cross-border supply chains face immediate administrative turmoil and severe cost inflation."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI",
+                "teaserTitle": "GATIK RAISES FUNDS",
+                "visual_caption": "Descartes has completed a $100M acquisition of Tai Software. Freight brokerages face mounting pressure as automated platforms streamline dispatch."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI",
-                "teaserTitle": "GATIK RAISES FUNDS",
-                "visual_caption": "Descartes Systems Group has completed a $100M acquisition of Tai Software. Freight brokerages utilizing legacy systems face mounting competitive pressure from automated transportation management platforms."
+                "headline": "AUTONOMOUS: GATIK RAISES FUNDS",
+                "teaserTitle": "USPS PEAK SURCHARGE",
+                "visual_caption": "Gatik AI has closed a $200M funding round to scale operations. Retail supply chains are turning to autonomous middle-mile solutions."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: GATIK RAISES FUNDS",
-                "teaserTitle": "USPS PEAK SURCHARGE",
-                "visual_caption": "Autonomous trucking pioneer Gatik AI has closed a $200M funding round. Retail and grocery supply chains are increasingly turning to autonomous middle-mile solutions."
+                "headline": "PARCEL: USPS PEAK SURCHARGE",
+                "teaserTitle": "TAIWAN SERVER PROBE",
+                "visual_caption": "The USPS announced a 6% peak season surcharge effective Oct. 4. E-commerce merchants face compressed fulfillment budgets as carrier surcharges compound."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL: USPS PEAK SURCHARGE",
-                "teaserTitle": "TAIWAN SERVER PROBE",
-                "visual_caption": "The United States Postal Service announced a 6% peak season surcharge effective Oct. 4. E-commerce merchants face compressed fulfillment budgets as carrier surcharges compound annual rate increases."
+                "headline": "COMPLIANCE: TAIWAN SERVER PROBE",
+                "teaserTitle": "MSC RESTORES SUEZ",
+                "visual_caption": "Taiwanese authorities launched an investigation into restricted AI servers. Global forwarders face heightened customs scrutiny and mandatory audits."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: TAIWAN SERVER PROBE",
-                "teaserTitle": "MSC RESTORES SUEZ",
-                "visual_caption": "Taiwanese authorities launched an investigation into an illicit network diverting restricted AI servers to China. Global freight forwarders face heightened customs scrutiny and mandatory end-user verification audits."
+                "headline": "MARITIME: MSC RESTORES SUEZ",
+                "teaserTitle": "CANADA TARIFF STALEMATE",
+                "visual_caption": "MSC confirmed the formal resumption of select services through the Suez Canal. Ocean transit times are set to decrease, offering shippers relief."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: MSC RESTORES SUEZ",
+                "headline": "GOVERNMENT: CANADA TARIFF STALEMATE",
                 "teaserTitle": "",
-                "visual_caption": "Mediterranean Shipping Company confirmed the formal resumption of select East-West services through the Suez Canal. Ocean freight transit times between Asia and Europe are set to decrease."
+                "visual_caption": "Ottawa will implement tariffs of up to 50% on $27.6B in U.S. goods. Cross-border supply chains face immediate administrative turmoil."
             },
             {
                 "slide_index": 8,
