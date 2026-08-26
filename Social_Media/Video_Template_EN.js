@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT CONGESTION SMASHES RECORD",
+        "hookTitle": "CANADA MATCHES TARIFFS DOLLAR",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT CONGESTION SMASHES RECORD",
-                "teaserTitle": "DESCARTES ACQUIRES TAI",
+                "headline": "GOVERNMENT: CANADA MATCHES TARIFFS DOLLAR",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global container port congestion has exceeded four point three million TEUs of stranded capacity. Terminals face severe delays as regional shipping bottlenecks constrain vessel turnaround times."
+                "narration_line": "Trade talks between Washington and Ottawa have broken down completely. Canada is imposing retaliatory tariffs of up to fifty percent on twenty seven billion dollars of goods."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI",
-                "teaserTitle": "CANADA TARIFFS AND TRADE",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "GATIK AI FUNDING ROUND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Descartes has completed a one hundred million dollar acquisition of Tai Software. The deal expands artificial intelligence tools for freight brokerage platforms."
+                "narration_line": "Descartes Systems Group is acquiring Tai Software for one hundred million dollars. The deal expands its artificial intelligence powered transportation management platform for freight brokers."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA TARIFFS AND TRADE",
-                "teaserTitle": "GATIK AI FUNDING ROUND",
+                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
+                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ottawa has implemented retaliatory tariffs of up to fifty percent on twenty seven point six billion dollars of goods. Cross border supply chains face immediate administrative turmoil."
+                "narration_line": "Autonomous trucking pioneer Gatik AI has closed a two hundred million dollar funding round. The capital will scale driverless freight operations across thousands of middle-mile routes."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
-                "teaserTitle": "USPS PEAK SURCHARGE",
+                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
+                "teaserTitle": "HORMUZ COMPLIANCE CLASH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous trucker Gatik has closed a two hundred million dollar funding round. The capital will scale driverless middle mile freight operations."
+                "narration_line": "The United States Postal Service announced a six percent peak season surcharge starting October fourth. The holiday pricing adjustment offsets seasonal volume surges and network congestion."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL: USPS PEAK SURCHARGE",
-                "teaserTitle": "HORMUZ COMPLIANCE CLASH",
+                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
+                "teaserTitle": "PANAMA CANAL FEE SURGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United States Postal Service announced a six percent peak season surcharge starting October fourth. Surcharges will compress fourth quarter parcel fulfillment budgets."
+                "narration_line": "Shipowners in the Strait of Hormuz face severe compliance pressure after Iran blacklisted forty five ships. Washington warned carriers that adhering to Tehran violates international sanctions."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
-                "teaserTitle": "MSC RESTORES SUEZ",
+                "headline": "MARITIME: PANAMA CANAL FEE SURGE",
+                "teaserTitle": "MSC RESTORES SUEZ ROUTE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Iran blacklisted forty five ships while Washington issued strict sanctions warnings. Shipowners face severe compliance risks across energy transit corridors."
+                "narration_line": "An empty liquefied petroleum gas tanker paid a record four point six million dollar priority fee. The transaction shatters previous bidding records amid severe El Nino drought restrictions."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: MSC RESTORES SUEZ",
+                "headline": "MARITIME: MSC RESTORES SUEZ ROUTE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mediterranean Shipping Company is resuming select East West services through the Suez Canal. Transit times between Asia and Europe are set to decrease."
+                "narration_line": "Mediterranean Shipping Company is resuming select East-West services through the Suez Canal. The transition offers shippers relief from prolonged Cape of Good Hope transit delays."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
