@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CONTAINER PORT CONGESTION RECORD",
+                "headline": "MARITIME: PORT CONGESTION RECORD",
                 "teaserTitle": "CANADA IMPOSES TARIFFS",
-                "visual_caption": "Global container port congestion traps over 4.3M TEU in stranded volume. Shippers face acute equipment shortages and escalating ocean freight rates."
+                "visual_caption": "Global container port congestion has reached a new record high, trapping over 4.3M TEU in stranded volume. Shippers face acute equipment shortages and escalating ocean freight rates across international trade lanes."
             },
             {
                 "slide_index": 2,
                 "headline": "GOVERNMENT: CANADA IMPOSES TARIFFS",
                 "teaserTitle": "DESCARTES ACQUIRES TAI",
-                "visual_caption": "Canada implemented retaliatory tariffs of up to 50% on $27.6B in U.S. goods. Cross-border supply chains face immediate administrative turmoil."
+                "visual_caption": "Canada has implemented retaliatory tariffs of up to 50% on $27.6B in U.S. goods. Cross-border supply chains face immediate administrative turmoil and severe cost inflation."
             },
             {
                 "slide_index": 3,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI",
                 "teaserTitle": "GATIK RAISES FUNDS",
-                "visual_caption": "Descartes Systems Group completed a $100M acquisition of Tai Software. The deal expands automated transportation management capabilities for freight brokers."
+                "visual_caption": "Descartes Systems Group has completed a $100M acquisition of Tai Software. Freight brokerages utilizing legacy systems face mounting competitive pressure from automated transportation management platforms."
             },
             {
                 "slide_index": 4,
                 "headline": "AUTONOMOUS: GATIK RAISES FUNDS",
                 "teaserTitle": "USPS PEAK SURCHARGE",
-                "visual_caption": "Autonomous trucking pioneer Gatik AI closed a $200M funding round. The capital will scale driverless middle-mile operations across thousands of new routes."
+                "visual_caption": "Autonomous trucking pioneer Gatik AI has closed a $200M funding round. Retail and grocery supply chains are increasingly turning to autonomous middle-mile solutions."
             },
             {
                 "slide_index": 5,
                 "headline": "PARCEL: USPS PEAK SURCHARGE",
                 "teaserTitle": "TAIWAN SERVER PROBE",
-                "visual_caption": "The United States Postal Service announced a 6% peak season parcel surcharge starting Oct. 4. E-commerce merchants face compressed fulfillment budgets."
+                "visual_caption": "The United States Postal Service announced a 6% peak season surcharge effective Oct. 4. E-commerce merchants face compressed fulfillment budgets as carrier surcharges compound annual rate increases."
             },
             {
                 "slide_index": 6,
                 "headline": "COMPLIANCE: TAIWAN SERVER PROBE",
                 "teaserTitle": "MSC RESTORES SUEZ",
-                "visual_caption": "Taiwanese authorities launched an investigation into illicit shipments of restricted Nvidia AI servers. Global forwarders face heightened customs scrutiny and audits."
+                "visual_caption": "Taiwanese authorities launched an investigation into an illicit network diverting restricted AI servers to China. Global freight forwarders face heightened customs scrutiny and mandatory end-user verification audits."
             },
             {
                 "slide_index": 7,
                 "headline": "MARITIME: MSC RESTORES SUEZ",
                 "teaserTitle": "",
-                "visual_caption": "Mediterranean Shipping Company resumed select East-West services through the Suez Canal. Ocean transit times are set to decrease, offering relief from delays."
+                "visual_caption": "Mediterranean Shipping Company confirmed the formal resumption of select East-West services through the Suez Canal. Ocean freight transit times between Asia and Europe are set to decrease."
             },
             {
                 "slide_index": 8,

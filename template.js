@@ -1,14 +1,14 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CONTAINER PORT CONGESTION SMASHES",
+        "titleWhite": "PORT CONGESTION SMASHES",
         "titleBlue": "RECORD",
         "footerSummary": "Global container port congestion hits 4.3M TEU as stranded volume records break and ocean supply chains absorb severe capacity shocks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: CONTAINER PORT CONGESTION RECORD",
+            "heading": "MARITIME: PORT CONGESTION RECORD",
             "paragraphs": [
                 "Global container port congestion has surged to a new record high, trapping more than 4.3M TEU of capacity in stranded volume across international shipping lanes. Mounting delays at major Asian and European gateways have severely degraded vessel turnaround times and constricted active fleet availability.",
                 "Shippers face acute equipment shortages and escalating ocean freight rates as carriers struggle to maintain published transit schedules. Logistics executives must secure buffer inventory and evaluate alternative routing strategies to insulate supply chains from terminal-side bottlenecks."
