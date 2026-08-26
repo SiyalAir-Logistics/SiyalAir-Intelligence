@@ -1,14 +1,14 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL PORT CONGESTION REACHES RECORD",
+        "titleWhite": "CONTAINER CONGESTION SURGES TO RECORD",
         "titleBlue": "4.3M TEU",
         "footerSummary": "Global container congestion hits 4.3M TEU as regional bottlenecks persist, while carriers navigate escalating tariff disputes and port surcharges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PORT CONGESTION REACHES 4.3M TEU",
+            "heading": "MARITIME: PORT CONGESTION SURGES TO 4.3M TEU",
             "paragraphs": [
                 "The volume of container capacity stranded due to global port congestion has reached a record high of 4.3M TEU, according to analytics firm Linerlytica. Severe vessel delays across Asian ports and persistent maritime bottlenecks in Europe are compounding equipment shortages and pushing ocean freight rates higher.",
                 "Shippers face extended supply chain transit disruptions and tightening vessel availability just as peak shipping season volumes accelerate. Logistics managers must secure flexible carrier allocations and evaluate alternative routing strategies to mitigate schedule unreliability."
@@ -74,7 +74,7 @@ const dailyData = {
                 "E-commerce merchants and high-volume parcel shippers face compressed Q4 fulfillment budgets as carrier surcharges compound annual rate increases. Logistics managers should diversify carrier mix and optimize packaging dimensions to minimize seasonal shipping penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA RETAIL SKUS CUT",
+            "nextUpTease": "CANADA RETALIATORY TARIFFS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-25T10:00:00Z",
@@ -89,7 +89,7 @@ const dailyData = {
                 "Cross-border shippers must rapidly restructure supply chains and absorb heavy tariff expenses to mitigate margin erosion. Logistics directors need to audit sourcing origins immediately and establish alternative trade lanes outside the affected corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "RXO SPOT RATES STRENGTH",
+            "nextUpTease": "TRUCKING SPOT RATES STRENGTH",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-25T08:30:00Z",
@@ -98,7 +98,7 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "TRUCKING: RXO SPOT RATES STRENGTH",
+            "heading": "TRUCKING: SPOT RATES STRENGTH",
             "paragraphs": [
                 "Spot rates in the United States trucking sector rose sharply in the second quarter, posting annual gains of 32.4% according to market analytics from RXO. The ongoing surge reflects tightening over-the-road capacity and increased shipper reliance on contract and spot market tenders.",
                 "Carriers and freight brokers are capitalizing on higher rate environments as seasonal shipping demands intensify across key freight lanes. Logistics operators must secure forward capacity commitments to guard against volatile spot market pricing spikes."
