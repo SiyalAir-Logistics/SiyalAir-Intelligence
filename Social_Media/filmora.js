@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA RETALIATORY TARIFFS",
-                "teaserTitle": "CONTAINER CONGESTION SMASHES RECORD",
-                "visual_caption": "Canada enacts $20B in retaliatory tariffs as trade talks collapse. Cross-border supply chains face immediate administrative friction and severe cost inflation."
+                "headline": "MARITIME: GLOBAL PORT CONGESTION RECORD",
+                "teaserTitle": "CANADA MATCHES TARIFFS",
+                "visual_caption": "Global container port congestion has surged beyond historic peaks, trapping 4.3M TEU of capacity. Supply chain planners must secure buffer inventory to mitigate impending bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CONTAINER CONGESTION SMASHES RECORD",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "Global container port congestion locks out over 4.3M TEU of capacity. Typhoon disruptions and Red Sea detours degrade vessel turnaround times worldwide."
+                "headline": "GOVERNMENT: CANADA MATCHES TARIFFS",
+                "teaserTitle": "DESCARTES ACQUIRES TAI",
+                "visual_caption": "Canada enacted retaliatory tariffs targeting $27.6B in American imports. Cross-border supply chains face immediate cost inflation and administrative chaos."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "GATIK AI RAISES 200M FUNDING",
-                "visual_caption": "Descartes Systems Group acquires Tai Software in a $100M transaction. The deal expands automated transportation management capabilities for freight brokers."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI",
+                "teaserTitle": "GATIK RAISES 200M",
+                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M to expand its freight brokerage platform. Automated transportation management systems are intensifying industry competition."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: GATIK AI RAISES 200M FUNDING",
-                "teaserTitle": "USPS ANNOUNCES 6% PEAK SURCHARGE",
-                "visual_caption": "Autonomous trucking pioneer Gatik AI raises $200M in new funding. Capital will scale driverless commercial freight operations across middle-mile routes."
+                "headline": "AUTONOMOUS: GATIK RAISES 200M",
+                "teaserTitle": "USPS PEAK SURCHARGE",
+                "visual_caption": "Autonomous trucking pioneer Gatik closed a $200M funding round to scale commercial operations. Fleets are increasingly turning to driverless middle-mile solutions."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL: USPS ANNOUNCES 6% PEAK SURCHARGE",
-                "teaserTitle": "TAIWAN TARGETS AI SERVER EXPORTS",
-                "visual_caption": "The USPS announces a 6% peak season surcharge effective October 4. E-commerce merchants face compressed fulfillment budgets heading into Q4."
+                "headline": "PARCEL: USPS PEAK SURCHARGE",
+                "teaserTitle": "AI SERVER PROBE",
+                "visual_caption": "The United States Postal Service announced a 6% peak season surcharge starting Oct. 4. High-volume parcel shippers face compressed Q4 fulfillment budgets."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: TAIWAN TARGETS AI SERVER EXPORTS",
-                "teaserTitle": "MSC RESTORES SUEZ CANAL TRANSITS",
-                "visual_caption": "Taiwanese authorities probe illicit AI server shipments to China. Shippers face intensified export compliance audits and strict verification protocols."
+                "headline": "COMPLIANCE: AI SERVER PROBE",
+                "teaserTitle": "MSC RESTORES SUEZ",
+                "visual_caption": "Taiwanese authorities launched a probe into illicit shipments of restricted Nvidia AI servers. Compliance teams must implement strict verification audits across export hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: MSC RESTORES SUEZ CANAL TRANSITS",
+                "headline": "MARITIME: MSC RESTORES SUEZ",
                 "teaserTitle": "",
-                "visual_caption": "MSC resumes select East-West services through the Suez Canal. Ocean freight transit times between Asia and Europe are set to decrease."
+                "visual_caption": "Mediterranean Shipping Company resumed select services through the Suez Canal following security reviews. Shippers will see reduced transit times compared to Cape of Good Hope routes."
             },
             {
                 "slide_index": 8,
