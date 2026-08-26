@@ -1,26 +1,27 @@
-🌐 GLOBAL PORT CONGESTION SMASHES RECORD
+🌐 CONTAINER PORT CONGESTION SMASHES RECORD
+
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / MARITIME: GLOBAL PORT CONGESTION RECORD
-Global container port congestion has surged beyond historic Covid-era peaks, trapping more than 4.3M TEU of capacity outside active circulation.
+01 / MARITIME: CONTAINER PORT CONGESTION RECORD
+Global container port congestion has surged to a new record high, trapping more than 4.3M TEU of capacity in stranded volume across international shipping lanes.
 
-02 / GOVERNMENT: CANADA MATCHES TARIFFS
-Canada has enacted retaliatory tariffs targeting $27.6B in annual imports following the breakdown of bilateral trade negotiations.
+02 / GOVERNMENT: CANADA IMPOSES TARIFFS
+Canada has officially implemented retaliatory tariffs of up to 50% on $27.6B in U.S. goods after trade negotiations broke down over heavy-duty truck policies.
 
 03 / TECHNOLOGY: DESCARTES ACQUIRES TAI
-Descartes Systems Group has finalized a $100M acquisition of Tai Software to expand its automated freight brokerage capabilities.
+Descartes Systems Group has completed a $100M acquisition of Tai Software, securing an advanced artificial intelligence-powered transportation management platform.
 
-04 / AUTONOMOUS: GATIK RAISES 200M
-Autonomous trucking pioneer Gatik AI has successfully closed a $200M funding round to scale its driverless commercial freight operations.
+04 / AUTONOMOUS: GATIK RAISES FUNDS
+Autonomous trucking pioneer Gatik AI has successfully closed a $200M funding round to scale its driverless freight operations across thousands of middle-mile routes.
 
 05 / PARCEL: USPS PEAK SURCHARGE
-The United States Postal Service has officially announced a 6% peak season surcharge across Ground Advantage and Priority Mail services.
+The United States Postal Service has announced a 6% peak season surcharge across Ground Advantage and Priority Mail services, effective October 4.
 
-06 / COMPLIANCE: AI SERVER PROBE
-Taiwanese trade enforcement authorities have launched an aggressive probe into an illicit transshipment network diverting restricted AI servers.
+06 / COMPLIANCE: TAIWAN SERVER PROBE
+Taiwanese trade authorities have launched an aggressive investigation into an illicit transshipment network attempting to divert restricted Nvidia B300 AI servers to China.
 
 07 / MARITIME: MSC RESTORES SUEZ
-Mediterranean Shipping Company has confirmed the formal resumption of select East-West services through the Suez Canal.
+Mediterranean Shipping Company has confirmed the formal resumption of select East-West services through the Suez Canal following comprehensive security reviews.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
