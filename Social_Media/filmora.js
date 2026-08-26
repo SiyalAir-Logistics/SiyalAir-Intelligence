@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "PORT CONGESTION VOLUME RECORD",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. This record fee highlights extreme vessel scheduling pressures and draft limits."
+                "headline": "MARITIME: CANAL QUEUE JUMP FEE PASSES",
+                "teaserTitle": "CONTAINER CONGESTION VOLUME RECORD",
+                "visual_caption": "SK Gas paid $5.3M for a Panama Canal booking slot. Persistent draft limits and El Nino weather disruptions continue to drive transit surcharges."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PORT CONGESTION VOLUME RECORD",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "Global container port congestion reached 4.3M TEUs of stranded capacity. Severe Asian vessel delays are compounding equipment shortages and driving spot rates higher."
+                "headline": "MARITIME: CONTAINER CONGESTION VOLUME RECORD",
+                "teaserTitle": "CANADA RETALIATORY TARIFFS",
+                "visual_caption": "Global container capacity stranded by port congestion reached 4.3M TEU. Severe vessel delays in Asia and Europe continue to drive spot freight rates higher."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
-                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M. Brokerages face mounting pressures as automated platforms streamline load matching."
+                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
+                "teaserTitle": "AUTONOMOUS TRUCKING FUNDING",
+                "visual_caption": "Canada implements retaliatory tariffs up to 50% on $27.6B of U.S. goods. Cross-border shippers must restructure transport networks to avoid margin erosion."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
-                "teaserTitle": "GATIK AI FUNDING ROUND",
-                "visual_caption": "The United States Postal Service announced a 6% peak season surcharge starting Oct. 4. E-commerce merchants face compressed fulfillment budgets."
+                "headline": "AUTONOMOUS: TRUCKING FUNDING",
+                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
+                "visual_caption": "Gatik AI secured $200M in funding to scale driverless trucks. Supply chain executives are evaluating autonomous deployment timelines to combat labor shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
-                "teaserTitle": "CANADA RETALIATORY TARIFFS",
-                "visual_caption": "Autonomous pioneer Gatik secured $200M in its latest funding series. The capital accelerates middle-mile truck operations across North America."
+                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
+                "teaserTitle": "TRUCKING SPOT RATES STRENGTH",
+                "visual_caption": "The USPS announced a 6% peak season surcharge for ground and priority services. E-commerce merchants face compressed Q4 fulfillment budgets as carrier surcharges rise."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
-                "teaserTitle": "TRUCKING SPOT RATES STRENGTH",
-                "visual_caption": "Canada is implementing retaliatory tariffs of up to 50% on $27.6B of goods. Cross-border shippers must rapidly restructure transport networks."
+                "headline": "TRUCKING: SPOT RATES STRENGTH",
+                "teaserTitle": "TECHNOLOGY TMS ACQUISITION",
+                "visual_caption": "U.S. trucking spot rates posted sharp annual gains amid tightening over-the-road capacity. Logistics operators must secure forward capacity commitments to guard against volatile pricing."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: SPOT RATES STRENGTH",
+                "headline": "TECHNOLOGY: TMS ACQUISITION",
                 "teaserTitle": "",
-                "visual_caption": "United States trucking spot rates posted annual gains of 32.4% in Q2. Carriers capitalize on higher rate environments as demand intensifies."
+                "visual_caption": "Descartes completed a $100M acquisition of freight broker software provider Tai Software. Brokerages relying on legacy dispatch architectures face mounting competitive pressures."
             },
             {
                 "slide_index": 8,
