@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA MATCHES TARIFFS DOLLAR",
+        "hookTitle": "PORT CONGESTION REACHES 4.3M TEU",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA MATCHES TARIFFS DOLLAR",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "headline": "MARITIME: PORT CONGESTION REACHES 4.3M TEU",
+                "teaserTitle": "PANAMA CANAL SLOT AUCTION RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trade talks between Washington and Ottawa have broken down completely. Canada is imposing retaliatory tariffs of up to fifty percent on twenty seven billion dollars of goods."
+                "narration_line": "Global container port congestion has reached four point three one million TEU. Severe vessel delays across Asian and European hubs are tightening capacity and driving up ocean rates."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "GATIK AI FUNDING ROUND",
+                "headline": "MARITIME: PANAMA CANAL SLOT AUCTION RECORD",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Descartes Systems Group is acquiring Tai Software for one hundred million dollars. The deal expands its artificial intelligence powered transportation management platform for freight brokers."
+                "narration_line": "A South Korean shipping operator paid five point three million dollars for an expedited Panama Canal transit slot. The record auction highlights severe vessel bottlenecks caused by regional drought restrictions."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
-                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "teaserTitle": "GATIK AI FUNDING ROUND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Autonomous trucking pioneer Gatik AI has closed a two hundred million dollar funding round. The capital will scale driverless freight operations across thousands of middle-mile routes."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to expand its freight brokerage platform. Logistics providers are rapidly modernizing tech stacks to maintain competitive operating margins."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
-                "teaserTitle": "HORMUZ COMPLIANCE CLASH",
+                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
+                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United States Postal Service announced a six percent peak season surcharge starting October fourth. The holiday pricing adjustment offsets seasonal volume surges and network congestion."
+                "narration_line": "Autonomous trucking leader Gatik AI raised two hundred million dollars in its largest funding round to date. Retailers are adopting driverless middle-mile solutions to mitigate ongoing labor and capacity constraints."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
-                "teaserTitle": "PANAMA CANAL FEE SURGE",
+                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
+                "teaserTitle": "HORMUZ COMPLIANCE CLASH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Shipowners in the Strait of Hormuz face severe compliance pressure after Iran blacklisted forty five ships. Washington warned carriers that adhering to Tehran violates international sanctions."
+                "narration_line": "The United States Postal Service announced a six percent peak season surcharge starting October fourth. Parcel shippers must diversify carrier networks to protect fourth-quarter fulfillment budgets from compounding rate hikes."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: PANAMA CANAL FEE SURGE",
-                "teaserTitle": "MSC RESTORES SUEZ ROUTE",
+                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
+                "teaserTitle": "CANADA RETAIL SKUS CUT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An empty liquefied petroleum gas tanker paid a record four point six million dollar priority fee. The transaction shatters previous bidding records amid severe El Nino drought restrictions."
+                "narration_line": "Ocean carriers navigating the Strait of Hormuz face severe compliance risks after regional authorities blacklisted multiple vessels. Maritime risk management teams must utilize real-time intelligence to prevent detentions."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: MSC RESTORES SUEZ ROUTE",
+                "headline": "RETAIL: CANADA RETAIL SKUS CUT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mediterranean Shipping Company is resuming select East-West services through the Suez Canal. The transition offers shippers relief from prolonged Cape of Good Hope transit delays."
+                "narration_line": "Major regional retailers are slashing product SKUs by twenty percent to insulate supply chains from trade friction. Inventory rationalization is protecting working capital against impending cross-border tariff hikes."
             },
             {
                 "slide_index": 8,
