@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT CONGESTION SURGES TO 4.3M TEU",
-                "teaserTitle": "PANAMA CANAL SLOT AUCTION RECORD",
-                "visual_caption": "Global container congestion has reached a record 4.3M TEU. Shippers face severe vessel delays and rising ocean freight rates."
+                "headline": "REGULATORY: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CANADA RETALIATORY TARIFFS",
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partners. Importers face strict compliance audits and rising duty expenses."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL SLOT AUCTION RECORD",
-                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "A South Korean shipowner set a record by paying $5.3M for a Panama Canal slot. Exorbitant fees drive up operating costs for energy shippers."
+                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
+                "teaserTitle": "PANAMA CANAL SLOT AUCTION RECORD",
+                "visual_caption": "Canada is imposing retaliatory tariffs of up to 50% on $27.6B in U.S. goods. Cross-border shippers must restructure sourcing networks immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "teaserTitle": "GATIK AI FUNDING ROUND",
-                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M. Automated transportation management platforms are streamlining broker operations."
+                "headline": "MARITIME: PANAMA CANAL SLOT AUCTION RECORD",
+                "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "A South Korean shipowner set a new maritime record by paying $5.3M for a Panama Canal slot. Energy shippers face heavy transit surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
                 "teaserTitle": "USPS PEAK SEASON SURCHARGE",
-                "visual_caption": "Autonomous trucking pioneer Gatik AI closed a $200M funding round. Retail supply chains are rapidly adopting driverless middle-mile solutions."
+                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M in its third major purchase of 2026. Brokerages must accelerate technology adoption."
             },
             {
                 "slide_index": 5,
                 "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
-                "teaserTitle": "CANADA RETALIATORY TARIFFS",
-                "visual_caption": "The United States Postal Service announced a 6% peak season surcharge. Merchants face compressed Q4 fulfillment budgets."
+                "teaserTitle": "TRUCKING SPOT RATES STRENGTH",
+                "visual_caption": "The USPS announced a 6% peak season surcharge starting Oct. 4. E-commerce merchants face compressed fulfillment budgets."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
-                "teaserTitle": "TRUCKING SPOT RATES STRENGTH",
-                "visual_caption": "Canada is imposing retaliatory tariffs of up to 50% on $27.6B of U.S. goods. Cross-border supply chains must restructure sourcing origins."
+                "headline": "TRUCKING: SPOT RATES STRENGTH",
+                "teaserTitle": "PORT CONGESTION VOLUME SURGE",
+                "visual_caption": "U.S. truckload spot rates rose 32.4% annually in Q2. Carriers are capitalizing on tightening over-the-road capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: SPOT RATES STRENGTH",
+                "headline": "MARITIME: PORT CONGESTION VOLUME SURGE",
                 "teaserTitle": "",
-                "visual_caption": "United States trucking spot rates posted annual gains of 32.4%. Logistics operators must secure forward capacity commitments."
+                "visual_caption": "Global port congestion stranded 4.3M TEU of container capacity amid severe vessel delays. Logistics managers must secure flexible carrier allocations."
             },
             {
                 "slide_index": 8,
