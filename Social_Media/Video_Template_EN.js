@@ -1,7 +1,7 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT CONGESTION REACHES 4.3M TEU",
+        "hookTitle": "GLOBAL PORT CONGESTION REACHES RECORD 4.3M TEU",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
@@ -9,49 +9,49 @@ module.exports = {
                 "headline": "MARITIME: PORT CONGESTION REACHES 4.3M TEU",
                 "teaserTitle": "PANAMA CANAL SLOT AUCTION RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global container port congestion has reached four point three one million TEU. Severe vessel delays across Asian and European hubs are tightening capacity and driving up ocean rates."
+                "narration_line": "Global container congestion has surged to four point three million TEU due to severe Asian port delays. Shippers face tight vessel availability and must secure flexible carrier allocations."
             },
             {
                 "slide_index": 2,
                 "headline": "MARITIME: PANAMA CANAL SLOT AUCTION RECORD",
                 "teaserTitle": "DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A South Korean shipping operator paid five point three million dollars for an expedited Panama Canal transit slot. The record auction highlights severe vessel bottlenecks caused by regional drought restrictions."
+                "narration_line": "A South Korean shipowner paid five point three million dollars for an expedited Panama Canal transit slot. Exorbitant premiums are driving up operating costs for energy shippers."
             },
             {
                 "slide_index": 3,
                 "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
                 "teaserTitle": "GATIK AI FUNDING ROUND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to expand its freight brokerage platform. Logistics providers are rapidly modernizing tech stacks to maintain competitive operating margins."
+                "narration_line": "Descartes Systems Group acquired Tai Software for one hundred million dollars to expand brokerage capabilities. Brokerages face mounting pressure as automated TMS platforms streamline operations."
             },
             {
                 "slide_index": 4,
                 "headline": "AUTONOMOUS: GATIK AI FUNDING ROUND",
                 "teaserTitle": "USPS PEAK SEASON SURCHARGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous trucking leader Gatik AI raised two hundred million dollars in its largest funding round to date. Retailers are adopting driverless middle-mile solutions to mitigate ongoing labor and capacity constraints."
+                "narration_line": "Autonomous trucking pioneer Gatik AI closed a two hundred million dollar funding round to scale operations. Retail supply chains are turning to automated middle-mile solutions."
             },
             {
                 "slide_index": 5,
                 "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
-                "teaserTitle": "HORMUZ COMPLIANCE CLASH",
+                "teaserTitle": "CANADA RETALIATORY TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United States Postal Service announced a six percent peak season surcharge starting October fourth. Parcel shippers must diversify carrier networks to protect fourth-quarter fulfillment budgets from compounding rate hikes."
+                "narration_line": "The postal service announced a six percent peak season surcharge effective October fourth. E-commerce merchants face compressed fulfillment budgets as carrier surcharges rise."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: HORMUZ COMPLIANCE CLASH",
-                "teaserTitle": "CANADA RETAIL SKUS CUT",
+                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
+                "teaserTitle": "RXO SPOT RATES STRENGTH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean carriers navigating the Strait of Hormuz face severe compliance risks after regional authorities blacklisted multiple vessels. Maritime risk management teams must utilize real-time intelligence to prevent detentions."
+                "narration_line": "Canada is imposing tariffs of up to fifty percent on twenty seven billion dollars of United States imports. Cross-border shippers must restructure supply chains to avoid duty spikes."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: CANADA RETAIL SKUS CUT",
+                "headline": "TRUCKING: RXO SPOT RATES STRENGTH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major regional retailers are slashing product SKUs by twenty percent to insulate supply chains from trade friction. Inventory rationalization is protecting working capital against impending cross-border tariff hikes."
+                "narration_line": "Truckload spot rates jumped thirty two percent annually amid tightening over-the-road capacity. Shippers must secure forward capacity commitments to guard against pricing volatility."
             },
             {
                 "slide_index": 8,

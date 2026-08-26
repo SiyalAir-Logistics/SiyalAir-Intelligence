@@ -1,16 +1,16 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT CONGESTION REACHES RECORD",
+        "titleWhite": "GLOBAL PORT CONGESTION REACHES RECORD",
         "titleBlue": "4.3M TEU",
-        "footerSummary": "Global container congestion hits 4.31M TEU as typhoons strike Asia, while SK Gas sets a $5.3M Panama Canal record."
+        "footerSummary": "Global container congestion hits 4.3M TEU as regional bottlenecks persist, while carriers navigate escalating tariff disputes and port surcharges."
     },
     "slides": [
         {
             "id": 1,
             "heading": "MARITIME: PORT CONGESTION REACHES 4.3M TEU",
             "paragraphs": [
-                "The volume of container capacity stranded due to global port congestion has reached a record high of 4.31M TEU, according to analytics firm Linerlytica. Severe vessel delays across Chinese ports and persistent maritime bottlenecks in Europe are compounding equipment shortages and pushing ocean freight rates higher.",
+                "The volume of container capacity stranded due to global port congestion has reached a record high of 4.3M TEU, according to analytics firm Linerlytica. Severe vessel delays across Asian ports and persistent maritime bottlenecks in Europe are compounding equipment shortages and pushing ocean freight rates higher.",
                 "Shippers face extended supply chain transit disruptions and tightening vessel availability just as peak shipping season volumes accelerate. Logistics managers must secure flexible carrier allocations and evaluate alternative routing strategies to mitigate schedule unreliability."
             ],
             "imageUrl": "",
@@ -25,14 +25,14 @@ const dailyData = {
             "id": 2,
             "heading": "MARITIME: PANAMA CANAL SLOT AUCTION RECORD",
             "paragraphs": [
-                "A South Korean shipowner has established a new maritime bidding record by paying $5.3M for an expedited transit slot through the Panama Canal. The exorbitant fee was deployed to move a liquefied petroleum gas carrier to the Houston Ship Channel amid strict El Nino draft restrictions.",
+                "A South Korean shipowner has established a new maritime bidding record by paying $5.3M for an expedited transit slot through the Panama Canal. The exorbitant fee was deployed to move a liquefied petroleum gas carrier to the Houston Ship Channel amid strict draft restrictions.",
                 "Exorbitant slot-jump premiums are driving up operating costs for energy and chemical shippers relying on the critical transshipment corridor. Freight planners must factor heavy transit surcharges into Q4 budgets or route vessels through alternative intermodal channels."
             ],
             "imageUrl": "",
             "nextUpTease": "DESCARTES ACQUIRES TAI SOFTWARE",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -61,7 +61,7 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "USPS PEAK SEASON SURCHARGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-25T11:00:00Z",
                 "Status: Audited & True"
             ]
@@ -74,7 +74,7 @@ const dailyData = {
                 "E-commerce merchants and high-volume parcel shippers face compressed Q4 fulfillment budgets as carrier surcharges compound annual rate increases. Logistics managers should diversify carrier mix and optimize packaging dimensions to minimize seasonal shipping penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ COMPLIANCE CLASH",
+            "nextUpTease": "CANADA RETAIL SKUS CUT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-25T10:00:00Z",
@@ -83,31 +83,31 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "REGULATORY: HORMUZ COMPLIANCE CLASH",
+            "heading": "REGULATORY: CANADA RETALIATORY TARIFFS",
             "paragraphs": [
-                "Shipowners trading through the Strait of Hormuz face an intense compliance bind after Iran blacklisted 45 ships and threatened fines, detention, and cargo confiscation. Washington simultaneously warned ocean carriers that complying with Tehran's transit restrictions violates international sanctions.",
-                "Maritime operators must navigate severe geopolitical risks and insurance premiums as regional naval tensions escalate along vital energy corridors. Fleet risk management teams need real-time intelligence to prevent vessel seizures and maintain crew safety."
+                "As bilateral trade tensions escalate over North American supply chains, Canada is imposing retaliatory tariffs of up to 50% on $27.6B of United States imports starting September 8. The sweeping measures target key industrial sectors including steel, vehicles, and manufactured goods.",
+                "Cross-border shippers must rapidly restructure supply chains and absorb heavy tariff expenses to mitigate margin erosion. Logistics directors need to audit sourcing origins immediately and establish alternative trade lanes outside the affected corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA RETAIL SKUS CUT",
+            "nextUpTease": "RXO SPOT RATES STRENGTH",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-25T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: CANADA RETAIL SKUS CUT",
+            "heading": "TRUCKING: RXO SPOT RATES STRENGTH",
             "paragraphs": [
-                "As bilateral trade tensions and retaliatory tariffs loom over North American supply chains, major regional retailers are aggressively cutting SKUs by up to 20%. Inventory rationalization initiatives are sweeping distribution centers to eliminate carrying costs on vulnerable cross-border goods.",
-                "Merchants must streamline product portfolios to insulate working capital from impending import duty spikes and cross-border customs delays. Supply chain planners should recalibrate inventory holding strategies to align with localized sourcing models."
+                "Spot rates in the United States trucking sector rose sharply in the second quarter, posting annual gains of 32.4% according to market analytics from RXO. The ongoing surge reflects tightening over-the-road capacity and increased shipper reliance on contract and spot market tenders.",
+                "Carriers and freight brokers are capitalizing on higher rate environments as seasonal shipping demands intensify across key freight lanes. Logistics operators must secure forward capacity commitments to guard against volatile spot market pricing spikes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-25T09:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
