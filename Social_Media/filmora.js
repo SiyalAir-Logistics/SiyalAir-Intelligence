@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CANAL QUEUE JUMP FEE PASSES",
-                "teaserTitle": "CONTAINER CONGESTION VOLUME RECORD",
-                "visual_caption": "SK Gas paid $5.3M for a Panama Canal booking slot. Persistent draft limits and El Nino weather disruptions continue to drive transit surcharges."
+                "headline": "MARITIME: PANAMA CANAL SLOT RECORD HITS",
+                "teaserTitle": "CONTAINER FLEET EXPANSION SURGE",
+                "visual_caption": "An energy carrier paid a record $5.3M to jump the Panama Canal queue. Severe draft restrictions continue to inflate operational costs for global maritime shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CONTAINER CONGESTION VOLUME RECORD",
-                "teaserTitle": "CANADA RETALIATORY TARIFFS",
-                "visual_caption": "Global container capacity stranded by port congestion reached 4.3M TEU. Severe vessel delays in Asia and Europe continue to drive spot freight rates higher."
+                "headline": "MARITIME: CONTAINER FLEET EXPANSION SURGE",
+                "teaserTitle": "TARIFF STALEMATE RETAIL PRESSURES",
+                "visual_caption": "Orders for new containerships have expanded to nearly 40% of the active global fleet. Shipowners are aggressively securing vessel capacity despite lingering supply chain bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: CANADA RETALIATORY TARIFFS",
-                "teaserTitle": "AUTONOMOUS TRUCKING FUNDING",
-                "visual_caption": "Canada implements retaliatory tariffs up to 50% on $27.6B of U.S. goods. Cross-border shippers must restructure transport networks to avoid margin erosion."
+                "headline": "REGULATORY: TARIFF STALEMATE RETAIL PRESSURES",
+                "teaserTitle": "TECHNOLOGY PLATFORM ACQUISITION BLITZ",
+                "visual_caption": "Stalled trade talks resulted in 50% retaliatory tariffs taking effect across North American borders. Importers must restructure transport networks to absorb heavy duty expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: TRUCKING FUNDING",
-                "teaserTitle": "USPS PEAK SEASON SURCHARGE",
-                "visual_caption": "Gatik AI secured $200M in funding to scale driverless trucks. Supply chain executives are evaluating autonomous deployment timelines to combat labor shortages."
+                "headline": "TECHNOLOGY: PLATFORM ACQUISITION BLITZ",
+                "teaserTitle": "TRUCKING SPOT RATE RECOVERY",
+                "visual_caption": "Descartes acquired transportation management provider Tai Software for $100M. Enterprise supply chain leaders are rapidly modernizing software stacks to protect margins."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL: USPS PEAK SEASON SURCHARGE",
-                "teaserTitle": "TRUCKING SPOT RATES STRENGTH",
-                "visual_caption": "The USPS announced a 6% peak season surcharge for ground and priority services. E-commerce merchants face compressed Q4 fulfillment budgets as carrier surcharges rise."
+                "headline": "TRUCKING: SPOT RATE RECOVERY",
+                "teaserTitle": "PORT INFRASTRUCTURE INVESTMENT BOOST",
+                "visual_caption": "United States trucking spot rates rose sharply in Q2 amid tightening over-the-road capacity. Logistics operators must secure forward commitments to prevent pricing spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: SPOT RATES STRENGTH",
-                "teaserTitle": "TECHNOLOGY TMS ACQUISITION",
-                "visual_caption": "U.S. trucking spot rates posted sharp annual gains amid tightening over-the-road capacity. Logistics operators must secure forward capacity commitments to guard against volatile pricing."
+                "headline": "MARITIME: PORT INFRASTRUCTURE INVESTMENT BOOST",
+                "teaserTitle": "AUTONOMOUS FREIGHT CAPITAL EXPANSION",
+                "visual_caption": "Carrier partners committed $434M to expand Jeddah port container terminals. The project will streamline regional vessel turnaround times and reliability."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: TMS ACQUISITION",
+                "headline": "AUTONOMOUS: FREIGHT CAPITAL EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Descartes completed a $100M acquisition of freight broker software provider Tai Software. Brokerages relying on legacy dispatch architectures face mounting competitive pressures."
+                "visual_caption": "Autonomous freight developer Gatik AI raised $200M in new funding. The capital will scale driverless truck fleets across North American middle-mile networks."
             },
             {
                 "slide_index": 8,

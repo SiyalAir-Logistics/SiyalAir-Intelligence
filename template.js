@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CANAL QUEUE JUMP FEE PASSES",
+        "titleWhite": "PANAMA CANAL SLOT RECORD HITS",
         "titleBlue": "5.3M",
-        "footerSummary": "Panama Canal slot auction hits a record $5.3M as maritime operators absorb escalating transit restrictions and vessel scheduling constraints."
+        "footerSummary": "Panama Canal queue jump fee surges to $5.3M as El Ni\u00f1o restrictions tighten transits and inflate global maritime operating costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: CANAL QUEUE JUMP FEE PASSES",
+            "heading": "MARITIME: PANAMA CANAL SLOT RECORD HITS",
             "paragraphs": [
-                "South Korean shipowner SK Gas paid a record $5.3M booking slot fee to move a gas carrier through the Panama Canal, setting a new benchmark for transit priorities. Persistent draft limitations and El Nino weather disruptions continue to compress daily vessel slots across the critical trade corridor.",
-                "Exorbitant queue-jump expenses inflate operational overhead for energy traders and maritime shippers relying on fast transit to the Houston Ship Channel. Logistics planners must factor heavy slot surcharges into Q3 operating budgets or route vessels through alternative intermodal channels."
+                "South Korean carrier SK Gas paid a record $5.3M slot fee to bypass the Panama Canal queue, highlighting severe capacity constraints driven by El Ni\u00f1o draft restrictions. The transit limitations have forced carriers to absorb escalating surcharges and evaluate alternative intermodal routing.",
+                "Exorbitant priority fees significantly inflate operating expenses for maritime shippers relying on fast transit to the Gulf Coast. Logistics planners must factor heavy slot premiums into Q3 budgets to protect delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER CONGESTION VOLUME RECORD",
+            "nextUpTease": "CONTAINER FLEET EXPANSION SURGE",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-26T00:00:00Z",
@@ -23,28 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME: CONTAINER CONGESTION VOLUME RECORD",
+            "heading": "MARITIME: CONTAINER FLEET EXPANSION SURGE",
             "paragraphs": [
-                "Global container capacity stranded by port congestion has climbed to an all-time high of 4.3M TEU according to recent analytics data. Severe vessel delays across Asian export hubs and persistent terminal bottlenecks in Europe continue to disrupt equipment availability and drive up spot freight rates.",
-                "Shippers face extended transit delays and tightening vessel supply just as peak shipping season cargo volumes accelerate worldwide. Logistics executives must secure flexible carrier commitments and evaluate alternative routing strategies to protect delivery schedules."
+                "Global orders for new container vessels have surged to nearly 40% of the active fleet, driven by aggressive commitments for ultra-large ships. This massive influx of new tonnage arrives as major carriers navigate lingering Red Sea diversions and tight shipyard capacity.",
+                "Fleet expansion introduces long-term oversupply risks while simultaneously driving immediate capital expenditure demands across ocean carriers. Shippers must monitor vessel delivery schedules to optimize future contract negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA RETALIATORY TARIFFS",
+            "nextUpTease": "TARIFF STALEMATE RETAIL PRESSURES",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-25T16:51:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATORY: CANADA RETALIATORY TARIFFS",
+            "heading": "REGULATORY: TARIFF STALEMATE RETAIL PRESSURES",
             "paragraphs": [
-                "As bilateral trade negotiations stall, Canada is implementing retaliatory tariffs of up to 50% on $27.6B of United States goods starting Sept. 8. The sweeping measures target key industrial sectors including steel, vehicles, and manufactured goods across the northern border.",
-                "Cross-border shippers must rapidly restructure transport networks and absorb heavy tariff expenses to mitigate margin erosion. Logistics directors need to audit sourcing origins immediately and establish alternative trade lanes outside the affected corridors."
+                "Stalled bilateral trade talks led to 50% retaliatory tariffs taking effect across North American corridors, disrupting cross-border supply chains. Importers face immediate duty cost spikes on industrial goods, automotive parts, and manufactured inventory.",
+                "Supply chain directors must audit sourcing origins and restructure transport networks to mitigate severe margin erosion. Absorbing these regulatory expenses requires rapid supplier diversification outside affected trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS TRUCKING FUNDING",
+            "nextUpTease": "TECHNOLOGY PLATFORM ACQUISITION BLITZ",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-24T00:00:00Z",
@@ -53,13 +53,13 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AUTONOMOUS: TRUCKING FUNDING",
+            "heading": "TECHNOLOGY: PLATFORM ACQUISITION BLITZ",
             "paragraphs": [
-                "Autonomous freight pioneer Gatik AI has secured $200M in its largest funding series to date to scale driverless commercial truck operations across North America. The capital injection will accelerate the deployment of thousand-unit autonomous fleets across B2B middle-mile delivery networks.",
-                "Supply chain executives must evaluate autonomous deployment timelines to mitigate persistent driver shortages and rising labor expenses. Integrating driverless middle-mile assets into existing distribution networks provides a strategic pathway to long-term cost containment."
+                "Descartes Systems Group completed a $100M acquisition of AI-powered transportation management software provider Tai Software to expand brokerage tools. This transaction marks the enterprise logistics technology consolidator's third major software purchase of the year.",
+                "Brokerages relying on legacy dispatch systems face mounting competitive pressures as automated TMS platforms streamline load matching. Enterprise supply chain leaders must accelerate tech stack modernization to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS PEAK SEASON SURCHARGE",
+            "nextUpTease": "TRUCKING SPOT RATE RECOVERY",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-25T00:00:00Z",
@@ -68,28 +68,13 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "PARCEL: USPS PEAK SEASON SURCHARGE",
+            "heading": "TRUCKING: SPOT RATE RECOVERY",
             "paragraphs": [
-                "The United States Postal Service has announced a 6% peak season surcharge across Ground Advantage and Priority Mail services for the 2026 operating window. The holiday pricing adjustment is designed to offset seasonal volume surges and manage network throughput efficiently.",
-                "E-commerce merchants and high-volume parcel shippers face compressed Q4 fulfillment budgets as carrier surcharges compound annual rate increases. Logistics managers should diversify carrier mix and optimize packaging dimensions to minimize seasonal shipping penalties."
+                "Spot rates in the United States trucking sector rose sharply in the second quarter, posting significant annual gains according to RXO data. The ongoing surge reflects tightening over-the-road capacity and increased shipper reliance on contract and spot tenders.",
+                "Carriers and freight brokers are capitalizing on higher rate environments as seasonal shipping demands intensify across key freight lanes. Logistics operators must secure forward capacity commitments to guard against volatile pricing spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING SPOT RATES STRENGTH",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-26T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TRUCKING: SPOT RATES STRENGTH",
-            "paragraphs": [
-                "Spot rates in the United States trucking sector rose sharply in the second quarter, posting significant annual gains according to market analytics from RXO. The ongoing surge reflects tightening over-the-road capacity and increased shipper reliance on contract and spot market tenders.",
-                "Carriers and freight brokers are capitalizing on higher rate environments as seasonal shipping demands intensify across key freight lanes. Logistics operators must secure forward capacity commitments to guard against volatile spot market pricing spikes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY TMS ACQUISITION",
+            "nextUpTease": "PORT INFRASTRUCTURE INVESTMENT BOOST",
             "tags": [
                 "Source: https://www.theloadstar.com",
                 "Published: 2026-08-26T00:00:00Z",
@@ -97,16 +82,31 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TECHNOLOGY: TMS ACQUISITION",
+            "id": 6,
+            "heading": "MARITIME: PORT INFRASTRUCTURE INVESTMENT BOOST",
             "paragraphs": [
-                "Descartes Systems Group has completed a $100M acquisition of artificial intelligence powered transportation management software provider Tai Software for freight brokers. This strategic transaction marks the enterprise logistics technology consolidator's third major software purchase of the year.",
-                "Brokerages relying on legacy dispatch architectures face mounting competitive pressures as automated TMS platforms streamline load matching and pricing. Enterprise supply chain leaders must accelerate tech stack modernization to protect operating margins."
+                "CMA CGM and Red Sea Gateway Terminal have signed an agreement to invest $434M in expanding the Jeddah Islamic Port container facilities. The strategic project aims to boost handling capacity and streamline vessel turnaround times across the critical Red Sea gateway.",
+                "Enhanced port infrastructure provides vital relief for carriers managing complex routing adjustments and regional maritime congestion. Shippers utilizing Middle East trade corridors can anticipate improved schedule reliability upon project completion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTONOMOUS FREIGHT CAPITAL EXPANSION",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AUTONOMOUS: FREIGHT CAPITAL EXPANSION",
+            "paragraphs": [
+                "Autonomous freight pioneer Gatik AI has secured $200M in its largest funding series to date to scale driverless truck operations. The capital injection accelerates the deployment of commercial autonomous fleets across North American middle-mile distribution networks.",
+                "Supply chain executives must evaluate autonomous deployment timelines to mitigate persistent driver shortages and rising labor expenses. Integrating driverless assets into distribution networks offers a strategic pathway to long-term cost containment."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-25T00:00:00Z",
                 "Status: Audited & True"
             ]
