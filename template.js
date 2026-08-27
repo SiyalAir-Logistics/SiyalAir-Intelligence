@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NINGBO EDGES OUT",
-        "titleBlue": "SINGAPORE",
-        "footerSummary": "Ningbo-Zhoushan captures the global number 2 port ranking while record $5.3M Panama transit auctions compound ocean network friction."
+        "titleWhite": "CANADA MATCHES NEW US",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Canada enacts retaliatory tariffs up to 50% matching US duties, as escalating North American trade friction threatens cross-border supply chain margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORTS: NINGBO EDGES OUT SINGAPORE",
+            "heading": "TARIFFS: CANADA MATCHES NEW US TARIFFS",
             "paragraphs": [
-                "China's Ningbo-Zhoushan port complex has officially overtaken Singapore as the world's second busiest container hub by total volume. Strong Chinese export velocity propelled the gateway past Southeast Asian transshipment hubs despite ongoing Western tariff barriers.",
-                "Global shippers face shifting vessel allocation patterns as ocean carriers concentrate ultra-large container tonnage along direct mainland Chinese corridors. Logistics planners must evaluate feeder connectivity and potential terminal congestion risks across East Asian networks."
+                "The Canadian government has officially implemented retaliatory tariffs of up to 50% on targeted United States imports following the rollout of stringent American duties on steel, dairy, and automotive goods. Bilateral trade talks between the neighboring nations have completely stalled, removing short-term diplomatic solutions and cementing a rigid cross-border trade dispute.",
+                "Supply chain leaders managing North American transit lanes face immediate duty escalations and severe cost inflation across manufacturing components and agricultural inputs. Logistics directors must rapidly restructure cross-border routing, audit landed cost models, and evaluate alternative sourcing channels to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL: PANAMA AUCTION HITS $5.3M",
+            "nextUpTease": "INVESTIGATION: US PROBES APEX",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-26T17:35:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANAL: PANAMA AUCTION HITS $5.3M",
+            "heading": "COMPLIANCE: US PROBES APEX LOGISTICS",
             "paragraphs": [
-                "A South Korean liquefied petroleum gas carrier has paid a record $5.3M auction fee to secure a prioritized transit slot through the Panama Canal. Persistent draft restrictions and daily vessel caps continue to drive extreme bidding wars among energy and container operators.",
-                "The escalating cost of canal transit bypasses threatens spot market shipping margins and forces operators to choose between massive queue fees or 14-day Cape of Good Hope detours. Enterprise cargo owners must incorporate volatile transit surcharges into forward freight agreements."
+                "United States federal authorities have launched a formal investigation into Singapore-based Apex Logistics, a wholly owned subsidiary of Kuehne+Nagel, over suspected involvement in illicit AI chip shipments to China. The probe targets alleged bypasses of federal export controls designed to restrict advanced semiconductor transfers to restricted foreign entities.",
+                "Global freight forwarders and logistics intermediaries face heightened regulatory scrutiny regarding cargo verification and end-user compliance protocols. Corporate legal teams must audit international forwarding networks and strengthen trade compliance controls to mitigate severe liability exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
+            "nextUpTease": "SECURITY: HI-TECH CARGO THEFT SURGES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-26T16:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
+            "heading": "SECURITY: HI-TECH CARGO THEFT SURGES",
             "paragraphs": [
-                "Regional authorities in Iran and Oman have finalized terms on a joint revenue-sharing model and navigation corridor through the contested Strait of Hormuz. The accord establishes a formal transit fee mechanism for commercial tonnage traversing the vital crude oil trade choke point.",
-                "Vessel operating common carriers face immediate compliance questions and unilateral toll exposures across Middle Eastern waterways. Supply chain leaders must audit war risk insurance premiums and project geopolitical route stability into Q4 operational budgets."
+                "The cumulative value of stolen high-technology cargo across United States transport networks has surpassed $300M in the first half of the year, driven by sophisticated organized criminal syndicates. Freight operators report an alarming surge in targeted electronic device hijackings along major interstate distribution corridors.",
+                "Fleet managers and enterprise shippers face escalating cargo insurance premiums and devastating inventory loss risks that threaten supply chain continuity. Transportation executives must deploy advanced real-time tracking, geofencing alerts, and enhanced driver vetting procedures to safeguard high-value loads."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: INDIA ORDERS 100 SHIPS",
+            "nextUpTease": "MARITIME: PANAMA CANAL SLOT CAP",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-26T16:46:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET: INDIA ORDERS 100 SHIPS",
+            "heading": "MARITIME: PANAMA CANAL SLOT CAP",
             "paragraphs": [
-                "The reconstituted National Shipping Board has finalized a 5-year strategic blueprint to build national shipping independence by commissioning 100 commercial vessels. The initiative aims to dramatically reduce India's multi-billion dollar reliance on foreign flag carrier tonnage for core maritime exports.",
-                "Shippers operating on South Asian trade lanes will gain expanded domestic capacity options as state-backed tonnage enters active service. Freight procurement teams should monitor emerging regional carrier alliances to secure preferential long-term volume contracts."
+                "The Panama Canal Authority has announced plans to trim daily vessel transit slots this fall as severe El Ni\u00f1o-driven drought conditions deplete regional water levels. Precipitation across the watershed between May and August has plummeted 34% below historical averages, threatening global ocean connectivity.",
+                "Ocean carriers face restricted cargo intake capacities and soaring auction fees for priority passage, driving up spot freight rates on trans-Pacific and inter-American routes. Supply chain planners must factor extended transit lead times and potential Cape of Good Hope routing contingencies into Q4 logistics budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: HUTCHISON CLAIMS $1.5B",
+            "nextUpTease": "ENERGY: HORMUZ OIL FLOWS REBOUND",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-26T15:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TERMINALS: HUTCHISON CLAIMS $1.5B",
+            "heading": "ENERGY: HORMUZ OIL FLOWS REBOUND",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison has launched formal arbitration seeking $1.5B in financial compensation following the cancellation and seizure of its Panamanian port concession leases. The dispute centers on two strategic container terminals serving global transshipment flows at both canal entrances.",
-                "Terminal operators and container carriers face jurisdictional uncertainty that threatens cargo dwell times and stevedoring efficiency at critical Panamanian hubs. Risk managers must assess regional port concession stability when negotiating carrier routing guarantees."
+                "Crude oil shipments and commercial tanker transits through the Strait of Hormuz are experiencing a measured volume recovery as regional producers engage in interim de-escalation talks. Middle Eastern energy exporters are ramping up throughput following preliminary diplomatic discussions between Iran and neighboring maritime states.",
+                "Energy logistics operators and bunker fuel purchasers must navigate persistent geopolitical volatility and variable marine war-risk insurance surcharges across Middle Eastern waters. Fleet directors should monitor regional security developments closely to optimize bunker procurement and vessel deployment schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
+            "nextUpTease": "AIR FREIGHT: DHL EMERGENCY LANDING",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-26T14:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
+            "heading": "AVIATION: DHL EMERGENCY LANDING AT LAX",
             "paragraphs": [
-                "The Gemini Cooperation alliance between Maersk and Hapag-Lloyd has scheduled trial transits through the Suez Canal for westbound India-to-Europe liner services ahead of a planned full resumption. The move follows similar operational returns by competitors seeking to eliminate costly African diversions.",
-                "Restoring Suez passage reduces transit times by up to 12 days and releases effective vessel capacity across major global trade corridors. B2B logistics directors must prepare for shifting equipment arrival schedules and recalibrate inland inventory lead times."
+                "A DHL cargo aircraft was forced to execute an unplanned emergency landing at Los Angeles International Airport following an in-flight operational anomaly. Emergency response teams met the freighter upon touchdown, causing temporary runway closures and minor schedule disruptions across the regional air hub.",
+                "Air cargo network schedulers faced immediate hub congestion and cascading flight delays across major West Coast air freight distribution channels. Forwarding executives must evaluate carrier safety records and maintain contingency uplift options to protect time-critical supply chains."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
+            "nextUpTease": "INFRASTRUCTURE: TENNESSEE TOLL LANES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-26T13:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
+            "heading": "INFRASTRUCTURE: TENNESSEE TOLL EXPANSION",
             "paragraphs": [
-                "The United States Postal Service has filed proposed temporary peak season rate increases targeting heavy and long-distance parcel shipments to offset elevated holiday handling costs. The planned rate adjustments introduce a 6% average hike across commercial e-commerce packages.",
-                "High-volume fulfillment networks and direct-to-consumer shippers face immediate unit cost inflation across national distribution lanes. Retail supply chain executives must evaluate regional carrier diversification and optimize package weight thresholds to protect Q4 fulfillment margins."
+                "State transportation authorities in Tennessee have advanced a massive $9.2B interstate toll lane expansion project designed to alleviate severe commercial freight bottlenecks on key logistics corridors. The multi-year development initiative aims to enhance heavy-truck velocity and streamline regional cargo distribution.",
+                "Motor carriers and private fleet operators face rising toll operating expenditures that will directly impact per-mile shipping rates across southern freight lanes. Logistics procurement teams must incorporate expanding toll network fees into upcoming carrier contract negotiations and rate structures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-26T12:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

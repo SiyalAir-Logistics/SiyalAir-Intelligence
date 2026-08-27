@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NINGBO EDGES OUT SINGAPORE",
+        "hookTitle": "CANADA MATCHES NEW US TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: NINGBO EDGES OUT SINGAPORE",
-                "teaserTitle": "CANAL: PANAMA AUCTION HITS $5.3M",
+                "headline": "TARIFFS: CANADA MATCHES NEW US TARIFFS",
+                "teaserTitle": "INVESTIGATION: US PROBES APEX",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Ningbo-Zhoushan has officially overtaken Singapore as the world's second busiest container port by total volume. Surging direct export traffic across East Asia drove the hub past Southeast Asian transshipment hubs."
+                "narration_line": "Canada has enacted retaliatory tariffs of up to fifty percent matching new United States duties. Supply chain leaders face immediate cost inflation and must restructure cross-border supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL: PANAMA AUCTION HITS $5.3M",
-                "teaserTitle": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
+                "headline": "COMPLIANCE: US PROBES APEX LOGISTICS",
+                "teaserTitle": "SECURITY: HI-TECH CARGO THEFT SURGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A South Korean gas tanker paid a record five point three million dollars to bypass Panama Canal queues. Daily vessel restrictions continue to inflate expedited ocean transit costs globally."
+                "narration_line": "United States authorities are investigating Apex Logistics over suspected illegal shipments of advanced artificial intelligence chips to China. Global freight forwarders face heightened regulatory scrutiny."
             },
             {
                 "slide_index": 3,
-                "headline": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
-                "teaserTitle": "FLEET: INDIA ORDERS 100 SHIPS",
+                "headline": "SECURITY: HI-TECH CARGO THEFT SURGES",
+                "teaserTitle": "MARITIME: PANAMA CANAL SLOT CAP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iran and Oman finalized a joint revenue and transit toll framework for the Strait of Hormuz. Ocean carriers must now evaluate new operational fees and maritime security risk."
+                "narration_line": "The theft of high-technology cargo across transport networks has surpassed three hundred million dollars this year. Fleet operators must deploy advanced real-time tracking to protect valuable loads."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET: INDIA ORDERS 100 SHIPS",
-                "teaserTitle": "TERMINALS: HUTCHISON CLAIMS $1.5B",
+                "headline": "MARITIME: PANAMA CANAL SLOT CAP",
+                "teaserTitle": "ENERGY: HORMUZ OIL FLOWS REBOUND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "India announced a five year blueprint to build one hundred commercial vessels for national fleet independence. The state initiative aims to cut foreign freight charter dependencies significantly."
+                "narration_line": "Severe drought conditions are forcing the Panama Canal to trim daily vessel transit slots this fall. Ocean carriers face restricted cargo capacities and rising spot freight rates."
             },
             {
                 "slide_index": 5,
-                "headline": "TERMINALS: HUTCHISON CLAIMS $1.5B",
-                "teaserTitle": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
+                "headline": "ENERGY: HORMUZ OIL FLOWS REBOUND",
+                "teaserTitle": "AIR FREIGHT: DHL EMERGENCY LANDING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CK Hutchison launched formal arbitration seeking one point five billion dollars over canceled Panamanian terminal concessions. The legal battle creates operational uncertainty across critical canal transshipment facilities."
+                "narration_line": "Crude oil shipments through the Strait of Hormuz are recovering as producers engage in de-escalation talks. Energy operators must navigate persistent geopolitical volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
-                "teaserTitle": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
+                "headline": "AVIATION: DHL EMERGENCY LANDING AT LAX",
+                "teaserTitle": "INFRASTRUCTURE: TENNESSEE TOLL LANES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Gemini alliance is preparing trial vessel transits through the Suez Canal for India-Europe services. Restoring the direct waterway will cut up to twelve days off container journeys."
+                "narration_line": "A DHL cargo aircraft executed an emergency landing at Los Angeles International Airport following an in-flight anomaly. Schedulers faced temporary runway closures and flight delays."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "INFRASTRUCTURE: TENNESSEE TOLL EXPANSION",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The postal service proposed temporary peak season parcel surcharges averaging six percent on commercial packages. E-commerce shippers face direct fulfillment cost increases across long-distance domestic delivery lanes."
+                "narration_line": "Tennessee authorities advanced a nine point two billion dollar interstate toll lane expansion project. Motor carriers face rising toll operating expenditures across southern lanes."
             },
             {
                 "slide_index": 8,
