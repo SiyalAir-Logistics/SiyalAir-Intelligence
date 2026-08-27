@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DIESEL STOCKPILE FALLS TO SEASONAL",
-        "titleBlue": "LOW",
-        "footerSummary": "US diesel supplies drop to historic seasonal lows while 50% tariffs on Canadian imports squeeze cross-border margins and elevate logistics costs."
+        "titleWhite": "NINGBO EDGES OUT",
+        "titleBlue": "SINGAPORE",
+        "footerSummary": "Ningbo-Zhoushan captures the global number 2 port ranking while record $5.3M Panama transit auctions compound ocean network friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FUEL: DIESEL STOCKPILE FALLS TO SEASONAL LOW",
+            "heading": "PORTS: NINGBO EDGES OUT SINGAPORE",
             "paragraphs": [
-                "United States diesel supplies have plummeted to the lowest seasonal levels ever recorded, threatening to escalate operational fuel surcharges for freight carriers nationwide. The severe inventory squeeze arrives as regional trade frictions and geopolitical tensions continue to pressure global energy markets.",
-                "Fleet operators face compounding operating expenses as workhorse fuel costs trend upward heading into the peak shipping season. Logistics planners must aggressively lock in fuel protection agreements and optimize transport routing to safeguard operating margins."
+                "China's Ningbo-Zhoushan port complex has officially overtaken Singapore as the world's second busiest container hub by total volume. Strong Chinese export velocity propelled the gateway past Southeast Asian transshipment hubs despite ongoing Western tariff barriers.",
+                "Global shippers face shifting vessel allocation patterns as ocean carriers concentrate ultra-large container tonnage along direct mainland Chinese corridors. Logistics planners must evaluate feeder connectivity and potential terminal congestion risks across East Asian networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS STALL NORTH AMERICAN TRADE",
+            "nextUpTease": "CANAL: PANAMA AUCTION HITS $5.3M",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-26T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-26T17:35:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOVERNMENT: TARIFFS STALL NORTH AMERICAN TRADE",
+            "heading": "CANAL: PANAMA AUCTION HITS $5.3M",
             "paragraphs": [
-                "Stalled bilateral trade negotiations have forced 50% tariffs on numerous Canadian imports to take effect as both nations fail to reach a compromise. Canada has vowed to match the retaliatory duties dollar for dollar across industrial and manufactured supply chains.",
-                "Importers moving freight across northern borders face immediate cost spikes and complex regulatory burdens that disrupt established sourcing models. Supply chain directors must restructure transport networks and evaluate alternative trade lanes to mitigate duty exposure."
+                "A South Korean liquefied petroleum gas carrier has paid a record $5.3M auction fee to secure a prioritized transit slot through the Panama Canal. Persistent draft restrictions and daily vessel caps continue to drive extreme bidding wars among energy and container operators.",
+                "The escalating cost of canal transit bypasses threatens spot market shipping margins and forces operators to choose between massive queue fees or 14-day Cape of Good Hope detours. Enterprise cargo owners must incorporate volatile transit surcharges into forward freight agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RATES PASS FASTER HIKES",
+            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-24T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-26T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: RATES PASS FASTER HIKES",
+            "heading": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
             "paragraphs": [
-                "Maersk has overhauled its container freight pricing strategy to track underlying market movements much more closely and pass on rate adjustments with greater speed. The shift allows ocean carriers to react dynamically to shifting capacity constraints and global trade volatility.",
-                "Shippers can no longer rely on lagging index updates and must prepare for rapid freight rate fluctuations across major international trade corridors. Procurement teams must build agile budgeting frameworks to absorb frequent pricing adjustments."
+                "Regional authorities in Iran and Oman have finalized terms on a joint revenue-sharing model and navigation corridor through the contested Strait of Hormuz. The accord establishes a formal transit fee mechanism for commercial tonnage traversing the vital crude oil trade choke point.",
+                "Vessel operating common carriers face immediate compliance questions and unilateral toll exposures across Middle Eastern waterways. Supply chain leaders must audit war risk insurance premiums and project geopolitical route stability into Q4 operational budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING ROADCHECK OUT OF SERVICE",
+            "nextUpTease": "FLEET: INDIA ORDERS 100 SHIPS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-26T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-26T16:46:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: ROADCHECK OUT OF SERVICE",
+            "heading": "FLEET: INDIA ORDERS 100 SHIPS",
             "paragraphs": [
-                "Enforcement data from the recent Roadcheck initiative revealed that the number of drivers placed out of service across the US and Canada surged nearly 19%. A notable factor in the crackdown involved drivers sidelined for failing to meet strict language compliance requirements.",
-                "The sudden loss of qualified drivers tightens over-the-road capacity and amplifies spot rate pressures for motor carriers. Fleet managers must audit workforce compliance credentials immediately to prevent unexpected route delays and capacity deficits."
+                "The reconstituted National Shipping Board has finalized a 5-year strategic blueprint to build national shipping independence by commissioning 100 commercial vessels. The initiative aims to dramatically reduce India's multi-billion dollar reliance on foreign flag carrier tonnage for core maritime exports.",
+                "Shippers operating on South Asian trade lanes will gain expanded domestic capacity options as state-backed tonnage enters active service. Freight procurement teams should monitor emerging regional carrier alliances to secure preferential long-term volume contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS FREIGHT FUNDING SURGE",
+            "nextUpTease": "TERMINALS: HUTCHISON CLAIMS $1.5B",
             "tags": [
                 "Source: https://www.joc.com",
-                "Published: 2026-08-26T00:00:00Z",
+                "Published: 2026-08-26T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTONOMOUS: FREIGHT FUNDING SURGE",
+            "heading": "TERMINALS: HUTCHISON CLAIMS $1.5B",
             "paragraphs": [
-                "Autonomous transport developer Gatik AI has successfully raised $200M in its largest funding series to date to scale driverless operations. The capital injection accelerates the commercial deployment of autonomous middle-mile distribution networks across North America.",
-                "Supply chain executives face mounting pressure to evaluate autonomous integration timelines to counter persistent labor shortages and rising operational expenses. Adopting driverless assets provides a viable pathway to long-term cost containment and schedule reliability."
+                "Hong Kong conglomerate CK Hutchison has launched formal arbitration seeking $1.5B in financial compensation following the cancellation and seizure of its Panamanian port concession leases. The dispute centers on two strategic container terminals serving global transshipment flows at both canal entrances.",
+                "Terminal operators and container carriers face jurisdictional uncertainty that threatens cargo dwell times and stevedoring efficiency at critical Panamanian hubs. Risk managers must assess regional port concession stability when negotiating carrier routing guarantees."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY PLATFORM ACQUISITION BLITZ",
+            "nextUpTease": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-26T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: PLATFORM ACQUISITION BLITZ",
+            "heading": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
             "paragraphs": [
-                "Descartes Systems Group has acquired AI-powered transportation management software provider Tai Software for $100M to expand brokerage tools. This transaction marks the enterprise logistics technology consolidator's third major software purchase of the year.",
-                "Brokerage firms relying on legacy dispatch systems face severe competitive disadvantages as automated TMS platforms streamline load matching and execution. Enterprise logistics leaders must accelerate technology upgrades to protect operating margins."
+                "The Gemini Cooperation alliance between Maersk and Hapag-Lloyd has scheduled trial transits through the Suez Canal for westbound India-to-Europe liner services ahead of a planned full resumption. The move follows similar operational returns by competitors seeking to eliminate costly African diversions.",
+                "Restoring Suez passage reduces transit times by up to 12 days and releases effective vessel capacity across major global trade corridors. B2B logistics directors must prepare for shifting equipment arrival schedules and recalibrate inland inventory lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT DWELL CONGESTION PEAKS",
+            "nextUpTease": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-26T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: PORT DWELL CONGESTION PEAKS",
+            "heading": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
             "paragraphs": [
-                "Global container port congestion has reached new highs as East Asia experiences persistent typhoon disruptions and vessel bunching at key export gateways. Shippers moving goods across trans-Pacific and regional trade lanes face extended vessel turnaround times and terminal delays.",
-                "Congestion bottlenecks directly undermine supply chain velocity and inflate inventory holding costs for importers. Logistics operators must factor terminal dwell times into forward-looking inventory planning to maintain service commitments."
+                "The United States Postal Service has filed proposed temporary peak season rate increases targeting heavy and long-distance parcel shipments to offset elevated holiday handling costs. The planned rate adjustments introduce a 6% average hike across commercial e-commerce packages.",
+                "High-volume fulfillment networks and direct-to-consumer shippers face immediate unit cost inflation across national distribution lanes. Retail supply chain executives must evaluate regional carrier diversification and optimize package weight thresholds to protect Q4 fulfillment margins."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-25T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-26T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

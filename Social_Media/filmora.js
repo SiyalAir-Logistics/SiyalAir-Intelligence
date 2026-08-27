@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL STOCKPILE FALLS TO SEASONAL LOW",
-                "teaserTitle": "TARIFFS STALL NORTH AMERICAN TRADE",
-                "visual_caption": "US diesel supplies have fallen to record seasonal lows. This inventory squeeze threatens to push freight operating costs higher."
+                "headline": "PORTS: NINGBO EDGES OUT SINGAPORE",
+                "teaserTitle": "CANAL: PANAMA AUCTION HITS $5.3M",
+                "visual_caption": "Ningbo-Zhoushan has officially overtaken Singapore as the world's second busiest container port by total volume. Surging direct export traffic across East Asia drove the hub past Southeast Asian transshipment hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: TARIFFS STALL NORTH AMERICAN TRADE",
-                "teaserTitle": "MARITIME RATES PASS FASTER HIKES",
-                "visual_caption": "Stalled trade talks have triggered 50% tariffs on Canadian imports. Importers face immediate duty cost spikes and supply chain disruption."
+                "headline": "CANAL: PANAMA AUCTION HITS $5.3M",
+                "teaserTitle": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
+                "visual_caption": "A South Korean gas tanker paid a record $5.3M to bypass Panama Canal queues. Daily vessel restrictions continue to inflate expedited ocean transit costs globally."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: RATES PASS FASTER HIKES",
-                "teaserTitle": "TRUCKING ROADCHECK OUT OF SERVICE",
-                "visual_caption": "Maersk has overhauled its container pricing strategy to track market movements closely. Ocean carriers can now pass on rate hikes much faster."
+                "headline": "GEOPOLITICS: HORMUZ TRANSIT REVENUE PACT",
+                "teaserTitle": "FLEET: INDIA ORDERS 100 SHIPS",
+                "visual_caption": "Iran and Oman finalized a joint revenue and transit toll framework for the Strait of Hormuz. Ocean carriers must now evaluate new operational fees and maritime security risk."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ROADCHECK OUT OF SERVICE",
-                "teaserTitle": "AUTONOMOUS FREIGHT FUNDING SURGE",
-                "visual_caption": "Recent roadside enforcement sidelined nearly 19% more drivers than last year. Language compliance violations drove a significant share of out of service orders."
+                "headline": "FLEET: INDIA ORDERS 100 SHIPS",
+                "teaserTitle": "TERMINALS: HUTCHISON CLAIMS $1.5B",
+                "visual_caption": "India announced a 5-year blueprint to build 100 commercial vessels for national fleet independence. The state initiative aims to cut foreign freight charter dependencies significantly."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: FREIGHT FUNDING SURGE",
-                "teaserTitle": "TECHNOLOGY PLATFORM ACQUISITION BLITZ",
-                "visual_caption": "Autonomous freight pioneer Gatik AI secured $200M in new funding. The capital will scale driverless middle-mile truck operations."
+                "headline": "TERMINALS: HUTCHISON CLAIMS $1.5B",
+                "teaserTitle": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
+                "visual_caption": "CK Hutchison launched formal arbitration seeking $1.5B over canceled Panamanian terminal concessions. The legal battle creates operational uncertainty across critical canal transshipment facilities."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: PLATFORM ACQUISITION BLITZ",
-                "teaserTitle": "PORT DWELL CONGESTION PEAKS",
-                "visual_caption": "Descartes Systems Group acquired Tai Software for $100M. The buyout expands artificial intelligence tools for freight brokers."
+                "headline": "OCEAN: GEMINI RESTORES SUEZ ROUTE",
+                "teaserTitle": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
+                "visual_caption": "The Gemini alliance is preparing trial vessel transits through the Suez Canal for India-Europe services. Restoring the direct waterway will cut up to 12 days off container journeys."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: PORT DWELL CONGESTION PEAKS",
-                "teaserTitle": "",
-                "visual_caption": "Global container port congestion has reached new highs amid severe typhoon weather. Shippers face extended vessel turnaround times and terminal delays."
+                "headline": "PARCEL: USPS PROPOSES PEAK SURCHARGES",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "The postal service proposed temporary peak season parcel surcharges averaging 6% on commercial packages. E-commerce shippers face direct fulfillment cost increases across long-distance domestic delivery lanes."
             },
             {
                 "slide_index": 8,
