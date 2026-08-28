@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA MATCHES NEW US TARIFFS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE HITS 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA MATCHES NEW US TARIFFS",
-                "teaserTitle": "INVESTIGATION: US PROBES APEX",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE HITS 4.6M",
+                "teaserTitle": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Canada has enacted retaliatory tariffs of up to fifty percent matching new United States duties. Supply chain leaders face immediate cost inflation and must restructure cross-border supply chains."
+                "narration_line": "An empty tanker paid four point six million dollars to bypass Panama Canal congestion. Drought conditions and restricted transit slots are driving up global ocean freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: US PROBES APEX LOGISTICS",
-                "teaserTitle": "SECURITY: HI-TECH CARGO THEFT SURGES",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+                "teaserTitle": "SECURITY: APEX PROBED OVER CHIP SMUGGLING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "United States authorities are investigating Apex Logistics over suspected illegal shipments of advanced artificial intelligence chips to China. Global freight forwarders face heightened regulatory scrutiny."
+                "narration_line": "Descartes acquired Tai Software for one hundred million dollars to expand its broker platform. Logistics firms must evaluate how software consolidation impacts freight pricing workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: HI-TECH CARGO THEFT SURGES",
-                "teaserTitle": "MARITIME: PANAMA CANAL SLOT CAP",
+                "headline": "COMPLIANCE: APEX PROBED OVER CHIP SMUGGLING",
+                "teaserTitle": "REGULATION: US POSTAL PEAK SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The theft of high-technology cargo across transport networks has surpassed three hundred million dollars this year. Fleet operators must deploy advanced real-time tracking to protect valuable loads."
+                "narration_line": "United States authorities launched a formal investigation into Apex Logistics over alleged chip smuggling. Forwarders face heightened regulatory scrutiny regarding cargo verification and compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL SLOT CAP",
-                "teaserTitle": "ENERGY: HORMUZ OIL FLOWS REBOUND",
+                "headline": "PARCEL: USPS TARGETS PEAK SURCHARGES",
+                "teaserTitle": "AIR CARGO: FEDEX EXPANDS DELHI TERMINAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Severe drought conditions are forcing the Panama Canal to trim daily vessel transit slots this fall. Ocean carriers face restricted cargo capacities and rising spot freight rates."
+                "narration_line": "The United States Postal Service announced a six percent peak season rate increase starting October fourth. E-commerce merchants face compressed operating margins and rising last-mile delivery costs."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: HORMUZ OIL FLOWS REBOUND",
-                "teaserTitle": "AIR FREIGHT: DHL EMERGENCY LANDING",
+                "headline": "AVIATION: FEDEX INVESTS 150M IN DELHI TERMINAL",
+                "teaserTitle": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Crude oil shipments through the Strait of Hormuz are recovering as producers engage in de-escalation talks. Energy operators must navigate persistent geopolitical volatility."
+                "narration_line": "FedEx invested one hundred fifty million dollars to build an air cargo terminal in Delhi. The capital project enhances sorting velocity and expands cold chain logistics capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: DHL EMERGENCY LANDING AT LAX",
-                "teaserTitle": "INFRASTRUCTURE: TENNESSEE TOLL LANES",
+                "headline": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
+                "teaserTitle": "REGULATION: GRID EMERGENCY DECLARED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A DHL cargo aircraft executed an emergency landing at Los Angeles International Airport following an in-flight anomaly. Schedulers faced temporary runway closures and flight delays."
+                "narration_line": "Canada launched a supply chain alliance to map critical labor shortages across transport networks. Freight operators face ongoing talent constraints that threaten operational throughput."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: TENNESSEE TOLL EXPANSION",
+                "headline": "ENERGY: GRID EMERGENCY DECLARED OVER FOREIGN PARTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Tennessee authorities advanced a nine point two billion dollar interstate toll lane expansion project. Motor carriers face rising toll operating expenditures across southern lanes."
+                "narration_line": "A national emergency was declared over foreign hardware operating in the power grid. Utilities may be forced to disconnect overseas equipment due to emerging security risks."
             },
             {
                 "slide_index": 8,

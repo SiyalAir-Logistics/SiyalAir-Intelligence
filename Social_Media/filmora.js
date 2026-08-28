@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: CANADA MATCHES NEW US TARIFFS",
-                "teaserTitle": "INVESTIGATION: US PROBES APEX",
-                "visual_caption": "Canada enacts retaliatory tariffs up to 50% matching new US duties. Supply chain leaders face immediate cost inflation and must restructure cross-border networks."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE HITS 4.6M",
+                "teaserTitle": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass Panama Canal congestion. Severe drought conditions and restricted transit slots are driving up global freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: US PROBES APEX LOGISTICS",
-                "teaserTitle": "SECURITY: HI-TECH CARGO THEFT SURGES",
-                "visual_caption": "US authorities are investigating Apex Logistics over suspected illegal AI chip shipments to China. Global freight forwarders face heightened regulatory scrutiny."
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+                "teaserTitle": "SECURITY: APEX PROBED OVER CHIP SMUGGLING",
+                "visual_caption": "Descartes acquired Tai Software for $100M to expand its brokerage platform. Logistics firms must evaluate how software consolidation impacts freight pricing workflows."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: HI-TECH CARGO THEFT SURGES",
-                "teaserTitle": "MARITIME: PANAMA CANAL SLOT CAP",
-                "visual_caption": "The theft of high-tech cargo across transport networks has surpassed $300M this year. Fleet operators must deploy advanced tracking to protect valuable loads."
+                "headline": "COMPLIANCE: APEX PROBED OVER CHIP SMUGGLING",
+                "teaserTitle": "REGULATION: US POSTAL PEAK SURCHARGES",
+                "visual_caption": "Federal authorities launched an investigation into Apex Logistics over alleged chip smuggling. Forwarders face heightened regulatory scrutiny regarding cargo verification and compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL SLOT CAP",
-                "teaserTitle": "ENERGY: HORMUZ OIL FLOWS REBOUND",
-                "visual_caption": "Severe drought conditions are forcing the Panama Canal to trim daily vessel transit slots this fall. Ocean carriers face restricted capacities and rising spot rates."
+                "headline": "PARCEL: USPS TARGETS PEAK SURCHARGES",
+                "teaserTitle": "AIR CARGO: FEDEX EXPANDS DELHI TERMINAL",
+                "visual_caption": "The USPS announced a 6% peak season rate increase starting Oct. 4. E-commerce merchants face compressed operating margins and rising last-mile delivery costs."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: HORMUZ OIL FLOWS REBOUND",
-                "teaserTitle": "AIR FREIGHT: DHL EMERGENCY LANDING",
-                "visual_caption": "Crude oil shipments through the Strait of Hormuz are recovering as producers engage in de-escalation talks. Energy operators navigate persistent geopolitical risk."
+                "headline": "AVIATION: FEDEX INVESTS 150M IN DELHI TERMINAL",
+                "teaserTitle": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
+                "visual_caption": "FedEx invested $150M to build an air cargo terminal in Delhi. The project enhances sorting velocity and expands cold chain logistics capabilities across South Asia."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: DHL EMERGENCY LANDING AT LAX",
-                "teaserTitle": "INFRASTRUCTURE: TENNESSEE TOLL LANES",
-                "visual_caption": "A DHL cargo aircraft executed an emergency landing at LAX following an in-flight anomaly. Schedulers faced temporary runway closures and regional flight delays."
+                "headline": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
+                "teaserTitle": "REGULATION: GRID EMERGENCY DECLARED",
+                "visual_caption": "Canada launched a supply chain alliance to map critical labor shortages across transport networks. Freight operators face ongoing talent constraints that threaten throughput."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: TENNESSEE TOLL EXPANSION",
+                "headline": "ENERGY: GRID EMERGENCY DECLARED OVER FOREIGN PARTS",
                 "teaserTitle": "",
-                "visual_caption": "Tennessee authorities advanced a $9.2B interstate toll lane expansion project. Motor carriers face rising toll operating expenditures across southern logistics lanes."
+                "visual_caption": "A national emergency was declared over foreign hardware operating in the power grid. Utilities may be forced to disconnect overseas equipment due to security risks."
             },
             {
                 "slide_index": 8,
