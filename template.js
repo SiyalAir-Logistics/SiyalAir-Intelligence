@@ -1,65 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE HITS",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fees surge to $4.6M as regional drought and Middle East conflict squeeze global ocean transit corridors."
+        "titleWhite": "CANADA MATCHES NEW US TARIFFS WITH",
+        "titleBlue": "50%",
+        "footerSummary": "Canada matches US tariffs dollar for dollar with 50% levies on US imports, escalating trade tensions and disrupting North American supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE HITS 4.6M",
+            "heading": "REGULATION: CANADA MATCHES US TARIFFS WITH 50%",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker set a new record by paying a $4.6M queue jump fee to bypass congestion and transit the Panama Canal. Severe El Nino drought conditions have depleted regional water levels, forcing the canal authority to trim daily Neopanamax vessel transit slots.",
-                "Ocean carriers face restricted cargo intake capacities and soaring auction fees for priority passage, driving up spot freight rates across key inter-American routes. Supply chain planners must factor extended transit lead times and potential alternative routing contingencies into Q4 logistics budgets."
+                "The Canadian government has officially implemented retaliatory tariffs of up to 50% on US imports, matching American duties dollar for dollar amid stalled trade negotiations. The levies target core industrial and agricultural categories including steel, dairy products, appliances, and heavy equipment across northern borders.",
+                "Supply chain directors and cross-border shippers face immediate cost escalation and administrative friction as customs authorities enforce the new duties. Procurement teams must rapidly re-evaluate vendor contracts and source alternative suppliers to protect operating margins from cascading trade penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
+            "nextUpTease": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-28T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
+            "heading": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
             "paragraphs": [
-                "Descartes Systems Group has acquired transportation management solutions provider Tai Software for $100M to expand its freight brokerage platform capabilities. The strategic buyout consolidates critical freight broker technology systems as logistics providers race to scale automated operations.",
-                "Brokerage executives and third-party logistics providers must evaluate how enterprise software consolidation impacts vendor pricing, API integration workflows, and system interoperability. Procurement teams should review proprietary tech roadmaps to ensure seamless platform scalability amid tightening market capacity."
+                "Ongoing military conflict in the Black Sea has severely restricted grain exports from both Russia and Ukraine, driving benchmark wheat futures up 18% to reach three-year highs. The sudden supply chain constriction has triggered severe logistical bottlenecks across major international maritime grain corridors.",
+                "Grain traders and bulk shipping operators are absorbing higher volatility and longer voyage lead times as vessels seek alternative loading ports. Agricultural shippers must adjust inventory buffers and renegotiate freight forwarder agreements to mitigate escalating maritime transport costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: APEX PROBED OVER CHIP SMUGGLING",
+            "nextUpTease": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-27T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-27T18:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: APEX PROBED OVER CHIP SMUGGLING",
+            "heading": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
             "paragraphs": [
-                "United States federal authorities have launched a formal investigation into Singapore-based Apex Logistics, a wholly owned subsidiary of Kuehne+Nagel, over suspected involvement in illicit AI chip shipments to China. The probe targets alleged bypasses of federal export controls designed to restrict advanced semiconductor transfers to restricted foreign entities.",
-                "Global freight forwarders and logistics intermediaries face heightened regulatory scrutiny regarding cargo verification and end-user compliance protocols. Corporate legal teams must audit international forwarding networks and strengthen trade compliance controls to mitigate severe liability exposure."
+                "United States diesel inventories have dropped to the lowest seasonal level ever recorded in historical data, threatening to accelerate fuel surcharges across freight networks. The persistent supply deficit places intense upward pricing pressure on the commercial trucking sector and intermodal transport providers.",
+                "Fleet operators face heightened operational expenditure as fuel costs remain volatile amid broader geopolitical conflicts affecting energy corridors. Logistics managers must optimize route efficiency and implement dynamic fuel surcharge recovery models to protect profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: US POSTAL PEAK SURCHARGES",
+            "nextUpTease": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-27T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL: USPS TARGETS PEAK SURCHARGES",
+            "heading": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
             "paragraphs": [
-                "The United States Postal Service has announced a 6% rate increase for the 2026 peak season, applying holiday price bumps across Ground Advantage and Priority Mail services starting Oct. 4. The mandatory surcharges aim to offset surging operational costs during high-volume e-commerce shipping windows.",
-                "E-commerce merchants and parcel shippers face compressed operating margins and rising last-mile delivery expenditures ahead of the holiday shopping rush. Logistics directors must diversify carrier mix and optimize carton dimensions to mitigate the financial impact of seasonal rate hikes."
+                "UAE-based investor Mubadala Capital has acquired a majority equity stake in Arrive Logistics to fund an aggressive expansion of its proprietary freight technology platform. The substantial capital infusion will accelerate the development of advanced automated matchmaking and digital brokerage services for enterprise shippers.",
+                "Competitive consolidation among third-party logistics providers continues to reshape the digital freight brokerage landscape as firms race for technological superiority. Shippers should evaluate how platform enhancements impact freight procurement transparency, API connectivity, and service reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: FEDEX EXPANDS DELHI TERMINAL",
+            "nextUpTease": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-28T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
+            "paragraphs": [
+                "The United States Postal Service has formally announced a 6% rate increase for the upcoming peak shipping season, applying mandatory holiday price bumps across Ground Advantage and Priority Mail services starting October 4. The surcharges are designed to offset surging last-mile operational expenses during high-volume e-commerce delivery windows.",
+                "E-commerce merchants and direct-to-consumer brands face compressed operating margins and rising parcel delivery expenditures ahead of the winter holiday rush. Logistics directors must diversify carrier partnerships and optimize package sizing protocols to mitigate the financial burden of seasonal rate adjustments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-27T00:00:00Z",
@@ -67,46 +82,31 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AVIATION: FEDEX INVESTS 150M IN DELHI TERMINAL",
-            "paragraphs": [
-                "FedEx has committed $150M to construct a state-of-the-art air cargo terminal at Delhi airport to strengthen its international freight forwarding footprint across South Asia. The capital project is designed to enhance sorting velocity and expand cold chain logistics capabilities for high-value exports.",
-                "Air cargo network schedulers will benefit from increased regional throughput capacity and improved connection times across trans-Asian trade lanes. Supply chain operators should leverage the expanded hub infrastructure to optimize time-critical inventory distribution schedules."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-27T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
+            "heading": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
             "paragraphs": [
-                "The Canadian government has formally launched the Supply Chain Workforce Alliance to map critical labor and skill shortages plaguing national transportation networks. The initiative targets pressing operational bottlenecks across rail, trucking, and maritime supply chain corridors.",
-                "Freight operators and transport fleets face ongoing labor constraints that threaten driver retention and operational throughput across northern shipping lanes. Human resource directors must align compensation packages with emerging alliance benchmarks to secure qualified talent."
+                "The Panama Canal Authority has announced further reductions in daily Neopanamax vessel transit slots, compounding ongoing capacity constraints across inter-oceanic trade routes. Ocean carriers are experiencing extended vessel queues and soaring auction fees for priority passage through the vital waterway.",
+                "Supply chain planners must factor longer transit lead times and potential alternative maritime routings into international logistics budgets. Shippers relying on trans-American container services should establish proactive contingency plans to avoid critical inventory stockouts."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: GRID EMERGENCY DECLARED",
+            "nextUpTease": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-27T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-28T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: GRID EMERGENCY DECLARED OVER FOREIGN PARTS",
+            "heading": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
             "paragraphs": [
-                "The administration has declared a national emergency over foreign-made components operating within the United States power grid, threatening mandatory equipment removals. Federal officials are enacting sweeping security mandates that could force utilities to disconnect and replace vulnerable overseas hardware.",
-                "Energy logistics and infrastructure supply chains face immediate procurement disruptions as equipment manufacturers scramble to source domestic alternatives. Operations managers must audit critical tier-one supplier dependencies to ensure compliance and avoid costly project delays."
+                "Federal authorities have intensified investigations into Singapore-based Apex Logistics over alleged involvement in illicit semiconductor shipments bypassing export control regulations. The regulatory scrutiny targets international freight forwarders accused of facilitating unauthorized technology transfers to restricted foreign entities.",
+                "Global logistics intermediaries face heightened compliance exposure and rigorous cargo verification audits across international forwarding networks. Corporate legal teams must audit tier-one vendor relationships and strengthen trade compliance protocols to prevent severe penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-27T00:00:00Z",
                 "Status: Audited & True"
             ]

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE HITS 4.6M",
-                "teaserTitle": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE",
-                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass Panama Canal congestion. Severe drought conditions and restricted transit slots are driving up global freight rates."
+                "headline": "REGULATION: CANADA MATCHES US TARIFFS WITH 50%",
+                "teaserTitle": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
+                "visual_caption": "Canada implemented retaliatory 50% tariffs on US goods as trade talks stalled. Shippers must rapidly re-evaluate vendor contracts to protect operating margins."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR 100M",
-                "teaserTitle": "SECURITY: APEX PROBED OVER CHIP SMUGGLING",
-                "visual_caption": "Descartes acquired Tai Software for $100M to expand its brokerage platform. Logistics firms must evaluate how software consolidation impacts freight pricing workflows."
+                "headline": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
+                "teaserTitle": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
+                "visual_caption": "Black Sea conflicts drove benchmark wheat futures up 18% to 3-year highs. Agricultural shippers must adjust inventory buffers and renegotiate freight agreements."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: APEX PROBED OVER CHIP SMUGGLING",
-                "teaserTitle": "REGULATION: US POSTAL PEAK SURCHARGES",
-                "visual_caption": "Federal authorities launched an investigation into Apex Logistics over alleged chip smuggling. Forwarders face heightened regulatory scrutiny regarding cargo verification and compliance."
+                "headline": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
+                "teaserTitle": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
+                "visual_caption": "US diesel inventories dropped to record seasonal lows across freight networks. Fleet operators face rising fuel expenses and must implement dynamic surcharge models."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS TARGETS PEAK SURCHARGES",
-                "teaserTitle": "AIR CARGO: FEDEX EXPANDS DELHI TERMINAL",
-                "visual_caption": "The USPS announced a 6% peak season rate increase starting Oct. 4. E-commerce merchants face compressed operating margins and rising last-mile delivery costs."
+                "headline": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
+                "teaserTitle": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
+                "visual_caption": "Mubadala acquired a majority stake in Arrive Logistics to expand automated freight platforms. Shippers should evaluate how new technology impacts digital procurement transparency."
             },
             {
                 "slide_index": 5,
-                "headline": "AVIATION: FEDEX INVESTS 150M IN DELHI TERMINAL",
-                "teaserTitle": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
-                "visual_caption": "FedEx invested $150M to build an air cargo terminal in Delhi. The project enhances sorting velocity and expands cold chain logistics capabilities across South Asia."
+                "headline": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
+                "teaserTitle": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
+                "visual_caption": "The USPS announced a 6% peak season rate hike starting October 4. E-commerce merchants must diversify carrier mix to offset delivery expenditures."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: CANADA LAUNCHES WORKFORCE ALLIANCE",
-                "teaserTitle": "REGULATION: GRID EMERGENCY DECLARED",
-                "visual_caption": "Canada launched a supply chain alliance to map critical labor shortages across transport networks. Freight operators face ongoing talent constraints that threaten throughput."
+                "headline": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
+                "teaserTitle": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
+                "visual_caption": "Panama Canal authorities reduced daily Neopanamax vessel transit slots due to capacity constraints. Planners must factor longer lead times into international logistics budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: GRID EMERGENCY DECLARED OVER FOREIGN PARTS",
+                "headline": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
                 "teaserTitle": "",
-                "visual_caption": "A national emergency was declared over foreign hardware operating in the power grid. Utilities may be forced to disconnect overseas equipment due to security risks."
+                "visual_caption": "Federal authorities launched investigations into Apex Logistics over alleged semiconductor export violations. Forwarders face heightened compliance exposure and rigorous cargo verification audits."
             },
             {
                 "slide_index": 8,
