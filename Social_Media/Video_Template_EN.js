@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CANADA MATCHES NEW US TARIFFS WITH 50%",
+        "hookTitle": "PORT OF LOS ANGELES SECURES 30-YEAR LEASE WITH YUSEN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: CANADA MATCHES US TARIFFS WITH 50%",
-                "teaserTitle": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
+                "headline": "PORTS: PORT OF LOS ANGELES SECURES 30-YEAR LEASE WITH YUSEN",
+                "teaserTitle": "MARITIME: PANAMA CANAL RESTRICTIONS STRENGTHEN CAPACITY SQUEEZE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Canada implemented retaliatory fifty percent tariffs on American goods as trade talks stalled. Shippers must rapidly re-evaluate vendor contracts to protect operating margins."
+                "narration_line": "The Port of Los Angeles has approved a thirty year lease extension with Yusen Terminals. This agreement secures vital gateway capacity as seasonal import volumes reach multi year highs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: WHEAT PRICES SOAR AS BLACK SEA DISRUPTIONS INTENSIFY",
-                "teaserTitle": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
+                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS STRENGTHEN CAPACITY SQUEEZE",
+                "teaserTitle": "REGULATION: THREE MORE STATES END NON-DOMICILED CDL PROGRAMS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Black Sea conflicts drove benchmark wheat futures up eighteen percent to three-year highs. Agricultural shippers must adjust inventory buffers and renegotiate freight agreements."
+                "narration_line": "Panama Canal draft restrictions continue to force carriers into extended vessel queues and soaring fees. Global shipping networks are absorbing higher transit lead times and route shifts."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: US DIESEL STOCKPILE FALLS TO RECORD SEASONAL LOW",
-                "teaserTitle": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
+                "headline": "REGULATION: THREE MORE STATES END NON-DOMICILED CDL PROGRAMS",
+                "teaserTitle": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States diesel inventories dropped to record seasonal lows across freight networks. Fleet operators face rising fuel expenses and must implement dynamic surcharge models."
+                "narration_line": "Three additional states have terminated non-domiciled commercial driver license programs amid federal crackdowns. Fleet operators face tightening truckload labor constraints and administrative friction."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: MUBADALA ACQUIRES MAJORITY STAKE IN ARRIVE LOGISTICS",
-                "teaserTitle": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
+                "headline": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+                "teaserTitle": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR $100M",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mubadala acquired a majority stake in Arrive Logistics to expand automated freight platforms. Shippers should evaluate how new technology impacts digital procurement transparency."
+                "narration_line": "The postal service has announced a six percent rate hike for the upcoming holiday peak season. E-commerce shippers must adapt to mandatory price bumps across ground and priority services."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL: USPS ANNOUNCES 6% PEAK SEASON RATE HIKE",
-                "teaserTitle": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
+                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR $100M",
+                "teaserTitle": "FINANCE: FRONTLINE SECURES MULTI-YEAR COVER FOR VLCC QUARTET",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United States Postal Service announced a six percent peak season rate hike for October. E-commerce merchants must diversify carrier mix to offset delivery expenditures."
+                "narration_line": "Descartes has completed a one hundred million dollar acquisition of Tai Software. The buyout expands enterprise brokerage automation across international logistics networks."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: PANAMA CANAL TIGHTENS TRANSIT RESTRICTIONS",
-                "teaserTitle": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
+                "headline": "FINANCE: FRONTLINE SECURES MULTI-YEAR COVER FOR VLCC QUARTET",
+                "teaserTitle": "COMPLIANCE: KUEHNE NAGEL FACES SCRUTINY OVER APEX PROBE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Panama Canal authorities reduced daily Neopanamax vessel transit slots due to capacity constraints. Planners must factor longer lead times into international logistics budgets."
+                "narration_line": "Frontline has locked crude carriers into term charters at rates reaching one hundred twenty thousand dollars daily. Energy shippers face escalating freight costs amidst tight vessel supply."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: APEX LOGISTICS PROBED OVER CHIP SMUGGLING",
+                "headline": "COMPLIANCE: KUEHNE NAGEL FACES SCRUTINY OVER APEX PROBE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal authorities launched investigations into Apex Logistics over alleged semiconductor export violations. Forwarders face heightened compliance exposure and rigorous cargo verification audits."
+                "narration_line": "Freight forwarders face intense regulatory audits following federal investigations into semiconductor shipments. Corporate legal teams must strengthen trade compliance screening protocols."
             },
             {
                 "slide_index": 8,
