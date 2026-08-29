@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT OF LOS ANGELES SECURES 30-YEAR LEASE WITH YUSEN",
+        "hookTitle": "CANADA INSTALLS 50% RETALIATORY TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: PORT OF LOS ANGELES SECURES 30-YEAR LEASE WITH YUSEN",
-                "teaserTitle": "MARITIME: PANAMA CANAL RESTRICTIONS STRENGTHEN CAPACITY SQUEEZE",
+                "headline": "TRADE: CANADA INSTALLS 50% RETALIATORY TARIFFS",
+                "teaserTitle": "M&A: MUBADALA ACQUIRES ARRIVE LOGISTICS STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Port of Los Angeles has approved a thirty year lease extension with Yusen Terminals. This agreement secures vital gateway capacity as seasonal import volumes reach multi year highs."
+                "narration_line": "Canada is imposing fifty percent retaliatory tariffs on U.S. copper and steel starting September eighth. Shippers must immediately source new materials to avoid massive cost spikes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS STRENGTHEN CAPACITY SQUEEZE",
-                "teaserTitle": "REGULATION: THREE MORE STATES END NON-DOMICILED CDL PROGRAMS",
+                "headline": "M&A: MUBADALA ACQUIRES ARRIVE LOGISTICS STAKE",
+                "teaserTitle": "REGULATION: CALIFORNIA SUES OVER OFFSHORE WIND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Panama Canal draft restrictions continue to force carriers into extended vessel queues and soaring fees. Global shipping networks are absorbing higher transit lead times and route shifts."
+                "narration_line": "Abu Dhabi's Mubadala Capital has acquired a majority stake in Arrive Logistics. This investment will likely accelerate AI technology adoption across the freight brokerage network."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: THREE MORE STATES END NON-DOMICILED CDL PROGRAMS",
-                "teaserTitle": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
+                "headline": "REGULATION: CALIFORNIA SUES OVER OFFSHORE WIND",
+                "teaserTitle": "EQUIPMENT: DTNA OPENS GEN 6 ENGINE ORDERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Three additional states have terminated non-domiciled commercial driver license programs amid federal crackdowns. Fleet operators face tightening truckload labor constraints and administrative friction."
+                "narration_line": "California is suing the federal government over the cancellation of offshore wind leases. The litigation puts fifteen billion dollars in maritime energy projects at risk."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS ANNOUNCES 6% RATE HIKE FOR PEAK SEASON",
-                "teaserTitle": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR $100M",
+                "headline": "EQUIPMENT: DTNA OPENS GEN 6 ENGINE ORDERS",
+                "teaserTitle": "PORTS: PRINCE RUPERT OPENS TRANSLOAD HUB",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The postal service has announced a six percent rate hike for the upcoming holiday peak season. E-commerce shippers must adapt to mandatory price bumps across ground and priority services."
+                "narration_line": "Detroit Diesel opens its order book for Gen six engines on September first. Carriers must prepare for higher asset costs to meet the upcoming twenty twenty-seven emissions rules."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: DESCARTES ACQUIRES TAI SOFTWARE FOR $100M",
-                "teaserTitle": "FINANCE: FRONTLINE SECURES MULTI-YEAR COVER FOR VLCC QUARTET",
+                "headline": "PORTS: PRINCE RUPERT OPENS TRANSLOAD HUB",
+                "teaserTitle": "ECOMMERCE: EBAY MANDATES COIN AUTHENTICATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Descartes has completed a one hundred million dollar acquisition of Tai Software. The buyout expands enterprise brokerage automation across international logistics networks."
+                "narration_line": "The Prince Rupert port has opened a two hundred fifty million dollar transload facility. Exporters can now convert bulk goods to containers for more efficient routing to Asia."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: FRONTLINE SECURES MULTI-YEAR COVER FOR VLCC QUARTET",
-                "teaserTitle": "COMPLIANCE: KUEHNE NAGEL FACES SCRUTINY OVER APEX PROBE",
+                "headline": "ECOMMERCE: EBAY MANDATES COIN AUTHENTICATION",
+                "teaserTitle": "LEGAL: SWEDEN PROSECUTES MARITIME COLLISION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Frontline has locked crude carriers into term charters at rates reaching one hundred twenty thousand dollars daily. Energy shippers face escalating freight costs amidst tight vessel supply."
+                "narration_line": "eBay now requires mandatory authentication for high-value coins. Sellers should expect three to five day delays as shipments are rerouted through centralized verification hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: KUEHNE NAGEL FACES SCRUTINY OVER APEX PROBE",
-                "teaserTitle": "",
+                "headline": "LEGAL: SWEDEN PROSECUTES MARITIME COLLISION",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Freight forwarders face intense regulatory audits following federal investigations into semiconductor shipments. Corporate legal teams must strengthen trade compliance screening protocols."
+                "narration_line": "Swedish authorities are prosecuting a cargo ship captain and pilot after a deadly collision. This case signals a major shift toward stricter maritime legal accountability."
             },
             {
                 "slide_index": 8,
