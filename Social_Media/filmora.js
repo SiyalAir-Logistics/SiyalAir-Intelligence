@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: CANADA INSTALLS 50% RETALIATORY TARIFFS",
-                "teaserTitle": "M&A: MUBADALA ACQUIRES ARRIVE LOGISTICS STAKE",
-                "visual_caption": "Canada imposes 50% tariffs on U.S. copper and steel starting Sept 8. Shippers must source new materials to avoid 50% cost spikes."
+                "headline": "TRADE: CANADA MATCHES NEW U.S. TARIFFS",
+                "teaserTitle": "PORTS: YUSEN TERMINALS 30-YEAR LEASE",
+                "visual_caption": "Canada matches U.S. tariffs dollar for dollar in a swift retaliatory trade move. Supply chain directors must recalibrate sourcing channels to absorb sudden border costs."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: MUBADALA ACQUIRES ARRIVE LOGISTICS STAKE",
-                "teaserTitle": "REGULATION: CALIFORNIA SUES OVER OFFSHORE WIND",
-                "visual_caption": "Mubadala Capital acquires majority stake in Arrive Logistics. Expect accelerated AI tech adoption across freight brokerage networks."
+                "headline": "PORTS: YUSEN TERMINALS 30-YEAR LEASE",
+                "teaserTitle": "MARITIME: IMO WARNS OF PERSIAN GULF SHIPS",
+                "visual_caption": "The Port of Los Angeles approved a 30-year lease extension with Yusen Terminals. The agreement unlocks $200M in zero-emission terminal equipment investments."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: CALIFORNIA SUES OVER OFFSHORE WIND",
-                "teaserTitle": "EQUIPMENT: DTNA OPENS GEN 6 ENGINE ORDERS",
-                "visual_caption": "California sues federal gov over offshore wind lease cancellations. Litigation puts $15B in maritime energy projects at risk."
+                "headline": "MARITIME: IMO WARNS OF PERSIAN GULF SHIPS",
+                "teaserTitle": "SAFETY: STATES END NON-DOMICILED CDLS",
+                "visual_caption": "Around 400 commercial ships remain stranded in the Persian Gulf amid regional volatility. Fleet planners must account for prolonged vessel redeployment delays."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DTNA OPENS GEN 6 ENGINE ORDERS",
-                "teaserTitle": "PORTS: PRINCE RUPERT OPENS TRANSLOAD HUB",
-                "visual_caption": "Detroit Diesel opens Gen 6 engine orders on Sept 1. Carriers must prep for higher costs to meet 2027 emissions rules."
+                "headline": "SAFETY: STATES END NON-DOMICILED CDLS",
+                "teaserTitle": "RETAIL: EBAY MANDATES COIN AUTHENTICATION",
+                "visual_caption": "Multiple states are terminating non-domiciled CDL programs amid federal enforcement. Motor carriers face tightening driver availability and capacity constraints."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: PRINCE RUPERT OPENS TRANSLOAD HUB",
-                "teaserTitle": "ECOMMERCE: EBAY MANDATES COIN AUTHENTICATION",
-                "visual_caption": "Prince Rupert port opens $250M transload facility. Exporters can now convert bulk to containers for 20% better efficiency."
+                "headline": "RETAIL: EBAY MANDATES COIN AUTHENTICATION",
+                "teaserTitle": "LOGISTICS: REAL ESTATE VACANCY DROPS",
+                "visual_caption": "eBay mandates authenticity guarantees for high-value coin marketplace transactions. Sellers should anticipate 3 to 5 day transit extensions for shipments."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: EBAY MANDATES COIN AUTHENTICATION",
-                "teaserTitle": "LEGAL: SWEDEN PROSECUTES MARITIME COLLISION",
-                "visual_caption": "eBay mandates authentication for high-value coins. Sellers should expect 3 to 5 day delays due to verification rerouting."
+                "headline": "LOGISTICS: REAL ESTATE VACANCY DROPS",
+                "teaserTitle": "SHIPPING: HIMALAYA PUSHES RATE COVER",
+                "visual_caption": "Industrial real estate vacancy fell to 7.3% in Q2 as demand outpaces supply. Supply chain leaders must lock in long-term lease renewals early."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: SWEDEN PROSECUTES MARITIME COLLISION",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Swedish prosecutors charge captain and pilot after deadly collision. Case signals shift toward stricter maritime legal accountability."
+                "headline": "SHIPPING: HIMALAYA PUSHES RATE COVER",
+                "teaserTitle": "",
+                "visual_caption": "Himalaya Shipping locked fixed-rate charters at $53K daily into 2027. Bulk commodity charterers face higher baseline shipping costs and reduced spot capacity."
             },
             {
                 "slide_index": 8,
