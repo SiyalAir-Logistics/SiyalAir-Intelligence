@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
-                "teaserTitle": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
-                "visual_caption": "Summer monthly maritime container imports are projected to hit a 4-year high. This influx is compounding terminal congestion across major U.S. gateways."
+                "headline": "BUSINESS: VOLVO LIMITS TRUCK ORDER SLOTS",
+                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "visual_caption": "Volvo Group restricts 2027 truck order slots across North America following Q3 financial results. Fleets must secure production slots early to avoid critical asset deficits."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
-                "teaserTitle": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
-                "visual_caption": "The administration removed specific tariffs on plywood and packaging effective Oct. 30. Importers should audit bills of materials to capture cost savings."
+                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "teaserTitle": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
+                "visual_caption": "Iraq officially restarts scheduled container shipping operations in the Arabian Gulf after a 50-year hiatus. Importers can leverage this new feeder service to diversify routing options."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
-                "teaserTitle": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
-                "visual_caption": "Gemini partners signal a full Suez return by Q1 as security assessments improve. Red Sea capacity has recovered to 48% of pre-crisis benchmark levels."
+                "headline": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
+                "teaserTitle": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
+                "visual_caption": "Kuehne + Nagel reports significant Q3 airfreight growth driven by aggressive market share capture. Shippers face intensifying competition and rising spot rates for premium capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
-                "teaserTitle": "LABOR: HALIFAX PORT REACHES PACT",
-                "visual_caption": "A Greek tanker departed for the U.S. with the first Russian diesel cargo. Fleets must monitor regional fuel pricing impacts and hedge transport costs."
+                "headline": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
+                "teaserTitle": "TRANSPORTATION: OIL PRICES HIT SEVEN MONTH HIGH",
+                "visual_caption": "Sierra Leone launches a national shipping company backed by Chinese partners with a 50-vessel fleet target. Exporters gain dedicated domestic tonnage to streamline trade."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: HALIFAX PORT REACHES PACT",
-                "teaserTitle": "AIR CARGO: DEMAND PROPELS PEAK",
-                "visual_caption": "The ILA and Halifax port employers reached a tentative 3-year labor agreement. This pact successfully averts potential supply chain disruptions on the East Coast."
+                "headline": "TRANSPORTATION: OIL PRICES HIT 7 MONTH HIGH",
+                "teaserTitle": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
+                "visual_caption": "Brent crude oil prices climb 2.7% to $116.24 per barrel amid Middle East supply disruptions. Transport operators must implement dynamic fuel surcharges immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: DEMAND PROPELS PEAK",
-                "teaserTitle": "CONTRACT LOGISTICS: STORD BUYS AMS",
-                "visual_caption": "AI infrastructure demand is driving a robust air cargo peak season. Shippers face tightening uplift capacity and rising spot rates across key trade lanes."
+                "headline": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
+                "teaserTitle": "LABOR: ILA HALIFAX PORT REACHES PACT",
+                "visual_caption": "Marketplace giant eBay cuts 1K jobs, affecting 9% of its global workforce in a major downsizing. Merchants should diversify digital channels to insulate against platform disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "CONTRACT LOGISTICS: STORD BUYS AMS",
+                "headline": "LABOR: ILA HALIFAX PORT REACHES PACT",
                 "teaserTitle": "",
-                "visual_caption": "Stord completed its 12th acquisition by purchasing AMS Fulfillment. The deal expands its coastal warehouse footprint and omnichannel fulfillment capabilities."
+                "visual_caption": "The ILA and port employers in Halifax reach a tentative 3-year labor agreement. Supply chain planners gain essential schedule predictability across Canadian Atlantic gateways."
             },
             {
                 "slide_index": 8,

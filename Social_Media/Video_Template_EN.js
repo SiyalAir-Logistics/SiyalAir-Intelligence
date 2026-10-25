@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SUMMER IMPORTS TO HIT FOUR YEAR HIGH",
+        "hookTitle": "VOLVO LIMITS 2027 TRUCK ORDER SLOTS IN NORTH AMERICA",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
-                "teaserTitle": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+                "headline": "BUSINESS: VOLVO LIMITS TRUCK ORDER SLOTS",
+                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Summer monthly maritime container imports are projected to reach their highest level since twenty twenty-two. This surge is compounding terminal congestion and increasing yard utilization across major U.S. gateways."
+                "narration_line": "Volvo Group has restricted twenty twenty-seven truck order slots across North America following a strong third quarter financial performance. Fleet operators must secure production slots early to avoid critical asset deficits."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
-                "teaserTitle": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "teaserTitle": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Trump administration has removed specific tariffs on plywood and packaging materials effective October thirtieth. This adjustment offers targeted relief for cross-border shippers facing high material costs."
+                "narration_line": "Iraq has officially restarted scheduled container shipping operations in the Arabian Gulf after a fifty year hiatus. Importers can leverage this new Middle Eastern feeder service to diversify routing options."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
-                "teaserTitle": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+                "headline": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
+                "teaserTitle": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Gemini partners are planning a full return to the Suez Canal transit route by the first quarter. Scheduled capacity through the Red Sea corridor has recovered to forty-eight percent of pre-crisis levels."
+                "narration_line": "Kuehne plus Nagel reported significant third quarter airfreight growth driven by aggressive market share capture. Shippers face intensifying competition and rising spot rates for premium capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
-                "teaserTitle": "LABOR: HALIFAX PORT REACHES PACT",
+                "headline": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
+                "teaserTitle": "TRANSPORTATION: OIL PRICES HIT SEVEN MONTH HIGH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A Greek-flagged tanker has departed for the United States with the first Russian diesel cargo. This shipment marks a significant shift in trans-Atlantic energy trade flows and pricing."
+                "narration_line": "Sierra Leone launched a national shipping company backed by Chinese partners with an ambitious fifty vessel fleet target. Exporters gain dedicated domestic tonnage to streamline international trade."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: HALIFAX PORT REACHES PACT",
-                "teaserTitle": "AIR CARGO: DEMAND PROPELS PEAK",
+                "headline": "TRANSPORTATION: OIL PRICES HIT 7 MONTH HIGH",
+                "teaserTitle": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The International Longshoremen's Association has reached a tentative three-year labor agreement in Halifax. This settlement successfully averts potential supply chain disruptions at Canadian East Coast ports."
+                "narration_line": "Brent crude oil prices climbed two point seven percent to one hundred sixteen dollars per barrel amid Middle East conflicts. Transport operators must implement dynamic fuel surcharges immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: DEMAND PROPELS PEAK",
-                "teaserTitle": "CONTRACT LOGISTICS: STORD BUYS AMS",
+                "headline": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
+                "teaserTitle": "LABOR: ILA HALIFAX PORT REACHES PACT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Surging global demand for artificial intelligence hardware is driving a robust air cargo peak season. Forwarders are facing tightening uplift capacity and rising spot rates across major trade routes."
+                "narration_line": "Marketplace giant eBay eliminated one thousand jobs representing nine percent of its global workforce. Merchants should diversify digital sales channels to insulate against support disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "CONTRACT LOGISTICS: STORD BUYS AMS",
+                "headline": "LABOR: ILA HALIFAX PORT REACHES PACT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Third-party logistics provider Stord has acquired AMS Fulfillment to expand its coastal warehouse network. The strategic buyout enhances omnichannel fulfillment capabilities for major retail shippers."
+                "narration_line": "The International Longshoremen association reached a tentative three year labor agreement in Halifax. Supply chain planners gain essential schedule predictability across Canadian Atlantic gateways."
             },
             {
                 "slide_index": 8,

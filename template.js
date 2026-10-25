@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUMMER IMPORTS TO HIT 4 YEAR",
-        "titleBlue": "HIGH",
-        "footerSummary": "Summer monthly maritime imports are projected to reach their highest level since 2022, compounding supply chain bottlenecks and terminal congestion."
+        "titleWhite": "VOLVO LIMITS 2027 TRUCK ORDER SLOTS IN NORTH",
+        "titleBlue": "AMERICA",
+        "footerSummary": "Volvo limits 2027 truck order slots as revenue climbs 8% to $11.86B, pressuring fleet capital planning."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
+            "heading": "BUSINESS: VOLVO LIMITS TRUCK ORDER SLOTS",
             "paragraphs": [
-                "Summer monthly container import volumes across major U.S. gateways are projected to reach their highest level since 2022 as cargo owners accelerate shipments ahead of peak regulatory windows. This sustained influx of inbound inventory is straining terminal handling capacities and driving up yard utilization rates at key coastal hubs.",
-                "Logistics executives must prepare for prolonged container dwell times and potential chassis shortages as port throughput intensifies. Supply chain planners should recalibrate drayage schedules and secure multi-modal backup options to insulate distribution networks from terminal delays."
+                "Volvo Group has announced strict limitations on 2027 truck order slots across North America following a robust Q3 financial performance that included an 8% revenue increase to $11.86B and a profit of $1.06B. This manufacturing constraint comes as the heavy-duty sector grapples with tightening component supply chains and rising production costs ahead of impending emissions standards.",
+                "Fleet operators must accelerate equipment replacement cycles and secure production slots early to avoid critical asset deficits and inflated spot market acquisition costs. Procurement directors should recalibrate capital expenditure budgets to account for restricted OEM availability and higher baseline truck pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+            "nextUpTease": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+            "heading": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
             "paragraphs": [
-                "The Trump administration has modified its sweeping Canada tariff policy by removing specific duties on plywood and essential packaging materials, effective October 30. This regulatory adjustment provides targeted relief for cross-border shippers grappling with inflated material procurement expenses.",
-                "Importers must audit their bill of materials immediately to capitalize on these newly exempted categories and lower landed costs. Supply chain directors should engage customs brokers to verify compliance documentation before the revised tariff exemptions take effect."
+                "Backed by diplomatic initiatives led by Secretary of State Marco Rubio, Iraq\u2019s state-owned Iraqi Maritime Line has officially restarted scheduled container shipping operations in the Arabian Gulf after a 50-year hiatus. The carrier's maiden feeder loop establishes a direct maritime connection to Jebel Ali Port, expanding regional logistics infrastructure and trade pathways.",
+                "Importers and freight forwarders can leverage this new Middle Eastern maritime gateway to diversify routing options and bypass congested overland transit corridors. Supply chain managers should evaluate how this direct feeder service impacts regional transit times and handling fees for Persian Gulf shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+            "nextUpTease": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-canada-tariffs-plywood-packaging-exempt/762100/",
+                "Source: https://www.inboundlogistics.com",
                 "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+            "heading": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
             "paragraphs": [
-                "Gemini cooperation partners Maersk and Hapag-Lloyd have signaled a full return to the Suez Canal transit route by Q1 as they deploy a new Asia-Mediterranean service string. Scheduled capacity passing through the Bab el-Mandeb Strait has recovered to 48% of pre-crisis levels amid improving security assessments.",
-                "Carriers and ocean shippers utilizing this reopened maritime corridor can expect shortened transit times and reduced bunker fuel expenditures compared to the Cape of Good Hope detour. Logistics managers should factor these evolving routing efficiencies into Q1 contract negotiations and inventory replenishment models."
+                "Kuehne + Nagel has reported significant third-quarter airfreight volume growth, attributing its market performance directly to aggressive share capture as the peak shipping season gathers momentum. The forwarder capitalized on surging demand for tech and automotive components to secure premium charter capacity across key trade lanes.",
+                "Shippers face intensifying competition for limited air cargo uplift and rising spot rates as major forwarders consolidate market share. Logistics directors must establish multi-carrier framework agreements and lock in block-space commitments to protect profit margins against seasonal volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+            "nextUpTease": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-10-23T00:00:00Z",
@@ -53,60 +53,60 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+            "heading": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
             "paragraphs": [
-                "A Greek-flagged tanker has departed for the United States carrying the first cargo of Russian diesel fuel permitted under recent diplomatic agreements following U.S.-Russia negotiations. This shipment marks a notable shift in trans-Atlantic energy trade flows, with at least 3 additional export cargoes reportedly staged for dispatch.",
-                "Energy market participants and fuel-dependent transport fleets must monitor how renewed supplies impact regional diesel pricing benchmarks and operating margins. Motor carriers should leverage these energy shifts to optimize fuel surcharge calculations and manage long-term hedging strategies."
+                "Sierra Leone has officially established a national shipping company backed by China\u2019s Zhejiang Xiehai Group, featuring an ambitious fleet target of 50 vessels to capture greater control over international trade. President Julius Maada Bio inaugurated the enterprise at Freetown's Queen Elizabeth II Quay against the backdrop of a 176K dwt Chinese-owned bulker.",
+                "West African exporters and international mining operations gain dedicated domestic tonnage options designed to streamline bulk and containerized cargo out-turns. Supply chain planners should assess how this localized state-backed carrier integration alters regional freight rates and port turnaround efficiencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: HALIFAX PORT REACHES PACT",
+            "nextUpTease": "TRANSPORTATION: OIL PRICES HIT SEVEN MONTH HIGH",
             "tags": [
-                "Source: https://maritime-executive.com/article/greek-tanker-sails-for-the-u-s-with-first-russian-diesel-cargo",
-                "Published: 2026-10-23T13:27:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-23T15:32:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: HALIFAX PORT REACHES PACT",
+            "heading": "TRANSPORTATION: OIL PRICES HIT 7 MONTH HIGH",
             "paragraphs": [
-                "The International Longshoremen's Association and port employers in Halifax have reached a tentative 3-year labor agreement, averting potential strike disruptions in Atlantic Canada. This settlement follows closely on the heels of a 5-year contract finalized between Montreal employers and dockworkers.",
-                "Supply chain planners utilizing Canadian East Coast gateways gain vital operational stability and predictable vessel turnaround schedules for upcoming peak distribution cycles. Shippers should maintain open communications with forwarders to ensure smooth cargo flow across these stabilized maritime nodes."
+                "Brent crude oil prices climbed 2.7% to $116.24 a barrel, driving the national average for regular gasoline up to $4.29 as escalating geopolitical conflicts in the Middle East disrupt regional energy flows. This surge represents the highest crude valuation recorded since March, directly pressuring operating margins across all surface and air transport modes.",
+                "Motor carriers and logistics service providers must immediately implement dynamic fuel surcharge adjustments to mitigate escalating line-haul expense pressures. Shippers should review multi-modal freight distribution models to identify fuel-efficient alternatives such as rail intermodal to offset rising diesel costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DEMAND PROPELS PEAK",
+            "nextUpTease": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: DEMAND PROPELS PEAK",
+            "heading": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
             "paragraphs": [
-                "Surging global demand for artificial intelligence hardware and advanced server infrastructure is driving an exceptionally robust air cargo peak season across trans-Pacific and Asia-Europe corridors. Forwarders and carriers report high utilization rates for premium charter capacity as tech shippers race to meet delivery deadlines.",
-                "Supply chain executives face tightening air freight capacity and elevated spot rates for urgent component shipments. Logistics managers must secure block-space agreements early to protect profit margins and prevent costly supply chain interruptions."
+                "Marketplace giant eBay has executed its second major downsizing of the year, eliminating approximately 1K jobs or 9% of its global workforce across all operating regions. This structural reduction reflects broader platform streamlining efforts as e-commerce operators adapt to shifting consumer demand and economic pressures.",
+                "Sellers relying on digital marketplace ecosystems must monitor platform support modifications and evolving fulfillment service capabilities resulting from corporate restructurings. E-commerce merchants should diversify digital sales channels to insulate operations from platform-specific support disruptions and operational pivots."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACT LOGISTICS: STORD BUYS AMS",
+            "nextUpTease": "LABOR: ILA HALIFAX PORT REACHES PACT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CONTRACT LOGISTICS: STORD BUYS AMS",
+            "heading": "LABOR: ILA HALIFAX PORT REACHES PACT",
             "paragraphs": [
-                "Third-party logistics provider Stord has finalized its 12th corporate acquisition by purchasing AMS Fulfillment, significantly expanding its warehouse footprint across strategic East Coast and West Coast hubs. This strategic buyout enhances Stord's omnichannel fulfillment capabilities and national scale.",
-                "Retailers and e-commerce brands seeking resilient distribution networks can leverage these newly integrated coastal facilities to reduce last-mile transit times. Supply chain leaders should evaluate how multi-node 3P logistics partners can improve inventory placement and mitigate regional fulfillment risks."
+                "The International Longshoremen's Association and port employers in Halifax have successfully finalized a tentative 3-year labor agreement, securing operational stability across Canadian Atlantic gateways. This settlement arrives just one week after Montreal dockworkers agreed to a 5-year contract, averting crippling multi-port supply chain disruptions.",
+                "Supply chain planners utilizing East Coast maritime trade lanes gain essential schedule predictability and guaranteed vessel turnaround times for peak season distribution. Importers should coordinate closely with forwarders to optimize cargo routing through these recently stabilized Canadian gateway nodes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
