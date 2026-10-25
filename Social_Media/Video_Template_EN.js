@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "VOLVO LIMITS 2027 TRUCK ORDER SLOTS IN NORTH AMERICA",
+        "hookTitle": "TRUMP REVISES CANADA IMPORT DUTIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BUSINESS: VOLVO LIMITS TRUCK ORDER SLOTS",
-                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "headline": "TARIFFS: TRUMP REVISES CANADA IMPORT DUTIES",
+                "teaserTitle": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Volvo Group has restricted twenty twenty-seven truck order slots across North America following a strong third quarter financial performance. Fleet operators must secure production slots early to avoid critical asset deficits."
+                "narration_line": "The White House has exempted packaging materials and plywood from the fifty percent Canada tariff threshold. Shippers must immediately audit cross-border customs declarations to prevent unneeded cash duty deposits."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "teaserTitle": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
+                "headline": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
+                "teaserTitle": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iraq has officially restarted scheduled container shipping operations in the Arabian Gulf after a fifty year hiatus. Importers can leverage this new Middle Eastern feeder service to diversify routing options."
+                "narration_line": "The global container orderbook has reached forty-six point five percent of the active fleet. Carriers are aggressively blanking sailings to defend ocean freight rates against looming excess capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
-                "teaserTitle": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
+                "headline": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
+                "teaserTitle": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Kuehne plus Nagel reported significant third quarter airfreight growth driven by aggressive market share capture. Shippers face intensifying competition and rising spot rates for premium capacity."
+                "narration_line": "HD Hyundai is partnering with Kiewit to build a commercial shipyard on the United States Gulf Coast. This venture expands domestic production capacity and reduces maintenance reliance on foreign drydocks."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
-                "teaserTitle": "TRANSPORTATION: OIL PRICES HIT SEVEN MONTH HIGH",
+                "headline": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
+                "teaserTitle": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Sierra Leone launched a national shipping company backed by Chinese partners with an ambitious fifty vessel fleet target. Exporters gain dedicated domestic tonnage to streamline international trade."
+                "narration_line": "Logistics provider Stord has acquired AMS Fulfillment to expand key fulfillment hubs across both coasts. Shippers can now leverage integrated facilities to lower parcel distribution costs and transit times."
             },
             {
                 "slide_index": 5,
-                "headline": "TRANSPORTATION: OIL PRICES HIT 7 MONTH HIGH",
-                "teaserTitle": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
+                "headline": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
+                "teaserTitle": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Brent crude oil prices climbed two point seven percent to one hundred sixteen dollars per barrel amid Middle East conflicts. Transport operators must implement dynamic fuel surcharges immediately."
+                "narration_line": "Audi is investing four billion dollars to build a manufacturing assembly plant in Georgia. Automotive suppliers must quickly stage logistics nodes to support regional inbound parts deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
-                "teaserTitle": "LABOR: ILA HALIFAX PORT REACHES PACT",
+                "headline": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
+                "teaserTitle": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Marketplace giant eBay eliminated one thousand jobs representing nine percent of its global workforce. Merchants should diversify digital sales channels to insulate against support disruptions."
+                "narration_line": "Port truckers have petitioned federal maritime regulators over unfair empty container return restrictions. Carriers face mounting detention fees and driver delays unless marine terminals standardize gate procedures."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR: ILA HALIFAX PORT REACHES PACT",
+                "headline": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The International Longshoremen association reached a tentative three year labor agreement in Halifax. Supply chain planners gain essential schedule predictability across Canadian Atlantic gateways."
+                "narration_line": "Federal authorities have charged a driver in a twelve million dollar cargo theft scheme using stolen carrier identities. Brokers must tighten carrier vetting to stop sophisticated supply chain fraud."
             },
             {
                 "slide_index": 8,

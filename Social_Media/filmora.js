@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BUSINESS: VOLVO LIMITS TRUCK ORDER SLOTS",
-                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "visual_caption": "Volvo Group restricts 2027 truck order slots across North America following Q3 financial results. Fleets must secure production slots early to avoid critical asset deficits."
+                "headline": "TARIFFS: TRUMP REVISES CANADA IMPORT DUTIES",
+                "teaserTitle": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
+                "visual_caption": "The White House has exempted packaging materials and plywood from the 50% Canada tariff threshold. Shippers must immediately audit cross-border customs declarations to prevent unneeded cash duty deposits."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "teaserTitle": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
-                "visual_caption": "Iraq officially restarts scheduled container shipping operations in the Arabian Gulf after a 50-year hiatus. Importers can leverage this new feeder service to diversify routing options."
+                "headline": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
+                "teaserTitle": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
+                "visual_caption": "The global container orderbook has reached 46.5% of the active fleet. Carriers are aggressively blanking sailings to defend ocean freight rates against looming excess capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: K+N CAPTURES AIR CARGO GAINS",
-                "teaserTitle": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
-                "visual_caption": "Kuehne + Nagel reports significant Q3 airfreight growth driven by aggressive market share capture. Shippers face intensifying competition and rising spot rates for premium capacity."
+                "headline": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
+                "teaserTitle": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
+                "visual_caption": "HD Hyundai is partnering with Kiewit to build a commercial shipyard on the US Gulf Coast. This venture expands domestic production capacity and reduces maintenance reliance on foreign drydocks."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SIERRA LEONE LAUNCHES CARRIER",
-                "teaserTitle": "TRANSPORTATION: OIL PRICES HIT SEVEN MONTH HIGH",
-                "visual_caption": "Sierra Leone launches a national shipping company backed by Chinese partners with a 50-vessel fleet target. Exporters gain dedicated domestic tonnage to streamline trade."
+                "headline": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
+                "teaserTitle": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
+                "visual_caption": "Logistics provider Stord has acquired AMS Fulfillment to expand key fulfillment hubs across both coasts. Shippers can now leverage integrated facilities to lower parcel distribution costs and transit times."
             },
             {
                 "slide_index": 5,
-                "headline": "TRANSPORTATION: OIL PRICES HIT 7 MONTH HIGH",
-                "teaserTitle": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
-                "visual_caption": "Brent crude oil prices climb 2.7% to $116.24 per barrel amid Middle East supply disruptions. Transport operators must implement dynamic fuel surcharges immediately."
+                "headline": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
+                "teaserTitle": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
+                "visual_caption": "Audi is investing $4B to build a manufacturing assembly plant in Georgia. Automotive suppliers must quickly stage logistics nodes to support regional inbound parts deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: EBAY CUTS 1K JOBS GLOBALLY",
-                "teaserTitle": "LABOR: ILA HALIFAX PORT REACHES PACT",
-                "visual_caption": "Marketplace giant eBay cuts 1K jobs, affecting 9% of its global workforce in a major downsizing. Merchants should diversify digital channels to insulate against platform disruptions."
+                "headline": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
+                "teaserTitle": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
+                "visual_caption": "Port truckers have petitioned federal maritime regulators over unfair empty container return restrictions. Carriers face mounting detention fees and driver delays unless marine terminals standardize gate procedures."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR: ILA HALIFAX PORT REACHES PACT",
+                "headline": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
                 "teaserTitle": "",
-                "visual_caption": "The ILA and port employers in Halifax reach a tentative 3-year labor agreement. Supply chain planners gain essential schedule predictability across Canadian Atlantic gateways."
+                "visual_caption": "Federal authorities have charged a driver in a $12M cargo theft scheme using stolen carrier identities. Brokers must tighten carrier vetting to stop sophisticated supply chain fraud."
             },
             {
                 "slide_index": 8,
