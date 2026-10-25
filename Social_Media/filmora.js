@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CONTAINER CHARTER RATES HIT FOUR YEAR HIGH",
-                "teaserTitle": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
-                "visual_caption": "Global container charter rates have climbed to a 4-year peak despite record orderbooks. Ocean carriers face elevated leasing costs and tight vessel capacity."
+                "headline": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
+                "teaserTitle": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+                "visual_caption": "Summer monthly maritime container imports are projected to hit a 4-year high. This influx is compounding terminal congestion across major U.S. gateways."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
-                "teaserTitle": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
-                "visual_caption": "Kuehne + Nagel attributes strong Q3 airfreight growth to market share gains. Forwarders are competing aggressively for premium cargo uplift space."
+                "headline": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+                "teaserTitle": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+                "visual_caption": "The administration removed specific tariffs on plywood and packaging effective Oct. 30. Importers should audit bills of materials to capture cost savings."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
-                "teaserTitle": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
-                "visual_caption": "Volvo Group has restricted its 2027 heavy-duty truck order slots in North America. Fleet operators face extended equipment lead times and restricted schedules."
+                "headline": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+                "teaserTitle": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+                "visual_caption": "Gemini partners signal a full Suez return by Q1 as security assessments improve. Red Sea capacity has recovered to 48% of pre-crisis benchmark levels."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
-                "teaserTitle": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
-                "visual_caption": "Record September import volumes at San Pedro Bay have increased container dwell times. Intermodal yard congestion requires shippers to accelerate cargo pickups."
+                "headline": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+                "teaserTitle": "LABOR: HALIFAX PORT REACHES PACT",
+                "visual_caption": "A Greek tanker departed for the U.S. with the first Russian diesel cargo. Fleets must monitor regional fuel pricing impacts and hedge transport costs."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
-                "teaserTitle": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
-                "visual_caption": "Amazon is increasing its U.S. holiday workforce by 300K seasonal hires. Retailers face intense wage competition for available warehouse labor."
+                "headline": "LABOR: HALIFAX PORT REACHES PACT",
+                "teaserTitle": "AIR CARGO: DEMAND PROPELS PEAK",
+                "visual_caption": "The ILA and Halifax port employers reached a tentative 3-year labor agreement. This pact successfully averts potential supply chain disruptions on the East Coast."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
-                "teaserTitle": "RAIL: OREGON RECEIVES 205M FUNDING",
-                "visual_caption": "Shippers face compounding cost pressures as diesel prices and linehaul rates climb together. Transport departments must adjust budgets for fuel volatility."
+                "headline": "AIR CARGO: DEMAND PROPELS PEAK",
+                "teaserTitle": "CONTRACT LOGISTICS: STORD BUYS AMS",
+                "visual_caption": "AI infrastructure demand is driving a robust air cargo peak season. Shippers face tightening uplift capacity and rising spot rates across key trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: OREGON RECEIVES 205M FUNDING",
+                "headline": "CONTRACT LOGISTICS: STORD BUYS AMS",
                 "teaserTitle": "",
-                "visual_caption": "Oregon has secured $205M for regional rail infrastructure development. This project expands Pacific Northwest container port and intermodal capacity."
+                "visual_caption": "Stord completed its 12th acquisition by purchasing AMS Fulfillment. The deal expands its coastal warehouse footprint and omnichannel fulfillment capabilities."
             },
             {
                 "slide_index": 8,

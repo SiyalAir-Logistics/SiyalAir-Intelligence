@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CONTAINER CHARTER RATES HIT FOUR YEAR HIGH",
+        "hookTitle": "SUMMER IMPORTS TO HIT FOUR YEAR HIGH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CONTAINER CHARTER RATES HIT FOUR YEAR HIGH",
-                "teaserTitle": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
+                "headline": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
+                "teaserTitle": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global container charter rates have climbed to a four year peak despite record orderbooks. Ocean carriers face elevated leasing costs and tight vessel capacity."
+                "narration_line": "Summer monthly maritime container imports are projected to reach their highest level since twenty twenty-two. This surge is compounding terminal congestion and increasing yard utilization across major U.S. gateways."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
-                "teaserTitle": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
+                "headline": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
+                "teaserTitle": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Kuehne plus Nagel attributes strong third quarter airfreight growth to market share gains. Forwarders are competing aggressively for premium cargo uplift space."
+                "narration_line": "The Trump administration has removed specific tariffs on plywood and packaging materials effective October thirtieth. This adjustment offers targeted relief for cross-border shippers facing high material costs."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
-                "teaserTitle": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
+                "headline": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
+                "teaserTitle": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Volvo Group has restricted its twenty twenty seven heavy duty truck order slots in North America. Fleet operators face extended equipment lead times."
+                "narration_line": "Gemini partners are planning a full return to the Suez Canal transit route by the first quarter. Scheduled capacity through the Red Sea corridor has recovered to forty-eight percent of pre-crisis levels."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
-                "teaserTitle": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
+                "headline": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
+                "teaserTitle": "LABOR: HALIFAX PORT REACHES PACT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Record September import volumes at San Pedro Bay have increased container dwell times. Intermodal yard congestion requires shippers to accelerate cargo pickups."
+                "narration_line": "A Greek-flagged tanker has departed for the United States with the first Russian diesel cargo. This shipment marks a significant shift in trans-Atlantic energy trade flows and pricing."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
-                "teaserTitle": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
+                "headline": "LABOR: HALIFAX PORT REACHES PACT",
+                "teaserTitle": "AIR CARGO: DEMAND PROPELS PEAK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon is increasing its United States holiday workforce by three hundred thousand seasonal hires. Retailers face intense competition for available warehouse labor."
+                "narration_line": "The International Longshoremen's Association has reached a tentative three-year labor agreement in Halifax. This settlement successfully averts potential supply chain disruptions at Canadian East Coast ports."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
-                "teaserTitle": "RAIL: OREGON RECEIVES 205M FUNDING",
+                "headline": "AIR CARGO: DEMAND PROPELS PEAK",
+                "teaserTitle": "CONTRACT LOGISTICS: STORD BUYS AMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Shippers face compounding cost pressures as diesel prices and linehaul rates climb together. Transport departments must adjust budgets for fuel volatility."
+                "narration_line": "Surging global demand for artificial intelligence hardware is driving a robust air cargo peak season. Forwarders are facing tightening uplift capacity and rising spot rates across major trade routes."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: OREGON RECEIVES 205M FUNDING",
+                "headline": "CONTRACT LOGISTICS: STORD BUYS AMS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Oregon has secured two hundred five million dollars for regional rail infrastructure development. This project expands Pacific Northwest container port capacity."
+                "narration_line": "Third-party logistics provider Stord has acquired AMS Fulfillment to expand its coastal warehouse network. The strategic buyout enhances omnichannel fulfillment capabilities for major retail shippers."
             },
             {
                 "slide_index": 8,

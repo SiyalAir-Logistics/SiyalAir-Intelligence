@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CONTAINER CHARTER RATES HIT FOUR YEAR",
+        "titleWhite": "SUMMER IMPORTS TO HIT 4 YEAR",
         "titleBlue": "HIGH",
-        "footerSummary": "Global container charter rates surge to a 4 year peak despite rising orderbooks, forcing operators to secure tonnage amid persistent capacity bottlenecks."
+        "footerSummary": "Summer monthly maritime imports are projected to reach their highest level since 2022, compounding supply chain bottlenecks and terminal congestion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: CONTAINER CHARTER RATES HIT FOUR YEAR HIGH",
+            "heading": "TRANSPORTATION: SUMMER IMPORTS TO HIT 4 YEAR HIGH",
             "paragraphs": [
-                "Global container charter rates have climbed to their highest level in 4 years despite falling fixtures and a swelling active fleet orderbook reaching 46.5%. This persistent strength in vessel leasing costs reflects underlying structural demand and vessel tightness across major trade routes.",
-                "Ocean carriers and non-operating owners face elevated capital commitments for vessel deployment while maintaining tight schedule reliability. Logistics executives must factor higher charter baseline costs into long-term slot allocation strategies and customer pricing frameworks."
+                "Summer monthly container import volumes across major U.S. gateways are projected to reach their highest level since 2022 as cargo owners accelerate shipments ahead of peak regulatory windows. This sustained influx of inbound inventory is straining terminal handling capacities and driving up yard utilization rates at key coastal hubs.",
+                "Logistics executives must prepare for prolonged container dwell times and potential chassis shortages as port throughput intensifies. Supply chain planners should recalibrate drayage schedules and secure multi-modal backup options to insulate distribution networks from terminal delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
+            "nextUpTease": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com/containership-charter-rates-at-a-four-year-high-despite-record-orderbook/",
-                "Published: 2026-10-23T08:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: K+N CLAIMS MARKET SHARE GAINS",
+            "heading": "REGULATION: TRUMP TWEEKS CANADA TARIFFS",
             "paragraphs": [
-                "Kuehne + Nagel has attributed the majority of its Q3 airfreight growth to aggressive market share captures as the seasonal peak logistics surge gathers momentum. The forwarder's expansion underscores strong execution in handling high-value tech and automotive components.",
-                "Shippers utilizing airfreight corridors face tightening capacity and rising yield pressures as forwarders compete for premium uplift space. Supply chain managers should lock in seasonal charters early to safeguard delivery timelines and avoid spot market spikes."
+                "The Trump administration has modified its sweeping Canada tariff policy by removing specific duties on plywood and essential packaging materials, effective October 30. This regulatory adjustment provides targeted relief for cross-border shippers grappling with inflated material procurement expenses.",
+                "Importers must audit their bill of materials immediately to capitalize on these newly exempted categories and lower landed costs. Supply chain directors should engage customs brokers to verify compliance documentation before the revised tariff exemptions take effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
+            "nextUpTease": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
             "tags": [
-                "Source: https://theloadstar.com/k-n-claims-market-share-gains-as-strong-air-cargo-peak-gathers-pace/",
-                "Published: 2026-10-23T09:30:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-canada-tariffs-plywood-packaging-exempt/762100/",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: VOLVO LIMITS 2027 TRUCK ORDERS",
+            "heading": "OCEAN FREIGHT: GEMINI SIGNALS SUEZ RETURN",
             "paragraphs": [
-                "Volvo Group has placed strict limits on its 2027 heavy-duty truck order slots in North America following a robust Q3 performance featuring an 8% revenue increase to $11.86B. This deliberate cap aims to align production output with component availability and anticipated regulatory shifts.",
-                "Fleet operators face extended equipment lead times and restricted capital acquisition schedules for fleet modernization. Motor carriers must project replacement cycles well in advance to prevent capacity deficits and maintain operational readiness."
+                "Gemini cooperation partners Maersk and Hapag-Lloyd have signaled a full return to the Suez Canal transit route by Q1 as they deploy a new Asia-Mediterranean service string. Scheduled capacity passing through the Bab el-Mandeb Strait has recovered to 48% of pre-crisis levels amid improving security assessments.",
+                "Carriers and ocean shippers utilizing this reopened maritime corridor can expect shortened transit times and reduced bunker fuel expenditures compared to the Cape of Good Hope detour. Logistics managers should factor these evolving routing efficiencies into Q1 contract negotiations and inventory replenishment models."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
+            "nextUpTease": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/volvo-limits-2027-truck-order-slots-in-north-america",
-                "Published: 2026-10-23T10:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: SAN PEDRO BAY DWELL TIMES SPIKE",
+            "heading": "ENERGY: GREEK TANKER SAILS WITH DIESEL",
             "paragraphs": [
-                "Record import volumes processed throughout September at the San Pedro Bay port complex have driven up cargo dwell times for both rail and truck transport modes. The Pacific Merchant Shipping Association reports that heavy terminal throughput is stretching intermodal asset turnaround efficiency.",
-                "Drayage operators and cargo owners experience severe equipment detention risks and slower velocity through major West Coast gateways. Supply chain planners need to optimize gate appointments and accelerate container pickups to mitigate cascading yard congestion fees."
+                "A Greek-flagged tanker has departed for the United States carrying the first cargo of Russian diesel fuel permitted under recent diplomatic agreements following U.S.-Russia negotiations. This shipment marks a notable shift in trans-Atlantic energy trade flows, with at least 3 additional export cargoes reportedly staged for dispatch.",
+                "Energy market participants and fuel-dependent transport fleets must monitor how renewed supplies impact regional diesel pricing benchmarks and operating margins. Motor carriers should leverage these energy shifts to optimize fuel surcharge calculations and manage long-term hedging strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
+            "nextUpTease": "LABOR: HALIFAX PORT REACHES PACT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/extended-peak-season-drives-high-dwell-times-san-pedro-bay-ports/761821/",
-                "Published: 2026-10-23T11:15:00Z",
+                "Source: https://maritime-executive.com/article/greek-tanker-sails-for-the-u-s-with-first-russian-diesel-cargo",
+                "Published: 2026-10-23T13:27:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: AMAZON EXPANDS HOLIDAY HIRING",
+            "heading": "LABOR: HALIFAX PORT REACHES PACT",
             "paragraphs": [
-                "Amazon has officially announced plans to scale its U.S. holiday workforce by hiring 300K seasonal workers, representing a 20% staffing increase compared with the previous 3 seasons. This aggressive labor expansion is designed to support high-velocity e-commerce order fulfillment through the peak period.",
-                "Competing retailers and logistics service providers face intense wage competition and localized labor shortages as e-commerce giants lock up available warehouse staff. Fulfillment directors must refine retention strategies and optimize automation workflows to protect operational margins."
+                "The International Longshoremen's Association and port employers in Halifax have reached a tentative 3-year labor agreement, averting potential strike disruptions in Atlantic Canada. This settlement follows closely on the heels of a 5-year contract finalized between Montreal employers and dockworkers.",
+                "Supply chain planners utilizing Canadian East Coast gateways gain vital operational stability and predictable vessel turnaround schedules for upcoming peak distribution cycles. Shippers should maintain open communications with forwarders to ensure smooth cargo flow across these stabilized maritime nodes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
+            "nextUpTease": "AIR CARGO: DEMAND PROPELS PEAK",
             "tags": [
-                "Source: https://www.retaildive.com/news/amazon-eyes-300k-holiday-hires/761805/",
-                "Published: 2026-10-23T12:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: DIESEL AND TRUCK RATES CLIMB",
+            "heading": "AIR CARGO: DEMAND PROPELS PEAK",
             "paragraphs": [
-                "U.S. shippers are confronting dual cost pressures as diesel fuel prices and linehaul truck rates climb simultaneously amid relatively flat freight demand. Industry analysts note that rising fuel benchmarks are compounding operating cost liabilities across over-the-road networks.",
-                "Motor carriers and shipping departments must adjust freight budgeting models to absorb persistent fuel volatility and tightening carrier margins. Shippers are increasingly evaluating intermodal conversion options to hedge against mounting highway transportation expenses."
+                "Surging global demand for artificial intelligence hardware and advanced server infrastructure is driving an exceptionally robust air cargo peak season across trans-Pacific and Asia-Europe corridors. Forwarders and carriers report high utilization rates for premium charter capacity as tech shippers race to meet delivery deadlines.",
+                "Supply chain executives face tightening air freight capacity and elevated spot rates for urgent component shipments. Logistics managers must secure block-space agreements early to protect profit margins and prevent costly supply chain interruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: OREGON RECEIVES 205M FUNDING",
+            "nextUpTease": "CONTRACT LOGISTICS: STORD BUYS AMS",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/diesel-and-truckload-rates-climb-together-as-demand-stays-flat/",
-                "Published: 2026-10-23T13:30:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: OREGON RECEIVES 205M FUNDING",
+            "heading": "CONTRACT LOGISTICS: STORD BUYS AMS",
             "paragraphs": [
-                "Federal transport authorities have allocated $205M to a major Oregon rail infrastructure project aimed at developing a new Pacific Northwest container port and connecting freight corridors. This capital injection seeks to expand intermodal gateway capacity and diversify regional trade entry points.",
-                "Rail freight operators and regional shippers gain enhanced network resiliency and alternative routing options to bypass congested urban terminals. Supply project stakeholders must integrate these expanded rail infrastructure milestones into long-term distribution network designs."
+                "Third-party logistics provider Stord has finalized its 12th corporate acquisition by purchasing AMS Fulfillment, significantly expanding its warehouse footprint across strategic East Coast and West Coast hubs. This strategic buyout enhances Stord's omnichannel fulfillment capabilities and national scale.",
+                "Retailers and e-commerce brands seeking resilient distribution networks can leverage these newly integrated coastal facilities to reduce last-mile transit times. Supply chain leaders should evaluate how multi-node 3P logistics partners can improve inventory placement and mitigate regional fulfillment risks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/a-new-pnw-container-port-205m-for-oregon-rail-project",
-                "Published: 2026-10-23T14:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-10-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
