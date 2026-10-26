@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "IRAQ RESUMES CONTAINER",
-        "titleBlue": "OPERATIONS",
-        "footerSummary": "Iraq's maritime return and $80M tanker rates signal a massive reconfiguration of global energy and container trade lanes."
+        "titleWhite": "US DELAYS PORT FEES FOR",
+        "titleBlue": "SHIPS",
+        "footerSummary": "USTR port fee delays and rising fuel costs force supply chain leaders to re-evaluate Q4 transit budgets and lane strategies."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: IRAQ RESUMES CONTAINER OPERATIONS",
+            "heading": "USTR: DELAYS PORT FEES FOR SHIPS",
             "paragraphs": [
-                "The Iraqi Maritime Line has officially restarted scheduled container shipping services in the Arabian Gulf after a 50-year hiatus. The maiden feeder loop establishes a direct maritime link between Iraq and the Jebel Ali Port, marking a significant milestone for regional trade reintegration.",
-                "Logistics managers gain a strategic maritime alternative to overland trucking for cargo entering the Iraqi market. This development reduces reliance on transshipment delays and lowers the total landed cost for high-volume consumer imports into the Middle East."
+                "The United States Trade Representative has officially delayed the implementation of planned port fees for China-linked vessels until Jan 9, 2027. This regulatory postponement provides temporary cost relief for ocean carriers and importers navigating complex trans-Pacific trade disputes.",
+                "Supply chain executives must utilize this window to restructure inventory holding costs and review tariff exposure. Proactive planning prevents unexpected landed cost spikes once the provisional enforcement period officially concludes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: CRUDE TANKER RATES HIT $80M",
+            "nextUpTease": "DSV: 3Q PROFIT RISES 19.5%",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/iraq-is-back-in-the-container-shipping-business/",
-                "Published: 2026-10-26T09:00:00Z",
+                "Source: https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-9-january/",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENERGY: CRUDE TANKER RATES HIT $80M",
+            "heading": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
             "paragraphs": [
-                "Leasing costs for Very Large Crude Carriers on the U.S. to Asia route have surged to a record $80M per voyage. The price shock stems from heightened war risks in the Middle East, leading to a sharp contraction in long-haul crude exports as carriers avoid high-risk zones.",
-                "Oil exporters face a severe margin squeeze that could halt trans-Pacific energy shipments for the remainder of Q4. Supply chain planners must evaluate alternate sourcing strategies as the freight-to-value ratio for U.S. crude reaches unsustainable levels."
+                "DSV reported a 19.5% increase in 3Q profit, bolstered by the successful integration of Schenker operations across key global markets. The earnings growth highlights strong operational execution and resilient volume handling amidst broader freight sector volatility.",
+                "Shippers partnering with consolidated global forwarders should examine service level agreements and capacity commitments. Assessing logistics provider financial health ensures long-term network stability through fluctuating demand cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
+            "nextUpTease": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-asia-crude-shipments-freight-shock",
-                "Published: 2026-10-26T08:30:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
+            "heading": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
             "paragraphs": [
-                "The International Longshoremen\u2019s Association and Halifax port employers have reached a tentative 3-year labor agreement. This deal follows a series of successful negotiations across Eastern Canada aimed at stabilizing port operations and modernizing labor frameworks through 2029.",
-                "The agreement eliminates the immediate threat of work stoppages at a critical North Atlantic gateway during the peak holiday season. Shippers moving goods through Atlantic Canada can maintain current routing plans with increased confidence in terminal fluidity."
+                "Soaring diesel prices are compelling motor carriers to abandon monthly fuel surcharges in favor of weekly adjustments. This operational shift protects carrier operating margins but introduces acute cost volatility for enterprise shippers relying on spot truckload capacity.",
+                "Logistics directors must update transportation management systems to ingest weekly fuel index changes automatically. Dynamic budgeting models are essential to prevent freight spend overruns in volatile energy markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
             "tags": [
-                "Source: https://www.joc.com/article/ila-halifax-port-employers-reach-tentative-labor-pact_20261023.html",
-                "Published: 2026-10-26T10:15:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
+            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
             "paragraphs": [
-                "The Baltic Air Freight Index indicates a sharp rise in global air cargo pricing as surging jet fuel costs collide with peak season demand. The upward pressure is most pronounced on Asia-Pacific lanes, where capacity remains tight due to the rapid growth of e-commerce volumes.",
-                "Shippers utilizing air freight for inventory replenishment face double-digit percentage increases in operational transportation costs. Strategic shift to premium ocean services or deferred air options is recommended to mitigate the impact on Q4 bottom lines."
+                "The National Retail Federation forecasts a 4.2% increase in 2026 holiday retail sales, pushing total volume past $1.01B despite persistent economic headwinds. Consumer demand remains surprisingly resilient, requiring distribution centers to maintain peak fulfillment velocity through December.",
+                "Supply chain planners must coordinate closely with 3PL partners to secure adequate warehouse labor and last-mile delivery slots. Failing to align inventory allocation with anticipated seasonal demand risks costly stockouts and expedited freight penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
+            "nextUpTease": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
             "tags": [
-                "Source: https://theloadstar.com/asia-pacific-the-star-performer-as-airfreight-rates-take-off/",
-                "Published: 2026-10-26T11:20:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
+            "heading": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
             "paragraphs": [
-                "Volvo Trucks North America has officially limited order intake for 2027 production slots following a strong 42% profit surge in recent quarters. The manufacturing constraint reflects a cautious approach to inventory management ahead of new environmental regulations and potential supply chain bottlenecks.",
-                "Fleet operators must accelerate procurement timelines to secure essential asset replacements for 2027 delivery. Failure to lock in production slots now may force carriers to extend the life of aging, less efficient equipment, increasing long-term maintenance costs."
+                "Union Pacific Railroad has broken a three-year industry equipment freeze by placing an order for 500 new domestic containers. This capital expenditure signals a strategic bet on intermodal growth and provides much-needed equipment renewal for rail shippers.",
+                "Intermodal logistics managers should evaluate rail-centric routing options to optimize freight spend against rising highway transport costs. Securing dedicated rail equipment allocations now safeguards capacity before peak intermodal demand surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
+            "nextUpTease": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/volvo-limits-2027-truck-order-slots",
-                "Published: 2026-10-26T07:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
+            "heading": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
             "paragraphs": [
-                "Saudi shipping giant Bahri has finalized a $451M contract for the construction of 3 Very Large Crude Carriers at a domestic shipyard. The investment is part of a broader strategy to expand the national tanker fleet and localize advanced maritime manufacturing within the Kingdom.",
-                "The addition of 320K dwt vessels will provide significant long-term capacity relief for global energy markets. Logistics directors should monitor these fleet expansions as they signal a major shift toward carrier-owned tonnage in the energy transportation sector."
+                "C.H. Robinson is significantly expanding the operational scope of its proprietary artificial intelligence agents to manage automated freight routing and instant quote generation. The deployment aims to accelerate booking velocity and reduce manual transactional friction across brokerage operations.",
+                "Shippers engaging with digital-first brokerages must integrate their enterprise resource planning tools with modern API endpoints. Adopting automated procurement workflows is critical to capturing real-time capacity pricing in fast-moving freight markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
+            "nextUpTease": "MARITIME: BAHRI ORDERS VLCC TRIO",
             "tags": [
-                "Source: https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
-                "Published: 2026-10-26T12:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
+            "heading": "MARITIME: BAHRI ORDERS VLCC TRIO",
             "paragraphs": [
-                "European maritime authorities have officially banned the general cargo vessel MV Lira from all ports in the bloc after the ship failed to call at a mandatory repair yard. The enforcement action follows a Paris MoU inspection that classified the 42-year-old vessel as a high-risk asset.",
-                "The ban highlights a sharpening focus on safety compliance for aging tonnage in European waters. Shippers must audit the age and maintenance records of chartered vessels to avoid sudden port access denials and subsequent cargo delivery disruptions."
+                "Saudi shipping giant Bahri has finalized a $451M contract with International Maritime Industries for the construction of 3 very large crude carriers. The domestic shipbuilding initiative reinforces national energy transport capabilities and expands strategic fleet tonnage.",
+                "Global energy traders must monitor long-term vessel delivery schedules to anticipate shifts in charter rates and tanker availability. Integrating owned-tonnage trends into maritime procurement strategies ensures resilient supply chain operations."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/aging-freighter-banned-from-european-ports-for-skipping-yard-date",
-                "Published: 2026-10-26T13:10:00Z",
+                "Source: https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
+                "Published: 2026-10-26T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
