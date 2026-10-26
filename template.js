@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP REVISES CANADA IMPORT",
-        "titleBlue": "DUTIES",
-        "footerSummary": "White House exempts packaging materials from 50% Canada tariffs while maritime orderbooks surge to 46.5% of global fleet capacity."
+        "titleWhite": "CONGRESS WEAPONIZES $100K",
+        "titleBlue": "FINES",
+        "footerSummary": "Federal cabotage bill introduces $100K penalties while surging oil forces emergency diesel releases and $80M tanker charter rates."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: TRUMP REVISES CANADA IMPORT DUTIES",
+            "heading": "CABOTAGE: CONGRESS WEAPONIZES $100K FINES",
             "paragraphs": [
-                "The White House has modified its emergency tariff schedule on Canadian imports, officially exempting plywood and select industrial packaging materials from the 50% punitive duty threshold starting Oct. 30. The policy adjustment follows intense cross-border lobbying from manufacturers facing critical packaging shortages and retaliatory trade friction across northern entry corridors.",
-                "Importers must immediately audit customs entry documentation and update automated classification engines to prevent unwarranted duty deposits on qualifying raw materials. Supply chain executives should evaluate landed cost variances across secondary packaging suppliers to restore operating margins damaged by initial tariff announcements."
+                "Bipartisan federal legislation has been introduced proposing severe $100K civil fines and mandatory English language testing for foreign commercial motor drivers operating on domestic highway corridors. The statutory measure targets unauthorized cross-border freight cabotage, imposing immediate equipment impoundment protocols for point-to-point movements conducted inside US borders by non-domiciled fleets.",
+                "Cross-border motor carriers and third-party logistics brokerages face catastrophic financial exposure if dispatched carriers fail federal cabotage verification audits. Enterprise shippers must re-examine southern and northern border interchange agreements, demanding verifiable cabotage compliance warranties to insulate balance sheets from joint statutory liability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
+            "nextUpTease": "PORT LABOR: ILA CLINCHES HALIFAX DOCK DEAL",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-10-23T18:00:00Z",
+                "Source: https://www.freightwaves.com/news/new-bill-proposes-100k-cabotage-fines-mandatory-english-tests-for-truckers",
+                "Published: 2026-10-24T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: BOXSHIP ORDERBOOK HITS 46.5% PEAK",
+            "heading": "PORT LABOR: ILA CLINCHES HALIFAX DOCK DEAL",
             "paragraphs": [
-                "Global container ship orderbooks have swelled to 46.5% of the currently active fleet, reaching the highest capital expansion ratio recorded since 2009. Ocean carriers continue to aggressively book megamax and neo-Panamax dual-fuel newbuilds across Asian shipyards despite plateauing post-peak volume growth on primary East-West lanes.",
-                "Shippers face structural ocean freight volatility as major alliances deploy blank sailings to defend rate integrity against incoming vessel overcapacity. Logistics planners must balance long-term contract rate stability against projected carrier capacity cascades expected to disrupt 2027 service loops."
+                "The International Longshoremen's Association has executed a tentative 3-year collective bargaining contract with port maritime employers across Halifax cargo terminals. The agreement follows the recent ratification of a 5-year arbitration pact in Montreal, solidifying industrial labor stability across eastern Canadian container gateways as federal authorities advance national dock reforms.",
+                "Maritime carriers and regional rail operators avert imminent East Coast work stoppages, preventing the container dwell spikes that crippled northern supply chains in prior peak quarters. Supply chain directors routing transatlantic discretionary freight can secure fixed transit schedules through Canadian ports, reducing expensive diversion hedging toward US Atlantic alternatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
+            "nextUpTease": "ENERGY: US RELEASES EMERGENCY DIESEL RESERVE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-10-23T16:20:00Z",
+                "Source: https://www.joc.com/article/ila-halifax-port-employers-reach-tentative-labor-pact_20261024.html",
+                "Published: 2026-10-24T19:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SHIPBUILDING: HYUNDAI PLANS US GULF YARD",
+            "heading": "ENERGY: US RELEASES EMERGENCY DIESEL RESERVE",
             "paragraphs": [
-                "South Korea's premier shipbuilder HD Hyundai has formed a joint venture with Kiewit Maritime to develop a dedicated commercial vessel manufacturing shipyard on the US Gulf Coast. The venture aims to revitalize domestic Jones Act tonnage fabrication by modernizing existing heavy industrial facilities with advanced modular assembly workflows.",
-                "Commercial fleet operators will gain direct access to localized vessel repair capacity and compliance-ready domestic maritime construction slots. Maritime strategists should track infrastructure development timelines as domestic production capabilities begin easing reliance on congested foreign repair hubs."
+                "Federal energy regulators have initiated emergency crude withdrawals from national refined product stockpiles as global Brent crude benchmarks surged past $116 per barrel. Escalating Middle Eastern hostilities have severely constrained primary tanker routes, pushing single-voyage crude lease rates to historic highs approaching $80M for transpacific voyages.",
+                "Surface freight operators and domestic shippers face an immediate surge in fuel surcharge indices, straining linehaul transportation budgets across fourth-quarter fulfillment networks. Logistics directors must rapidly recalculate modal break-even thresholds and accelerate freight shifting toward intermodal rail to offset accelerating per-mile diesel premiums."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
+            "nextUpTease": "TRADE: CANADA APPROVES 49K CHINESE NEV QUOTA",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-10-23T17:45:00Z",
+                "Source: https://www.ttnews.com/articles/us-tap-national-diesel-reserve-prices-soar",
+                "Published: 2026-10-24T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FULFILLMENT: STORD BUYS AMS IN EXPANSION",
+            "heading": "TRADE: CANADA APPROVES 49K CHINESE NEV QUOTA",
             "paragraphs": [
-                "Omnichannel logistics provider Stord has finalized the acquisition of AMS Fulfillment, completing its twelfth strategic buyout to expand high-density fulfillment hubs on both US coasts. The transaction integrates multi-facility warehouse networks across California, Pennsylvania, and Delaware into Stord's proprietary cloud logistics orchestration platform.",
-                "Enterprise brands gain consolidated access to regional inventory staging, mitigating multi-node fulfillment overhead and reducing last-mile parcel transit zones. Logistics directors should review third-party fulfillment contracts to assess whether centralized 3PL integration yields substantial operational cost reductions."
+                "The Canadian government has formalized a landmark trade arrangement with Beijing permitting the annual importation of 49K Chinese new-energy vehicles under preferential low-tariff duty schedules. The bilateral agreement has prompted major manufacturers including Chery Automobile to initiate advanced site assessments for direct assembly operations within Ontario industrial corridors.",
+                "The preferential tariff quota creates a sharp regulatory divergence between Canadian automotive import policy and stringent United States protectionist trade barriers. Tier-one automotive suppliers and regional haulers must construct dedicated bonded warehousing infrastructure to segregate Canadian-bound Chinese components from USMCA-destined production streams."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
+            "nextUpTease": "EQUIPMENT: VOLVO CAPS 2027 TRUCK BUILD SLOTS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-10-23T15:10:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40312-chery-eyes-canada-production-as-chinese-carmakers-circle-us",
+                "Published: 2026-10-24T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MANUFACTURING: AUDI PLANS $4B GEORGIA PLANT",
+            "heading": "EQUIPMENT: VOLVO CAPS 2027 TRUCK BUILD SLOTS",
             "paragraphs": [
-                "Audi has confirmed plans to construct a $4B manufacturing facility in Georgia to establish localized vehicle assembly and mitigate severe import tariff penalties. The automotive capital investment follows a $1.4B tariff impact on the company's imported vehicle inventory over the preceding fiscal operating year.",
-                "Automotive tier-one suppliers must rapidly position warehousing and sub-assembly distribution nodes along Southeast interstate corridors to support just-in-time production requirements. Procurement leads must prepare regional freight routing matrices to accommodate inbound raw material flows toward the emerging Georgia manufacturing cluster."
+                "Volvo Group has implemented strict allocation quotas on North American Class 8 truck delivery slots for 2027 after reporting Q3 operating profit surging 42% to $1.06B. Fleet operators are accelerating pre-buy procurement orders in record volumes to preempt rigorous EPA emissions mandates slated to take effect in early 2027.",
+                "Fleet replenishment lead times are stretching dramatically, constraining contract capacity expansion across private carrier networks and national for-hire operators. Motor carriers must commit balance-sheet capital to equipment reservations months ahead of historical procurement schedules to avoid severe equipment shortages and inflated secondary market prices."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
+            "nextUpTease": "MARITIME: IRAQ RESUMES CONTAINER FEEDER RUNS",
             "tags": [
-                "Source: https://www.reuters.com",
-                "Published: 2026-10-24T12:00:00Z",
+                "Source: https://www.ttnews.com/articles/volvo-limits-2027-truck-order-slots",
+                "Published: 2026-10-24T14:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: TRUCKERS PETITION FMC ON RETURNS",
+            "heading": "MARITIME: IRAQ RESUMES CONTAINER FEEDER RUNS",
             "paragraphs": [
-                "Port drayage motor carriers across New York and New Jersey have filed a formal petition requesting Federal Maritime Commission rulemaking on empty container return mandates. Trucking associations report systemic terminal gate congestion, arbitrary equipment appointment restrictions, and improper detention penalties resulting from carrier-directed return mandates.",
-                "Drayage operators face mounting per-diem penalties and driver detention costs unless federal regulators enforce transparent empty container intake standards. Shippers must review terminal dwell data and establish contractual billing exemptions with ocean carriers to insulate supply chain margins from non-compensable equipment delays."
+                "The state-run Iraqi Maritime Line has resumed scheduled container shipping services throughout the Arabian Gulf following a 50-year operational shutdown. The carrier's inaugural container feeder string directly links Dubai's Jebel Ali transshipment hub with southern Iraqi terminals, supported by multi-nation diplomatic initiatives.",
+                "Regional shippers gain independent commercial maritime connectivity, bypassing congested third-party feeder networks across high-friction Gulf shipping channels. Supply chain executives managing Middle East project cargo and consumer goods must evaluate Iraqi Maritime Line's port rotations to capture reduced transit times and competitive regional feeder tariffs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
+            "nextUpTease": "SECURITY: AIRBUS EXPANDS HORMUZ AIS TRACKING",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-10-23T14:30:00Z",
+                "Source: https://www.inboundlogistics.com/articles/after-50-years-iraq-is-back-in-the-container-shipping-business/",
+                "Published: 2026-10-24T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARGO FRAUD: FEDS CHARGE $12M THEFT RING",
+            "heading": "SECURITY: AIRBUS EXPANDS HORMUZ AIS TRACKING",
             "paragraphs": [
-                "Federal prosecutors have indicted a commercial driver in connection with an alleged $12M strategic cargo theft scheme executed through hijacked legitimate motor carrier identities. Fraudsters intercepted high-value electronics and consumer shipments using fraudulent broker credentials and manipulated electronic dispatch manifests across multiple state corridors.",
-                "Freight brokers and asset-based fleets must urgently enforce multi-factor identity verification protocols and real-time electronic chain-of-custody tracking on all brokered freight. Risk managers must reassess contingent cargo insurance thresholds to prevent unrecoverable balance sheet exposure stemming from identity spoofing."
+                "Airbus and energy intelligence analytics platform Kpler have deployed an advanced satellite surveillance architecture designed to monitor commercial vessels transiting the Strait of Hormuz with deactivated AIS transponders. Commercial tankers have increasingly utilized dark navigations to evade armed interception and drone strikes executed by regional paramilitary units.",
+                "Commercial hull and cargo underwriters are mandating real-time orbital tracking compliance, refusing war-risk coverage payouts for vessels failing independent electronic position validation. Shippers moving bulk chemicals and energy products must confirm that carrier partners utilize certified satellite tracking systems to avoid abrupt carrier insurance cancellations."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-10-23T13:15:00Z",
+                "Source: https://maritime-executive.com/article/kpler-and-airbus-link-up-with-new-ship-surveillance-system",
+                "Published: 2026-10-25T12:59:00Z",
                 "Status: Audited & True"
             ]
         }
