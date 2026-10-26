@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: DELAYS PORT FEES FOR SHIPS",
-                "teaserTitle": "DSV: 3Q PROFIT RISES 19.5%",
-                "visual_caption": "The USTR has delayed port fees for China-linked vessels until Jan 9. This regulatory postponement provides temporary cost relief for ocean importers."
+                "headline": "USTR: PROPOSES TWO MONTH DELAY FOR CHINESE SHIPS",
+                "teaserTitle": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
+                "visual_caption": "The USTR filed to extend port fees for Chinese ships to Jan 9, 2027. This regulatory delay gives carriers temporary relief from trade dispute costs."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
-                "teaserTitle": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
-                "visual_caption": "DSV reported a 19.5% increase in 3Q profit, bolstered by successful global integrations. Shippers should audit provider financial health to ensure stability."
+                "headline": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
+                "teaserTitle": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
+                "visual_caption": "A vessel caught fire in the Iraqi exclusive economic zone amid regional conflict. The incident underscores expanding security risks across Middle East trade lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
-                "visual_caption": "Rising diesel prices are forcing motor carriers to update fuel surcharges weekly. Logistics teams must update TMS platforms to manage freight spend volatility."
+                "headline": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
+                "teaserTitle": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
+                "visual_caption": "C.H. Robinson is deploying AI agents to automate routing and instant quoting. The upgrade eliminates manual booking friction across brokerage operations."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
-                "visual_caption": "The NRF forecasts a 4.2% holiday retail sales increase, surpassing $1.01B. Planners must secure seasonal warehouse labor and fulfillment slots."
+                "headline": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
+                "teaserTitle": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
+                "visual_caption": "DSV posted a 19.5% 3Q profit increase driven by the Schenker integration. Strong financial results confirm resilient volume handling amidst sector volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
-                "teaserTitle": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
-                "visual_caption": "Union Pacific ordered 500 new domestic containers, breaking a 3-year equipment freeze. Shippers should evaluate intermodal routing to reduce highway costs."
+                "headline": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
+                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "visual_caption": "Rising diesel prices are forcing motor carriers to update fuel surcharges weekly. This shift protects carrier margins but increases spot rate volatility for shippers."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
-                "teaserTitle": "MARITIME: BAHRI ORDERS VLCC TRIO",
-                "visual_caption": "C.H. Robinson is expanding AI agents to automate freight routing and quoting. Enterprises must adopt API workflows to capture real-time market pricing."
+                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
+                "visual_caption": "The NRF forecasts a 4.2% rise in holiday sales past $1.01B. Resilient consumer demand requires distribution centers to maintain peak fulfillment speed."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: BAHRI ORDERS VLCC TRIO",
+                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
                 "teaserTitle": "",
-                "visual_caption": "Bahri finalized a $451M contract for 3 very large crude carriers. Energy traders must monitor fleet expansion to anticipate charter rate adjustments."
+                "visual_caption": "Union Pacific broke a 3-year equipment freeze by ordering 500 new domestic containers. The capital investment signals renewed commitment to intermodal growth."
             },
             {
                 "slide_index": 8,
