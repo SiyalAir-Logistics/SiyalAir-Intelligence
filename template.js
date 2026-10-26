@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CH ROBINSON ACQUIRES RXO FOR",
-        "titleBlue": "$5.8B",
-        "footerSummary": "CH Robinson consolidates freight brokerage dominance in $5.8B deal as port trucker petitions and cargo theft rings strain logistics networks."
+        "titleWhite": "IRAQ RESUMES CONTAINER",
+        "titleBlue": "OPERATIONS",
+        "footerSummary": "Iraq's maritime return and $80M tanker rates signal a massive reconfiguration of global energy and container trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
+            "heading": "MARITIME: IRAQ RESUMES CONTAINER OPERATIONS",
             "paragraphs": [
-                "C.H. Robinson has executed a definitive merger agreement to acquire rival brokerage RXO in a cash-and-stock deal valued at $5.8B. The transaction consolidates primary truckload market share and expands expedited transportation alongside high-density last-mile operations across North America. Final closing is scheduled for the first half of 2027 pending antitrust clearance from federal regulators.",
-                "Enterprise shippers face a consolidated freight brokerage landscape with reduced bidding competition across large-scale corporate RFPs. Shippers must review contracted carrier concentration metrics now to balance exposure between mega-brokerages and mid-tier asset providers."
+                "The Iraqi Maritime Line has officially restarted scheduled container shipping services in the Arabian Gulf after a 50-year hiatus. The maiden feeder loop establishes a direct maritime link between Iraq and the Jebel Ali Port, marking a significant milestone for regional trade reintegration.",
+                "Logistics managers gain a strategic maritime alternative to overland trucking for cargo entering the Iraqi market. This development reduces reliance on transshipment delays and lowers the total landed cost for high-volume consumer imports into the Middle East."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: NY-NJ TRUCKERS SEEK FMC RULE",
+            "nextUpTease": "ENERGY: CRUDE TANKER RATES HIT $80M",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/c_h_robinson_rxo_acquisition_deal",
-                "Published: 2026-10-25T14:15:00Z",
+                "Source: https://www.inboundlogistics.com/articles/iraq-is-back-in-the-container-shipping-business/",
+                "Published: 2026-10-26T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: NY-NJ TRUCKERS SEEK FMC RULE",
+            "heading": "ENERGY: CRUDE TANKER RATES HIT $80M",
             "paragraphs": [
-                "Drayage motor carriers serving the Port of New York and New Jersey have filed a petition with the Federal Maritime Commission seeking mandatory rulemaking on empty container returns. Ocean carriers and marine terminal operators routinely redirect empty returns across scattered off-dock yards without standardized notification windows. The erratic operational shifts have triggered severe congestion gates and unbillable driver detention hours across regional freight corridors.",
-                "Intermodal logistics operators incur heavy secondary repositioning costs when ocean lines deny empty drop-offs at primary marine berths. B2B supply chain managers must establish contractual per-diem carve-outs with ocean carriers to prevent ocean detention surcharges from draining linehaul margins."
+                "Leasing costs for Very Large Crude Carriers on the U.S. to Asia route have surged to a record $80M per voyage. The price shock stems from heightened war risks in the Middle East, leading to a sharp contraction in long-haul crude exports as carriers avoid high-risk zones.",
+                "Oil exporters face a severe margin squeeze that could halt trans-Pacific energy shipments for the remainder of Q4. Supply chain planners must evaluate alternate sourcing strategies as the freight-to-value ratio for U.S. crude reaches unsustainable levels."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CARRIERS BLANK EAST-WEST SAILINGS",
+            "nextUpTease": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
             "tags": [
-                "Source: https://www.joc.com/article/ny-nj-port-truckers-fmc-empty-container-rule_20261025.html",
-                "Published: 2026-10-25T16:40:00Z",
+                "Source: https://www.ttnews.com/articles/us-asia-crude-shipments-freight-shock",
+                "Published: 2026-10-26T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: CARRIERS BLANK EAST-WEST SAILINGS",
+            "heading": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
             "paragraphs": [
-                "Global ocean alliances have accelerated blanked sailing programs across major Transpacific, Asia-Europe, and Transatlantic corridors to stem recent post-peak rate slides. The sudden capacity withdrawals occur as the global container orderbook swells to 46.5% of the active commercial fleet, creating deep operational volatility between nominal slot capacity and deployed vessel space. Spot container rates responded immediately with cross-trade index spikes.",
-                "Cargo owners face renewed schedule unreliability and container roll-overs at Asian loading hubs as carriers aggressively cancel scheduled voyages. Supply chain planners must diversify carrier portfolio contracts and lock in space allocation guarantees to prevent end-of-year inventory stockouts."
+                "The International Longshoremen\u2019s Association and Halifax port employers have reached a tentative 3-year labor agreement. This deal follows a series of successful negotiations across Eastern Canada aimed at stabilizing port operations and modernizing labor frameworks through 2029.",
+                "The agreement eliminates the immediate threat of work stoppages at a critical North Atlantic gateway during the peak holiday season. Shippers moving goods through Atlantic Canada can maintain current routing plans with increased confidence in terminal fluidity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO CRIME: FEDS BUST $12M THEFT RING",
+            "nextUpTease": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
             "tags": [
-                "Source: https://theloadstar.com/carriers-opt-for-more-blanked-sailings-to-bolster-freight-rates/",
-                "Published: 2026-10-25T18:20:00Z",
+                "Source: https://www.joc.com/article/ila-halifax-port-employers-reach-tentative-labor-pact_20261023.html",
+                "Published: 2026-10-26T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARGO CRIME: FEDS BUST $12M THEFT RING",
+            "heading": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
             "paragraphs": [
-                "Federal prosecutors have unsealed criminal indictments charging commercial drivers in an organized freight theft scheme exceeding $12M in diverted consumer merchandise. The criminal network compromised legitimate motor carrier identities in federal databases to fraudulently accept high-value freight loads from major logistics hubs before rerouting trailers to illicit holding facilities.",
-                "Strategic identity theft across digital load boards has evolved into an immediate systemic threat to domestic third-party brokerages and motor carriers. Logistics compliance officers must deploy rigorous multi-factor carrier identity verification protocols to prevent carrier impersonation and unrecoverable cargo claims."
+                "The Baltic Air Freight Index indicates a sharp rise in global air cargo pricing as surging jet fuel costs collide with peak season demand. The upward pressure is most pronounced on Asia-Pacific lanes, where capacity remains tight due to the rapid growth of e-commerce volumes.",
+                "Shippers utilizing air freight for inventory replenishment face double-digit percentage increases in operational transportation costs. Strategic shift to premium ocean services or deferred air options is recommended to mitigate the impact on Q4 bottom lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: OREGON WINS $205M RAIL GRANT",
+            "nextUpTease": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/feds-charge-driver-alleged-12m-cargo-theft-scheme",
-                "Published: 2026-10-25T19:05:00Z",
+                "Source: https://theloadstar.com/asia-pacific-the-star-performer-as-airfreight-rates-take-off/",
+                "Published: 2026-10-26T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: OREGON WINS $205M RAIL GRANT",
+            "heading": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
             "paragraphs": [
-                "Federal transportation authorities have awarded $205M in infrastructure development capital to establish a dedicated intermodal rail container terminal in the Pacific Northwest. The deep-water connectivity project links interior agricultural production basins directly to West Coast maritime export gateways via Class I rail lines. Construction begins immediately to alleviate bottlenecked truck transfers across regional highway corridors.",
-                "Exporters across the Pacific Northwest gain a cost-effective alternative to heavily congested Puget Sound and Southern California gateway ramps. Shippers moving bulk and containerized agricultural exports should model intermodal rail transition timelines to capture long-term drayage savings."
+                "Volvo Trucks North America has officially limited order intake for 2027 production slots following a strong 42% profit surge in recent quarters. The manufacturing constraint reflects a cautious approach to inventory management ahead of new environmental regulations and potential supply chain bottlenecks.",
+                "Fleet operators must accelerate procurement timelines to secure essential asset replacements for 2027 delivery. Failure to lock in production slots now may force carriers to extend the life of aging, less efficient equipment, increasing long-term maintenance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: BRAZIL PROBES CONTAINER CHARGES",
+            "nextUpTease": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/new-pnw-container-port-205m-oregon-rail-project",
-                "Published: 2026-10-25T13:30:00Z",
+                "Source: https://www.ttnews.com/articles/volvo-limits-2027-truck-order-slots",
+                "Published: 2026-10-26T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TERMINALS: BRAZIL PROBES CONTAINER CHARGES",
+            "heading": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
             "paragraphs": [
-                "Brazil maritime regulatory authorities have launched a comprehensive administrative review into non-standardized marine terminal handling fees and demurrage assessments at primary South American container ports. The formal inquiry targets ancillary terminal billing items that have inflated container import costs across Santos and Paranagua by double-digit percentages during peak 2026 shipping volumes.",
-                "South American import-export operators confront immediate audits of historical port facility access charges and container demurrage invoices. Global supply chain directors managing Latin American distribution corridors should audit terminal billing schedules to reclaim disputed accessorial assessments."
+                "Saudi shipping giant Bahri has finalized a $451M contract for the construction of 3 Very Large Crude Carriers at a domestic shipyard. The investment is part of a broader strategy to expand the national tanker fleet and localize advanced maritime manufacturing within the Kingdom.",
+                "The addition of 320K dwt vessels will provide significant long-term capacity relief for global energy markets. Logistics directors should monitor these fleet expansions as they signal a major shift toward carrier-owned tonnage in the energy transportation sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SAFETY: SINGAPORE BANS HARBOR DRONES",
+            "nextUpTease": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
             "tags": [
-                "Source: https://splash247.com/brazil-opens-review-of-container-terminal-charges/",
-                "Published: 2026-10-25T11:45:00Z",
+                "Source: https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
+                "Published: 2026-10-26T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT SAFETY: SINGAPORE BANS HARBOR DRONES",
+            "heading": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
             "paragraphs": [
-                "The Maritime and Port Authority of Singapore has established strict port-wide drone exclusion corridors backed by heavy criminal fines and prison penalties for unauthorized unmanned aerial flights. Maritime security officials instituted the sweeping airspace controls around anchorage zones following heightened concerns regarding physical sabotage and aerial industrial surveillance.",
-                "Commercial vessels, maritime service contractors, and ship chandlers must suspend drone-assisted hull inspection programs and parts delivery flights inside Singapore waters unless cleared by government permits. Port logistics managers must revert to launch-boat transfers for crew and critical spare parts to avoid severe maritime detention."
+                "European maritime authorities have officially banned the general cargo vessel MV Lira from all ports in the bloc after the ship failed to call at a mandatory repair yard. The enforcement action follows a Paris MoU inspection that classified the 42-year-old vessel as a high-risk asset.",
+                "The ban highlights a sharpening focus on safety compliance for aging tonnage in European waters. Shippers must audit the age and maintenance records of chartered vessels to avoid sudden port access denials and subsequent cargo delivery disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/singapore-improper-drone-use-fines-prison-seafarers",
-                "Published: 2026-10-25T20:21:00Z",
+                "Source: https://maritime-executive.com/article/aging-freighter-banned-from-european-ports-for-skipping-yard-date",
+                "Published: 2026-10-26T13:10:00Z",
                 "Status: Audited & True"
             ]
         }

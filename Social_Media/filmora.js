@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "REGULATION: NY-NJ TRUCKERS SEEK FMC RULE",
-                "visual_caption": "C.H. Robinson has agreed to acquire freight brokerage rival RXO in a $5.8B cash-and-stock transaction. The mega-deal consolidates primary truckload market share and expands last-mile capacity across North America."
+                "headline": "MARITIME: IRAQ RESUMES CONTAINER OPERATIONS",
+                "teaserTitle": "ENERGY: CRUDE TANKER RATES HIT $80M",
+                "visual_caption": "Iraqi Maritime Line resumes container shipping after 50 years via Jebel Ali Port. The link reduces reliance on land transshipment and lowers landed costs for importers."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: NY-NJ TRUCKERS SEEK FMC RULE",
-                "teaserTitle": "MARITIME: CARRIERS BLANK EAST-WEST SAILINGS",
-                "visual_caption": "NY-NJ drayage motor carriers have petitioned the FMC for formal rulemaking on empty container returns. The legal petition aims to eliminate unpredictable terminal redirections and unbillable driver detention hours."
+                "headline": "ENERGY: CRUDE TANKER RATES HIT $80M",
+                "teaserTitle": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
+                "visual_caption": "U.S.-Asia crude tanker lease costs hit record $80M due to regional war risks. High costs may halt trans-Pacific energy exports as margins drop for major shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: CARRIERS BLANK EAST-WEST SAILINGS",
-                "teaserTitle": "CARGO CRIME: FEDS BUST $12M THEFT RING",
-                "visual_caption": "Ocean container carriers are accelerating blanked sailings on East-West lanes to bolster spot rates despite a 46.5% fleet orderbook. Shippers face unexpected schedule disruptions and container rollovers at major Asian export ports."
+                "headline": "LABOR: HALIFAX PORT REACHES TENTATIVE PACT",
+                "teaserTitle": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
+                "visual_caption": "ILA and Halifax employers reach a tentative 3-year labor pact for port stability. The deal eliminates peak season strike threats at a key North Atlantic gateway."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO CRIME: FEDS BUST $12M THEFT RING",
-                "teaserTitle": "INFRASTRUCTURE: OREGON WINS $205M RAIL GRANT",
-                "visual_caption": "Federal prosecutors charged commercial drivers in a $12M cargo theft conspiracy utilizing hijacked motor carrier identities. The network fraudulently diverted high-value retail merchandise from national freight corridors."
+                "headline": "AIR CARGO: JET FUEL SURGE SPIKES RATES",
+                "teaserTitle": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
+                "visual_caption": "Surging jet fuel prices and e-commerce volume drive Asia-Pacific air freight rates higher. Shippers face rising costs and should evaluate premium ocean freight to protect margins."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: OREGON WINS $205M RAIL GRANT",
-                "teaserTitle": "TERMINALS: BRAZIL PROBES CONTAINER CHARGES",
-                "visual_caption": "USDOT awarded $205M in federal grants to construct a dedicated intermodal rail container facility in Oregon. The project will connect interior agricultural shippers directly to deep-water Pacific Northwest export docks."
+                "headline": "FLEET: VOLVO LIMITS 2027 TRUCK SLOTS",
+                "teaserTitle": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
+                "visual_caption": "Volvo Trucks limits 2027 production slots after 42% profit growth in Q3. Carriers need to lock in asset procurement now to avoid long-term maintenance cost spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "TERMINALS: BRAZIL PROBES CONTAINER CHARGES",
-                "teaserTitle": "PORT SAFETY: SINGAPORE BANS HARBOR DRONES",
-                "visual_caption": "Brazil initiated a regulatory inquiry into marine terminal handling charges and container demurrage billing across national gateways. The investigation reviews whether unjustified accessorial tariffs inflated landed costs for importers."
+                "headline": "SHIPBUILDING: BAHRI INVESTS $451M IN VLCCS",
+                "teaserTitle": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
+                "visual_caption": "Saudi Bahri invests $451M in 3 new VLCCs to expand national tanker capacity. The expansion reflects a global shift toward carrier-owned tonnage in energy logistics."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT SAFETY: SINGAPORE BANS HARBOR DRONES",
+                "headline": "COMPLIANCE: EU BANS CARGO SHIP MV LIRA",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Singapore implemented strict drone flight bans over harbor anchorage basins backed by heavy fines and prison sentences. The security directive targets aerial surveillance risks and physical threats to commercial vessels."
+                "visual_caption": "EU authorities ban MV Lira from all ports after failure to call at repair yards. Compliance audits of chartered vessels are now critical to avoid port access denials."
             },
             {
                 "slide_index": 8,
