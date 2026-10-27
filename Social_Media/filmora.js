@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATORY: US DELAYS CHINA SHIP FEES",
-                "teaserTitle": "TRANSPORTATION: DIESEL FUEL PRICE SURGES",
-                "visual_caption": "The USTR has delayed additional port fees on China-linked ships until Jan 9, 2027. Importers gain vital time to optimize supply chain inventory and trade costs."
+                "headline": "MERGERS: CH ROBINSON ACQUIRES RXO",
+                "teaserTitle": "CARRIERS: UPS POSTS Q3 REVENUE",
+                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash and stock deal. The transaction closes in H1 2027 to expand expedited services."
             },
             {
                 "slide_index": 2,
-                "headline": "TRANSPORTATION: DIESEL FUEL PRICE SURGES",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS AUTOMATION EXPANSION",
-                "visual_caption": "Surging diesel prices force motor carriers to update fuel surcharges weekly instead of monthly. Shippers face immediate margin pressure as freight bills track spot volatility."
+                "headline": "FINANCIAL: UPS POSTS Q3 REVENUE",
+                "teaserTitle": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
+                "visual_caption": "UPS reports 6.7% Q3 revenue growth and announces a 5.9% rate increase for 2027. Carriers target domestic margins ahead of peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: ROBOTICS AUTOMATION EXPANSION",
-                "teaserTitle": "CORPORATE: DSV 3Q PROFIT RISES 19.5%",
-                "visual_caption": "Warehouse operators are aggressively deploying advanced automation and robotics to fight labor shortages. Facilities must integrate management software with new robotic systems."
+                "headline": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
+                "teaserTitle": "TRANSPORTATION: DIESEL PRICES SURGE",
+                "visual_caption": "Senior lawmakers warn maritime ports against handling Russian diesel imports. Importers face strict compliance audits and legal risks."
             },
             {
                 "slide_index": 4,
-                "headline": "CORPORATE: DSV 3Q PROFIT RISES 19.5%",
-                "teaserTitle": "TECHNOLOGY: CH ROBINSON DEPLOYS AI",
-                "visual_caption": "DSV reported a 19.5% profit increase driven by strong operational execution and network integration. Shippers must monitor carrier consolidation and forwarding partnerships."
+                "headline": "TRANSPORTATION: DIESEL PRICES SURGE",
+                "teaserTitle": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+                "visual_caption": "National diesel prices hit $6.35 per gallon, rising 74% compared with last year. Shippers face compounding operating cost pressures."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: CH ROBINSON DEPLOYS AI",
-                "teaserTitle": "MARITIME: STENA ACquIRES cOLOR lINE",
-                "visual_caption": "C.H. Robinson is expanding AI agents to automate freight routing, quoting, and bookings. Procurement managers must adapt to digital rate discovery across major platforms."
+                "headline": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "visual_caption": "Armstrong forecasts 10.1% global 3PL revenue growth to reach $1.43T in 2026. Markets return to pre-pandemic demand levels."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: STENA ACquIRES cOLOR lINE",
-                "teaserTitle": "PORTS: CANADA REACHES LABOR AGREEMENT",
-                "visual_caption": "Stena has acquired Norwegian operator Color Line to expand its Scandinavian maritime footprint. Regional operators should anticipate enhanced short-sea vessel connectivity."
+                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "teaserTitle": "CORPORATE: GM TO LIST ON NASDAQ",
+                "visual_caption": "NRF forecasts a 4.2% increase in 2026 holiday retail sales to $1.01T. Supply chains optimize inventory staging for peak demand."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: CANADA REACHES LABOR AGREEMENT",
+                "headline": "CORPORATE: GM TO LIST ON NASDAQ",
                 "teaserTitle": "",
-                "visual_caption": "Port of Halifax employers and longshore union representatives reached a tentative labor agreement. Importers can proceed with Q4 routing plans without disruption fears."
+                "visual_caption": "General Motors transfers its stock listing to the Nasdaq exchange on Nov. 17. The move accelerates its technology-driven strategy."
             },
             {
                 "slide_index": 8,

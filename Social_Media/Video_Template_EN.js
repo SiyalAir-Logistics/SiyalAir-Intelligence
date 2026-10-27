@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "US DELAYS CHINA SHIP FEES",
+        "hookTitle": "CH ROBINSON ACQUIRES RXO IN 5.8B CASH AND STOCK DEAL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATORY: US DELAYS CHINA SHIP FEES",
-                "teaserTitle": "TRANSPORTATION: DIESEL FUEL PRICE SURGES",
+                "headline": "MERGERS: CH ROBINSON ACQUIRES RXO",
+                "teaserTitle": "CARRIERS: UPS POSTS Q3 REVENUE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative extended additional port fees on China-linked ships until January nine, twenty twenty-seven. Importers gain crucial breathing room to optimize supply chain inventory and trade costs."
+                "narration_line": "C.H. Robinson has agreed to acquire RXO in a five point eight billion dollar transaction. The deal expands brokerage capabilities ahead of its expected close in twenty twenty seven."
             },
             {
                 "slide_index": 2,
-                "headline": "TRANSPORTATION: DIESEL FUEL PRICE SURGES",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS AUTOMATION EXPANSION",
+                "headline": "FINANCIAL: UPS POSTS Q3 REVENUE",
+                "teaserTitle": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Surging diesel prices are forcing motor carriers to update fuel surcharges weekly instead of monthly. Shippers face immediate margin pressure as freight bill calculations track closer to spot market volatility."
+                "narration_line": "UPS reported strong third quarter revenue growth and announced a five point nine percent rate increase for twenty twenty seven. The carrier is tightly managing domestic operating margins."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: ROBOTICS AUTOMATION EXPANSION",
-                "teaserTitle": "CORPORATE: DSV 3Q PROFIT RISES 19.5%",
+                "headline": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
+                "teaserTitle": "TRANSPORTATION: DIESEL PRICES SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Warehouse operators are aggressively deploying advanced automation and humanoid robotics to combat labor shortages. Logistics providers must ensure warehouse management systems integrate seamlessly with robotic platforms."
+                "narration_line": "U.S. lawmakers are warning financial and maritime institutions to avoid handling Russian diesel imports. Importers face severe regulatory scrutiny and legal penalties for non-compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "CORPORATE: DSV 3Q PROFIT RISES 19.5%",
-                "teaserTitle": "TECHNOLOGY: CH ROBINSON DEPLOYS AI",
+                "headline": "TRANSPORTATION: DIESEL PRICES SURGE",
+                "teaserTitle": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DSV reported a nineteen point five percent profit increase driven by strong operational execution and network integration. Shippers engaging enterprise forwarders should monitor carrier consolidation trends."
+                "narration_line": "National retail diesel prices have surged to six dollars and thirty-five cents per gallon, marking a seventy-four percent increase year-over-year. Carriers face compounding line-haul cost pressures."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: CH ROBINSON DEPLOYS AI",
-                "teaserTitle": "MARITIME: STENA ACquIRES cOLOR lINE",
+                "headline": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "C-H Robinson is expanding artificial intelligence agents to automate freight routing, quoting, and bookings. Freight procurement managers must adapt to digital rate discovery across major brokerage platforms."
+                "narration_line": "Armstrong forecasts global third-party logistics revenue will increase ten point one percent to one point four trillion dollars. The market is returning to pre-pandemic operational levels."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: STENA ACquIRES cOLOR lINE",
-                "teaserTitle": "PORTS: CANADA REACHES LABOR AGREEMENT",
+                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "teaserTitle": "CORPORATE: GM TO LIST ON NASDAQ",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Stena has acquired Norwegian operator Color Line to expand its Scandinavian maritime transport footprint. Regional supply chain operators should anticipate enhanced vessel connectivity across short-sea corridors."
+                "narration_line": "The National Retail Federation projects holiday retail sales will grow four point two percent to over one trillion dollars. Retailers are aggressively optimizing fulfillment networks."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: CANADA REACHES LABOR AGREEMENT",
+                "headline": "CORPORATE: GM TO LIST ON NASDAQ",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Port of Halifax employers and longshore union representatives reached a tentative labor agreement. Importers can proceed with fourth quarter cargo routing plans without immediate disruption fears."
+                "narration_line": "General Motors is moving its stock listing to the tech-focused Nasdaq exchange in November. The pivot supports the automaker's strategy toward advanced digital transportation systems."
             },
             {
                 "slide_index": 8,
