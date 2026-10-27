@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR PROPOSES TWO MONTH DELAY FOR CHINESE",
-        "titleBlue": "SHIPS",
-        "footerSummary": "USTR port fee delays and rising fuel costs force supply chain leaders to re evaluate Q4 transit budgets and lane strategies."
+        "titleWhite": "REVISED SECTION 338 CANADIAN",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Section 338 Canadian tariff shifts and a 5.9% UPS rate hike force immediate recalculations of Q4 landed costs and freight budgets."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: PROPOSES TWO MONTH DELAY FOR CHINESE SHIPS",
+            "heading": "CUSTOMS: REVISED SECTION 338 CANADIAN TARIFFS",
             "paragraphs": [
-                "The United States Trade Representative has filed to extend the suspension of planned port fees for China linked vessels by 2 weeks, pushing the deadline to Jan 9, 2027. This regulatory postponement provides crucial breathing room for ocean carriers and global importers navigating volatile trans Pacific trade disputes.",
-                "Supply chain executives must utilize this temporary window to restructure inventory holding costs and review tariff exposure. Proactive planning prevents unexpected landed cost spikes once the provisional enforcement period officially concludes."
+                "The White House has issued an official revision to Section 338 trade enforcement measures against Canadian imports, adjusting product exemptions and introducing tariffs across key industrial lines. This sudden modification disrupts established cross-border supply chains and creates immediate customs uncertainty along northern border crossings.",
+                "Importers must audit product tariff classifications and review supplier declarations against the updated annex schedules. Trade compliance teams failing to adjust landed cost models risk customs holds and punitive duty assessments on fourth-quarter freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
+            "nextUpTease": "PARCEL: UPS ANNOUNCES 5.9% RATE INCREASE",
             "tags": [
-                "Source: https://maritime-executive.com/article/port-fees-for-chinese-built-ships-and-shipping-to-be-delayed-by-ustr",
-                "Published: 2026-10-26T16:46:00Z",
+                "Source: https://www.logisticsmgmt.com/article/white_house_revises_section_338_tariffs_on_canadian_goods",
+                "Published: 2026-10-26T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
+            "heading": "PARCEL: UPS ANNOUNCES 5.9% RATE INCREASE",
             "paragraphs": [
-                "UK Maritime Trade Operations reported a fire aboard a vessel in the Iraqi exclusive economic zone of the Arabian Gulf 60 miles southeast of Al Faw. The incident highlights the expanding maritime risks spilling outward from regional geopolitical conflicts affecting core energy shipping corridors.",
-                "Energy traders and maritime risk managers must reassess vessel routing protocols and war risk insurance premiums. Diverting assets away from high threat zones protects crew safety but introduces extended transit times and higher bunker fuel consumption."
+                "UPS announced an average general rate increase of 5.9% across domestic air and ground shipping services, scheduled to take effect on Dec 21, 2026. The rate hike matches historical annual increases but adds compounding cost pressure through adjusted accessorial fees and fuel surcharges.",
+                "Enterprise shippers moving high-volume parcel shipments must reassess fulfillment contracts and carrier distribution agreements. Failure to negotiate custom contractual cap provisions will compress fourth-quarter retail margins as delivery expenses compound."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
+            "nextUpTease": "AIR CARGO: ASIA PACIFIC FREIGHT RATES SURGE",
             "tags": [
-                "Source: https://maritime-executive.com/article/fire-reported-on-tanker-off-the-coast-of-iraq",
-                "Published: 2026-10-26T16:05:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ups_announces_5_9_average_rate_increase_for_2027",
+                "Published: 2026-10-26T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
+            "heading": "AIR CARGO: ASIA PACIFIC FREIGHT RATES SURGE",
             "paragraphs": [
-                "C H Robinson is scaling up its proprietary artificial intelligence agents to automate freight routing, rate quoting, and ocean booking functions across key markets. The technology deployment aims to eliminate manual administrative friction and accelerate quote to book velocity in competitive brokerage operations.",
-                "Shippers engaging with digital first forwarders must integrate enterprise resource planning tools with modern API endpoints. Adopting automated procurement workflows is essential to capturing real time capacity pricing in fast moving freight markets."
+                "Spot rates for airfreight departing Asia Pacific manufacturing hubs have surged, driven by seasonal electronic goods demand and escalating aviation jet fuel benchmarks. Capacity remains constrained across primary long-haul corridors to North America and Europe, prompting carriers to prioritize premium express freight.",
+                "Air cargo procurement managers must evaluate block space agreements against escalating spot market rates. Shippers relying on uncommitted bellyhold capacity face rolling cargo delays and elevated peak season surcharges through year-end."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
+            "nextUpTease": "MARITIME: IRAQ RESUMES GULF CONTAINER FEEDER",
             "tags": [
-                "Source: https://www.joc.com/article/ch-robinson-expands-ai-investment-forwarding-functions_20261026.html",
-                "Published: 2026-10-26T00:00:00Z",
+                "Source: https://theloadstar.com/asia-pacific-the-star-performer-as-airfreight-rates-take-off/",
+                "Published: 2026-10-26T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
+            "heading": "MARITIME: IRAQ RESUMES GULF CONTAINER FEEDER",
             "paragraphs": [
-                "DSV reported a 19.5% increase in 3Q profit, bolstered by the successful integration of Schenker operations across key global forwarding markets. The earnings growth highlights strong operational execution and resilient volume handling amidst broader freight sector volatility.",
-                "Shippers partnering with consolidated global forwarders should examine service level agreements and capacity commitments. Assessing logistics provider financial health ensures long term network stability through fluctuating demand cycles."
+                "Iraq's state-owned national carrier, Iraqi Maritime Line, has officially restarted scheduled container feeder services in the Arabian Gulf after a 50-year hiatus. The maiden feeder rotation directly connects the Port of Umm Qasr with Jebel Ali, establishing autonomous national maritime connectivity.",
+                "Regional cargo owners and global ocean carriers can utilize this dedicated feeder connection to bypass bottlenecked cross-border truck corridors. Diversifying maritime access into Iraq improves supply chain security while providing competitive feeder alternatives to existing commercial lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
+            "nextUpTease": "TRUCKING: MEXICO ROAD SECURITY STRIKE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/ds-v-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings",
-                "Published: 2026-10-26T00:00:00Z",
+                "Source: https://www.inboundlogistics.com/articles/after-50-years-iraq-is-back-in-the-container-shipping-business/",
+                "Published: 2026-10-26T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
+            "heading": "TRUCKING: MEXICO ROAD SECURITY STRIKE",
             "paragraphs": [
-                "Soaring diesel prices are compelling motor carriers to abandon monthly fuel surcharges in favor of weekly adjustments to protect operating margins. This operational shift introduces acute cost volatility for enterprise shippers relying on spot truckload capacity.",
-                "Logistics directors must update transportation management systems to ingest weekly fuel index changes automatically. Dynamic budgeting models are essential to prevent freight spend overruns in volatile energy markets."
+                "Freight truck operators across Mexico have launched nationwide work stoppages to protest escalating highway cargo theft and rising operational fuel costs. The industrial action has halted freight movements across core arterial trade routes leading toward northern US border crossings.",
+                "Cross-border manufacturers must activate contingency logistics protocols and buffer inventory at inbound border staging facilities. Sustained highway blockades threaten lean automotive supply chains and raise detention expenses on delayed cross-border drayage units."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+            "nextUpTease": "SHIPPING: BAHRI ORDERS $451M VLCC TRIO",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/70487-soaring-diesel-prices-force-carriers-to-update-fuel-surcharges-weekly-instead-of-monthly",
-                "Published: 2026-10-26T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/mexican-truckers-launch-national-strike-over-highway-security-rising-costs",
+                "Published: 2026-10-26T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+            "heading": "SHIPPING: BAHRI ORDERS $451M VLCC TRIO",
             "paragraphs": [
-                "The National Retail Federation forecasts a 4.2% increase in holiday retail sales, pushing total volume past $1.01B despite persistent economic headwinds. Consumer demand remains surprisingly resilient, requiring distribution centers to maintain peak fulfillment velocity through December.",
-                "Supply chain planners must coordinate closely with 3PL partners to secure adequate warehouse labor and last mile delivery slots. Failing to align inventory allocation with anticipated seasonal demand risks costly stockouts and expedited freight penalties."
+                "National shipping carrier Bahri has committed $451M to commission 3 very large crude carriers from Saudi Arabia's International Maritime Industries shipyard. The capital investment reflects long-term fleet modernization objectives aimed at supporting sustained global crude petroleum transport.",
+                "Energy logistics directors should observe changing charter fleet profiles as modern, fuel-efficient tonnage replaces aging wet bulk vessels. Securing long-term tonnage allocations early helps energy charterers hedge against rising environmental compliance penalties and vessel obsolescence."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
+            "nextUpTease": "PORTS: DP WORLD ADVANCES CHURCHILL CORRIDOR",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/nrf_forecasts_4_2_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds",
-                "Published: 2026-10-26T00:00:00Z",
+                "Source: https://splash247.com/bahri-turns-to-homegrown-yard-for-451m-vlcc-trio/",
+                "Published: 2026-10-26T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
+            "heading": "PORTS: DP WORLD ADVANCES CHURCHILL CORRIDOR",
             "paragraphs": [
-                "Union Pacific Railroad has broken a three year industry equipment freeze by placing an order for 500 new domestic containers. This capital expenditure signals a strategic bet on intermodal growth and provides much needed equipment renewal for rail shippers.",
-                "Intermodal logistics managers should evaluate rail centric routing options to optimize freight spend against rising highway transport costs. Securing dedicated rail equipment allocations now safeguards capacity before peak intermodal demand surges."
+                "Global logistics operator DP World has initiated strategic discussions to establish an operational partnership with northern Canada's Port of Churchill. The proposed corridor aims to link Arctic marine shipping routes directly with central Canadian inland rail and intermodal transfer hubs.",
+                "Logistics strategists should monitor the emergence of this Arctic trade artery as a long-term hedge against southern rail bottlenecks. Shippers moving bulk and containerized cargo through central North America could gain significant transit day reductions once commercial infrastructure matures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/up-resumes-intermodal-container-fleet-expansion_20261026.html",
-                "Published: 2026-10-26T00:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40321-dubais-dp-world-talks-alliance-with-northern-canada-port",
+                "Published: 2026-10-26T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

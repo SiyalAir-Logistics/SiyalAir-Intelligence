@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR PROPOSES TWO MONTH DELAY FOR CHINESE SHIPS",
+        "hookTitle": "REVISED SECTION 338 CANADIAN TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: PROPOSES TWO MONTH DELAY FOR CHINESE SHIPS",
-                "teaserTitle": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
+                "headline": "CUSTOMS: REVISED SECTION 338 CANADIAN TARIFFS",
+                "teaserTitle": "PARCEL: UPS ANNOUNCES 5.9% RATE INCREASE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative filed to extend port fees for Chinese ships to January nine, twenty twenty seven. This short delay gives ocean carriers temporary relief from trade disputes."
+                "narration_line": "The White House has revised Section three thirty-eight tariffs on cross-border Canadian goods, altering key dutiable categories. Shippers must audit product classifications immediately to calculate revised landed costs and avoid customs clearance border delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: FIRE REPORTED ON TANKER OFF IRAQ",
-                "teaserTitle": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
+                "headline": "PARCEL: UPS ANNOUNCES 5.9% RATE INCREASE",
+                "teaserTitle": "AIR CARGO: ASIA PACIFIC FREIGHT RATES SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A vessel caught fire in the Iraqi exclusive economic zone following regional conflicts. The incident highlights expanding security risks across key Middle East energy shipping lanes."
+                "narration_line": "UPS announced an average rate increase of five point nine percent across domestic ground and air services starting December twenty-first. Shippers must review annual parcel contracts immediately to model compounding carrier surcharges before peak volume begins."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: CH ROBINSON EXPANDS AI AGENTS",
-                "teaserTitle": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
+                "headline": "AIR CARGO: ASIA PACIFIC FREIGHT RATES SURGE",
+                "teaserTitle": "MARITIME: IRAQ RESUMES GULF CONTAINER FEEDER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "C H Robinson is deploying artificial intelligence agents to automate freight routing and quote generation. The technology upgrade aims to eliminate manual booking friction across brokerage operations."
+                "narration_line": "Asia Pacific airfreight spot rates climbed sharply across major trade lanes, driven by regional manufacturing exports and rising aviation fuel expenses. Global supply chain teams should evaluate bellyhold space commitments now to secure seasonal transit allocations."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCE: DSV 3Q PROFIT RISES 19.5%",
-                "teaserTitle": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
+                "headline": "MARITIME: IRAQ RESUMES GULF CONTAINER FEEDER",
+                "teaserTitle": "TRUCKING: MEXICO ROAD SECURITY STRIKE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DSV reported a nineteen point five percent profit increase driven by the Schenker integration. The strong financial performance confirms resilient volume handling amidst ongoing market volatility."
+                "narration_line": "Iraqi Maritime Line has officially launched its first scheduled container feeder loop in fifty years, directly connecting Umm Qasr with Jebel Ali. Regional logistics managers gain expanded Middle Eastern routing options while bypassing increasingly congested overland corridor checkpoints."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: DIESEL PRICES FORCE WEEKLY UPDATES",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "headline": "TRUCKING: MEXICO ROAD SECURITY STRIKE",
+                "teaserTitle": "SHIPPING: BAHRI ORDERS $451M VLCC TRIO",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Surging diesel prices are forcing motor carriers to update fuel surcharges weekly instead of monthly. This adjustment protects carrier operating margins while increasing spot rate volatility."
+                "narration_line": "Mexican freight carriers initiated nationwide highway protests over driver security conditions and escalating highway operational costs. Cross-border logistics networks face severe transit bottlenecks, requiring immediate rerouting across secondary border crossing points."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
+                "headline": "SHIPPING: BAHRI ORDERS $451M VLCC TRIO",
+                "teaserTitle": "PORTS: DP WORLD ADVANCES CHURCHILL CORRIDOR",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The National Retail Federation forecasts a four point two percent rise in holiday sales past one trillion dollars. Strong consumer demand requires distribution centers to maintain peak fulfillment velocity."
+                "narration_line": "Saudi shipping giant Bahri placed an order for three very large crude carriers valued at four hundred fifty-one million dollars. Long-term energy charters will face shifting capacity dynamics once these next-generation tankers enter global wet bulk rotations."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER FLEET",
+                "headline": "PORTS: DP WORLD ADVANCES CHURCHILL CORRIDOR",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Union Pacific broke a three year equipment freeze by ordering five hundred new domestic containers. The investment signals renewed commitment to intermodal growth and equipment availability."
+                "narration_line": "DP World entered preliminary negotiations to integrate Canada's Arctic Port of Churchill into its global logistics network. Establishing this northern freight gateway could provide shippers with a shorter alternative maritime corridor into central North American rail lines."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
