@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MERGERS: CH ROBINSON ACQUIRES RXO",
-                "teaserTitle": "CARRIERS: UPS POSTS Q3 REVENUE",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash and stock deal. The transaction closes in H1 2027 to expand expedited services."
+                "headline": "BUSINESS: UPS EXPECTS HOLIDAY VOLUME DIP",
+                "teaserTitle": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
+                "visual_caption": "UPS anticipates a volume dip for the holidays following reductions by Amazon. This contraction forces express carriers to rapidly reallocate fleet assets and adjust labor allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCIAL: UPS POSTS Q3 REVENUE",
-                "teaserTitle": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
-                "visual_caption": "UPS reports 6.7% Q3 revenue growth and announces a 5.9% rate increase for 2027. Carriers target domestic margins ahead of peak season."
+                "headline": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
+                "teaserTitle": "BUSINESS: GM TO LEAVE NYSE",
+                "visual_caption": "The federal government plans a 2-month extension of the shipping fee truce with China. This regulatory delay offers temporary relief to ocean carriers navigating complex compliance schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
-                "teaserTitle": "TRANSPORTATION: DIESEL PRICES SURGE",
-                "visual_caption": "Senior lawmakers warn maritime ports against handling Russian diesel imports. Importers face strict compliance audits and legal risks."
+                "headline": "BUSINESS: GM TO LEAVE NYSE",
+                "teaserTitle": "BUSINESS: ROADRUNNER CANADA LTL",
+                "visual_caption": "General Motors announced a corporate move to transfer its stock listing to the Nasdaq platform. Management cited operational alignment with digital supply chain platforms and automated logistics."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSPORTATION: DIESEL PRICES SURGE",
-                "teaserTitle": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
-                "visual_caption": "National diesel prices hit $6.35 per gallon, rising 74% compared with last year. Shippers face compounding operating cost pressures."
+                "headline": "BUSINESS: ROADRUNNER CANADA LTL",
+                "teaserTitle": "OPERATIONS: ASYAD GROUP 132M STAKE",
+                "visual_caption": "Roadrunner Freight launched its first direct LTL service from Canada into the United States. The new lane provides northern shippers with direct access to domestic distribution networks."
             },
             {
                 "slide_index": 5,
-                "headline": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
-                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
-                "visual_caption": "Armstrong forecasts 10.1% global 3PL revenue growth to reach $1.43T in 2026. Markets return to pre-pandemic demand levels."
+                "headline": "OPERATIONS: ASYAD GROUP 132M STAKE",
+                "teaserTitle": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
+                "visual_caption": "Oman's Asyad Group priced an institutional share sale in its shipping subsidiary valued at $132M. This restructuring aims to fund ongoing fleet modernization and capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
-                "teaserTitle": "CORPORATE: GM TO LIST ON NASDAQ",
-                "visual_caption": "NRF forecasts a 4.2% increase in 2026 holiday retail sales to $1.01T. Supply chains optimize inventory staging for peak demand."
+                "headline": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
+                "teaserTitle": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
+                "visual_caption": "Chouest Group completed the acquisition of Canadian marine provider Horizon Maritime across Arctic waters. The strategic purchase solidifies the buyer's dominant footprint in harsh marine logistics."
             },
             {
                 "slide_index": 7,
-                "headline": "CORPORATE: GM TO LIST ON NASDAQ",
+                "headline": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
                 "teaserTitle": "",
-                "visual_caption": "General Motors transfers its stock listing to the Nasdaq exchange on Nov. 17. The move accelerates its technology-driven strategy."
+                "visual_caption": "Villa Vie Residences suspended global voyage operations and ordered passengers to disembark due to soaring costs. Management cited extreme fuel price inflation as the primary catalyst for review."
             },
             {
                 "slide_index": 8,

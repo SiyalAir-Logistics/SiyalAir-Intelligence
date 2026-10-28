@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CH ROBINSON ACQUIRES RXO IN 5.8B CASH AND STOCK DEAL",
+        "hookTitle": "UPS EXPECTS HOLIDAY VOLUME DIP AFTER AMAZON REDUCTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MERGERS: CH ROBINSON ACQUIRES RXO",
-                "teaserTitle": "CARRIERS: UPS POSTS Q3 REVENUE",
+                "headline": "BUSINESS: UPS EXPECTS HOLIDAY VOLUME DIP",
+                "teaserTitle": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson has agreed to acquire RXO in a five point eight billion dollar transaction. The deal expands brokerage capabilities ahead of its expected close in twenty twenty seven."
+                "narration_line": "United Parcel Service anticipates a volume dip for the holidays following reductions by Amazon. This contraction forces express carriers to rapidly reallocate fleet assets and adjust labor allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCIAL: UPS POSTS Q3 REVENUE",
-                "teaserTitle": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
+                "headline": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
+                "teaserTitle": "BUSINESS: GM TO LEAVE NYSE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "UPS reported strong third quarter revenue growth and announced a five point nine percent rate increase for twenty twenty seven. The carrier is tightly managing domestic operating margins."
+                "narration_line": "The federal government plans a two month extension of the shipping fee truce with China. This regulatory delay offers temporary relief to ocean carriers navigating complex compliance schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
-                "teaserTitle": "TRANSPORTATION: DIESEL PRICES SURGE",
+                "headline": "BUSINESS: GM TO LEAVE NYSE",
+                "teaserTitle": "BUSINESS: ROADRUNNER CANADA LTL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. lawmakers are warning financial and maritime institutions to avoid handling Russian diesel imports. Importers face severe regulatory scrutiny and legal penalties for non-compliance."
+                "narration_line": "General Motors announced a corporate move to transfer its stock listing to the Nasdaq platform. Management cited operational alignment with digital supply chain platforms and automated logistics."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSPORTATION: DIESEL PRICES SURGE",
-                "teaserTitle": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+                "headline": "BUSINESS: ROADRUNNER CANADA LTL",
+                "teaserTitle": "OPERATIONS: ASYAD GROUP 132M STAKE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "National retail diesel prices have surged to six dollars and thirty-five cents per gallon, marking a seventy-four percent increase year-over-year. Carriers face compounding line-haul cost pressures."
+                "narration_line": "Roadrunner Freight launched its first direct less than truckload service from Canada into the United States. The new lane provides northern shippers with direct access to domestic distribution networks."
             },
             {
                 "slide_index": 5,
-                "headline": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
-                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "headline": "OPERATIONS: ASYAD GROUP 132M STAKE",
+                "teaserTitle": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Armstrong forecasts global third-party logistics revenue will increase ten point one percent to one point four trillion dollars. The market is returning to pre-pandemic operational levels."
+                "narration_line": "Oman's Asyad Group priced an institutional share sale in its shipping subsidiary valued at one hundred thirty two million dollars. This restructuring aims to fund ongoing fleet modernization and capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
-                "teaserTitle": "CORPORATE: GM TO LIST ON NASDAQ",
+                "headline": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
+                "teaserTitle": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The National Retail Federation projects holiday retail sales will grow four point two percent to over one trillion dollars. Retailers are aggressively optimizing fulfillment networks."
+                "narration_line": "Chouest Group completed the acquisition of Canadian marine provider Horizon Maritime across Arctic waters. The strategic purchase solidifies the buyer's dominant footprint in harsh marine logistics."
             },
             {
                 "slide_index": 7,
-                "headline": "CORPORATE: GM TO LIST ON NASDAQ",
+                "headline": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "General Motors is moving its stock listing to the tech-focused Nasdaq exchange in November. The pivot supports the automaker's strategy toward advanced digital transportation systems."
+                "narration_line": "Villa Vie Residences suspended global voyage operations and ordered passengers to disembark due to soaring costs. Management cited extreme fuel price inflation as the primary catalyst for review."
             },
             {
                 "slide_index": 8,

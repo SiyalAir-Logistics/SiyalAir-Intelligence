@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CH ROBINSON ACQUIRES RXO IN 5.8B CASH AND STOCK",
-        "titleBlue": "DEAL",
-        "footerSummary": "CH Robinson acquires RXO for $5.8B, expanding last-mile services as diesel prices and regulatory shifts pressure 2027 freight margins."
+        "titleWhite": "UPS EXPECTS HOLIDAY VOLUME DIP AFTER AMAZON",
+        "titleBlue": "REDUCTIONS",
+        "footerSummary": "UPS projects a holiday volume drop following Amazon volume reductions as carriers recalibrate capacity for the peak 2026 shipping season."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MERGERS: CH ROBINSON ACQUIRES RXO",
+            "heading": "BUSINESS: UPS EXPECTS HOLIDAY VOLUME DIP",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a landmark $5.8B cash and stock transaction designed to integrate expedited and last-mile freight capabilities. The strategic combination significantly expands the broker's footprint across domestic transport networks ahead of the scheduled transaction closing in H1 2027.",
-                "Shippers must evaluate how this major brokerage consolidation impacts contracted capacity allocations and pricing transparency across active lanes. Logistics procurement teams should review service level agreements to protect performance metrics during network integration."
+                "United Parcel Service anticipates a noticeable dip in seasonal package volume for the upcoming holiday period following strategic volume reductions by major client Amazon. This volume contraction forces express carriers to rapidly reallocate fleet assets and adjust sorting facility labor allocations across national logistics hubs.",
+                "Supply chain executives must monitor parcel network capacity shifts and evaluate carrier rate adjustments as delivery networks respond to lower baseline volumes. Shippers should review peak season contracts to prevent unexpected minimum volume surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: UPS POSTS Q3 REVENUE",
+            "nextUpTease": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-27T08:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FINANCIAL: UPS POSTS Q3 REVENUE",
+            "heading": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
             "paragraphs": [
-                "UPS reported 6.7% revenue growth for the third quarter while announcing a 5.9% average rate increase for 2027, taking effect on December 21. The carrier is aggressively targeting high-value verticals and tightening domestic operating margins to prepare for peak seasonal shipping volumes.",
-                "Enterprise shippers face compounding parcel transport cost pressures as general rate increases outpace core inflation benchmarks. Supply chain directors must optimize package sizing and carrier mix strategies to mitigate projected budget overruns."
+                "The federal government has initiated plans for a 2-month extension of the existing shipping-fee truce with China, pushing potential tariff escalations into early next year. This regulatory delay offers temporary relief to transpacific ocean carriers and importers navigating complex compliance schedules.",
+                "Logistics procurement teams should utilize this compliance window to optimize inventory staging and diversify ocean carrier allocations ahead of reinstated maritime fees. Importers must audit supply chain documentation to ensure readiness for future tariff adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: DEMOCRATS WARN ON DIESEL",
+            "nextUpTease": "BUSINESS: GM TO LEAVE NYSE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-27T08:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: DEMOCRATS WARN ON DIESEL",
+            "heading": "BUSINESS: GM TO LEAVE NYSE",
             "paragraphs": [
-                "Senior U.S. lawmakers have issued strict warnings to financial institutions, ports, and energy terminals regarding potential imports of sanctioned Russian diesel cargoes. Although the Treasury Department previously outlined legal import frameworks, lawmakers caution against handling fuel linked to the controversial sanctions relief pact.",
-                "Importers and energy logistics providers face heightened regulatory scrutiny and severe compliance risks when chartering fuel transport vessels. Energy supply chain managers must conduct rigorous origin audits to prevent cargo seizures and legal penalties."
+                "General Motors announced a strategic corporate move to transfer its stock listing from the New York Stock Exchange to the technology-focused Nasdaq platform. Management cited an operational alignment with digital supply chain platforms, advanced manufacturing software, and automated logistics networks.",
+                "Corporate pivots toward technology-driven logistics infrastructure demand tighter electronic data interchange integration from tier-one automotive parts suppliers. Procurement directors must ensure their enterprise resource planning systems match manufacturer software standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORTATION: DIESEL PRICES SURGE",
+            "nextUpTease": "BUSINESS: ROADRUNNER LAUNCHES CANADA LTL",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-10-26T23:01:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRANSPORTATION: DIESEL PRICES SURGE",
+            "heading": "BUSINESS: ROADRUNNER LAUNCHES CANADA LTL",
             "paragraphs": [
-                "National retail diesel averages climbed to $6.35 per gallon, representing a 74% increase compared with the same period last year across major freight corridors. Persistent oil price volatility driven by Middle East supply anxiety continues to escalate line-haul operating expenses for motor carriers.",
-                "Fleet operators and shippers are experiencing severe margin erosion as fuel surcharges fail to fully cover surging operating costs. Logistics procurement leaders must accelerate route optimization and evaluate intermodal alternatives to curb freight spend."
+                "Roadrunner Freight has officially launched its first direct outbound less-than-truckload service running from Canada into the United States to accelerate cross-border freight velocity. The new lane provides northern shippers with direct access to domestic distribution networks without standard brokerage delays.",
+                "Cross-border supply chain managers must evaluate transit time improvements against landed freight costs when selecting regional LTL partners. Shippers utilizing this new corridor should audit customs documentation procedures to maintain seamless border clearances."
             ],
             "imageUrl": "",
-            "nextUpTease": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+            "nextUpTease": "OPERATIONS: ASYAD GROUP PRICES 132M STAKE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-10-27T09:15:00Z",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FORWARDING: ARMSTRONG FORECASTS GROWTH",
+            "heading": "OPERATIONS: ASYAD GROUP PRICES 132M STAKE",
             "paragraphs": [
-                "Armstrong and Associates released new market projections forecasting global 3PL revenue to increase 10.1% to an estimated $1.43T as the industry stabilizes. This rebound reflects returning cargo volumes and normalizing contract logistics demand across international trade lanes.",
-                "Global shippers engaging third-party logistics providers must navigate shifting capacity availability and evolving rate structures. Supply chain executives should lock in multi-year partnership agreements to secure reliable asset allocations against future volatility."
+                "Oman\u2019s Asyad Group successfully priced an institutional share sale in its listed shipping subsidiary valued at $132M to broaden its international investor base. This capital restructuring initiative aims to fund ongoing fleet modernization and expand regional maritime logistics capabilities.",
+                "Maritime freight forwarders must track capital investments by major state-backed carriers as regional shipping capacity undergoes structural expansion. Importers utilizing Middle East maritime corridors should monitor vessel deployment schedules for service stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF HOLIDAY SALES FORECAST",
+            "nextUpTease": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-27T07:45:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: NRF HOLIDAY SALES FORECAST",
+            "heading": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
             "paragraphs": [
-                "The National Retail Federation projects a 4.2% increase in 2026 holiday retail sales, reaching $1.01T despite ongoing economic headwinds and inflation. Retailers are adjusting inventory staging and fulfillment schedules to capture consumer demand while managing distribution expenses.",
-                "Supply chain planners must coordinate peak season inventory flows carefully to prevent costly last-minute expedited freight charges. Maintaining optimal stock levels across regional distribution centers ensures high order fulfillment rates during peak shopping periods."
+                "U.S. offshore services giant Chouest Group has completed the acquisition of Canadian marine provider Horizon Maritime, expanding operations across Arctic waters and coastal routes. The strategic purchase solidifies the buyer's dominant footprint in specialized harsh-environment marine logistics.",
+                "Energy logistics providers must assess how consolidation among marine service operators impacts charter rates and vessel availability for offshore projects. Procurement teams need to establish long-term service agreements to lock in specialized vessel capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CORPORATE: GM TO LIST ON NASDAQ",
+            "nextUpTease": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-27T09:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CORPORATE: GM TO LIST ON NASDAQ",
+            "heading": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
             "paragraphs": [
-                "General Motors announced plans to transfer its stock listing from the New York Stock Exchange to the technology-focused Nasdaq exchange on Nov. 17. Management cited a strategic shift toward digital platforms, advanced vehicle technology, and software-driven logistics integration.",
-                "Corporate restructuring and technological pivots by major original equipment manufacturers alter inbound component supply chain dynamics. Industrial parts suppliers must align electronic data interchange systems with automotive manufacturing platforms."
+                "Residential cruise operator Villa Vie Residences abruptly suspended global voyage operations and ordered passengers to disembark while docked in Cambodia due to soaring operating costs. Management cited extreme fuel price inflation and financial pressures as primary catalysts for the immediate restructuring review.",
+                "Global transport operators face severe liquidity risks when fuel cost volatility outpaces operational revenue models across specialized maritime sectors. Supply chain finance leaders must stress-test vendor solvency to protect corporate assets against sudden operational halts."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-10-27T10:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-27T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
