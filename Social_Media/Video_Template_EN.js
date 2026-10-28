@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UPS EXPECTS HOLIDAY VOLUME DIP AFTER AMAZON REDUCTIONS",
+        "hookTitle": "COMMERCE HITS CHINESE TRAILERS WITH TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BUSINESS: UPS EXPECTS HOLIDAY VOLUME DIP",
-                "teaserTitle": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
+                "headline": "GOVERNMENT: US HITS CHINESE TRAILERS",
+                "teaserTitle": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United Parcel Service anticipates a volume dip for the holidays following reductions by Amazon. This contraction forces express carriers to rapidly reallocate fleet assets and adjust labor allocations."
+                "narration_line": "The United States Commerce Department imposed a two hundred sixty percent tariff on imported Chinese trailers. Domestic equipment buyers face severe pricing pressures across upcoming hardware replacement cycles."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: US PLANS 2-MONTH EXTENSION",
-                "teaserTitle": "BUSINESS: GM TO LEAVE NYSE",
+                "headline": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
+                "teaserTitle": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal government plans a two month extension of the shipping fee truce with China. This regulatory delay offers temporary relief to ocean carriers navigating complex compliance schedules."
+                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar cash and stock transaction. This merger consolidates major third party logistics and last mile delivery assets."
             },
             {
                 "slide_index": 3,
-                "headline": "BUSINESS: GM TO LEAVE NYSE",
-                "teaserTitle": "BUSINESS: ROADRUNNER CANADA LTL",
+                "headline": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
+                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "General Motors announced a corporate move to transfer its stock listing to the Nasdaq platform. Management cited operational alignment with digital supply chain platforms and automated logistics."
+                "narration_line": "IFS Softeon launched Fulfillment Flow to unify siloed warehouse data using artificial intelligence. The platform coordinates operational workflows to eliminate inventory management bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: ROADRUNNER CANADA LTL",
-                "teaserTitle": "OPERATIONS: ASYAD GROUP 132M STAKE",
+                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "teaserTitle": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Roadrunner Freight launched its first direct less than truckload service from Canada into the United States. The new lane provides northern shippers with direct access to domestic distribution networks."
+                "narration_line": "Iraq has officially resumed scheduled container shipping operations after a fifty year hiatus. The state owned carrier launched an inaugural feeder loop linking Jebel Ali Port."
             },
             {
                 "slide_index": 5,
-                "headline": "OPERATIONS: ASYAD GROUP 132M STAKE",
-                "teaserTitle": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
+                "headline": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
+                "teaserTitle": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Oman's Asyad Group priced an institutional share sale in its shipping subsidiary valued at one hundred thirty two million dollars. This restructuring aims to fund ongoing fleet modernization and capacity."
+                "narration_line": "South African rail operators successfully tested a four point seven mile long heavy freight train. The record run maximizes bulk mineral transport capacity across key inland corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "OFFSHORE: CHOUEST ACQUIRES HORIZON",
-                "teaserTitle": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
+                "headline": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
+                "teaserTitle": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Chouest Group completed the acquisition of Canadian marine provider Horizon Maritime across Arctic waters. The strategic purchase solidifies the buyer's dominant footprint in harsh marine logistics."
+                "narration_line": "Federal regulators removed over ten thousand non compliant driver training providers from the registry. Motor carriers must audit driver credentials to avoid severe interstate penalties."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: VILLA VIE RESIDENCES SUSPENDS",
+                "headline": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Villa Vie Residences suspended global voyage operations and ordered passengers to disembark due to soaring costs. Management cited extreme fuel price inflation as the primary catalyst for review."
+                "narration_line": "Noble Corporation agreed to sell an idle drillship for thirty eight million dollars. The divestment allows the firm to optimize underutilized assets and streamline operations."
             },
             {
                 "slide_index": 8,
