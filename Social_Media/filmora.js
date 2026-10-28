@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: US HITS CHINESE TRAILERS",
-                "teaserTitle": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
-                "visual_caption": "The U.S. Commerce Department imposed a 260% tariff on Chinese van trailers. Domestic fleet operators face severe equipment cost inflation across replacement cycles."
+                "headline": "LABOR: WATCHMEN THREATEN LA-LB SHUTDOWN",
+                "teaserTitle": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
+                "visual_caption": "Union watchmen have threatened to strike at the LA-LB port complex by Sunday. A walkout could halt security operations across 50% of terminals at America's largest gateway."
             },
             {
                 "slide_index": 2,
-                "headline": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
-                "teaserTitle": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock deal. The transaction closes in H1 2027 to consolidate major brokerage networks."
+                "headline": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
+                "teaserTitle": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
+                "visual_caption": "A major CSX tech outage has frozen Class I freight interchanges across the Eastern rail network. The stoppage disrupts intermodal corridors, forcing shippers to divert urgent cargo to truckload capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
-                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "visual_caption": "IFS Softeon launched Fulfillment Flow to unify siloed warehouse data. The AI platform optimizes inventory throughput and reduces operational labor overhead."
+                "headline": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
+                "teaserTitle": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
+                "visual_caption": "Three tankers carrying Russian diesel are sailing to US ports under an official bilateral fuel agreement. The emergency distillate imports aim to stabilize tight domestic fuel supplies ahead of winter."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "teaserTitle": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
-                "visual_caption": "Iraq resumed container shipping operations after a 50-year hiatus. The state carrier launched a new feeder loop connecting Jebel Ali Port."
+                "headline": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
+                "teaserTitle": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
+                "visual_caption": "The US military has issued an advisory urging merchant ships to avoid the Strait of Hormuz. Commercial operators face spiking war-risk insurance premiums and potential reroutes around the Cape of Good Hope."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
-                "teaserTitle": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
-                "visual_caption": "South Africa tested a 4.7-mile freight train over a 534-mile route. The mega-train setup maximizes bulk mineral transport efficiency."
+                "headline": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
+                "teaserTitle": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
+                "visual_caption": "A Zim containership was struck off Bulgaria in the western Black Sea, triggering naval rescue operations. Maritime insurers are hiking risk surcharges as carriers cancel regional feeder sailings."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
-                "teaserTitle": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
-                "visual_caption": "The FMCSA purged over 10K unverified driver training providers. Motor carriers must audit driver credentials to maintain regulatory compliance."
+                "headline": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
+                "teaserTitle": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
+                "visual_caption": "MARAD has awarded $498M in port infrastructure grants across 35 projects in 19 states. The package marks the lowest funding total in 5 years as port operators lobby for emergency capital."
             },
             {
                 "slide_index": 7,
-                "headline": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
+                "headline": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
                 "teaserTitle": "",
-                "visual_caption": "Noble Corporation agreed to sell an idle drillship for $38M. The asset divestment optimizes deepwater operations ahead of Q4 2026."
+                "visual_caption": "The global containership orderbook is surging toward 16M TEU following another wave of megamax contracts. The expanding order pipeline signals impending vessel overcapacity and downward pressure on contract rates."
             },
             {
                 "slide_index": 8,

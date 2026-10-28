@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "COMMERCE HITS CHINESE TRAILERS WITH",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "The U.S. Commerce Department imposes 260% tariffs on dumped Chinese trailers as domestic manufacturers battle pricing pressures and rising supply chain hardware costs."
+        "titleWhite": "WATCHMEN THREATEN LA-LB",
+        "titleBlue": "SHUTDOWN",
+        "footerSummary": "A looming security watchmen strike threatens 50% of LA-LB port facilities, while rail outages and Hormuz alerts compound global container friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: US HITS CHINESE TRAILERS",
+            "heading": "LABOR: WATCHMEN THREATEN LA-LB SHUTDOWN",
             "paragraphs": [
-                "The U.S. Commerce Department is imposing preliminary tariffs of about 260% on van-type trailers imported from China to protect domestic manufacturing infrastructure. Federal investigators determined that these imports were being dumped into the domestic market at artificially suppressed prices that crippled fair competition.",
-                "Equipment procurement officers must immediately evaluate fleet expansion budgets and assess alternative manufacturing partners to mitigate sudden capital expenditure inflation. Shippers relying on trailer chassis acquisitions will face severe pricing adjustments across upcoming equipment replacement cycles."
+                "The ILWU Local 26 union representing 250 security watchmen has threatened a strike across the Los Angeles and Long Beach port complex if contract talks fail by Sunday. Employers warn that the walkout could impact security operations across roughly 50% of container terminal facilities within America's busiest gateway.",
+                "Intermodal drayage operators and ocean shippers face imminent terminal gate closures and access suspensions across Southern California docks. Logistics planners must immediately divert time-critical intermodal freight to alternate West Coast gates or prepare for severe dwell-time surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
+            "nextUpTease": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-27T23:36:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BUSINESS: ROBINSON AGREES TO ACQUIRE RXO",
+            "heading": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a $5.8B cash-and-stock transaction designed to consolidate major third-party logistics capabilities and expand market reach. The strategic merger integrates advanced brokerage networks with specialized expedited and last-mile delivery assets, with transaction closure anticipated in the first half of 2027.",
-                "Supply chain directors should monitor service level stability and contract renegotiation timelines as the combined entity rationalizes its carrier network. Shippers leveraging multi-modal logistics partners must audit existing brokerage agreements to safeguard against near-term operational consolidation friction."
+                "A major technology outage at Class I railroad CSX has halted critical rail interchange points across the Eastern rail network, disrupting intermodal freight flows. Rail operators reported frozen electronic interchange systems, stalling thousands of container handoffs between Eastern and Western Class I carriers.",
+                "Supply chain directors face mounting delays on transcontinental intermodal corridors connecting Chicago to East Coast ports. BCOs and freight forwarders must proactively re-route time-sensitive freight onto over-the-road trucking networks to avoid escalating rail yard congestion penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
+            "nextUpTease": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-28T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: IFS SOFTEON LAUNCHES FULFILLMENT",
+            "heading": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
             "paragraphs": [
-                "IFS Softeon has officially launched Fulfillment Flow, an advanced artificial intelligence capability designed to unify siloed warehouse data and coordinate operational workflows. The software bridges critical visibility gaps by synthesizing real-time inventory metrics and labor output across separate enterprise management screens.",
-                "Warehouse operations managers must integrate automated orchestration tools to eliminate manual processing bottlenecks and optimize throughput during peak demand cycles. Implementing centralized intelligence platforms significantly reduces inventory error rates while lowering long-term labor overhead."
+                "Three marine tankers loaded with Russian refined diesel are en route to U.S. terminals under a bilateral geopolitical agreement, with a fourth tanker preparing to depart. The unusual fuel shipments bypass typical maritime embargoes to inject needed distillate volume into tight domestic heating and transport reserves.",
+                "Fleet fuel procurement directors should monitor wholesale diesel crack spreads as foreign barrels enter domestic storage hubs. Shippers navigating persistent fuel surcharges may see localized price stabilization across Atlantic coast trucking lanes if import volumes expand."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+            "nextUpTease": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-27T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-10-28T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+            "heading": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
             "paragraphs": [
-                "Following strategic diplomatic initiatives in the region, Iraq's state-owned Iraqi Maritime Line has officially resumed scheduled container shipping operations after a 50-year hiatus. The carrier's inaugural feeder loop successfully links Jebel Ali Port, opening alternative maritime entry points within the Arabian Gulf.",
-                "Global freight forwarders should incorporate this newly restored maritime corridor into regional routing strategies to diversify Middle East import capacity. Importers operating across the Arabian Gulf must assess transit schedules to leverage competitive feeder loop pricing."
+                "The U.S. military has formally advised commercial merchant vessels to avoid unnecessary transits through the Strait of Hormuz amid escalating regional tensions. The maritime advisory follows threats against commercial tankers and renewed naval blockades impacting critical Arabian Gulf energy corridors.",
+                "Ocean carriers and bulk shippers face rising war-risk insurance premiums and potential rerouting around the Cape of Good Hope. Logistics managers must stress-test contingency lead times for Middle East trade lanes and prepare for elevated container spot premiums."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
+            "nextUpTease": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-27T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-10-28T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: SOUTH AFRICA TESTS LONGEST TRAIN",
+            "heading": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
             "paragraphs": [
-                "A heavy freight rail operator in South Africa successfully completed a 534-mile test run using a record-setting 4.7-mile-long ore train spanning from Saldanha Bay to an inland mine. This mega-train configuration demonstrates advanced locomotive synchronization designed to maximize bulk mineral transport capacity over long distances.",
-                "Intermodal logistics planners must analyze how ultra-long train configurations influence rail corridor slot allocations and terminal handling schedules. Bulk shippers operating in international markets should evaluate heavy-haul rail efficiencies to lower landed freight costs."
+                "A Greek-owned container vessel chartered by Zim was struck in the western Black Sea off the coast of Bulgaria, prompting the Bulgarian Navy to rescue the crew. The incident unfolded as regional defense ministers convened to address deteriorating maritime security and attacks on commercial vessels.",
+                "Maritime insurers are recalibrating risk premiums for all commercial cargo operations navigating Black Sea and Danube feeder routes. Freight forwarders handling Balkan cargo must prepare for carrier schedule cancellations and secure alternate transshipment corridors through Mediterranean hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
+            "nextUpTease": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-28T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: FMCSA REMOVES DRIVER TRAINERS",
+            "heading": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration has purged over 10K non-compliant commercial driver training providers from its registry as part of an aggressive national safety enforcement push. This regulatory crackdown sidelines unverified educational institutions to ensure strict adherence to federal interstate licensing standards.",
-                "Motor carriers must immediately audit the credential status of newly onboarded drivers to verify proper training compliance and avoid severe regulatory penalties. Fleet safety directors should establish direct verification protocols with federal registries to insulate operations against sudden driver capacity constraints."
+                "The U.S. Maritime Administration has awarded $498M in port infrastructure grants across 35 projects in 19 states under the Port Infrastructure Development Program. The funding allocation represents the lowest disbursement level in 5 years as port authorities petition Congress for emergency supplemental capital.",
+                "Port terminal operators will deploy capital toward dock modernization, rail connectivity, and emissions reduction infrastructure over the next 24 months. Shippers should evaluate long-term terminal fluidities at funded regional hubs to anticipate improved container processing capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
+            "nextUpTease": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-27T20:23:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OFFSHORE: NOBLE OFFLOADS IDLE DRILLSHIP",
+            "heading": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
             "paragraphs": [
-                "U.S. offshore drilling contractor Noble Corporation has agreed to sell its 2013-built sixth-generation drillship, Noble Globetrotter II, for $38M to optimize underutilized assets. The divestment transaction is scheduled for final closure in the fourth quarter of 2026 as the firm streamlines global fleet operations.",
-                "Energy logistics providers must track asset rationalization trends among major marine drillers to anticipate shifts in specialized vessel charter rates. Offshore project managers need to secure long-term equipment commitments early to insulate supply chains from shrinking deepwater asset availability."
+                "The global containership orderbook is rapidly approaching 16M TEU, driven by a fresh wave of megamax vessel contracts booked at Asian shipyards. The current order pipeline now exceeds 15M TEU, defying carrier warnings of post-peak capacity oversupply and softening spot rates.",
+                "Carriers risk severe structural overcapacity and depressed freight rates across major East-West corridors when new tonnage delivers through 2028. Shippers negotiating multi-year ocean service contracts should leverage impending fleet expansion to secure aggressive long-term index-linked rates."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Published: 2026-10-28T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
