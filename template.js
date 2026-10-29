@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA-LB PORT STRIKE",
-        "titleBlue": "THREAT",
-        "footerSummary": "Potential Sunday labor action at LA-LB ports risks 35K container backlog surge and immediate intermodal rail paralysis across US West Coast gateways."
+        "titleWhite": "ROBINSON ACQUIRES RXO IN 5.8B",
+        "titleBlue": "DEAL",
+        "footerSummary": "C.H. Robinson's 5.8B acquisition of RXO creates an expedited logistics juggernaut, forcing enterprise shippers to re-evaluate contract rates and network capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: LA-LB PORT STRIKE THREAT",
+            "heading": "MERGERS: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
             "paragraphs": [
-                "An ILWU local has issued a formal strike threat for the ports of Los Angeles and Long Beach set to begin this Sunday, targeting North America\u2019s busiest maritime gateway. This potential stoppage occurs as a massive backlog of 35K containers already awaits intermodal rail service, creating a critical congestion point for Q4 retail inventories.",
-                "Enterprise shippers must immediately evaluate drayage alternatives or pivot high-priority freight to Pacific Northwest or East Coast ports to bypass localized shutdowns. Failure to secure secondary routing will likely result in mounting detention fees and severe delivery delays for seasonal stock."
+                "C.H. Robinson has officially agreed to acquire RXO in a massive 5.8B cash-and-stock transaction, combining two of the largest freight brokerage networks in North America. The strategic merger aggressively expands Robinson's capabilities across expedited last-mile and asset-light transport sectors, with the transaction scheduled to close in H1 2027.",
+                "Enterprise shippers must immediately review their third-party logistics allocations and contract rate structures to account for reduced vendor redundancy in the merged entity. Supply chain leaders should anticipate tighter capacity controls as the combined enterprise consolidates carrier relationships and optimizes routing footprints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: 260% CHINESE TRAILER TARIFFS",
+            "nextUpTease": "ACQUISITIONS: SCAN GLOBAL BUYS OIA GLOBAL",
             "tags": [
-                "Source: https://www.joc.com/article/ilwu-local-threatens-strike-la-lb-ports-beginning-sunday",
+                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
                 "Published: 2026-10-29T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: 260% CHINESE TRAILER TARIFFS",
+            "heading": "ACQUISITIONS: SCAN GLOBAL BUYS OIA GLOBAL",
             "paragraphs": [
-                "The U.S. Commerce Department is imposing preliminary anti-dumping duties of approximately 260% on van-type trailers imported from China to protect domestic manufacturers. This regulatory escalation aims to curb the influx of low-priced equipment that has significantly disrupted the competitive landscape for American logistics infrastructure providers.",
-                "Logistics firms relying on imported trailer fleets will face nearly triple the acquisition costs for new equipment, mandating a rapid shift toward North American-sourced hardware. Strategic procurement officers must audit their capital expenditure forecasts as equipment lead times are expected to extend due to domestic demand surges."
+                "Danish freight forwarder Scan Global Logistics has executed its largest corporate takeover to date by acquiring Portland-based forwarder OIA Global. This cross-border acquisition significantly extends Scan Global's operational reach across North American supply chain corridors and strengthens its multimodal forwarding capabilities.",
+                "Global shippers relying on regional forwarding partners will experience a shift toward consolidated global service tiers and integrated customs solutions. Organizations should audit their current forwarding agreements to leverage the expanded network scale while mitigating potential service transition bumps."
             ],
             "imageUrl": "",
-            "nextUpTease": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
+            "nextUpTease": "LABOR: LA-LB STRIKE DEADLINE DELAYED TO NOV 4",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-tariff-chinese-trailers",
-                "Published: 2026-10-28T14:30:00Z",
+                "Source: https://www.joc.com/article/strike-deadline-at-la-lb-ports-expected-to-be-delayed-to-nov-4-pma",
+                "Published: 2026-10-29T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
+            "heading": "LABOR: LA-LB STRIKE DEADLINE DELAYED TO NOV 4",
             "paragraphs": [
-                "Wallenius Wilhelmsen has finalized two massive multi-year shipping and logistics contracts valued at over $1B with a leading global equipment manufacturer. These agreements secure significant ocean transportation capacity and terminal processing services for heavy machinery, stabilizing long-term throughput for the carrier\u2019s global network.",
-                "This deal highlights the increasing premium on secured capacity within the Ro-Ro sector as manufacturers seek to mitigate future shipping volatility through long-term lock-ins. Shippers without similar long-term commitments may find themselves facing reduced spot market availability and elevated premium pricing for heavy equipment transport."
+                "The Pacific Maritime Association and security personnel represented by ILWU Local 26 are finalizing a short extension that pushes the potential strike deadline at Los Angeles and Long Beach ports to Nov 4. This temporary reprieve provides a narrow window for negotiators to resolve security disputes at North America's busiest maritime complex.",
+                "Supply chain planners must utilize this extended timeline to accelerate peak season inventory clearance and divert high-priority intermodal shipments away from West Coast gateways. Failure to maintain contingency routing could still trigger severe terminal congestion if final labor agreements stall."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: YIELDS LAG BEHIND FUEL COSTS",
+            "nextUpTease": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
             "tags": [
-                "Source: https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
-                "Published: 2026-10-29T06:00:00Z",
+                "Source: https://www.joc.com/article/strike-deadline-at-la-lb-ports-expected-to-be-delayed-to-nov-4-pma",
+                "Published: 2026-10-29T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR: YIELDS LAG BEHIND FUEL COSTS",
+            "heading": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
             "paragraphs": [
-                "Global air cargo yields have failed to keep pace with rising jet fuel prices, placing extreme economic pressure on freighter operators despite strong volume growth in Q3. Market data indicates that fuel surcharges are currently insufficient to cover the delta in operational overhead, threatening the profitability of long-haul freighter loops.",
-                "Aviation logistics planners should anticipate a wave of emergency fuel surcharge adjustments or reduced frequencies on less profitable trans-Pacific and Asia-Europe routes. Freight forwarders must prepare clients for higher landed costs as carriers prioritize margin protection over market share expansion."
+                "Boluda Shipping has reached an agreement to acquire Samskip, marking another major milestone in the rapid consolidation of European shortsea shipping markets. The combined entity aims to streamline intra-European maritime trade lanes and optimize vessel utilization across congested North Sea and Atlantic corridors.",
+                "Regional cargo owners should prepare for tighter slot allocations and revised shortsea tariff structures as carrier consolidation limits independent operator choices. Shippers must evaluate long-term service contracts to protect transit schedules and secure reliable feeder connections."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
+            "nextUpTease": "REGULATORY: FMCSA REMOVES 10K TRAINING PROVIDERS",
             "tags": [
-                "Source: https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
-                "Published: 2026-10-29T09:15:00Z",
+                "Source: https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/",
+                "Published: 2026-10-29T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
+            "heading": "REGULATORY: FMCSA REMOVES 10K TRAINING PROVIDERS",
             "paragraphs": [
-                "The U.S. Coast Guard has implemented strict new security conditions for commercial vessels entering American waters after calling at Somali ports due to inadequate security standards. Affected vessels must now perform comprehensive security audits and maintain 24/7 armed watches while in port to avoid denial of entry into U.S. territory.",
-                "This regulatory tightening adds significant administrative and operational friction to East African trade lanes, likely increasing transit times and security-related overhead for regional carriers. Shippers must verify the recent port history of their assigned vessels to prevent unexpected customs holds or entry refusals at U.S. discharge points."
+                "The Federal Motor Carrier Safety Administration has purged over 10K driver training providers from its registry in an aggressive nationwide push to enforce commercial driver safety standards. This sweeping administrative action targets substandard training institutions to ensure compliance with federal licensing mandates.",
+                "Fleet operators face an intensifying driver talent crunch as accredited training pipelines narrow, driving up recruitment costs and onboarding timelines for new CDL holders. Motor carriers must recalibrate driver acquisition strategies and audit internal hiring compliance to avoid regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
+            "nextUpTease": "RETAIL: 43% OF SHOPPERS SPEND MORE THIS PEAK",
             "tags": [
-                "Source: https://splash247.com/us-tightens-entry-rules-for-ships-calling-at-somali-ports/",
-                "Published: 2026-10-29T10:45:00Z",
+                "Source: https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
+                "Published: 2026-10-29T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
+            "heading": "RETAIL: 43% OF SHOPPERS SPEND MORE THIS PEAK",
             "paragraphs": [
-                "The 32K DWT bulker Sigma Pearl has run aground on India\u2019s eastern coast after being driven ashore by a severe cyclone in the Bay of Bengal. The incident occurred during an attempted emergency departure to outrun the storm, highlighting the extreme risks posed by late-season weather patterns to regional bulk shipping.",
-                "This grounding disrupts regional maritime traffic and potentially triggers environmental salvage protocols that could close local terminal access for several days. Marine insurance experts expect a surge in claims related to heavy weather damage as carriers navigate increasingly volatile climate conditions in the Indian Ocean."
+                "Recent market data compiled by Kenco reveals that 43% of consumers plan to increase their spending during the upcoming peak retail season despite ongoing economic headwinds. This consumer resilience is driving unexpected inventory velocity across e-commerce fulfillment centers and last-mile delivery networks.",
+                "Supply chain executives must stress-test warehouse automation and inventory staging parameters to prevent late-season fulfillment bottlenecks and excessive return rates. Brands failing to align logistics capacity with heightened consumer demand risk costly stockouts and eroded brand loyalty."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
+            "nextUpTease": "AIR: YIELDS LAG BEHIND FUEL COSTS",
             "tags": [
-                "Source: https://maritime-executive.com/article/bulker-grounds-as-severe-cyclone-comes-ashore-in-india",
-                "Published: 2026-10-28T19:05:00Z",
+                "Source: https://www.freightwaves.com/news/43-of-shoppers-plan-to-spend-more-this-peak-kenco-finds",
+                "Published: 2026-10-29T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
+            "heading": "AIR: YIELDS LAG BEHIND FUEL COSTS",
             "paragraphs": [
-                "Strategic planners have announced a transition to year-round Arctic shipping along the Northern Sea Route starting in 2027, supported by a new fleet of nuclear-powered icebreakers. This initiative aims to establish a permanent eastbound corridor to Asia, potentially reducing transit times between Europe and the East by up to 40% compared to Suez Canal routes.",
-                "While the route offers significant time savings, the operational costs and environmental compliance requirements for Arctic-class vessels remain substantial. Logistics architects should monitor this development as it represents a long-term structural shift in global trade lane geometry and vessel design requirements."
+                "Global air cargo analyses from Rotate indicate that airfreight yields continue to lag behind surging jet fuel prices, squeezing freighter operating margins despite robust volume growth. Operators are struggling to offset rising fuel overhead through standard surcharges, threatening the financial viability of key long-haul routes.",
+                "Air cargo shippers should anticipate sudden rate adjustments and potential capacity reductions on major trans-Pacific trade lanes as airlines prioritize profitability. Forwarders must secure guaranteed block-space agreements early to shield clients from volatile spot market price spikes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/40212-russia-plans-for-year-round-arctic-shipping-in-2027",
-                "Published: 2026-10-28T11:00:00Z",
+                "Source: https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
+                "Published: 2026-10-29T09:15:00Z",
                 "Status: Audited & True"
             ]
         }
