@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "COMMERCE TARIFFS CHINESE TRAILERS",
+        "hookTitle": "OIL PRICES SURGE AFTER REFINERY ATTACK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: COMMERCE TARIFFS CHINESE TRAILERS",
-                "teaserTitle": "SHIPPING: LUNAR NEW YEAR RUSH",
+                "headline": "ENERGY: OIL PRICES SURGE AFTER REFINERY ATTACK",
+                "teaserTitle": "ACQUISITION: GLOBAL LOGISTICS BUYS OIA",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Commerce Department imposes two hundred sixty percent tariffs on dumped Chinese trailers. Motor carriers face immediate capital cost escalations and constrained domestic equipment availability."
+                "narration_line": "Brent crude jumped two point seven percent to one hundred twelve dollars per barrel following a Houthi drone strike on Saudi Arabia's Ras Tanura refinery. This kinetic disruption immediately inflates bunker fuel surcharges across major maritime trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "SHIPPING: LUNAR NEW YEAR RUSH",
-                "teaserTitle": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
+                "headline": "M&A: GLOBAL LOGISTICS BUYS OIA",
+                "teaserTitle": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Seko Logistics urges shippers to confirm ocean bookings four weeks early for the upcoming Lunar New Year. Early demand spikes threaten rolling cargo and severe spot freight premium increases."
+                "narration_line": "Scan Global Logistics agreed to acquire OIA Global in a strategic move expanding its North American footprint. Shippers must audit vendor portfolios to ensure contract performance."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
-                "teaserTitle": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
+                "headline": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+                "teaserTitle": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The global containership orderbook is rapidly approaching sixteen million TEU amid heavy newbuilding contracts. This massive fleet expansion threatens severe structural overcapacity across major trade corridors."
+                "narration_line": "FedEx raised its full-year guidance, signaling strong volume momentum heading into peak holiday shipping. E-commerce retailers should lock in carrier commitments early."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
-                "teaserTitle": "LABOR: PORT STRIKE THREAT IN LA-LB",
+                "headline": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+                "teaserTitle": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "IFS Softeon introduces new artificial intelligence capabilities to coordinate complex warehouse data flows. Distribution centers can optimize inventory routing to overcome persistent labor constraints."
+                "narration_line": "Equinor reported that its Empire Wind project is delayed due to constraints in U.S. domestic shipbuilding. Project planners must factor yard bottlenecks into capital timelines."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: PORT STRIKE THREAT IN LA-LB",
-                "teaserTitle": "REGULATION: FMC TARIFF AND EMPTY RULES",
+                "headline": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+                "teaserTitle": "SECURITY: BULGARIAN SHIP STRUCK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A looming security worker strike threatens operations across the Los Angeles and Long Beach port complex. Thirty-five thousand containers await rail service, compounding severe terminal dwell times."
+                "narration_line": "Boluda Shipping agreed to acquire Samskip, forming a network of thirty-two vessels across eighteen routes. Regional shippers gain enhanced multimodal connectivity across Europe."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: FMC TARIFF AND EMPTY RULES",
-                "teaserTitle": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+                "headline": "SECURITY: BULGARIAN SHIP STRUCK",
+                "teaserTitle": "RAIL: CONTAINER BACKLOG AT LA-LB",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "East Coast drayage carriers petition the Federal Maritime Commission for enforceable empty container standards. New rules would shift equipment management responsibilities directly onto ocean carriers."
+                "narration_line": "A commercial ship was struck off Bulgaria, prompting a naval rescue and emergency security talks. Cargo owners must account for elevated war risk insurance premiums."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+                "headline": "INTERMODAL: CONTAINER BACKLOG AT LA-LB",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "SolitAir launches dedicated cargo flights to Bulgaria and Romania using Boeing freighters. Shippers gain alternative uplift capacity into Eastern European consumer markets."
+                "narration_line": "Thirty-five thousand containers await rail service at Los Angeles and Long Beach amid strike threats. Logistics executives must establish contingency routing through secondary ports."
             },
             {
                 "slide_index": 8,

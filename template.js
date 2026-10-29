@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "COMMERCE TARIFFS CHINESE",
-        "titleBlue": "TRAILERS",
-        "footerSummary": "The U.S. Commerce Department imposes 260% tariffs on dumped Chinese trailers while early Lunar New Year demands 4-week booking buffers."
+        "titleWhite": "OIL PRICES SURGE AFTER REFINERY",
+        "titleBlue": "ATTACK",
+        "footerSummary": "Brent crude jumps 2.7% to $112.39 per barrel following a Houthi strike on Saudi Arabia\u2019s Ras Tanura refinery complex."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: COMMERCE TARIFFS CHINESE TRAILERS",
+            "heading": "ENERGY: OIL PRICES SURGE AFTER REFINERY ATTACK",
             "paragraphs": [
-                "The U.S. Commerce Department is imposing tariffs of about 260% on van-type trailers imported from China after finding they were being unfairly dumped into the domestic market. This aggressive trade enforcement action aims to protect local equipment manufacturers struggling to compete against subsidized foreign pricing.",
-                "Fleet operators and motor carriers relying on imported dry vans face immediate capital cost escalations and constrained equipment availability. Procurement teams must diversify their trailer sourcing strategies toward domestic or alternative manufacturing corridors to preserve fleet expansion budgets."
+                "Global crude benchmarks rose sharply as Brent crude climbed 2.7% to reach $112.39 a barrel following a disruptive drone and missile strike by Houthi rebels on Saudi Arabia\u2019s massive Ras Tanura refining complex. Open source intelligence analysts and satellite imagery confirmed that a key cracking unit within the 550K barrels per day export facility was hit and operations curtailed.",
+                "This kinetic disruption immediately inflates bunker fuel surcharges and exacerbates supply risks for maritime carriers traversing critical Middle Eastern trade lanes. Logistics operators must prepare for prolonged volatility in maritime transport costs and reevaluate bunker adjustment factors across their main service loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPPING: LUNAR NEW YEAR RUSH",
+            "nextUpTease": "ACQUISITION: GLOBAL LOGISTICS BUYS OIA",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-10-28T00:00:00Z",
@@ -23,58 +23,13 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SHIPPING: LUNAR NEW YEAR RUSH",
+            "heading": "M&A: GLOBAL LOGISTICS BUYS OIA",
             "paragraphs": [
-                "Seko Logistics is urgently advising BCOs sourcing from China to bring forward purchase orders and confirm ocean bookings at least 4 weeks ahead of schedule due to an early Lunar New Year. This compressed cargo window threatens to ignite peak-season volume spikes across major trans-Pacific trade lanes weeks ahead of traditional schedules.",
-                "Shippers failing to secure early allocations risk severe rolling, equipment shortages, and elevated spot freight premiums as export terminals fill up. Supply chain directors must recalibrate safety stock thresholds and lock in forward vessel commitments immediately to maintain inventory continuity."
+                "Scan Global Logistics has finalized an agreement to acquire Portland, Oregon-based OIA Global in a strategic transaction designed to expand its footprint across North American forwarding and supply chain networks. This consolidation brings together comprehensive warehousing, freight forwarding, and value-added logistics services under an expanded unified operating umbrella.",
+                "Shippers utilizing these merged forwarding networks should monitor integration milestones closely to prevent service disruptions and maintain seamless vendor execution. Strategic consolidations of this scale require logistics directors to audit their third-party provider portfolios to ensure uninterrupted contract performance and stable pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-10-28T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
-            "paragraphs": [
-                "The global containership orderbook is rapidly expanding toward 16M TEU as ocean carriers continue their aggressive vessel ordering spree, surpassing the recent 15M TEU milestone. This continuous inflow of mega-max newbuildings highlights carrier optimism despite persistent warnings of impending post-peak capacity oversupply.",
-                "While current vessel deliveries support fleet modernization and emission compliance, they threaten severe structural oversupply across major east-west corridors by 2028. Shippers negotiating multi-year ocean service contracts should leverage this expanding fleet capacity to secure favorable long-term index-linked rates."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-10-28T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
-            "paragraphs": [
-                "IFS Softeon has announced the release of Fulfillment Flow, a new artificial intelligence capability designed to coordinate complex warehouse data and streamline automated operations. The software bridges critical visibility gaps by consolidating fragmented reporting streams into unified execution workflows.",
-                "Distribution center operators facing acute labor constraints and surging volume volatility can deploy this technology to optimize inventory routing and labor allocation. Implementing real-time warehouse orchestration tools is essential to reducing friction costs and meeting tightening service level agreements."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LABOR: PORT STRIKE THREAT IN LA-LB",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-27T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "LABOR: PORT STRIKE THREAT IN LA-LB",
-            "paragraphs": [
-                "A looming strike threat by port security workers across the Los Angeles and Long Beach gateway threatens operational continuity at America's busiest container complex. Concurrently, an escalating backlog of 35K containers awaits intermodal rail service, compounding dwell times across Southern California terminals.",
-                "Marine terminal gate disruptions and rail bottlenecks force drayage operators to absorb heavy detention charges and severe schedule delays. Logistics planners must establish contingency routing through secondary West Coast ports or pivot freight to expedited over-the-road transport."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC TARIFF AND EMPTY RULES",
+            "nextUpTease": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-10-28T00:00:00Z",
@@ -82,31 +37,76 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "REGULATION: FMC TARIFF AND EMPTY RULES",
+            "id": 3,
+            "heading": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
             "paragraphs": [
-                "A stakeholder group of East Coast drayage carriers has formally petitioned the Federal Maritime Commission for strict rulemaking governing empty container returns and equipment management. The proposed regulations seek to shift greater operational and financial responsibility onto ocean carriers for managing container positioning.",
-                "Enforceable standards for empty return handling would provide much-needed cost relief and predictability for motor carriers operating around major port gateways. Logistics executives should monitor upcoming FMC proceedings closely to anticipate shifts in equipment liability and detention fee enforcement."
+                "FedEx has officially raised its full-year profit and sales guidance, signaling strong early volume momentum and resilient consumer demand heading into the crucial peak holiday shipping season. This optimistic outlook reflects disciplined yield management and stable operational execution across domestic ground and air networks despite broader economic crosswinds.",
+                "E-commerce retailers and enterprise shippers can take confidence from carrier capacity readiness, though they must maintain strict adherence to peak surcharge schedules. Supply chain managers should lock in carrier volume commitments early to avoid last-minute capacity crunches and surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+            "nextUpTease": "AVIATION: EQUINOR BLAMES WIND DELAYS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-10-28T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+            "paragraphs": [
+                "Norwegian energy major Equinor announced that its 80% complete Empire Wind project off the coast of New York is running behind schedule and now expects first power delivery by mid-2027. The company explicitly blamed persistent delays in U.S. domestic shipbuilding and fabrication infrastructure that remain entirely outside of its direct operational control.",
+                "This delay underscores ongoing structural bottlenecks within American maritime manufacturing and heavy industrial supply chains supporting offshore clean energy. Project logistics planners must factor extended vessel availability windows and domestic yard constraints into their capital expenditure timelines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MERGER: BOLUDA TO ACQUIRE SAMSKIP",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-28T06:27:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+            "paragraphs": [
+                "Spanish shortsea specialist Boluda Shipping has reached a definitive agreement to acquire Icelandic carrier Samskip, creating an expanded network operating 32 vessels across 18 routes spanning 28 countries. Slated for completion on January 1, the merger will integrate 21 container terminals and form one of Europe's most comprehensive independent shortsea networks.",
+                "BCOs and regional shippers gain enhanced multimodal connectivity between Northern Europe and West Africa, driving improved transit reliability and route flexibility. Logistics managers should evaluate how this expanded terminal and vessel footprint can optimize their European shortsea distribution strategies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORT SECURITY: BULGARIAN SHIP STRUCK",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-10-28T17:55:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SECURITY: BULGARIAN SHIP STRUCK",
+            "paragraphs": [
+                "A Greek-owned commercial containership operating a route for Zim was struck off the coast of Bulgaria in the western Black Sea, prompting a rapid rescue operation by the Bulgarian Navy. This incident occurred concurrently with an emergency security summit where ministers from Bulgaria, Romania, and Turkey convened to coordinate defensive measures for regional maritime infrastructure.",
+                "Heightened kinetic risks across Black Sea shipping lanes mandate immediate route risk assessments and contingency planning for all regional vessel charters. Cargo owners must account for elevated war risk insurance premiums and potential transit delays when routing goods through Eastern European maritime corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAIL: CONTAINER BACKLOG AT LA-LB",
+            "tags": [
+                "Source: https://maritime-executive.com",
                 "Published: 2026-10-28T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+            "heading": "INTERMODAL: CONTAINER BACKLOG AT LA-LB",
             "paragraphs": [
-                "Dubai-based carrier SolitAir has launched dedicated cargo service to Sofia and Bucharest, marking its first scheduled European Union destinations utilizing its Boeing 737-800 freighter fleet. This network expansion enhances regional connectivity across 56 international routes spanning 34 countries.",
-                "Freight forwarders and air cargo shippers gain valuable alternative uplift capacity for moving time-sensitive goods into Eastern European markets. Forward-thinking supply chain managers should integrate these new routes into their European distribution networks to hedge against traditional hub congestion."
+                "A growing backlog of 35K containers is awaiting intermodal rail service at the ports of Los Angeles and Long Beach, compounding dwell times and straining marine terminal capacity. Concurrently, port security workers have threatened a localized strike starting Sunday, threatening operational continuity at North America's largest gateway.",
+                "Intermodal rail delays and looming labor disputes force drayage operators to absorb heavy detention charges and severe schedule disruptions. Supply chain executives must establish contingency routing through secondary West Coast ports or pivot freight to expedited over-the-road transport immediately."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-10-28T00:00:00Z",
                 "Status: Audited & True"
             ]

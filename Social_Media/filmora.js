@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: COMMERCE TARIFFS CHINESE TRAILERS",
-                "teaserTitle": "SHIPPING: LUNAR NEW YEAR RUSH",
-                "visual_caption": "The U.S. Commerce Department imposes 260% tariffs on dumped Chinese trailers. Motor carriers face immediate capital cost escalations and constrained equipment availability."
+                "headline": "ENERGY: OIL PRICES SURGE AFTER REFINERY ATTACK",
+                "teaserTitle": "ACQUISITION: GLOBAL LOGISTICS BUYS OIA",
+                "visual_caption": "Brent crude rose 2.7% to $112.39 per barrel following a Houthi strike on Saudi Arabia's Ras Tanura refinery complex. This kinetic disruption immediately inflates bunker fuel surcharges across major maritime trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "SHIPPING: LUNAR NEW YEAR RUSH",
-                "teaserTitle": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
-                "visual_caption": "Seko Logistics urges shippers to confirm ocean bookings 4 weeks early for Lunar New Year. Early demand spikes threaten cargo rolling and spot premium increases."
+                "headline": "M&A: GLOBAL LOGISTICS BUYS OIA",
+                "teaserTitle": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+                "visual_caption": "Scan Global Logistics agreed to acquire OIA Global in a strategic transaction expanding its North American footprint. Shippers must audit vendor portfolios to ensure contract performance."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
-                "teaserTitle": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
-                "visual_caption": "The global containership orderbook is rapidly approaching 16M TEU amid heavy contracting. This massive fleet expansion threatens severe structural overcapacity by 2028."
+                "headline": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+                "teaserTitle": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+                "visual_caption": "FedEx raised its full-year guidance, signaling strong volume momentum heading into peak holiday shipping. E-commerce retailers should lock in carrier commitments early."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
-                "teaserTitle": "LABOR: PORT STRIKE THREAT IN LA-LB",
-                "visual_caption": "IFS Softeon introduces new AI capabilities to coordinate complex warehouse data flows. Distribution centers can optimize inventory routing to overcome labor constraints."
+                "headline": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+                "teaserTitle": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+                "visual_caption": "Equinor reported that its Empire Wind project is delayed due to constraints in U.S. domestic shipbuilding. Project planners must factor yard bottlenecks into capital timelines."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: PORT STRIKE THREAT IN LA-LB",
-                "teaserTitle": "REGULATION: FMC TARIFF AND EMPTY RULES",
-                "visual_caption": "A looming security worker strike threatens operations across the LA-LB port complex. Over 35K containers await rail service, compounding severe terminal dwell times."
+                "headline": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+                "teaserTitle": "SECURITY: BULGARIAN SHIP STRUCK",
+                "visual_caption": "Boluda Shipping agreed to acquire Samskip, forming a network of 32 ships on 18 routes. Regional shippers gain enhanced multimodal connectivity across Europe."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: FMC TARIFF AND EMPTY RULES",
-                "teaserTitle": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
-                "visual_caption": "East Coast drayage carriers petition the FMC for enforceable empty container standards. New rules would shift equipment management responsibilities onto ocean carriers."
+                "headline": "SECURITY: BULGARIAN SHIP STRUCK",
+                "teaserTitle": "RAIL: CONTAINER BACKLOG AT LA-LB",
+                "visual_caption": "A commercial ship was struck off Bulgaria, prompting a naval rescue and emergency security talks. Cargo owners must account for elevated war risk insurance premiums."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+                "headline": "INTERMODAL: CONTAINER BACKLOG AT LA-LB",
                 "teaserTitle": "",
-                "visual_caption": "SolitAir launches dedicated cargo flights to Bulgaria and Romania using Boeing freighters. Shippers gain alternative uplift capacity into Eastern European markets."
+                "visual_caption": "35K containers await rail service at LA-LB amid port security strike threats. Logistics executives must establish contingency routing through secondary ports."
             },
             {
                 "slide_index": 8,
