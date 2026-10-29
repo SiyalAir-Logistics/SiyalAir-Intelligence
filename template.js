@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OIL PRICES SURGE AFTER REFINERY",
-        "titleBlue": "ATTACK",
-        "footerSummary": "Brent crude jumps 2.7% to $112.39 per barrel following a Houthi strike on Saudi Arabia\u2019s Ras Tanura refinery complex."
+        "titleWhite": "LA-LB PORT STRIKE",
+        "titleBlue": "THREAT",
+        "footerSummary": "Potential Sunday labor action at LA-LB ports risks 35K container backlog surge and immediate intermodal rail paralysis across US West Coast gateways."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY: OIL PRICES SURGE AFTER REFINERY ATTACK",
+            "heading": "LABOR: LA-LB PORT STRIKE THREAT",
             "paragraphs": [
-                "Global crude benchmarks rose sharply as Brent crude climbed 2.7% to reach $112.39 a barrel following a disruptive drone and missile strike by Houthi rebels on Saudi Arabia\u2019s massive Ras Tanura refining complex. Open source intelligence analysts and satellite imagery confirmed that a key cracking unit within the 550K barrels per day export facility was hit and operations curtailed.",
-                "This kinetic disruption immediately inflates bunker fuel surcharges and exacerbates supply risks for maritime carriers traversing critical Middle Eastern trade lanes. Logistics operators must prepare for prolonged volatility in maritime transport costs and reevaluate bunker adjustment factors across their main service loops."
+                "An ILWU local has issued a formal strike threat for the ports of Los Angeles and Long Beach set to begin this Sunday, targeting North America\u2019s busiest maritime gateway. This potential stoppage occurs as a massive backlog of 35K containers already awaits intermodal rail service, creating a critical congestion point for Q4 retail inventories.",
+                "Enterprise shippers must immediately evaluate drayage alternatives or pivot high-priority freight to Pacific Northwest or East Coast ports to bypass localized shutdowns. Failure to secure secondary routing will likely result in mounting detention fees and severe delivery delays for seasonal stock."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITION: GLOBAL LOGISTICS BUYS OIA",
+            "nextUpTease": "TRADE: 260% CHINESE TRAILER TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://www.joc.com/article/ilwu-local-threatens-strike-la-lb-ports-beginning-sunday",
+                "Published: 2026-10-29T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: GLOBAL LOGISTICS BUYS OIA",
+            "heading": "TRADE: 260% CHINESE TRAILER TARIFFS",
             "paragraphs": [
-                "Scan Global Logistics has finalized an agreement to acquire Portland, Oregon-based OIA Global in a strategic transaction designed to expand its footprint across North American forwarding and supply chain networks. This consolidation brings together comprehensive warehousing, freight forwarding, and value-added logistics services under an expanded unified operating umbrella.",
-                "Shippers utilizing these merged forwarding networks should monitor integration milestones closely to prevent service disruptions and maintain seamless vendor execution. Strategic consolidations of this scale require logistics directors to audit their third-party provider portfolios to ensure uninterrupted contract performance and stable pricing."
+                "The U.S. Commerce Department is imposing preliminary anti-dumping duties of approximately 260% on van-type trailers imported from China to protect domestic manufacturers. This regulatory escalation aims to curb the influx of low-priced equipment that has significantly disrupted the competitive landscape for American logistics infrastructure providers.",
+                "Logistics firms relying on imported trailer fleets will face nearly triple the acquisition costs for new equipment, mandating a rapid shift toward North American-sourced hardware. Strategic procurement officers must audit their capital expenditure forecasts as equipment lead times are expected to extend due to domestic demand surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+            "nextUpTease": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/us-tariff-chinese-trailers",
+                "Published: 2026-10-28T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+            "heading": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
             "paragraphs": [
-                "FedEx has officially raised its full-year profit and sales guidance, signaling strong early volume momentum and resilient consumer demand heading into the crucial peak holiday shipping season. This optimistic outlook reflects disciplined yield management and stable operational execution across domestic ground and air networks despite broader economic crosswinds.",
-                "E-commerce retailers and enterprise shippers can take confidence from carrier capacity readiness, though they must maintain strict adherence to peak surcharge schedules. Supply chain managers should lock in carrier volume commitments early to avoid last-minute capacity crunches and surcharges."
+                "Wallenius Wilhelmsen has finalized two massive multi-year shipping and logistics contracts valued at over $1B with a leading global equipment manufacturer. These agreements secure significant ocean transportation capacity and terminal processing services for heavy machinery, stabilizing long-term throughput for the carrier\u2019s global network.",
+                "This deal highlights the increasing premium on secured capacity within the Ro-Ro sector as manufacturers seek to mitigate future shipping volatility through long-term lock-ins. Shippers without similar long-term commitments may find themselves facing reduced spot market availability and elevated premium pricing for heavy equipment transport."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: EQUINOR BLAMES WIND DELAYS",
+            "nextUpTease": "AIR: YIELDS LAG BEHIND FUEL COSTS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
+                "Published: 2026-10-29T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+            "heading": "AIR: YIELDS LAG BEHIND FUEL COSTS",
             "paragraphs": [
-                "Norwegian energy major Equinor announced that its 80% complete Empire Wind project off the coast of New York is running behind schedule and now expects first power delivery by mid-2027. The company explicitly blamed persistent delays in U.S. domestic shipbuilding and fabrication infrastructure that remain entirely outside of its direct operational control.",
-                "This delay underscores ongoing structural bottlenecks within American maritime manufacturing and heavy industrial supply chains supporting offshore clean energy. Project logistics planners must factor extended vessel availability windows and domestic yard constraints into their capital expenditure timelines."
+                "Global air cargo yields have failed to keep pace with rising jet fuel prices, placing extreme economic pressure on freighter operators despite strong volume growth in Q3. Market data indicates that fuel surcharges are currently insufficient to cover the delta in operational overhead, threatening the profitability of long-haul freighter loops.",
+                "Aviation logistics planners should anticipate a wave of emergency fuel surcharge adjustments or reduced frequencies on less profitable trans-Pacific and Asia-Europe routes. Freight forwarders must prepare clients for higher landed costs as carriers prioritize margin protection over market share expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "MERGER: BOLUDA TO ACQUIRE SAMSKIP",
+            "nextUpTease": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-10-28T06:27:00Z",
+                "Source: https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
+                "Published: 2026-10-29T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+            "heading": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
             "paragraphs": [
-                "Spanish shortsea specialist Boluda Shipping has reached a definitive agreement to acquire Icelandic carrier Samskip, creating an expanded network operating 32 vessels across 18 routes spanning 28 countries. Slated for completion on January 1, the merger will integrate 21 container terminals and form one of Europe's most comprehensive independent shortsea networks.",
-                "BCOs and regional shippers gain enhanced multimodal connectivity between Northern Europe and West Africa, driving improved transit reliability and route flexibility. Logistics managers should evaluate how this expanded terminal and vessel footprint can optimize their European shortsea distribution strategies."
+                "The U.S. Coast Guard has implemented strict new security conditions for commercial vessels entering American waters after calling at Somali ports due to inadequate security standards. Affected vessels must now perform comprehensive security audits and maintain 24/7 armed watches while in port to avoid denial of entry into U.S. territory.",
+                "This regulatory tightening adds significant administrative and operational friction to East African trade lanes, likely increasing transit times and security-related overhead for regional carriers. Shippers must verify the recent port history of their assigned vessels to prevent unexpected customs holds or entry refusals at U.S. discharge points."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SECURITY: BULGARIAN SHIP STRUCK",
+            "nextUpTease": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-10-28T17:55:00Z",
+                "Source: https://splash247.com/us-tightens-entry-rules-for-ships-calling-at-somali-ports/",
+                "Published: 2026-10-29T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: BULGARIAN SHIP STRUCK",
+            "heading": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
             "paragraphs": [
-                "A Greek-owned commercial containership operating a route for Zim was struck off the coast of Bulgaria in the western Black Sea, prompting a rapid rescue operation by the Bulgarian Navy. This incident occurred concurrently with an emergency security summit where ministers from Bulgaria, Romania, and Turkey convened to coordinate defensive measures for regional maritime infrastructure.",
-                "Heightened kinetic risks across Black Sea shipping lanes mandate immediate route risk assessments and contingency planning for all regional vessel charters. Cargo owners must account for elevated war risk insurance premiums and potential transit delays when routing goods through Eastern European maritime corridors."
+                "The 32K DWT bulker Sigma Pearl has run aground on India\u2019s eastern coast after being driven ashore by a severe cyclone in the Bay of Bengal. The incident occurred during an attempted emergency departure to outrun the storm, highlighting the extreme risks posed by late-season weather patterns to regional bulk shipping.",
+                "This grounding disrupts regional maritime traffic and potentially triggers environmental salvage protocols that could close local terminal access for several days. Marine insurance experts expect a surge in claims related to heavy weather damage as carriers navigate increasingly volatile climate conditions in the Indian Ocean."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CONTAINER BACKLOG AT LA-LB",
+            "nextUpTease": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://maritime-executive.com/article/bulker-grounds-as-severe-cyclone-comes-ashore-in-india",
+                "Published: 2026-10-28T19:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: CONTAINER BACKLOG AT LA-LB",
+            "heading": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
             "paragraphs": [
-                "A growing backlog of 35K containers is awaiting intermodal rail service at the ports of Los Angeles and Long Beach, compounding dwell times and straining marine terminal capacity. Concurrently, port security workers have threatened a localized strike starting Sunday, threatening operational continuity at North America's largest gateway.",
-                "Intermodal rail delays and looming labor disputes force drayage operators to absorb heavy detention charges and severe schedule disruptions. Supply chain executives must establish contingency routing through secondary West Coast ports or pivot freight to expedited over-the-road transport immediately."
+                "Strategic planners have announced a transition to year-round Arctic shipping along the Northern Sea Route starting in 2027, supported by a new fleet of nuclear-powered icebreakers. This initiative aims to establish a permanent eastbound corridor to Asia, potentially reducing transit times between Europe and the East by up to 40% compared to Suez Canal routes.",
+                "While the route offers significant time savings, the operational costs and environmental compliance requirements for Arctic-class vessels remain substantial. Logistics architects should monitor this development as it represents a long-term structural shift in global trade lane geometry and vessel design requirements."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-10-28T00:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40212-russia-plans-for-year-round-arctic-shipping-in-2027",
+                "Published: 2026-10-28T11:00:00Z",
                 "Status: Audited & True"
             ]
         }

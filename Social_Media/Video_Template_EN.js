@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "OIL PRICES SURGE AFTER REFINERY ATTACK",
+        "hookTitle": "LA-LB PORT STRIKE THREAT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ENERGY: OIL PRICES SURGE AFTER REFINERY ATTACK",
-                "teaserTitle": "ACQUISITION: GLOBAL LOGISTICS BUYS OIA",
+                "headline": "LABOR: LA-LB PORT STRIKE THREAT",
+                "teaserTitle": "TRADE: 260% CHINESE TRAILER TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Brent crude jumped two point seven percent to one hundred twelve dollars per barrel following a Houthi drone strike on Saudi Arabia's Ras Tanura refinery. This kinetic disruption immediately inflates bunker fuel surcharges across major maritime trade lanes."
+                "narration_line": "A strike threat at the ports of Los Angeles and Long Beach is set for Sunday. This action targets the busiest U.S. gateway while thirty five thousand containers await rail service."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: GLOBAL LOGISTICS BUYS OIA",
-                "teaserTitle": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
+                "headline": "TRADE: 260% CHINESE TRAILER TARIFFS",
+                "teaserTitle": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Scan Global Logistics agreed to acquire OIA Global in a strategic move expanding its North American footprint. Shippers must audit vendor portfolios to ensure contract performance."
+                "narration_line": "The United States is imposing two hundred and sixty percent tariffs on Chinese van trailers. This move forces shippers to pivot toward North American equipment and rethink capital expenditure budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL: FEDEX LIFTS HOLIDAY FORECAST",
-                "teaserTitle": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
+                "headline": "REVENUE: WALLENIUS WILHELMSEN $1B CONTRACTS",
+                "teaserTitle": "AIR: YIELDS LAG BEHIND FUEL COSTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FedEx raised its full-year guidance, signaling strong volume momentum heading into peak holiday shipping. E-commerce retailers should lock in carrier commitments early."
+                "narration_line": "Wallenius Wilhelmsen secured new logistics contracts worth over one billion dollars. These multi year deals lock in massive ocean capacity for global heavy equipment manufacturers through twenty twenty nine."
             },
             {
                 "slide_index": 4,
-                "headline": "RENEWABLES: EQUINOR BLAMES WIND DELAYS",
-                "teaserTitle": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+                "headline": "AIR: YIELDS LAG BEHIND FUEL COSTS",
+                "teaserTitle": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Equinor reported that its Empire Wind project is delayed due to constraints in U.S. domestic shipbuilding. Project planners must factor yard bottlenecks into capital timelines."
+                "narration_line": "Air cargo yields are currently failing to cover rising jet fuel prices. Operators may soon implement emergency surcharges to protect margins as operational overhead outpaces current market rates."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
-                "teaserTitle": "SECURITY: BULGARIAN SHIP STRUCK",
+                "headline": "COMPLIANCE: US TIGHTENS SOMALI PORT RULES",
+                "teaserTitle": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Boluda Shipping agreed to acquire Samskip, forming a network of thirty-two vessels across eighteen routes. Regional shippers gain enhanced multimodal connectivity across Europe."
+                "narration_line": "The Coast Guard has tightened entry rules for any ships that called at Somali ports. Vessels must now maintain armed watches and pass strict security audits before entering American waters."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: BULGARIAN SHIP STRUCK",
-                "teaserTitle": "RAIL: CONTAINER BACKLOG AT LA-LB",
+                "headline": "MARITIME: SIGMA PEARL GROUNDS IN CYCLONE",
+                "teaserTitle": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A commercial ship was struck off Bulgaria, prompting a naval rescue and emergency security talks. Cargo owners must account for elevated war risk insurance premiums."
+                "narration_line": "A thirty two thousand ton bulk carrier ran aground in India during a severe cyclone. This grounding disrupts regional traffic and highlights increasing weather risks for Indian Ocean trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: CONTAINER BACKLOG AT LA-LB",
-                "teaserTitle": "",
+                "headline": "INFRASTRUCTURE: ARCTIC YEAR-ROUND SHIPPING 2027",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Thirty-five thousand containers await rail service at Los Angeles and Long Beach amid strike threats. Logistics executives must establish contingency routing through secondary ports."
+                "narration_line": "Plans for year round Arctic shipping are accelerating with a launch set for twenty twenty seven. This new corridor could reduce transit times to Asia by up to forty percent."
             },
             {
                 "slide_index": 8,
