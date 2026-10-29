@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "WATCHMEN THREATEN LA-LB SHUTDOWN",
+        "hookTitle": "COMMERCE TARIFFS CHINESE TRAILERS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: WATCHMEN THREATEN LA-LB SHUTDOWN",
-                "teaserTitle": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
+                "headline": "GOVERNMENT: COMMERCE TARIFFS CHINESE TRAILERS",
+                "teaserTitle": "SHIPPING: LUNAR NEW YEAR RUSH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Union watchmen have threatened to strike at the Los Angeles and Long Beach ports by Sunday. A walkout could halt security operations across fifty percent of the container terminals at America's largest gateway."
+                "narration_line": "The United States Commerce Department imposes two hundred sixty percent tariffs on dumped Chinese trailers. Motor carriers face immediate capital cost escalations and constrained domestic equipment availability."
             },
             {
                 "slide_index": 2,
-                "headline": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
-                "teaserTitle": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
+                "headline": "SHIPPING: LUNAR NEW YEAR RUSH",
+                "teaserTitle": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A major software outage at railway CSX has frozen Class One freight interchanges across the Eastern network. The stoppage disrupts transcontinental intermodal corridors, forcing shippers to redirect urgent freight toward truckload capacity."
+                "narration_line": "Seko Logistics urges shippers to confirm ocean bookings four weeks early for the upcoming Lunar New Year. Early demand spikes threaten rolling cargo and severe spot freight premium increases."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
-                "teaserTitle": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
+                "headline": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
+                "teaserTitle": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Three commercial tankers carrying Russian diesel are sailing to United States ports under an official bilateral fuel agreement. The emergency distillate cargo aims to stabilize tight domestic fuel supplies ahead of the winter season."
+                "narration_line": "The global containership orderbook is rapidly approaching sixteen million TEU amid heavy newbuilding contracts. This massive fleet expansion threatens severe structural overcapacity across major trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
-                "teaserTitle": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
+                "headline": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
+                "teaserTitle": "LABOR: PORT STRIKE THREAT IN LA-LB",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United States military has issued a warning advising merchant vessels to avoid transiting through the Strait of Hormuz. Commercial carriers face surging war risk insurance rates and mounting pressure to divert around Africa."
+                "narration_line": "IFS Softeon introduces new artificial intelligence capabilities to coordinate complex warehouse data flows. Distribution centers can optimize inventory routing to overcome persistent labor constraints."
             },
             {
                 "slide_index": 5,
-                "headline": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
-                "teaserTitle": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
+                "headline": "LABOR: PORT STRIKE THREAT IN LA-LB",
+                "teaserTitle": "REGULATION: FMC TARIFF AND EMPTY RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A Zim container vessel was struck off the Bulgarian coast in the western Black Sea, requiring naval rescue operations. Ocean forwarders face rising cargo insurance premiums and immediate carrier schedule cancellations across regional trade lanes."
+                "narration_line": "A looming security worker strike threatens operations across the Los Angeles and Long Beach port complex. Thirty-five thousand containers await rail service, compounding severe terminal dwell times."
             },
             {
                 "slide_index": 6,
-                "headline": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
-                "teaserTitle": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
+                "headline": "REGULATION: FMC TARIFF AND EMPTY RULES",
+                "teaserTitle": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Maritime Administration has awarded four hundred ninety-eight million dollars in port grants across nineteen states. This marks the lowest funding volume in five years, delaying terminal automation and dock expansion projects."
+                "narration_line": "East Coast drayage carriers petition the Federal Maritime Commission for enforceable empty container standards. New rules would shift equipment management responsibilities directly onto ocean carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
+                "headline": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The global containership orderbook is surging toward sixteen million twenty-foot equivalent units following another round of mega vessel orders. Carriers face severe fleet overcapacity, handing shippers strong leverage for multi-year contract negotiations."
+                "narration_line": "SolitAir launches dedicated cargo flights to Bulgaria and Romania using Boeing freighters. Shippers gain alternative uplift capacity into Eastern European consumer markets."
             },
             {
                 "slide_index": 8,

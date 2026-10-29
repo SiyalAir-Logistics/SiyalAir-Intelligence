@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: WATCHMEN THREATEN LA-LB SHUTDOWN",
-                "teaserTitle": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
-                "visual_caption": "Union watchmen have threatened to strike at the LA-LB port complex by Sunday. A walkout could halt security operations across 50% of terminals at America's largest gateway."
+                "headline": "GOVERNMENT: COMMERCE TARIFFS CHINESE TRAILERS",
+                "teaserTitle": "SHIPPING: LUNAR NEW YEAR RUSH",
+                "visual_caption": "The U.S. Commerce Department imposes 260% tariffs on dumped Chinese trailers. Motor carriers face immediate capital cost escalations and constrained equipment availability."
             },
             {
                 "slide_index": 2,
-                "headline": "INTERMODAL: CSX OUTAGE DISRUPTS INTERCHANGES",
-                "teaserTitle": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
-                "visual_caption": "A major CSX tech outage has frozen Class I freight interchanges across the Eastern rail network. The stoppage disrupts intermodal corridors, forcing shippers to divert urgent cargo to truckload capacity."
+                "headline": "SHIPPING: LUNAR NEW YEAR RUSH",
+                "teaserTitle": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
+                "visual_caption": "Seko Logistics urges shippers to confirm ocean bookings 4 weeks early for Lunar New Year. Early demand spikes threaten cargo rolling and spot premium increases."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: RUSSIAN DIESEL TANKERS HEAD TO US",
-                "teaserTitle": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
-                "visual_caption": "Three tankers carrying Russian diesel are sailing to US ports under an official bilateral fuel agreement. The emergency distillate imports aim to stabilize tight domestic fuel supplies ahead of winter."
+                "headline": "CONTAINERS: ORDERBOOK NEARS 16M TEU",
+                "teaserTitle": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
+                "visual_caption": "The global containership orderbook is rapidly approaching 16M TEU amid heavy contracting. This massive fleet expansion threatens severe structural overcapacity by 2028."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: US WARNS SHIPS AVOIDING HORMUZ",
-                "teaserTitle": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
-                "visual_caption": "The US military has issued an advisory urging merchant ships to avoid the Strait of Hormuz. Commercial operators face spiking war-risk insurance premiums and potential reroutes around the Cape of Good Hope."
+                "headline": "TECHNOLOGY: IFS LAUNCHES WAREHOUSE AI",
+                "teaserTitle": "LABOR: PORT STRIKE THREAT IN LA-LB",
+                "visual_caption": "IFS Softeon introduces new AI capabilities to coordinate complex warehouse data flows. Distribution centers can optimize inventory routing to overcome labor constraints."
             },
             {
                 "slide_index": 5,
-                "headline": "BLACK SEA: ZIM SHIP ATTACKED OFF BULGARIA",
-                "teaserTitle": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
-                "visual_caption": "A Zim containership was struck off Bulgaria in the western Black Sea, triggering naval rescue operations. Maritime insurers are hiking risk surcharges as carriers cancel regional feeder sailings."
+                "headline": "LABOR: PORT STRIKE THREAT IN LA-LB",
+                "teaserTitle": "REGULATION: FMC TARIFF AND EMPTY RULES",
+                "visual_caption": "A looming security worker strike threatens operations across the LA-LB port complex. Over 35K containers await rail service, compounding severe terminal dwell times."
             },
             {
                 "slide_index": 6,
-                "headline": "FUNDING: MARAD AWARDS $498M PORT GRANTS",
-                "teaserTitle": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
-                "visual_caption": "MARAD has awarded $498M in port infrastructure grants across 35 projects in 19 states. The package marks the lowest funding total in 5 years as port operators lobby for emergency capital."
+                "headline": "REGULATION: FMC TARIFF AND EMPTY RULES",
+                "teaserTitle": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
+                "visual_caption": "East Coast drayage carriers petition the FMC for enforceable empty container standards. New rules would shift equipment management responsibilities onto ocean carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "CAPACITY: ORDERBOOK HEADS TOWARD 16M TEU",
+                "headline": "AIR CARGO: SOLITAIR EXPANDS EU ROUTES",
                 "teaserTitle": "",
-                "visual_caption": "The global containership orderbook is surging toward 16M TEU following another wave of megamax contracts. The expanding order pipeline signals impending vessel overcapacity and downward pressure on contract rates."
+                "visual_caption": "SolitAir launches dedicated cargo flights to Bulgaria and Romania using Boeing freighters. Shippers gain alternative uplift capacity into Eastern European markets."
             },
             {
                 "slide_index": 8,
