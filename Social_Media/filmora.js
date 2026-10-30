@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL: GEORGIA PORTS OPENS 134M GAINESVILLE INLAND PORT",
-                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "visual_caption": "Georgia Ports Authority opened a $134M inland port in Gainesville. This rail-served facility streamlines regional freight and relieves coastal congestion."
+                "headline": "M&A: CH ROBINSON BUYS RXO IN $5.8B DEAL",
+                "teaserTitle": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
+                "visual_caption": "C.H. Robinson agrees to acquire freight brokerage competitor RXO in a $5.8B mega-deal. The consolidation unites 22M annual shipments and curtails spot market pricing leverage for shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "teaserTitle": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
-                "visual_caption": "Iraq has officially resumed scheduled container shipping in the Arabian Gulf. The state carrier launched a new feeder loop linking Jebel Ali Port."
+                "headline": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
+                "teaserTitle": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
+                "visual_caption": "Scan Global Logistics signs an agreement to acquire US forwarder OIA Global. Cargo owners must audit contract terms to protect air and ocean schedules during corporate integration."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
-                "teaserTitle": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
-                "visual_caption": "The U.S. Coast Guard imposed strict security conditions on vessels calling at Somali ports. Fleet operators must audit port histories to prevent entry delays."
+                "headline": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
+                "teaserTitle": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
+                "visual_caption": "Boluda Shipping will acquire Samskip to create Europe's largest integrated shortsea carrier. Shippers must review intermodal capacity as the carrier consolidates 60 vessels and 45 rail lines."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
-                "teaserTitle": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
-                "visual_caption": "SolitAir launched its first EU cargo services to Bulgaria and Romania. The carrier operates 7 freighters across 34 countries."
+                "headline": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
+                "teaserTitle": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
+                "visual_caption": "Schneider National shifts its primary East Coast rail partnership from CSX to Norfolk Southern. Intermodal cargo owners must adjust drayage dispatch schedules to match altered rail ramp gates."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
-                "visual_caption": "IFS Softeon introduced Fulfillment Flow to coordinate warehouse automation using AI. The tool unifies data silos to streamline inventory management."
+                "headline": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
+                "teaserTitle": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
+                "visual_caption": "Flash floods near Laguna NM washed out BNSF trackage along the Southern Transcon corridor. Rail container delays of 4 to 6 days force shippers toward over-the-road team diversions."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
-                "teaserTitle": "LOGISTICS: LA AND LB PORTS SET RECORDS",
-                "visual_caption": "The NRF forecasts holiday retail sales will rise 4.2% to $1.013T. Brands must optimize omnichannel fulfillment to capture consumer demand."
+                "headline": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
+                "teaserTitle": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
+                "visual_caption": "The UK finalized regulations adding ships over 5,000 GT into its Emissions Trading Scheme. Shippers must prepare for carbon cost surcharges reaching \u00a335 to \u00a365 per TEU."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: LA AND LB PORTS SET RECORDS",
-                "teaserTitle": "",
-                "visual_caption": "The Ports of LA and Long Beach set all-time cargo handling records. Strong import volumes have caused growing container dwell times on dock."
+                "headline": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "The containership Contship Jet sank in the Black Sea off Bulgaria following a military strike. Underwriters increased war risk premiums up to 35%, driving freight surcharges across regional ports."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEORGIA PORTS OPENS 134M GAINESVILLE INLAND PORT",
+        "hookTitle": "CH ROBINSON BUYS RXO IN $5.8B DEAL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL: GEORGIA PORTS OPENS 134M GAINESVILLE INLAND PORT",
-                "teaserTitle": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+                "headline": "M&A: CH ROBINSON BUYS RXO IN $5.8B DEAL",
+                "teaserTitle": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Georgia Ports Authority opened a one hundred thirty-four million dollar inland port in Gainesville. This new rail link streamlines regional freight flows and relieves coastal terminal congestion."
+                "narration_line": "C H Robinson has agreed to acquire freight broker R X O in a five point eight billion dollar deal. The consolidation combines massive freight networks and reduces spot market rate flexibility for enterprise shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
-                "teaserTitle": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
+                "headline": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
+                "teaserTitle": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iraq has officially resumed scheduled container shipping in the Arabian Gulf. The national carrier launched a new feeder loop connecting directly to Jebel Ali Port."
+                "narration_line": "Scan Global Logistics signed a major agreement to acquire United States forwarder O I A Global. Shippers moving transpacific cargo should audit contract terms to protect air and ocean routing schedules during corporate integration."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
-                "teaserTitle": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
+                "headline": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
+                "teaserTitle": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States Coast Guard imposed strict security conditions on commercial vessels visiting Somali ports. Fleet operators must audit port histories to prevent entry delays."
+                "narration_line": "Boluda Shipping will acquire Samskip to construct Europe's largest integrated shortsea maritime carrier network. Importers must benchmark multimodal container capacity as the carrier consolidates sixty regional vessels and forty-five rail corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
-                "teaserTitle": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
+                "headline": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
+                "teaserTitle": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SolitAir launched its first European Union cargo services connecting to Bulgaria and Romania. The carrier operates seven converted freighters across thirty-four countries."
+                "narration_line": "Schneider National is shifting its primary eastern rail partnership away from C S X over to Norfolk Southern. Intermodal shippers must update terminal drayage dispatching to match altered East Coast ramp locations."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
+                "headline": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
+                "teaserTitle": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "IFS Softeon introduced Fulfillment Flow to coordinate warehouse automation using artificial intelligence. The tool unifies data silos to streamline inventory management."
+                "narration_line": "Severe flash flooding in New Mexico has severed track lines along B N S F's critical Southern Transcon route. Shippers face multi-day freight backlogs and must evaluate highway team diversions for peak retail inventory."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
-                "teaserTitle": "LOGISTICS: LA AND LB PORTS SET RECORDS",
+                "headline": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
+                "teaserTitle": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The National Retail Federation forecasts holiday sales will rise four point two percent to over one trillion dollars. Brands must optimize fulfillment to capture demand."
+                "narration_line": "The United Kingdom has finalized carbon rules expanding emission trading compliance to all cargo ships over five thousand gross tons. Maritime shippers face immediate regulatory carbon surcharges across all British port calls."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: LA AND LB PORTS SET RECORDS",
-                "teaserTitle": "",
+                "headline": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach set all-time cargo handling records. Strong import volumes have caused growing container dwell times on dock."
+                "narration_line": "A chartered containership has sunk in the western Black Sea off Bulgaria following a military missile attack. Marine underwriters have immediately increased regional war risk premiums, escalating landed costs for regional trade lanes."
             },
             {
                 "slide_index": 8,

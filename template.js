@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEORGIA PORTS OPENS 134M GAINESVILLE INLAND",
-        "titleBlue": "PORT",
-        "footerSummary": "Georgia Ports Authority opens its $134M Gainesville Inland Port, expanding rail-served capacity to streamline freight flows and mitigate Southeast supply chain congestion."
+        "titleWhite": "CH ROBINSON BUYS RXO IN $5.8B",
+        "titleBlue": "DEAL",
+        "footerSummary": "CH Robinson acquires RXO for $5.8B to dominate tech-enabled freight brokerage, forcing shippers to re-evaluate contract rate leverage."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL: GEORGIA PORTS OPENS 134M GAINESVILLE INLAND PORT",
+            "heading": "M&A: CH ROBINSON BUYS RXO IN $5.8B DEAL",
             "paragraphs": [
-                "The Georgia Ports Authority has officially opened its new $134M Gainesville Inland Port to expand regional rail-served logistics capacity and relieve coastal terminal congestion. This strategic infrastructure addition connects interior manufacturing hubs directly to Savannah via dedicated rail shuttles, cutting transit times for regional cargo owners.",
-                "Supply chain leaders should leverage this inland facility to bypass traditional port gate bottlenecks and optimize regional distribution footprints. Shippers utilizing the new corridor can expect improved container velocity and reduced drayage overhead across Southeast distribution networks."
+                "C.H. Robinson has agreed to acquire freight brokerage competitor RXO in a definitive cash-and-stock transaction valued at $5.8B. The transaction consolidates North American full-truckload, last-mile delivery, and expedited shipping services under a single digital brokerage architecture. The integration unites two of the sector's largest proprietary capacity networks, bringing combined gross enterprise freight volume above 22M shipments annually.",
+                "Enterprise shippers must prepare for reduced transactional pricing leverage across spot truckload and dedicated brokered capacity as capacity pools combine. Logistics procurement teams should diversify routing guide allocations across alternative tier-one 3PL partners to defend baseline margin margins. The transaction accelerates carrier consolidation trends ahead of anticipated freight volume recoveries in Q1 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+            "nextUpTease": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/75949-georgia-ports-authority-opens-134-million-gainesville-inland-port",
-                "Published: 2026-10-29T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/c.h._robinson_agrees_to_acquire_rxo_in_5.8_billion_cash-and-stock_deal",
+                "Published: 2026-10-29T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
+            "heading": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
             "paragraphs": [
-                "Following diplomatic initiatives led by the U.S. administration, Iraq\u2019s state-owned Iraqi Maritime Line has officially restarted scheduled container shipping operations in the Arabian Gulf. This maiden feeder loop links Jebel Ali Port, ending a half-century hiatus in Iraq's national maritime commercial transport sector.",
-                "Importers and logistics providers operating in the Middle East must evaluate new maritime routing options to optimize transshipment schedules and reduce reliance on congested overland corridors. The re-established service provides a reliable maritime entry point for cargo moving into expanding Iraqi markets."
+                "Danish forwarder Scan Global Logistics has executed an agreement to acquire Portland-based freight forwarder OIA Global, executing its largest corporate buyout to date. The purchase expands SGL's footprint into Pacific Northwest aerospace, automotive, and retail footwear vertical supply chains across 20 countries. The transaction incorporates 50 regional offices and dedicated cross-dock facilities directly into SGL's global forwarding matrix.",
+                "B2B cargo owners moving volume across transpacific air and ocean corridors should review forwarder contract protections against operational service disruption during back-office operational integration. Shippers using OIA Global must audit existing service-level agreements and air charter capacity allocations to ensure uninterrupted transit schedules. The takeover signals accelerated consolidation across mid-tier global forwarders targeting consolidated operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
+            "nextUpTease": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-29T09:15:00Z",
+                "Source: https://theloadstar.com/scan-global-logistics-to-acquire-us-forwarder-oia-global/",
+                "Published: 2026-10-29T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
+            "heading": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
             "paragraphs": [
-                "The U.S. Coast Guard has imposed strict new security conditions on commercial vessels arriving in American waters after calling at Somali ports, citing inadequate local port security measures. This regulatory update adds Somalia to the official list of restricted maritime jurisdictions, requiring heightened vessel hardening and documentation.",
-                "Global carriers and fleet operators must immediately audit port rotation histories to ensure compliance before entering U.S. territorial waters. Failure to meet these enhanced security standards risks severe vessel detentions and costly entry delays at North American marine terminals."
+                "Spanish maritime group Boluda Shipping has signed a binding agreement to acquire Rotterdam-based multimodal operator Samskip to create Europe's largest integrated shortsea network. The consolidated fleet will control 60 container vessels connecting Northern Europe, the Baltic Sea, the Mediterranean, and the UK. The combined enterprise operates 45 intermodal rail routes and 200,000 TEU of annual shortsea containerized movements.",
+                "European intra-continental freight forwarders face tighter equipment availability and altered route schedules as terminal berthing contracts align under Boluda oversight. Industrial manufacturers must reassess regional intermodal modal shifts against pure truckload lanes to benchmark secondary distribution expenses. Concentrated feeder vessel schedules could create short-term port bottlenecks at critical European transshipment hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
+            "nextUpTease": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
             "tags": [
-                "Source: https://splash247.com/us-tightens-entry-rules-for-ships-calling-at-somali-ports/",
-                "Published: 2026-10-29T10:00:00Z",
+                "Source: https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/",
+                "Published: 2026-10-29T12:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
+            "heading": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
             "paragraphs": [
-                "Dubai-based carrier SolitAir has launched scheduled cargo services connecting to Sofia, Bulgaria, and Bucharest, Romania, marking its first operational entry into the European Union. The carrier utilizes its fleet of 7 Boeing 737-800 converted freighters to serve an expanding network across 34 countries.",
-                "Freight forwarders and air cargo shippers should integrate these new EU destinations into their European distribution networks to secure flexible capacity on underserved trade lanes. Diversifying regional airlift options helps mitigate seasonal rate volatility and tight space constraints on major trunk routes."
+                "Intermodal transportation carrier Schneider National has decided to transition its primary East Coast rail partnership over to Norfolk Southern, leaving previous contractual partner CSX Transportation. The operational carrier realignment aligns with Schneider's endorsement of the proposed $85B Union Pacific and Norfolk Southern merger. The network transition alters routing schedules across major inland ramps handling over 450,000 annual domestic intermodal containers.",
+                "Intermodal shippers utilizing Schneider container equipment across Eastern corridors must adjust drayage dispatch schedules to account for modified rail ramp terminal gates. Enterprise distribution networks relying on legacy CSX interchanges should re-calculate total transit velocity and potential dwell charges. The migration marks a major tactical repositioning of rail asset alliances across North American intermodal corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
+            "nextUpTease": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-27T11:30:00Z",
+                "Source: https://www.joc.com/article/schneider-switching-east-coast-partner-to-norfolk-southern_20261029.html",
+                "Published: 2026-10-29T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
+            "heading": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
             "paragraphs": [
-                "IFS Softeon has rolled out its new artificial intelligence capability, Fulfillment Flow, designed to unify warehouse data and coordinate automated execution across complex fulfillment centers. The platform bridges operational data silos to eliminate manual reporting lags and streamline inventory orchestration.",
-                "Warehouse operators must assess how integrated AI coordination can reduce labor overhead and improve order fulfillment velocity ahead of peak seasonal volume surges. Adopting centralized intelligence tools is essential for maintaining accurate inventory visibility and meeting aggressive customer service SLAs."
+                "Severe flash flooding near Laguna, New Mexico, has washed out track foundations and halted main-line intermodal operations across BNSF Railway's Southern Transcon route. The infrastructure closure has severed primary rail transit between Southern California port complexes and Midwest distribution junctions in Chicago and Dallas. Maintenance crews project line restoration will require 72 to 96 hours of emergency track reconstruction.",
+                "Retailers and manufacturers moving pre-holiday inventory face delays of 4 to 6 business days on West Coast imported containers. Shippers must evaluate emergency over-the-road team truck diversions to protect retail delivery commitments despite elevated spot freight surcharges. Extended railcar stagnation will increase chassis deficits at West Coast port marine terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
+            "nextUpTease": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-27T08:45:00Z",
+                "Source: https://www.joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network_20261029.html",
+                "Published: 2026-10-29T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
+            "heading": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
             "paragraphs": [
-                "The National Retail Federation has issued its 2026 holiday sales forecast, projecting a 4.2% annual increase to reach $1.013 trillion despite ongoing macroeconomic headwinds. This projected consumer spending growth requires precise inventory staging across omnichannel retail networks to avoid late-season stockouts.",
-                "Supply chain executives need to stress-test their last-mile delivery partners and fulfillment workflows to handle accelerated order velocity without eroding profit margins. Brands that align logistics capacity with projected consumer demand will capture market share while keeping fulfillment costs controlled."
+                "The UK Department for Energy Security and Net Zero has finalized compliance regulations expanding the UK Emissions Trading Scheme to all commercial vessels exceeding 5,000 gross tonnage entering UK ports. The statutory framework requires commercial maritime operators to surrender validated emissions allowances covering 100% of voyages between UK ports and 50% of international routes. Verified MRV carbon monitoring protocols take full effect across shipping lines starting January 2027.",
+                "Ocean cargo owners must anticipate carbon cost surcharges of \u00a335 to \u00a365 per TEU applied across North Sea and English Channel trade lanes. Freight forwarders must upgrade customs and documentation filing workflows to capture mandatory carbon tracking metrics alongside regular clearance files. Failure to prepare will expose non-compliant operators to financial penalties and restricted port clearance privileges."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: LA AND LB PORTS SET RECORDS",
+            "nextUpTease": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic",
-                "Published: 2026-10-29T07:30:00Z",
+                "Source: https://theloadstar.com/vessel-operators-need-to-prepare-for-compliance-as-uk-ets-looms/",
+                "Published: 2026-10-29T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: LA AND LB PORTS SET RECORDS",
+            "heading": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach have established all-time operational cargo handling records, driven by heavy pre-holiday inventory imports and sustained retail restocking. However, this high import volume has created significant intermodal rail container backlogs at on-dock terminals.",
-                "Cargo owners must monitor dwell times closely and coordinate closely with rail providers to prevent demurrage penalties on containers delayed at West Coast gateways. Proactive contingency routing is vital for maintaining delivery schedules as peak season volume strains terminal infrastructure."
+                "The Greek-owned containership Contship Jet, operated under commercial charter to Zim, has sunk in the Black Sea inside Bulgaria's exclusive economic zone following an external strike. Maritime authorities rescued all crew members prior to the vessel foundering roughly 12 hours after sustaining structural hull damage. This incident marks the fifth commercial vessel attacked along western Black Sea commercial shipping routes within the past month.",
+                "Marine hull underwriters have expanded high-risk territorial boundaries and increased war risk insurance premiums for vessels calling at Bulgarian and Romanian maritime ports by up to 35%. Logistics managers booking cargo through regional feeder loops must plan for substantial freight surcharges or shift urgent cargo to overland trucking corridors. Commercial carriers are reviewing route suspensions to prevent catastrophic vessel exposure."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ports-los-angeles-long-beach-records",
-                "Published: 2026-10-29T10:15:00Z",
+                "Source: https://maritime-executive.com/article/zim-confirms-loss-of-containership-attacked-in-black-sea-off-bulgaria",
+                "Published: 2026-10-29T13:04:00Z",
                 "Status: Audited & True"
             ]
         }
