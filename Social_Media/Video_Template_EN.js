@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CH ROBINSON BUYS RXO IN $5.8B DEAL",
+        "hookTitle": "OIL PRICES INCREASE AS ATTACKS ON SHIPPING RAMP",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON BUYS RXO IN $5.8B DEAL",
-                "teaserTitle": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
+                "headline": "FUEL: OIL PRICES INCREASE AS ATTACKS ON SHIPPING RAMP",
+                "teaserTitle": "RAIL: SCHNEIDER TO SHIFT EASTERN RAIL BUSINESS TO NORFOLK SOUTHERN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C H Robinson has agreed to acquire freight broker R X O in a five point eight billion dollar deal. The consolidation combines massive freight networks and reduces spot market rate flexibility for enterprise shippers."
+                "narration_line": "Brent crude climbed two point five percent to one hundred thirteen dollars and fifty-one cents per barrel. Renewed attacks on commercial vessels are driving up fuel costs and squeezing supply chain margins."
             },
             {
                 "slide_index": 2,
-                "headline": "ACQUISITIONS: SGL BUYS US FORWARDER OIA GLOBAL",
-                "teaserTitle": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
+                "headline": "RAIL: SCHNEIDER TO SHIFT EASTERN RAIL BUSINESS TO NORFOLK SOUTHERN",
+                "teaserTitle": "ACQUISITIONS: SCAN GLOBAL LOGISTICS INKS DEAL TO ACQUIRE OIA GLOBAL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Scan Global Logistics signed a major agreement to acquire United States forwarder O I A Global. Shippers moving transpacific cargo should audit contract terms to protect air and ocean routing schedules during corporate integration."
+                "narration_line": "Schneider National is moving its primary eastern rail partnership over to Norfolk Southern. The strategic shift aligns with the carrier supporting the proposed eighty-five billion dollar rail merger."
             },
             {
                 "slide_index": 3,
-                "headline": "SHORTSEA: BOLUDA TO ACQUIRE SAMSKIP",
-                "teaserTitle": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
+                "headline": "ACQUISITIONS: SCAN GLOBAL LOGISTICS INKS DEAL TO ACQUIRE OIA GLOBAL",
+                "teaserTitle": "PORTS: LA AND LB PORTS FACE LOADING DELAYS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Boluda Shipping will acquire Samskip to construct Europe's largest integrated shortsea maritime carrier network. Importers must benchmark multimodal container capacity as the carrier consolidates sixty regional vessels and forty-five rail corridors."
+                "narration_line": "Scan Global Logistics has finalized an agreement to acquire forwarder OIA Global. The purchase expands network operations across twenty countries and fifty regional offices."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: SCHNEIDER SWITCHES TO NORFOLK SOUTHERN",
-                "teaserTitle": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
+                "headline": "PORTS: LA AND LB PORTS FACE LOADING DELAYS",
+                "teaserTitle": "SHIPPING: TANKER TARGETED WITH HULL MOUNTED EXPLOSIVES IN HORMUZ",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Schneider National is shifting its primary eastern rail partnership away from C S X over to Norfolk Southern. Intermodal shippers must update terminal drayage dispatching to match altered East Coast ramp locations."
+                "narration_line": "Los Angeles and Long Beach ports face severe congestion with over thirteen thousand containers dwelling past nine days. Importers risk holiday delivery delays as terminal backlogs grow."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: BNSF SNARLED BY NEW MEXICO FLOODS",
-                "teaserTitle": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
+                "headline": "SHIPPING: TANKER TARGETED WITH HULL MOUNTED EXPLOSIVES IN HORMUZ",
+                "teaserTitle": "LABOR: DOCKWORKERS UNITE ACROSS 113 PORTS IN GLOBAL ANTI-WAR PROTEST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Severe flash flooding in New Mexico has severed track lines along B N S F's critical Southern Transcon route. Shippers face multi-day freight backlogs and must evaluate highway team diversions for peak retail inventory."
+                "narration_line": "A product tanker was set ablaze in the Strait of Hormuz following a hull-mounted explosive attack. Marine underwriters have responded by sharply increasing regional war risk insurance premiums."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: UK ETS EMISSIONS RULES EXPAND",
-                "teaserTitle": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
+                "headline": "LABOR: DOCKWORKERS UNITE ACROSS 113 PORTS IN GLOBAL ANTI-WAR PROTEST",
+                "teaserTitle": "COMPLIANCE: SHIPMENTS CAN STILL MISS TARIFF BENEFITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United Kingdom has finalized carbon rules expanding emission trading compliance to all cargo ships over five thousand gross tons. Maritime shippers face immediate regulatory carbon surcharges across all British port calls."
+                "narration_line": "Over twenty-five maritime unions staged coordinated strikes across one hundred thirteen ports globally. The massive labor action is disrupting international vessel turnarounds and terminal workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: CONTSHIP JET SINKS IN BLACK SEA",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "COMPLIANCE: SHIPMENTS CAN STILL MISS TARIFF BENEFITS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A chartered containership has sunk in the western Black Sea off Bulgaria following a military missile attack. Marine underwriters have immediately increased regional war risk premiums, escalating landed costs for regional trade lanes."
+                "narration_line": "Importers continue to miss preferential tariff benefits due to complex trade documentation rules. Automated data validation is vital to preventing unexpected duty assessments and border delays."
             },
             {
                 "slide_index": 8,
