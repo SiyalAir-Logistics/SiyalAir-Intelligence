@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROBINSON ACQUIRES RXO IN 5.8B",
-        "titleBlue": "DEAL",
-        "footerSummary": "C.H. Robinson's 5.8B acquisition of RXO creates an expedited logistics juggernaut, forcing enterprise shippers to re-evaluate contract rates and network capacity."
+        "titleWhite": "GEORGIA PORTS OPENS 134M GAINESVILLE INLAND",
+        "titleBlue": "PORT",
+        "footerSummary": "Georgia Ports Authority opens its $134M Gainesville Inland Port, expanding rail-served capacity to streamline freight flows and mitigate Southeast supply chain congestion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MERGERS: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+            "heading": "RAIL: GEORGIA PORTS OPENS 134M GAINESVILLE INLAND PORT",
             "paragraphs": [
-                "C.H. Robinson has officially agreed to acquire RXO in a massive 5.8B cash-and-stock transaction, combining two of the largest freight brokerage networks in North America. The strategic merger aggressively expands Robinson's capabilities across expedited last-mile and asset-light transport sectors, with the transaction scheduled to close in H1 2027.",
-                "Enterprise shippers must immediately review their third-party logistics allocations and contract rate structures to account for reduced vendor redundancy in the merged entity. Supply chain leaders should anticipate tighter capacity controls as the combined enterprise consolidates carrier relationships and optimizes routing footprints."
+                "The Georgia Ports Authority has officially opened its new $134M Gainesville Inland Port to expand regional rail-served logistics capacity and relieve coastal terminal congestion. This strategic infrastructure addition connects interior manufacturing hubs directly to Savannah via dedicated rail shuttles, cutting transit times for regional cargo owners.",
+                "Supply chain leaders should leverage this inland facility to bypass traditional port gate bottlenecks and optimize regional distribution footprints. Shippers utilizing the new corridor can expect improved container velocity and reduced drayage overhead across Southeast distribution networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: SCAN GLOBAL BUYS OIA GLOBAL",
+            "nextUpTease": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
+                "Source: https://www.dcvelocity.com/articles/75949-georgia-ports-authority-opens-134-million-gainesville-inland-port",
                 "Published: 2026-10-29T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ACQUISITIONS: SCAN GLOBAL BUYS OIA GLOBAL",
+            "heading": "MARITIME: IRAQ RESUMES CONTAINER SHIPPING",
             "paragraphs": [
-                "Danish freight forwarder Scan Global Logistics has executed its largest corporate takeover to date by acquiring Portland-based forwarder OIA Global. This cross-border acquisition significantly extends Scan Global's operational reach across North American supply chain corridors and strengthens its multimodal forwarding capabilities.",
-                "Global shippers relying on regional forwarding partners will experience a shift toward consolidated global service tiers and integrated customs solutions. Organizations should audit their current forwarding agreements to leverage the expanded network scale while mitigating potential service transition bumps."
+                "Following diplomatic initiatives led by the U.S. administration, Iraq\u2019s state-owned Iraqi Maritime Line has officially restarted scheduled container shipping operations in the Arabian Gulf. This maiden feeder loop links Jebel Ali Port, ending a half-century hiatus in Iraq's national maritime commercial transport sector.",
+                "Importers and logistics providers operating in the Middle East must evaluate new maritime routing options to optimize transshipment schedules and reduce reliance on congested overland corridors. The re-established service provides a reliable maritime entry point for cargo moving into expanding Iraqi markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: LA-LB STRIKE DEADLINE DELAYED TO NOV 4",
+            "nextUpTease": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
             "tags": [
-                "Source: https://www.joc.com/article/strike-deadline-at-la-lb-ports-expected-to-be-delayed-to-nov-4-pma",
-                "Published: 2026-10-29T09:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-10-29T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LABOR: LA-LB STRIKE DEADLINE DELAYED TO NOV 4",
+            "heading": "MARITIME: US TIGHTENS RULES FOR SOMALI PORTS",
             "paragraphs": [
-                "The Pacific Maritime Association and security personnel represented by ILWU Local 26 are finalizing a short extension that pushes the potential strike deadline at Los Angeles and Long Beach ports to Nov 4. This temporary reprieve provides a narrow window for negotiators to resolve security disputes at North America's busiest maritime complex.",
-                "Supply chain planners must utilize this extended timeline to accelerate peak season inventory clearance and divert high-priority intermodal shipments away from West Coast gateways. Failure to maintain contingency routing could still trigger severe terminal congestion if final labor agreements stall."
+                "The U.S. Coast Guard has imposed strict new security conditions on commercial vessels arriving in American waters after calling at Somali ports, citing inadequate local port security measures. This regulatory update adds Somalia to the official list of restricted maritime jurisdictions, requiring heightened vessel hardening and documentation.",
+                "Global carriers and fleet operators must immediately audit port rotation histories to ensure compliance before entering U.S. territorial waters. Failure to meet these enhanced security standards risks severe vessel detentions and costly entry delays at North American marine terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
+            "nextUpTease": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
             "tags": [
-                "Source: https://www.joc.com/article/strike-deadline-at-la-lb-ports-expected-to-be-delayed-to-nov-4-pma",
-                "Published: 2026-10-29T07:15:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME: BOLUDA TO ACQUIRE SAMSKIP",
-            "paragraphs": [
-                "Boluda Shipping has reached an agreement to acquire Samskip, marking another major milestone in the rapid consolidation of European shortsea shipping markets. The combined entity aims to streamline intra-European maritime trade lanes and optimize vessel utilization across congested North Sea and Atlantic corridors.",
-                "Regional cargo owners should prepare for tighter slot allocations and revised shortsea tariff structures as carrier consolidation limits independent operator choices. Shippers must evaluate long-term service contracts to protect transit schedules and secure reliable feeder connections."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATORY: FMCSA REMOVES 10K TRAINING PROVIDERS",
-            "tags": [
-                "Source: https://theloadstar.com/boluda-to-acquire-samskip-a-combination-to-lead-european-shortsea-shipping/",
-                "Published: 2026-10-29T06:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "REGULATORY: FMCSA REMOVES 10K TRAINING PROVIDERS",
-            "paragraphs": [
-                "The Federal Motor Carrier Safety Administration has purged over 10K driver training providers from its registry in an aggressive nationwide push to enforce commercial driver safety standards. This sweeping administrative action targets substandard training institutions to ensure compliance with federal licensing mandates.",
-                "Fleet operators face an intensifying driver talent crunch as accredited training pipelines narrow, driving up recruitment costs and onboarding timelines for new CDL holders. Motor carriers must recalibrate driver acquisition strategies and audit internal hiring compliance to avoid regulatory penalties."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL: 43% OF SHOPPERS SPEND MORE THIS PEAK",
-            "tags": [
-                "Source: https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
+                "Source: https://splash247.com/us-tightens-entry-rules-for-ships-calling-at-somali-ports/",
                 "Published: 2026-10-29T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "RETAIL: 43% OF SHOPPERS SPEND MORE THIS PEAK",
+            "id": 4,
+            "heading": "AIR: SOLITAIR LAUNCHES NEW EU ROUTES",
             "paragraphs": [
-                "Recent market data compiled by Kenco reveals that 43% of consumers plan to increase their spending during the upcoming peak retail season despite ongoing economic headwinds. This consumer resilience is driving unexpected inventory velocity across e-commerce fulfillment centers and last-mile delivery networks.",
-                "Supply chain executives must stress-test warehouse automation and inventory staging parameters to prevent late-season fulfillment bottlenecks and excessive return rates. Brands failing to align logistics capacity with heightened consumer demand risk costly stockouts and eroded brand loyalty."
+                "Dubai-based carrier SolitAir has launched scheduled cargo services connecting to Sofia, Bulgaria, and Bucharest, Romania, marking its first operational entry into the European Union. The carrier utilizes its fleet of 7 Boeing 737-800 converted freighters to serve an expanding network across 34 countries.",
+                "Freight forwarders and air cargo shippers should integrate these new EU destinations into their European distribution networks to secure flexible capacity on underserved trade lanes. Diversifying regional airlift options helps mitigate seasonal rate volatility and tight space constraints on major trunk routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: YIELDS LAG BEHIND FUEL COSTS",
+            "nextUpTease": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
             "tags": [
-                "Source: https://www.freightwaves.com/news/43-of-shoppers-plan-to-spend-more-this-peak-kenco-finds",
-                "Published: 2026-10-29T08:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-10-27T11:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TECHNOLOGY: IFS SOFTEON LAUNCHES WAREHOUSE AI",
+            "paragraphs": [
+                "IFS Softeon has rolled out its new artificial intelligence capability, Fulfillment Flow, designed to unify warehouse data and coordinate automated execution across complex fulfillment centers. The platform bridges operational data silos to eliminate manual reporting lags and streamline inventory orchestration.",
+                "Warehouse operators must assess how integrated AI coordination can reduce labor overhead and improve order fulfillment velocity ahead of peak seasonal volume surges. Adopting centralized intelligence tools is essential for maintaining accurate inventory visibility and meeting aggressive customer service SLAs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-10-27T08:45:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAINS",
+            "paragraphs": [
+                "The National Retail Federation has issued its 2026 holiday sales forecast, projecting a 4.2% annual increase to reach $1.013 trillion despite ongoing macroeconomic headwinds. This projected consumer spending growth requires precise inventory staging across omnichannel retail networks to avoid late-season stockouts.",
+                "Supply chain executives need to stress-test their last-mile delivery partners and fulfillment workflows to handle accelerated order velocity without eroding profit margins. Brands that align logistics capacity with projected consumer demand will capture market share while keeping fulfillment costs controlled."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: LA AND LB PORTS SET RECORDS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com/article/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic",
+                "Published: 2026-10-29T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR: YIELDS LAG BEHIND FUEL COSTS",
+            "heading": "LOGISTICS: LA AND LB PORTS SET RECORDS",
             "paragraphs": [
-                "Global air cargo analyses from Rotate indicate that airfreight yields continue to lag behind surging jet fuel prices, squeezing freighter operating margins despite robust volume growth. Operators are struggling to offset rising fuel overhead through standard surcharges, threatening the financial viability of key long-haul routes.",
-                "Air cargo shippers should anticipate sudden rate adjustments and potential capacity reductions on major trans-Pacific trade lanes as airlines prioritize profitability. Forwarders must secure guaranteed block-space agreements early to shield clients from volatile spot market price spikes."
+                "The Ports of Los Angeles and Long Beach have established all-time operational cargo handling records, driven by heavy pre-holiday inventory imports and sustained retail restocking. However, this high import volume has created significant intermodal rail container backlogs at on-dock terminals.",
+                "Cargo owners must monitor dwell times closely and coordinate closely with rail providers to prevent demurrage penalties on containers delayed at West Coast gateways. Proactive contingency routing is vital for maintaining delivery schedules as peak season volume strains terminal infrastructure."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
-                "Published: 2026-10-29T09:15:00Z",
+                "Source: https://www.ttnews.com/articles/ports-los-angeles-long-beach-records",
+                "Published: 2026-10-29T10:15:00Z",
                 "Status: Audited & True"
             ]
         }
