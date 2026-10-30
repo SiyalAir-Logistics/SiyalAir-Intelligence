@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CARGOWISE CUSTOMS MESSAGE DELAYS LEAVE",
-        "titleBlue": "FORWARDERS",
-        "footerSummary": "WiseTech platform messaging delays on Wednesday halted British and Japanese customs filings, exposing vulnerabilities in automated clearance corridors."
+        "titleWhite": "DOCKWORKERS STRIKE ACROSS 113",
+        "titleBlue": "PORTS",
+        "footerSummary": "Coordinated strikes across 113 global maritime hubs threaten terminal fluidity as Hormuz attacks escalate tanker risk and insurance premiums."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: CARGOWISE MESSAGE DELAYS LEAVE FORWARDERS",
+            "heading": "LABOR: DOCKWORKERS STRIKE ACROSS 113 PORTS",
             "paragraphs": [
-                "Users handling British and Japanese customs declarations via CargoWise experienced critical messaging delays on Wednesday that temporarily disrupted international clearance workflows. Customer notifications confirmed that WiseTech Global systems suffered transaction backlog bottlenecks before clearing the processing queue by Thursday morning. The unexpected IT outage forced logistics operators to manage manual exception handling across major trade entry points.",
-                "Supply chain managers relying on automated customs platforms must establish redundant messaging protocols to mitigate sudden software latency. Shippers should audit broker contingency procedures to prevent costly border dwell fees during platform processing interruptions."
+                "More than 25 maritime labor unions have initiated coordinated industrial walkouts and demonstrations across 113 commercial ports in 22 countries today. The widespread labor mobilization under international anti-war banners has effectively frozen container handling gates and berth operations across several key European and Mediterranean terminals. Port authorities report sudden cargo intake cessations and mounting berth queues across impacted trade gateways.",
+                "Supply chain directors face immediate vessel dwell spikes and compounding intermodal handoff friction across affected transshipment hubs. Importers must promptly reroute time-sensitive bookings and adjust discharge schedules to avoid steep detention and demurrage liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
+            "nextUpTease": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
             "tags": [
-                "Source: https://theloadstar.com/exclusive-cargowise-customs-message-delays-leave-forwarders-waiting-for-clearance/",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
+                "Published: 2026-10-30T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
+            "heading": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
             "paragraphs": [
-                "The major container port complexes of Los Angeles and Long Beach face potential labor disruption starting Sunday as current contract negotiation deadlines approach. Terminal operators and logistics providers are preparing contingency plans to manage potential gate closures and reduced cargo handling velocity. The looming labor uncertainty threatens to compound existing rail container congestion across West Coast supply chain corridors.",
-                "Supply chain executives must accelerate cargo intake schedules and secure alternative drayage capacity to insulate holiday inventory from terminal bottlenecks. Shippers should monitor union negotiations closely to avoid compounding demurrage expenses as dispute deadlines approach."
+                "A commercial tanker caught fire in the Strait of Hormuz after small-craft assailants attached explosive limpet mines directly to its hull 25NM northeast of Khasab. Naval forces evacuated 25 crew members while maritime safety agencies issued urgent navigation advisories for all regional vessel traffic. The targeted explosion marks an escalation in maritime warfare tactics within critical Middle Eastern transit choke points.",
+                "Ocean freight carriers and liquid bulk operators face immediate surges in war risk insurance premiums alongside mandatory security protocol reviews. Energy logistics planners must model bypass routing options around the Persian Gulf to prevent acute crude and product transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
+            "nextUpTease": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
             "tags": [
-                "Source: https://theloadstar.com/news-la-lb-port-complex-braces-for-potential-strike-as-labour-contract-expires/",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://maritime-executive.com/article/tanker-hit-by-limpet-mine-attack-in-strait-of-hormuz",
+                "Published: 2026-10-29T22:54:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
+            "heading": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
             "paragraphs": [
-                "C.H. Robinson has entered into a definitive agreement to acquire RXO in a $5.8B cash-and-stock transaction that significantly reshapes the third-party logistics landscape. The strategic combination expands C.H. Robinson's brokerage capabilities by integrating advanced expedited and last-mile service networks. Transaction closing is projected to occur during the first half of 2027 pending regulatory review.",
-                "Enterprise shippers utilizing third-party logistics providers must review existing carrier contracts and service level agreements to anticipate post-merger network adjustments. Procurement teams should evaluate supplier diversification strategies to maintain competitive freight pricing amid ongoing sector consolidation."
+                "Schneider National has executed a strategic intermodal shift, moving its primary eastern United States rail operations from CSX to Norfolk Southern. The operational realignment reallocates tens of thousands of container loads across eastern freight corridors to capitalize on expanded railhead network density. The transition comes amid heightened competition between Class I railroads for dedicated domestic intermodal volumes.",
+                "Intermodal logistics coordinators must recalibrate ramp pickup routines and terminal appointment windows to accommodate the eastern rail transition. Shippers utilizing Schneider equipment should verify drayage connection handoffs to prevent chassis shortages and gate bottlenecks during network migration."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
+            "nextUpTease": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/c.h._robinson_agrees_to_acquire_rxo_in_$5.8_billion_cash_and_stock_deal",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
+                "Published: 2026-10-30T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
+            "heading": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
             "paragraphs": [
-                "The National Retail Federation released its annual forecast projecting a 4.2% increase in holiday retail sales to reach $1.013T despite lingering macroeconomic headwinds. Retail supply chains are actively adjusting inventory distribution strategies to match shifting consumer purchasing timelines and moderated demand curves. The forecasted growth rate slightly surpasses previous year benchmarks while reflecting cautious consumer spending habits.",
-                "Logistics directors must balance inventory carrying costs with peak season stock availability to prevent expensive markdowns or stockouts. Supply chain planners should utilize precise demand sensing tools to optimize distribution center replenishment cycles throughout Q4."
+                "The Federal Motor Carrier Safety Administration has removed more than 10K commercial driver training providers from its official registry following nationwide compliance audits. The mass revocation targets non-compliant schools failing to satisfy curriculum, documentation, and instructor standards under Entry-Level Driver Training regulations. The sweeping enforcement action immediately contracts the pipeline of newly certified heavy-duty truck operators.",
+                "Fleet recruitment directors face protracted onboarding lead times and tighter driver hiring constraints as credential verification tightens across all states. Logistics managers should review carrier compliance vetting protocols to ensure contracted trucking partners maintain fully vetted and legal driving rosters."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
+            "nextUpTease": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
+                "Published: 2026-10-30T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
+            "heading": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
             "paragraphs": [
-                "Federal maritime regulators have announced a temporary delay on the implementation of punitive port fees targeting Chinese-flagged vessels until January 9. The regulatory postponement provides ocean carriers and major importers additional time to adjust vessel deployment schedules and contractual cost allocations. The postponed fee structure remains a central point of tension in ongoing bilateral trade negotiations.",
-                "Global ocean carriers and cargo owners must utilize the regulatory grace period to model alternative vessel routing and mitigate potential tariff exposure. Strategic compliance teams should review vessel registry configurations to minimize financial impact when the fee structure takes effect."
+                "State licensing authorities across Louisiana, Wyoming, and Ohio have officially ceased issuing or renewing non-domiciled commercial driver licenses while downgrading existing credentials. The state-level regulatory push addresses regulatory security concerns over cross-border driver credential validation and residency documentation standards. Motor vehicle agencies are auditing past issuances to purge unqualified interstate drivers from active commercial vehicle operation.",
+                "Cross-border motor carriers operating between the US, Canada, and Mexico must conduct forensic audits of driver licensing portfolios to identify impacted personnel. Fleets failing to replace downgraded non-domiciled licenses face roadside vehicle impoundment and severe safety rating downgrades."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
+            "nextUpTease": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
             "tags": [
-                "Source: https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-january-9/",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/more-states-halt-non-domiciled-cdl-programs",
+                "Published: 2026-10-30T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
+            "heading": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
             "paragraphs": [
-                "Recent state and federal truck safety enforcement blitzes across the United States and Canada resulted in the immediate removal of over 350 non-compliant drivers and commercial vehicles from service. Law enforcement agencies targeted critical safety equipment, hours-of-service compliance, and proper driver credentialing during the multi-day inspection campaign. The rigorous roadside audits underscore continuing regulatory pressure on fleet safety standards.",
-                "Fleet operators must enforce strict preventative maintenance schedules and digital compliance tracking to prevent costly roadside out-of-service orders. Supply chain managers should vet motor carrier safety ratings continuously to mitigate supply chain disruption risks."
+                "Verisk CargoNet documented 677 commercial freight theft incidents across North America during the third quarter, noting an aggressive shift toward high-value cargo targets. While overall theft volume showed a slight decline, total financial losses rose sharply as organized cargo syndicates deployed targeted digital fraud and fraudulent carrier pickups. High-value electronics, pharmaceuticals, and consumer commodities represent the highest concentration of intercepted shipments.",
+                "Transportation risk managers must implement strict multi-factor carrier identity verification at loading docks and mandate real-time covert GPS tracking on high-value loads. Procurement teams should reassess broker liability coverage and insurance limits to safeguard high-exposure inventory lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
+            "nextUpTease": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-canada-truck-enforcement-blitzes-sideline-350-drivers-vehicles",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.inboundlogistics.com/articles/cargo-theft-incidents-fall-as-thieves-target-higher-value-freight/",
+                "Published: 2026-10-30T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
+            "heading": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
             "paragraphs": [
-                "County commissioners in Florida have confirmed a tentative operational schedule for the historic ocean liner SS United States to begin artificial reefing preparations. Following nineteen months of intensive environmental remediation and structural clearance work, the vessel will be deployed to establish a permanent marine habitat. The complex towing and sinking operation marks the final chapter for the legendary passenger liner.",
-                "Specialized marine salvage and environmental remediation contractors involved in the project must coordinate strict adherence to federal maritime safety mandates. Maritime logistics planners should account for localized coastal vessel traffic restrictions during the scheduled reefing deployment."
+                "Severe flash flooding near Laguna, New Mexico washed out track infrastructure and disrupted freight operations across BNSF Railway's critical southern transcontinental route. The rail infrastructure damage forced track closures and prompted emergency maintenance crews to deploy ballast and repair washouts along the busy line. The interruption created immediate rail container backlogs linking Southern California ports to major Midwestern logistics centers.",
+                "Intermodal shippers moving peak season retail freight must prepare for 48 to 72 hour transit delays and potential rail terminal congestion across Chicago and Kansas City hubs. Supply chain managers should evaluate spot truckload alternatives to expedite time-critical retail inventory ahead of holiday promotion windows."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/tentative-date-set-for-reefing-historic-liner-ss-united-states",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network_20261030.html",
+                "Published: 2026-10-30T08:30:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: CARGOWISE MESSAGE DELAYS LEAVE FORWARDERS",
-                "teaserTitle": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
-                "visual_caption": "CargoWise messaging glitches disrupted British and Japanese customs filings on Wednesday. WiseTech cleared the backlog by Thursday, forcing manual exception workflows."
+                "headline": "LABOR: DOCKWORKERS STRIKE ACROSS 113 PORTS",
+                "teaserTitle": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
+                "visual_caption": "More than 25 maritime unions have launched coordinated strikes across 113 commercial ports in 22 countries. Terminal gate closures are halting cargo throughput and threatening container dwell times worldwide."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
-                "teaserTitle": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
-                "visual_caption": "LA and LB port terminals face potential labor disruptions as contract deadlines approach. Operators are activating contingency plans to protect cargo velocity."
+                "headline": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
+                "teaserTitle": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
+                "visual_caption": "Assailants detonated hull-mounted limpet mines against a commercial tanker in the Strait of Hormuz, forcing the evacuation of 25 crew members. Ocean carriers face surging war risk insurance premiums and extended transit rerouting."
             },
             {
                 "slide_index": 3,
-                "headline": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B deal. The combination expands major brokerage networks and last-mile service capabilities."
+                "headline": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
+                "teaserTitle": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "visual_caption": "Schneider has officially shifted its primary eastern intermodal rail operations to Norfolk Southern, terminating its legacy agreement with CSX. Shippers must recalibrate freight schedules to account for transitional terminal interchange workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
-                "teaserTitle": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
-                "visual_caption": "The NRF forecasts holiday retail sales will climb 4.2% to $1.013T. Retailers are optimizing distribution inventories for Q4 demand."
+                "headline": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "teaserTitle": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
+                "visual_caption": "Federal regulators have eliminated over 10K commercial driver training providers from national registries due to non-compliance. Motor carriers face severe onboarding bottlenecks and delayed CDL licensing cycles for new drivers."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
-                "teaserTitle": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
-                "visual_caption": "Federal regulators delayed punitive port fees on Chinese ships until Jan 9. Carriers have extra time to adjust routing and cost allocations."
+                "headline": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
+                "teaserTitle": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
+                "visual_caption": "Louisiana, Wyoming, and Ohio have terminated or downgraded non-domiciled CDLs to eliminate systemic cross-border verification loopholes. Interstate fleets must audit driver credential records to avoid immediate out-of-service roadside penalties."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
-                "teaserTitle": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
-                "visual_caption": "Roadside truck inspections across North America sidelined 350+ non-compliant vehicles. Blitzes targeted critical safety equipment and hours-of-service rules."
+                "headline": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
+                "teaserTitle": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
+                "visual_caption": "CargoNet recorded 677 freight thefts across North America this quarter, driven by organized syndicates targeting high-value inventory. Shippers must deploy covert tracking sensors and strict facility pickup protocols to combat surging transit losses."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
+                "headline": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
                 "teaserTitle": "",
-                "visual_caption": "Florida officials set a tentative schedule to deploy the liner SS United States for artificial reefing. Environmental remediation wrapped up after 19 months."
+                "visual_caption": "Severe flash flooding in New Mexico washed out critical track infrastructure along BNSF's southern transcontinental rail corridor. Shippers face multi-day delays and diverted intermodal equipment across primary cross-country freight routes."
             },
             {
                 "slide_index": 8,
