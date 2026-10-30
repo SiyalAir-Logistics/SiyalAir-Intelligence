@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "OIL PRICES INCREASE AS ATTACKS ON SHIPPING",
-        "titleBlue": "RAMP",
-        "footerSummary": "Brent crude climbed 2.5% to $113.51 a barrel as renewed Middle East attacks on commercial shipping threaten global supply chain margins."
+        "titleWhite": "CARGOWISE CUSTOMS MESSAGE DELAYS LEAVE",
+        "titleBlue": "FORWARDERS",
+        "footerSummary": "WiseTech platform messaging delays on Wednesday halted British and Japanese customs filings, exposing vulnerabilities in automated clearance corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FUEL: OIL PRICES INCREASE AS ATTACKS ON SHIPPING RAMP",
+            "heading": "CUSTOMS: CARGOWISE MESSAGE DELAYS LEAVE FORWARDERS",
             "paragraphs": [
-                "Global crude benchmarks surged as new kinetic attacks targeted commercial vessels operating across vital Middle Eastern shipping corridors. Brent crude climbed 2.5% to reach $113.51 a barrel, remaining near the high end of its trading range since regional hostilities escalated. The persistent maritime security threats have forced vessel operators to execute costly route diversions and secure emergency war risk insurance adjustments.",
-                "Supply chain procurement managers must immediately factor surging bunker fuel surcharges and elevated transit latency into Q4 freight budgeting frameworks. Shippers operating across affected maritime arteries should review contract rate mechanisms to insulate operating margins against compounding fuel inflation."
+                "Users handling British and Japanese customs declarations via CargoWise experienced critical messaging delays on Wednesday that temporarily disrupted international clearance workflows. Customer notifications confirmed that WiseTech Global systems suffered transaction backlog bottlenecks before clearing the processing queue by Thursday morning. The unexpected IT outage forced logistics operators to manage manual exception handling across major trade entry points.",
+                "Supply chain managers relying on automated customs platforms must establish redundant messaging protocols to mitigate sudden software latency. Shippers should audit broker contingency procedures to prevent costly border dwell fees during platform processing interruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SCHNEIDER TO SHIFT EASTERN RAIL BUSINESS TO NORFOLK SOUTHERN",
+            "nextUpTease": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-increase-attacks-shipping-ramp",
+                "Source: https://theloadstar.com/exclusive-cargowise-customs-message-delays-leave-forwarders-waiting-for-clearance/",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: SCHNEIDER TO SHIFT EASTERN RAIL BUSINESS TO NORFOLK SOUTHERN",
+            "heading": "PORTS: LA AND LB PORTS BRACE FOR POTENTIAL STRIKE",
             "paragraphs": [
-                "Intermodal transportation provider Schneider National announced it will transition its primary eastern rail partnership over to Norfolk Southern, leaving legacy carrier CSX. The strategic alignment coincides with Schneider publicly supporting the proposed $85B Union Pacific and Norfolk Southern merger. The network shift modifies operational routings across major inland container ramps and distribution hubs.",
-                "Intermodal freight shippers utilizing Schneider equipment across eastern domestic corridors must update drayage dispatch schedules to prevent terminal gate delays. Logistics procurement teams should re-evaluate baseline transit velocity and potential dwell charges as rail service providers reposition network assets."
+                "The major container port complexes of Los Angeles and Long Beach face potential labor disruption starting Sunday as current contract negotiation deadlines approach. Terminal operators and logistics providers are preparing contingency plans to manage potential gate closures and reduced cargo handling velocity. The looming labor uncertainty threatens to compound existing rail container congestion across West Coast supply chain corridors.",
+                "Supply chain executives must accelerate cargo intake schedules and secure alternative drayage capacity to insulate holiday inventory from terminal bottlenecks. Shippers should monitor union negotiations closely to avoid compounding demurrage expenses as dispute deadlines approach."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: SCAN GLOBAL LOGISTICS INKS DEAL TO ACQUIRE OIA GLOBAL",
+            "nextUpTease": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
             "tags": [
-                "Source: https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
+                "Source: https://theloadstar.com/news-la-lb-port-complex-braces-for-potential-strike-as-labour-contract-expires/",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ACQUISITIONS: SCAN GLOBAL LOGISTICS INKS DEAL TO ACQUIRE OIA GLOBAL",
+            "heading": "ACQUISITIONS: CH ROBINSON AGREES TO ACQUIRE RXO",
             "paragraphs": [
-                "Danish freight forwarder Scan Global Logistics has finalized an agreement to acquire Portland-based forwarder OIA Global in its largest corporate takeover to date. The purchase expands SGL's operational footprint across Pacific Northwest aerospace, industrial, and retail verticals spanning 20 countries. The transaction integrates 50 regional offices and dedicated cross-dock facilities directly into SGL's global forwarding network.",
-                "Cargo owners moving international freight across transpacific air and ocean lanes must review forwarder contract protections against potential back-office integration disruptions. Shippers currently utilizing OIA Global must audit existing service-level agreements to ensure uninterrupted cargo flow and stable pricing."
+                "C.H. Robinson has entered into a definitive agreement to acquire RXO in a $5.8B cash-and-stock transaction that significantly reshapes the third-party logistics landscape. The strategic combination expands C.H. Robinson's brokerage capabilities by integrating advanced expedited and last-mile service networks. Transaction closing is projected to occur during the first half of 2027 pending regulatory review.",
+                "Enterprise shippers utilizing third-party logistics providers must review existing carrier contracts and service level agreements to anticipate post-merger network adjustments. Procurement teams should evaluate supplier diversification strategies to maintain competitive freight pricing amid ongoing sector consolidation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LA AND LB PORTS FACE LOADING DELAYS",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/41123-update-ports-of-la-lb-ports-face-loading-delays-looming-strike",
+                "Source: https://www.logisticsmgmt.com/news/c.h._robinson_agrees_to_acquire_rxo_in_$5.8_billion_cash_and_stock_deal",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: LA AND LB PORTS FACE LOADING DELAYS",
+            "heading": "RETAIL: NRF FORECASTS 4.2% GROWTH IN HOLIDAY SALES",
             "paragraphs": [
-                "The major container port complexes of Los Angeles and Long Beach are grappling with severe landside congestion as more than 13,000 import boxes experience dwell times exceeding nine days awaiting rail loading. Retailers with distribution networks across the eastern half of the country report that holiday merchandise delivery timelines are facing serious disruption. The terminal bottlenecks coincide with looming labor contract expiration deadlines across West Coast maritime facilities.",
-                "Supply chain executives must model alternative intermodal routing options and secure dedicated drayage capacity to mitigate multi-day container dwell penalties. Shippers should evaluate diverting time-sensitive holiday inventory to secondary regional ports to protect retail fulfillment schedules."
+                "The National Retail Federation released its annual forecast projecting a 4.2% increase in holiday retail sales to reach $1.013T despite lingering macroeconomic headwinds. Retail supply chains are actively adjusting inventory distribution strategies to match shifting consumer purchasing timelines and moderated demand curves. The forecasted growth rate slightly surpasses previous year benchmarks while reflecting cautious consumer spending habits.",
+                "Logistics directors must balance inventory carrying costs with peak season stock availability to prevent expensive markdowns or stockouts. Supply chain planners should utilize precise demand sensing tools to optimize distribution center replenishment cycles throughout Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPPING: TANKER TARGETED WITH HULL-MOUNTED EXPLOSIVES IN HORMUZ",
+            "nextUpTease": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/41123-update-ports-of-la-lb-ports-face-loading-delays-looming-strike",
+                "Source: https://www.logisticsmgmt.com/news/nrf_forecasts_4.2_growth_in_2026_in_holiday_retail_sales_despite_economic",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SHIPPING: TANKER TARGETED WITH HULL MOUNTED EXPLOSIVES IN HORMUZ",
+            "heading": "COMPLIANCE: US DELAYS PORT FEES FOR CHINESE SHIPS",
             "paragraphs": [
-                "A commercial product tanker was set ablaze in the Strait of Hormuz after attackers deployed a small boat to attach explosive devices directly to the vessel's hull. The incident introduces an escalating tactical threat profile for commercial tonnage transiting the vital Middle Eastern chokepoint. Marine underwriters have responded by aggressively expanding risk boundaries and boosting war risk premiums for regional callers.",
-                "Energy importers and chemical shippers moving inventory through the Persian Gulf must calculate substantial freight rate surcharges into landed product costs. Charterers are actively reviewing emergency route suspensions and alternative sourcing origins to eliminate catastrophic vessel exposure."
+                "Federal maritime regulators have announced a temporary delay on the implementation of punitive port fees targeting Chinese-flagged vessels until January 9. The regulatory postponement provides ocean carriers and major importers additional time to adjust vessel deployment schedules and contractual cost allocations. The postponed fee structure remains a central point of tension in ongoing bilateral trade negotiations.",
+                "Global ocean carriers and cargo owners must utilize the regulatory grace period to model alternative vessel routing and mitigate potential tariff exposure. Strategic compliance teams should review vessel registry configurations to minimize financial impact when the fee structure takes effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: DOCKWORKERS UNITE ACROSS 113 PORTS IN GLOBAL ANTI-WAR PROTEST",
+            "nextUpTease": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
             "tags": [
-                "Source: https://splash247.com/tanker-targeted-with-hull-mounted-explosives-in-hormuz/",
+                "Source: https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-january-9/",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LABOR: DOCKWORKERS UNITE ACROSS 113 PORTS IN GLOBAL ANTI-WAR PROTEST",
+            "heading": "SAFETY: US TRUCK BLITZ NETS HUNDREDS OF VIOLATIONS",
             "paragraphs": [
-                "More than 25 maritime unions have mobilized across 113 ports in 22 countries to execute one of the largest coordinated port labor actions in modern trade history. The widespread work stoppages and demonstrations are disrupting vessel turnaround schedules and container handling operations worldwide. Port authorities across key European and Asian gateways are implementing contingency workflows to clear accumulating berth queues.",
-                "Global ocean carriers and B2B shippers must prepare for rolling schedule delays of 2 to 4 days across affected international marine terminals. Supply chain planners should adjust inventory safety stock thresholds to absorb acute terminal labor disruptions."
+                "Recent state and federal truck safety enforcement blitzes across the United States and Canada resulted in the immediate removal of over 350 non-compliant drivers and commercial vehicles from service. Law enforcement agencies targeted critical safety equipment, hours-of-service compliance, and proper driver credentialing during the multi-day inspection campaign. The rigorous roadside audits underscore continuing regulatory pressure on fleet safety standards.",
+                "Fleet operators must enforce strict preventative maintenance schedules and digital compliance tracking to prevent costly roadside out-of-service orders. Supply chain managers should vet motor carrier safety ratings continuously to mitigate supply chain disruption risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: SHIPMENTS CAN STILL MISS TARIFF BENEFITS",
+            "nextUpTease": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
             "tags": [
-                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
+                "Source: https://www.freightwaves.com/news/us-canada-truck-enforcement-blitzes-sideline-350-drivers-vehicles",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: SHIPMENTS CAN STILL MISS TARIFF BENEFITS",
+            "heading": "TECHNOLOGY: REEFING OPERATIONS SET FOR SS UNITED STATES",
             "paragraphs": [
-                "Importers utilizing newly established bilateral trade frameworks face complex documentary hurdles that frequently cause cargo shipments to miss preferential tariff reductions. Trade compliance auditors warn that rigid origin verification rules and strict filing timelines continue to trap commercial consignments at border entry points. Companies failing to automate customs data validation are incurring heavy administrative penalties and duty overpayments.",
-                "Enterprise logistics leaders must upgrade trade compliance software platforms to capture SKU-level origin data prior to port arrival. Optimizing customs brokerage workflows is essential to defending landed profit margins against unexpected regulatory tariff assessments."
+                "County commissioners in Florida have confirmed a tentative operational schedule for the historic ocean liner SS United States to begin artificial reefing preparations. Following nineteen months of intensive environmental remediation and structural clearance work, the vessel will be deployed to establish a permanent marine habitat. The complex towing and sinking operation marks the final chapter for the legendary passenger liner.",
+                "Specialized marine salvage and environmental remediation contractors involved in the project must coordinate strict adherence to federal maritime safety mandates. Maritime logistics planners should account for localized coastal vessel traffic restrictions during the scheduled reefing deployment."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/uk-india-trade-deal-is-live-but-india-to-uk-parcels-can-still-miss-tariff-benefits-warns-universal-delivery-solutions/",
+                "Source: https://maritime-executive.com/article/tentative-date-set-for-reefing-historic-liner-ss-united-states",
                 "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
