@@ -1,50 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA LB PORTS STRIKE DEADLINE",
-        "titleBlue": "DELAYED",
-        "footerSummary": "Southern California port labor negotiations avert immediate disruption as strike deadline extends to November 4, maintaining critical cargo flow."
+        "titleWhite": "PORT LABOR THREAT HITS LA LB",
+        "titleBlue": "COMPLEX",
+        "footerSummary": "The LA-LB port complex braces for potential disruption as labor contracts expire, threatening holiday container flows and supply chain reliability."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT: LA LB STRIKE DEADLINE DELAYED",
+            "heading": "PORT: LABOR THREAT HITS LA LB COMPLEX",
             "paragraphs": [
-                "The impending labor strike threat across the ports of Los Angeles and Long Beach has been officially postponed as maritime authorities and union representatives negotiate. This temporary extension averts immediate terminal shutdowns that threatened to trap billions of dollars in holiday retail inventory across Southern California gateways.",
-                "Supply chain executives and beneficial cargo owners must utilize this brief window to reroute time-sensitive import containers to alternative regional facilities. Forwarders should maintain close operational visibility over drayage dispatches to prevent catastrophic demurrage exposure if labor talks collapse."
+                "The United States ports of Los Angeles and Long Beach face potential disruption as labor contracts expire, raising immediate concerns over cargo handling continuity. Retailers and beneficial cargo owners are urgently reviewing contingency plans to prevent container bottlenecks across the critical Southern California maritime gateway.",
+                "Supply chain executives must monitor union negotiations closely to avoid unexpected demurrage charges and severe holiday fulfillment delays. Shippers should evaluate alternative coastal entry points to safeguard time-sensitive inventory from impending terminal congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: CARGOWISE MESSAGING DELAYS",
+            "nextUpTease": "RAIL: CONTAINER BACKLOG THREATENS RETAILERS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-10-30T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: CARGOWISE MESSAGING DELAYS",
+            "heading": "RAIL: CONTAINER BACKLOG THREATENS RETAILERS",
             "paragraphs": [
-                "Global freight forwarders utilizing the CargoWise platform experienced severe customs declaration messaging delays across British and Japanese operational hubs. While technical backlogs were cleared within 24 hours, the unexpected digital outage temporarily halted automated customs clearance workflows for thousands of international shipments.",
-                "Logistics providers must establish robust secondary customs filing protocols and redundant IT architecture to mitigate reliance on single-vendor software ecosystems. Technology directors need to audit electronic data interchange links to ensure seamless cross-border compliance during software outages."
+                "Retailers with distribution centers in the eastern half of the country report that severe rail container backlogs are jeopardizing holiday inventory deliveries. The accumulation of intermodal boxes at key terminals threatens to disrupt peak season fulfillment schedules ahead of Black Friday sales events.",
+                "Logistics directors need to establish agile drayage partnerships and secure priority rail allocations to maintain distribution velocity. Proactive inventory positioning across regional facilities remains essential to mitigate the cascading financial impacts of rail network friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ TANKER EXPLOSIVE ATTACKS",
+            "nextUpTease": "RAIL: NEW MEXICO FLOODS SNARL NETWORK",
             "tags": [
-                "Source: https://theloadstar.com/feed/",
+                "Source: https://www.joc.com",
                 "Published: 2026-10-30T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
+            "heading": "RAIL: NEW MEXICO FLOODS SNARL NETWORK",
             "paragraphs": [
-                "Commercial shipping through the Strait of Hormuz faced heightened kinetic threats after a product tanker was targeted by hull-mounted explosives deployed from small vessels. This sophisticated maritime attack introduces severe physical liabilities for crude carriers and disrupts traditional energy routing corridors in the Middle East.",
-                "Energy charterers and maritime risk managers must immediately reassess hull insurance premiums and mandate armed security escorts for vessel transits through high-risk zones. Shippers should evaluate alternative overland pipeline networks to safeguard petroleum supply chains from regional military volatility."
+                "A once-in-a-generation flood near Laguna, New Mexico, has severely disrupted BNSF Railway's intermodal network, halting cross-country freight flows. The catastrophic weather event creates substantial short-term capacity constraints for shippers relying on southern transcontinental rail corridors.",
+                "Freight forwarders must reroute affected intermodal shipments onto alternative northern rail routes or pivot to over-the-road transport solutions. Transport managers should prepare for immediate rate spikes and extended transit lead times across affected southwestern lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
+            "nextUpTease": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACK",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-10-30T08:45:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACK",
+            "paragraphs": [
+                "Commercial shipping through the Strait of Hormuz faces heightened physical risk after a product tanker was targeted by hull-mounted explosives from a small boat. This sophisticated attack introduces severe maritime security liabilities and disrupts vital energy transportation corridors in the Middle East.",
+                "Energy charterers and risk management teams must immediately reassess marine insurance premiums and mandate armed security escorts for vessel transits. Shippers are urged to evaluate alternative overland logistics networks to protect supply chain assets from regional volatility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SECURITY: CARGO THEFT LOSSES SURGE",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-10-30T08:15:00Z",
@@ -52,62 +67,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
-            "paragraphs": [
-                "North American industrial robot orders surged by 24.8% in the third quarter as manufacturing and logistics facilities accelerate automation deployment. Warehouses and distribution centers are aggressively investing in advanced material handling hardware to combat chronic labor shortages and reduce fulfillment cycle times.",
-                "Supply chain engineering teams must align capital expenditure budgets with scalable automation roadmaps to maintain competitive order processing speeds. Operations leaders should evaluate vendor integration timelines carefully to prevent facility downtime during warehouse robotics deployment phases."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: STATES HALT NON-DOMICILED CDL",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-10-30T07:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "REGULATION: STATES HALT NON-DOMICILED CDL",
+            "heading": "SECURITY: CARGO THEFT LOSSES SURGE",
             "paragraphs": [
-                "State transport authorities in Louisiana and Wyoming have officially ceased issuing non-domiciled commercial driver licenses, while Ohio is terminating its credentialing program. These coordinated regulatory rollbacks significantly tighten driver qualification standards across regional freight markets and restrict available carrier recruitment pools.",
-                "Motor carriers heavily dependent on non-domiciled driving personnel must restructure dispatch assignments and verify state-level compliance mandates immediately. Fleet operators failing to adapt face severe driver qualification deficits and compromised line-haul route continuity across state boundaries."
+                "Verisk CargoNet data reveals that while total cargo theft incidents dropped across North America, overall financial losses are surging significantly. Sophisticated criminal syndicates are increasingly targeting high-value electronics and pharmaceutical freight with precision hijacking tactics in transit hubs.",
+                "Supply chain security directors must enhance high-value freight tracking protocols and enforce strict carrier vetting procedures to prevent losses. Shippers should avoid unsecured drop yards and mandate continuous GPS monitoring across all premium cargo shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
+            "nextUpTease": "GOVERNMENT: FMCSA TARGETS HOS AND SMS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-10-30T08:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-10-30T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
+            "heading": "REGULATION: FMCSA TARGETS HOS AND SMS",
             "paragraphs": [
-                "Business email compromise generated 24,768 complaints and $3B in reported U.S. losses over the past year, driving rapid expansion in specialized cyber insurance coverage. Logistics enterprises face escalating digital threat vectors as interconnected freight brokerage platforms and financial portals become prime targets for cybercrime syndicates.",
-                "Risk management executives must implement advanced multi-factor authentication protocols and conduct mandatory cybersecurity training to satisfy rigorous insurance underwriting criteria. Safeguarding digital supply chain infrastructure is essential to prevent catastrophic operational disruption and financial fraud."
+                "The Federal Motor Carrier Safety Administration has set its sights on implementing further hours-of-service flexibilities and enhancing its safety measurement system. These upcoming regulatory adjustments aim to modernize compliance frameworks for motor carriers operating across competitive freight markets.",
+                "Fleet safety managers must review operating procedures to align with evolving federal safety metrics and avoid potential compliance downgrades. Proactive driver training adaptation will ensure seamless alignment with updated federal oversight standards without sacrificing line-haul productivity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
+            "nextUpTease": "TECHNOLOGY: CARGOWISE DELAYS RESOLVED",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-10-30T09:00:00Z",
+                "Published: 2026-10-30T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
+            "heading": "TECHNOLOGY: CARGOWISE DELAYS RESOLVED",
             "paragraphs": [
-                "Verisk CargoNet recorded 677 cargo theft incidents across the United States and Canada, revealing that overall incident volume has dropped while total financial losses surge. Sophisticated criminal syndicates are increasingly targeting high-value electronics and pharmaceutical freight with precision hijacking tactics.",
-                "Supply chain security directors must enhance high-value freight tracking protocols, mandate continuous trailer GPS monitoring, and enforce strict carrier vetting procedures. Shippers should avoid unsecured drop-yard facilities to protect premium cargo shipments from organized theft rings."
+                "Global freight forwarders utilizing CargoWise experienced severe customs declaration messaging delays across British and Japanese operational hubs before full resolution. Although technical backlogs were cleared within 24 hours, the unexpected digital outage temporarily halted automated clearance workflows.",
+                "Logistics technology directors must establish robust secondary customs filing protocols and redundant IT architecture to mitigate single-vendor reliance. Auditing electronic data interchange links guarantees continuous cross-border compliance during unexpected software disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-30T08:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-10-30T07:00:00Z",
                 "Status: Audited & True"
             ]
         }

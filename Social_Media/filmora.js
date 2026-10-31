@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT: LA LB STRIKE DEADLINE DELAYED",
-                "teaserTitle": "CUSTOMS: CARGOWISE MESSAGING DELAYS",
-                "visual_caption": "Southern California port labor negotiations extended the strike deadline to Nov. 4. This temporary reprieve protects critical holiday retail supply chains from severe terminal congestion."
+                "headline": "PORT: LABOR THREAT HITS LA LB COMPLEX",
+                "teaserTitle": "RAIL: CONTAINER BACKLOG THREATENS RETAILERS",
+                "visual_caption": "The ports of LA and LB face potential disruption as labor contracts expire. Supply chain executives must monitor negotiations closely to avoid demurrage and delays."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: CARGOWISE MESSAGING DELAYS",
-                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
-                "visual_caption": "Global forwarders faced significant customs clearance delays following an electronic messaging outage on CargoWise. While backlogs cleared within 24 hours, firms must establish redundant IT compliance protocols."
+                "headline": "RAIL: CONTAINER BACKLOG THREATENS RETAILERS",
+                "teaserTitle": "RAIL: NEW MEXICO FLOODS SNARL NETWORK",
+                "visual_caption": "Severe rail container backlogs are jeopardizing holiday inventory deliveries across eastern hubs. Logistics directors need secure priority rail allocations immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
-                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
-                "visual_caption": "A product tanker was struck by hull-mounted explosives in the Strait of Hormuz, intensifying regional maritime transport risks. Energy charterers are urgently reassessing hull insurance rates and security escort requirements."
+                "headline": "RAIL: NEW MEXICO FLOODS SNARL NETWORK",
+                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACK",
+                "visual_caption": "Catastrophic flooding in New Mexico has disrupted transcontinental intermodal freight flows. Transport managers should prepare for immediate rate spikes and delays."
             },
             {
                 "slide_index": 4,
-                "headline": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
-                "teaserTitle": "REGULATION: STATES HALT NON-DOMICILED CDL",
-                "visual_caption": "North American industrial robot orders jumped 24.8% in Q3 as facilities aggressively automate operations. Warehouses are deploying advanced automation to overcome persistent labor shortages."
+                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACK",
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SURGE",
+                "visual_caption": "Commercial shipping through the Strait of Hormuz faces heightened risk after an attack. Energy charterers must reassess insurance premiums and security escorts."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: STATES HALT NON-DOMICILED CDL",
-                "teaserTitle": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
-                "visual_caption": "Transportation authorities in Louisiana, Wyoming, and Ohio have halted non-domiciled commercial driver license programs. These regulatory rollbacks tighten credentialing standards and strain regional motor carrier recruitment pipelines."
+                "headline": "SECURITY: CARGO THEFT LOSSES SURGE",
+                "teaserTitle": "REGULATION: FMCSA TARGETS HOS AND SMS",
+                "visual_caption": "Cargo theft incidents dropped while total financial losses surge across North America. Security directors must enhance tracking and enforce strict carrier vetting."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
-                "teaserTitle": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
-                "visual_caption": "Business email compromise generated 24,768 complaints and $3B in losses, fueling cyber insurance demand. Logistics enterprises must upgrade digital security defenses against sophisticated financial fraud."
+                "headline": "REGULATION: FMCSA TARGETS HOS AND SMS",
+                "teaserTitle": "TECHNOLOGY: CARGOWISE DELAYS RESOLVED",
+                "visual_caption": "Federal regulators targeted hours-of-service flexibilities and safety measurement systems. Fleet managers must review operating procedures to align with compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
+                "headline": "TECHNOLOGY: CARGOWISE DELAYS RESOLVED",
                 "teaserTitle": "",
-                "visual_caption": "Reported cargo theft incidents reached 677 across North America while total financial losses continued rising. Criminal syndicates are increasingly targeting high-value freight with precision tracking methods."
+                "visual_caption": "Customs messaging delays recently impacted forwarders handling UK and Japan declarations. Technology directors must establish redundant IT architecture to mitigate risks."
             },
             {
                 "slide_index": 8,
