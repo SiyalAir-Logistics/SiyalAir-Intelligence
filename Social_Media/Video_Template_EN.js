@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DOCKWORKERS STRIKE ACROSS 113 GLOBAL PORTS",
+        "hookTitle": "LA LB PORTS BRACE FOR STRIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: DOCKWORKERS STRIKE ACROSS 113 PORTS",
-                "teaserTitle": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
+                "headline": "LABOR: LA LB PORTS BRACE FOR STRIKE",
+                "teaserTitle": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "More than twenty-five maritime unions have launched coordinated strikes across one hundred thirteen commercial ports in twenty-two countries. Terminal gate closures are halting cargo throughput and threatening container dwell times worldwide."
+                "narration_line": "The Los Angeles and Long Beach port complex faces potential disruption as labor contract expirations threaten terminal gate operations. Shippers must evaluate alternative routing strategies to prevent severe Black Friday delivery delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
-                "teaserTitle": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
+                "headline": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
+                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Assailants detonated hull-mounted limpet mines against a commercial tanker operating in the Strait of Hormuz, forcing the emergency evacuation of twenty-five crew members. Ocean carriers face surging war risk insurance premiums and extended transit rerouting."
+                "narration_line": "CargoWise software users encountered message delays that temporarily halted British and Japanese customs clearance filings. Freight forwarders must establish manual backup workflows to prevent cross-border compliance bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
-                "teaserTitle": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
+                "teaserTitle": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Schneider has officially shifted its primary eastern intermodal rail operations to Norfolk Southern, terminating its legacy routing framework with CSX. Shippers must recalibrate freight schedules to account for transitional terminal interchange workflows."
+                "narration_line": "The National Retail Federation projects holiday sales will increase four point two percent to reach one point zero one three trillion dollars. Retail distribution centers are scaling up automated capacity to manage incoming order surges."
             },
             {
                 "slide_index": 4,
-                "headline": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
-                "teaserTitle": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
+                "headline": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
+                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal regulators have eliminated more than ten thousand commercial driver training providers from national registries due to widespread non-compliance. Motor carriers face severe onboarding bottlenecks and delayed commercial licensing cycles for new drivers."
+                "narration_line": "Soaring tanker freight rates are imposing billions of dollars in added shipping liabilities on global energy corporations. Refiners must optimize voyage scheduling to absorb rising maritime transport overhead."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
-                "teaserTitle": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
+                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Louisiana, Wyoming, and Ohio have terminated or downgraded non-domiciled commercial driver licenses to eliminate systemic cross-border verification loopholes. Interstate fleets must audit driver credential records to avoid immediate out-of-service roadside penalties."
+                "narration_line": "The White House launched a national security trade review targeting imported warehouse automation and robotics hardware. Operators must diversify component sourcing channels to mitigate potential tariff liabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
-                "teaserTitle": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
+                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "CargoNet recorded six hundred seventy-seven freight thefts across North America this quarter, driven by organized rings targeting ultra-high-value inventory. Shippers must deploy covert tracking sensors and strict facility pickup protocols to combat surging transit losses."
+                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar transaction slated to close in early twenty twenty-seven. This major consolidation significantly expands third-party logistics market capabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
+                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Severe flash flooding in New Mexico washed out critical track infrastructure along BNSF's southern transcontinental rail network. Shippers face multi-day delays and diverted intermodal equipment across primary cross-country supply chain corridors."
+                "narration_line": "Union Pacific Railroad purchased five hundred new domestic intermodal containers, ending a three-year equipment freeze. Shippers should leverage this expanded supply to secure box allocations."
             },
             {
                 "slide_index": 8,

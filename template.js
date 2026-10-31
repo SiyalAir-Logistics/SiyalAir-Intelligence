@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DOCKWORKERS STRIKE ACROSS 113",
-        "titleBlue": "PORTS",
-        "footerSummary": "Coordinated strikes across 113 global maritime hubs threaten terminal fluidity as Hormuz attacks escalate tanker risk and insurance premiums."
+        "titleWhite": "LA LB PORTS BRACE FOR",
+        "titleBlue": "STRIKE",
+        "footerSummary": "Pending labor walkouts across Southern California threaten terminal fluidity as holiday inventory queues face severe Black Friday delays."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: DOCKWORKERS STRIKE ACROSS 113 PORTS",
+            "heading": "LABOR: LA LB PORTS BRACE FOR STRIKE",
             "paragraphs": [
-                "More than 25 maritime labor unions have initiated coordinated industrial walkouts and demonstrations across 113 commercial ports in 22 countries today. The widespread labor mobilization under international anti-war banners has effectively frozen container handling gates and berth operations across several key European and Mediterranean terminals. Port authorities report sudden cargo intake cessations and mounting berth queues across impacted trade gateways.",
-                "Supply chain directors face immediate vessel dwell spikes and compounding intermodal handoff friction across affected transshipment hubs. Importers must promptly reroute time-sensitive bookings and adjust discharge schedules to avoid steep detention and demurrage liabilities."
+                "The United States port complex encompassing Los Angeles and Long Beach faces an imminent disruption risk as the local labor contract expiration triggers potential strike actions. Terminal operators and logistics managers are rushing contingency protocols as union representatives signal possible gate closures across the nation's busiest maritime gateway. Importers handling seasonal inventory face sudden berthing delays and compounding dwell times right ahead of peak retail delivery windows.",
+                "Supply chain executives must quickly evaluate alternative diversion gateways along the Pacific Northwest and Gulf coasts to maintain time-sensitive distribution schedules. Shippers failing to secure alternate routing agreements risk severe demurrage penalties and missed delivery targets for Black Friday inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
+            "nextUpTease": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
             "tags": [
-                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
-                "Published: 2026-10-30T07:15:00Z",
+                "Source: https://theloadstar.com/lalb-port-complex-braces-for-potential-strike-as-labour-contract-expires/",
+                "Published: 2026-10-30T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ TANKER HIT BY LIMPET MINES",
+            "heading": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
             "paragraphs": [
-                "A commercial tanker caught fire in the Strait of Hormuz after small-craft assailants attached explosive limpet mines directly to its hull 25NM northeast of Khasab. Naval forces evacuated 25 crew members while maritime safety agencies issued urgent navigation advisories for all regional vessel traffic. The targeted explosion marks an escalation in maritime warfare tactics within critical Middle Eastern transit choke points.",
-                "Ocean freight carriers and liquid bulk operators face immediate surges in war risk insurance premiums alongside mandatory security protocol reviews. Energy logistics planners must model bypass routing options around the Persian Gulf to prevent acute crude and product transit delays."
+                "CargoWise platform users handling British and Japanese customs declarations experienced critical messaging delays and electronic filing interruptions this week. While system backlogs were subsequently cleared by platform engineering teams, the temporary disruption left freight forwarders temporarily stranded without official import clearances. The IT outage highlights systemic vulnerabilities in centralized logistics software dependencies during peak transaction windows.",
+                "Logistics service providers must establish robust secondary communication channels and manual contingency workflows to mitigate sudden platform downtime. Customs brokers face heightened operational risks and must audit compliance tracking systems to prevent cross-border bottlenecks during software updates."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
             "tags": [
-                "Source: https://maritime-executive.com/article/tanker-hit-by-limpet-mine-attack-in-strait-of-hormuz",
-                "Published: 2026-10-29T22:54:00Z",
+                "Source: https://theloadstar.com/exclusive-cargowise-customs-message-delay-leave-forwarders-waiting-for-clearance/",
+                "Published: 2026-10-30T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: SCHNEIDER SHIFTS EASTERN TRAFFIC TO NS",
+            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
             "paragraphs": [
-                "Schneider National has executed a strategic intermodal shift, moving its primary eastern United States rail operations from CSX to Norfolk Southern. The operational realignment reallocates tens of thousands of container loads across eastern freight corridors to capitalize on expanded railhead network density. The transition comes amid heightened competition between Class I railroads for dedicated domestic intermodal volumes.",
-                "Intermodal logistics coordinators must recalibrate ramp pickup routines and terminal appointment windows to accommodate the eastern rail transition. Shippers utilizing Schneider equipment should verify drayage connection handoffs to prevent chassis shortages and gate bottlenecks during network migration."
+                "The National Retail Federation has released its official holiday sales projection, anticipating a 4.2% annual increase to reach $1.013T in total consumer spending. Despite persistent economic headwinds and inflationary pressures across consumer goods, retail demand remains resilient as merchants prepare for an compressed peak shopping season. Distribution centers are scaling up temporary labor and automated sorting capacity to manage projected order surges.",
+                "Supply chain directors must balance inventory carrying costs against the risk of stockouts during compressed promotional execution windows. Retail logistics planners should coordinate closely with carrier partners to secure guaranteed drayage and parcel capacity before peak shipping surcharges escalate."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+            "nextUpTease": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
-                "Published: 2026-10-30T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-10-30T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+            "heading": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration has removed more than 10K commercial driver training providers from its official registry following nationwide compliance audits. The mass revocation targets non-compliant schools failing to satisfy curriculum, documentation, and instructor standards under Entry-Level Driver Training regulations. The sweeping enforcement action immediately contracts the pipeline of newly certified heavy-duty truck operators.",
-                "Fleet recruitment directors face protracted onboarding lead times and tighter driver hiring constraints as credential verification tightens across all states. Logistics managers should review carrier compliance vetting protocols to ensure contracted trucking partners maintain fully vetted and legal driving rosters."
+                "Soaring tanker freight rates are exerting heavy financial pressure on global energy corporations, resulting in billions of dollars in added maritime shipping liabilities. Runaway voyage costs and tightening vessel availability have compressed refining margins and created volatility across international crude trading desks. Geopolitical tensions in key Middle East shipping lanes continue to inflate premium insurance and operational expenses.",
+                "Energy logistics managers must reassess long-term charter party agreements and explore fleet modernization strategies to hedge against volatile spot market spikes. Refiners should optimize voyage routing and inventory holding strategies to absorb escalating maritime transport overhead without disrupting regional product supply."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
+            "nextUpTease": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
-                "Published: 2026-10-30T08:00:00Z",
+                "Source: https://splash247.com/oil-majors-count-the-cost-of-runaway-tanker-rates/",
+                "Published: 2026-10-30T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: STATES CURB NON-DOMICILED CDLS",
+            "heading": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
             "paragraphs": [
-                "State licensing authorities across Louisiana, Wyoming, and Ohio have officially ceased issuing or renewing non-domiciled commercial driver licenses while downgrading existing credentials. The state-level regulatory push addresses regulatory security concerns over cross-border driver credential validation and residency documentation standards. Motor vehicle agencies are auditing past issuances to purge unqualified interstate drivers from active commercial vehicle operation.",
-                "Cross-border motor carriers operating between the US, Canada, and Mexico must conduct forensic audits of driver licensing portfolios to identify impacted personnel. Fleets failing to replace downgraded non-domiciled licenses face roadside vehicle impoundment and severe safety rating downgrades."
+                "The White House has initiated a comprehensive national security trade review focusing specifically on imported warehouse automation and robotics hardware. Federal regulators are evaluating potential supply chain vulnerabilities and leaving future tariff implementations on the table for critical robotic components. The policy scrutiny comes as distribution centers increasingly rely on automated material handling systems to combat ongoing labor shortages.",
+                "Warehouse operators and supply chain automation integrators must diversify component sourcing channels to mitigate potential import duty liabilities. Engineering leadership should review capital expenditure pipelines for warehouse robotics upgrades to ensure compliance with shifting federal trade mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
+            "nextUpTease": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
             "tags": [
-                "Source: https://www.ttnews.com/articles/more-states-halt-non-domiciled-cdl-programs",
-                "Published: 2026-10-30T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-10-30T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: HIGH-VALUE CARGO THEFT RISES IN Q3",
+            "heading": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
             "paragraphs": [
-                "Verisk CargoNet documented 677 commercial freight theft incidents across North America during the third quarter, noting an aggressive shift toward high-value cargo targets. While overall theft volume showed a slight decline, total financial losses rose sharply as organized cargo syndicates deployed targeted digital fraud and fraudulent carrier pickups. High-value electronics, pharmaceuticals, and consumer commodities represent the highest concentration of intercepted shipments.",
-                "Transportation risk managers must implement strict multi-factor carrier identity verification at loading docks and mandate real-time covert GPS tracking on high-value loads. Procurement teams should reassess broker liability coverage and insurance limits to safeguard high-exposure inventory lines."
+                "C.H. Robinson Worldwide has formally agreed to acquire RXO in a massive $5.8B cash-and-stock transaction slated to close in the first half of 2027. The landmark consolidation deal significantly expands C.H. Robinson's footprint in expedited freight and last-mile delivery services across North America. Industry analysts note the merger represents a major structural realignment within the third-party logistics and brokerage sector.",
+                "Shippers utilizing outsourced transportation management must evaluate how consolidated broker networks will impact contracted pricing and service level agreements. Logistics procurement teams should monitor carrier relationship stability and platform integration roadmaps as the multi-billion-dollar merger moves toward completion."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
+            "nextUpTease": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/cargo-theft-incidents-fall-as-thieves-target-higher-value-freight/",
-                "Published: 2026-10-30T09:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-10-30T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: BNSF INTERMODAL SNARLED BY NM FLOODS",
+            "heading": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
             "paragraphs": [
-                "Severe flash flooding near Laguna, New Mexico washed out track infrastructure and disrupted freight operations across BNSF Railway's critical southern transcontinental route. The rail infrastructure damage forced track closures and prompted emergency maintenance crews to deploy ballast and repair washouts along the busy line. The interruption created immediate rail container backlogs linking Southern California ports to major Midwestern logistics centers.",
-                "Intermodal shippers moving peak season retail freight must prepare for 48 to 72 hour transit delays and potential rail terminal congestion across Chicago and Kansas City hubs. Supply chain managers should evaluate spot truckload alternatives to expedite time-critical retail inventory ahead of holiday promotion windows."
+                "Union Pacific Railroad has officially placed an order for 500 new domestic intermodal containers, breaking a three-year industry equipment freeze. The strategic procurement diverges from the cautious capital deployment strategies traditionally favored by private asset-owning intermodal providers. The equipment injection aims to support growing domestic freight volumes and enhance intermodal asset availability across western rail corridors.",
+                "Intermodal shippers and drayage carriers should leverage the expanded equipment supply to secure reliable box allocations ahead of peak shipping surges. Logistics planners must coordinate terminal interchange schedules to ensure seamless repositioning of the newly acquired domestic container fleets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network_20261030.html",
-                "Published: 2026-10-30T08:30:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-30T06:00:00Z",
                 "Status: Audited & True"
             ]
         }
