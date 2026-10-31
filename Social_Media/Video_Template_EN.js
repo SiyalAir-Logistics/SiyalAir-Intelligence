@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LA LB PORTS BRACE FOR STRIKE",
+        "hookTitle": "TANKER RATES SQUEEZE MAJORS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA LB PORTS BRACE FOR STRIKE",
-                "teaserTitle": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
+                "headline": "MARITIME: TANKER RATES SQUEEZE MAJORS",
+                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Los Angeles and Long Beach port complex faces potential disruption as labor contract expirations threaten terminal gate operations. Shippers must evaluate alternative routing strategies to prevent severe Black Friday delivery delays."
+                "narration_line": "Soaring tanker freight rates are exerting heavy financial pressure on global energy corporations. Runaway voyage costs have compressed refining margins and inflated maritime shipping liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
+                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CargoWise software users encountered message delays that temporarily halted British and Japanese customs clearance filings. Freight forwarders must establish manual backup workflows to prevent cross-border compliance bottlenecks."
+                "narration_line": "The White House has initiated a national security review focusing on imported warehouse automation. Regulators are evaluating potential supply chain vulnerabilities and future tariff implementations."
             },
             {
                 "slide_index": 3,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
-                "teaserTitle": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
+                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The National Retail Federation projects holiday sales will increase four point two percent to reach one point zero one three trillion dollars. Retail distribution centers are scaling up automated capacity to manage incoming order surges."
+                "narration_line": "C.H. Robinson has agreed to acquire RXO in a five point eight billion dollar transaction. The deal significantly expands its footprint in expedited freight and last-mile services."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
-                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "teaserTitle": "REGULATION: FMCSA TAKES AIM AT HOS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Soaring tanker freight rates are imposing billions of dollars in added shipping liabilities on global energy corporations. Refiners must optimize voyage scheduling to absorb rising maritime transport overhead."
+                "narration_line": "Union Pacific Railroad has placed an order for five hundred new domestic containers. This purchase breaks a three-year industry equipment freeze across western rail corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "headline": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "teaserTitle": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The White House launched a national security trade review targeting imported warehouse automation and robotics hardware. Operators must diversify component sourcing channels to mitigate potential tariff liabilities."
+                "narration_line": "The FMCSA is targeting hours-of-service flexibility and safety measurement updates. Motor carriers must prepare for revised compliance auditing frameworks that impact transit schedules."
             },
             {
                 "slide_index": 6,
-                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "headline": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
+                "teaserTitle": "LABOR: STATES HALT NON-DOMICILED CDL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar transaction slated to close in early twenty twenty-seven. This major consolidation significantly expands third-party logistics market capabilities."
+                "narration_line": "Business email compromise generated three billion dollars in reported losses last year. Logistics enterprises are rapidly expanding cyber insurance coverage to mitigate digital fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "headline": "LABOR: STATES HALT NON-DOMICILED CDL",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Union Pacific Railroad purchased five hundred new domestic intermodal containers, ending a three-year equipment freeze. Shippers should leverage this expanded supply to secure box allocations."
+                "narration_line": "Louisiana and Wyoming have ceased issuing non-domiciled commercial driver licenses. These rollbacks tighten driver credentialing standards across regional freight markets."
             },
             {
                 "slide_index": 8,

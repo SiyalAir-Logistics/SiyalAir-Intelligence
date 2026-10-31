@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA LB PORTS BRACE FOR STRIKE",
-                "teaserTitle": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
-                "visual_caption": "LA and LB ports face potential disruption as labor contract expirations threaten terminal gate operations. Shippers must evaluate alternative routing strategies to prevent severe Black Friday delivery delays."
+                "headline": "MARITIME: TANKER RATES SQUEEZE MAJORS",
+                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "visual_caption": "Soaring tanker freight rates exert heavy pressure on global energy majors. Runaway voyage costs have compressed refining margins and inflated shipping liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: CARGOWISE OUTAGE HALTS CUSTOMS CLEARANCE",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
-                "visual_caption": "CargoWise platform users encountered message delays that temporarily halted UK and Japanese customs clearances. Freight forwarders must establish manual backup workflows to prevent cross-border bottlenecks."
+                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "visual_caption": "The White House initiated a national security review on imported robotics hardware. Regulators are evaluating supply chain vulnerabilities and potential tariffs."
             },
             {
                 "slide_index": 3,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY SALES GROWTH",
-                "teaserTitle": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
-                "visual_caption": "The NRF projects holiday sales will increase 4.2% to reach $1.013T. Retail distribution centers are scaling up automated capacity to manage incoming order surges."
+                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock deal. The transaction significantly expands North American expedited freight services."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: TANKER RATES SQUEEZE OIL MAJORS",
-                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "visual_caption": "Soaring tanker freight rates are imposing billions of dollars in added shipping liabilities on global energy corporations. Refiners must optimize voyage scheduling to absorb rising maritime transport overhead."
+                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "teaserTitle": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "visual_caption": "Union Pacific ordered 500 new domestic intermodal containers. This purchase breaks a 3-year industry equipment freeze across rail corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "visual_caption": "The White House launched a national security trade review targeting imported warehouse automation and robotics hardware. Operators must diversify component sourcing channels to mitigate potential tariff liabilities."
+                "headline": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "teaserTitle": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
+                "visual_caption": "The FMCSA targets HOS flexibility and SMS updates in coming weeks. Motor carriers must prepare for revised compliance auditing frameworks."
             },
             {
                 "slide_index": 6,
-                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B transaction slated to close in H1 2027. This major consolidation significantly expands third-party logistics market capabilities."
+                "headline": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
+                "teaserTitle": "LABOR: STATES HALT NON-DOMICILED CDL",
+                "visual_caption": "Business email compromise drove $3B in reported U.S. losses last year. Logistics enterprises are rapidly expanding cyber insurance coverage."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "headline": "LABOR: STATES HALT NON-DOMICILED CDL",
                 "teaserTitle": "",
-                "visual_caption": "Union Pacific Railroad purchased 500 new domestic intermodal containers, ending a 3-year equipment freeze. Shippers should leverage this expanded supply to secure box allocations."
+                "visual_caption": "Louisiana and Wyoming ceased issuing non-domiciled commercial driver licenses. State rollbacks tighten credentialing standards across regional freight markets."
             },
             {
                 "slide_index": 8,
