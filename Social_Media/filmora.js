@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TANKER RATES SQUEEZE MAJORS",
-                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "visual_caption": "Soaring tanker freight rates exert heavy pressure on global energy majors. Runaway voyage costs have compressed refining margins and inflated shipping liabilities."
+                "headline": "PORT: LA LB STRIKE DEADLINE DELAYED",
+                "teaserTitle": "CUSTOMS: CARGOWISE MESSAGING DELAYS",
+                "visual_caption": "Southern California port labor negotiations extended the strike deadline to Nov. 4. This temporary reprieve protects critical holiday retail supply chains from severe terminal congestion."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "visual_caption": "The White House initiated a national security review on imported robotics hardware. Regulators are evaluating supply chain vulnerabilities and potential tariffs."
+                "headline": "TECHNOLOGY: CARGOWISE MESSAGING DELAYS",
+                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
+                "visual_caption": "Global forwarders faced significant customs clearance delays following an electronic messaging outage on CargoWise. While backlogs cleared within 24 hours, firms must establish redundant IT compliance protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock deal. The transaction significantly expands North American expedited freight services."
+                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
+                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
+                "visual_caption": "A product tanker was struck by hull-mounted explosives in the Strait of Hormuz, intensifying regional maritime transport risks. Energy charterers are urgently reassessing hull insurance rates and security escort requirements."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
-                "teaserTitle": "REGULATION: FMCSA TAKES AIM AT HOS",
-                "visual_caption": "Union Pacific ordered 500 new domestic intermodal containers. This purchase breaks a 3-year industry equipment freeze across rail corridors."
+                "headline": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
+                "teaserTitle": "REGULATION: STATES HALT NON-DOMICILED CDL",
+                "visual_caption": "North American industrial robot orders jumped 24.8% in Q3 as facilities aggressively automate operations. Warehouses are deploying advanced automation to overcome persistent labor shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "headline": "REGULATION: STATES HALT NON-DOMICILED CDL",
                 "teaserTitle": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
-                "visual_caption": "The FMCSA targets HOS flexibility and SMS updates in coming weeks. Motor carriers must prepare for revised compliance auditing frameworks."
+                "visual_caption": "Transportation authorities in Louisiana, Wyoming, and Ohio have halted non-domiciled commercial driver license programs. These regulatory rollbacks tighten credentialing standards and strain regional motor carrier recruitment pipelines."
             },
             {
                 "slide_index": 6,
                 "headline": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
-                "teaserTitle": "LABOR: STATES HALT NON-DOMICILED CDL",
-                "visual_caption": "Business email compromise drove $3B in reported U.S. losses last year. Logistics enterprises are rapidly expanding cyber insurance coverage."
+                "teaserTitle": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
+                "visual_caption": "Business email compromise generated 24,768 complaints and $3B in losses, fueling cyber insurance demand. Logistics enterprises must upgrade digital security defenses against sophisticated financial fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR: STATES HALT NON-DOMICILED CDL",
+                "headline": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
                 "teaserTitle": "",
-                "visual_caption": "Louisiana and Wyoming ceased issuing non-domiciled commercial driver licenses. State rollbacks tighten credentialing standards across regional freight markets."
+                "visual_caption": "Reported cargo theft incidents reached 677 across North America while total financial losses continued rising. Criminal syndicates are increasingly targeting high-value freight with precision tracking methods."
             },
             {
                 "slide_index": 8,

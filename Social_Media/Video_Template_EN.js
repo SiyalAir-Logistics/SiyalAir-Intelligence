@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TANKER RATES SQUEEZE MAJORS",
+        "hookTitle": "LA LB PORTS STRIKE DEADLINE DELAYED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TANKER RATES SQUEEZE MAJORS",
-                "teaserTitle": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
+                "headline": "PORT: LA LB STRIKE DEADLINE DELAYED",
+                "teaserTitle": "CUSTOMS: CARGOWISE MESSAGING DELAYS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Soaring tanker freight rates are exerting heavy financial pressure on global energy corporations. Runaway voyage costs have compressed refining margins and inflated maritime shipping liabilities."
+                "narration_line": "Southern California port labor negotiations averted an immediate shutdown by extending the strike deadline to November fourth. This temporary reprieve protects critical holiday retail supply chains from severe terminal congestion."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: WHITE HOUSE TARGETS ROBOTICS IMPORTS",
-                "teaserTitle": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
+                "headline": "TECHNOLOGY: CARGOWISE MESSAGING DELAYS",
+                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The White House has initiated a national security review focusing on imported warehouse automation. Regulators are evaluating potential supply chain vulnerabilities and future tariff implementations."
+                "narration_line": "Global forwarders faced significant customs clearance delays following an electronic messaging outage on the CargoWise software platform. While backlogs cleared within twenty four hours, firms must establish redundant IT compliance protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "ACQUISITION: CH ROBINSON TO ACQUIRE RXO",
-                "teaserTitle": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
+                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVE ATTACKS",
+                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "C.H. Robinson has agreed to acquire RXO in a five point eight billion dollar transaction. The deal significantly expands its footprint in expedited freight and last-mile services."
+                "narration_line": "A product tanker was struck by hull mounted explosives in the Strait of Hormuz, intensifying regional maritime transport risks. Energy charterers are urgently reassessing hull insurance rates and security escort requirements."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: UP RESUMES DOMESTIC CONTAINER EXPANSION",
-                "teaserTitle": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "headline": "ROBOTICS: NORTH AMERICAN ORDERS SURGE",
+                "teaserTitle": "REGULATION: STATES HALT NON-DOMICILED CDL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Union Pacific Railroad has placed an order for five hundred new domestic containers. This purchase breaks a three-year industry equipment freeze across western rail corridors."
+                "narration_line": "North American industrial robot orders jumped twenty four point eight percent in the third quarter as facilities aggressively automate operations. Warehouses are deploying advanced automation to overcome persistent labor shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: FMCSA TAKES AIM AT HOS",
+                "headline": "REGULATION: STATES HALT NON-DOMICILED CDL",
                 "teaserTitle": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The FMCSA is targeting hours-of-service flexibility and safety measurement updates. Motor carriers must prepare for revised compliance auditing frameworks that impact transit schedules."
+                "narration_line": "Transportation authorities in Louisiana, Wyoming, and Ohio have halted non-domiciled commercial driver license programs. These regulatory rollbacks tighten credentialing standards and strain regional motor carrier recruitment pipelines."
             },
             {
                 "slide_index": 6,
                 "headline": "SECURITY: CYBER INSURANCE EXPANDS AMID ATTACKS",
-                "teaserTitle": "LABOR: STATES HALT NON-DOMICILED CDL",
+                "teaserTitle": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Business email compromise generated three billion dollars in reported losses last year. Logistics enterprises are rapidly expanding cyber insurance coverage to mitigate digital fraud."
+                "narration_line": "Business email compromise generated twenty four thousand complaints and three billion dollars in losses, fueling cyber insurance demand. Logistics enterprises must upgrade digital security defenses against sophisticated financial fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR: STATES HALT NON-DOMICILED CDL",
+                "headline": "CARGO: THEFT LOSSES RISE DESPITE DIPS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Louisiana and Wyoming have ceased issuing non-domiciled commercial driver licenses. These rollbacks tighten driver credentialing standards across regional freight markets."
+                "narration_line": "Reported cargo theft incidents reached six hundred seventy seven across North America while total financial losses continued rising. Criminal syndicates are increasingly targeting high value freight with precision tracking methods."
             },
             {
                 "slide_index": 8,
