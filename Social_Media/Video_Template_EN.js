@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HORMUZ REROUTING WILL RAISE CONSUMER PRICES",
+        "hookTitle": "113 GLOBAL PORTS HIT BY COORDINATED STRIKES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: HORMUZ REROUTING WILL RAISE CONSUMER PRICES",
-                "teaserTitle": "ROBOT ORDERS INCREASE 24.8% IN Q3",
+                "headline": "LABOR: 113 PORTS FACE COORDINATED STRIKES",
+                "teaserTitle": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Strait of Hormuz military attacks pushed Brent crude up two point five percent to one hundred thirteen dollars per barrel. Carriers are rerouting transit corridors, which will directly elevate consumer goods pricing."
+                "narration_line": "Over twenty-five labor unions have launched coordinated strikes across one hundred thirteen commercial ports in twenty-two countries. Shippers face immediate container terminal shutdowns and mounting vessel queues that threaten schedule reliability across primary ocean trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "ROBOTICS: ROBOT ORDERS INCREASE 24.8% IN Q3",
-                "teaserTitle": "SHIPPER COSTS HIT 5-YEAR HIGH",
+                "headline": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "CUSTOMS: CARGOWISE OUTAGE SNARLS CLEARANCES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "North American automation investments drove a twenty-four point eight percent increase in robot orders during the third quarter. Warehouses are rapidly adopting robotics to mitigate persistent labor shortages."
+                "narration_line": "C H Robinson has agreed to acquire logistics provider R X O in a five point eight billion dollar cash and stock transaction. The enterprise acquisition consolidates freight brokerage volumes and significantly expands North American expedited and final mile transport networks."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
-                "teaserTitle": "CMA CGM EXPANDS EAST AFRICAN RAIL",
+                "headline": "CUSTOMS: CARGOWISE OUTAGE SNARLS CLEARANCES",
+                "teaserTitle": "CROSS-BORDER: CABOTAGE RULES PENALIZE FLEETS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Total freight transportation costs reached a five-year high as tightening spot capacity intersected with demand. Motor carriers are successfully pushing rate increases to cover rising insurance premiums."
+                "narration_line": "WiseTech Global suffered widespread customs messaging delays on its CargoWise platform, disrupting clearance filings across Britain and Japan. Freight forwarders experienced extended gateway backlogs, forcing customs brokerage operations to deploy manual entry procedures."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: CMA CGM EXPANDS EAST AFRICAN RAIL",
-                "teaserTitle": "NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "headline": "CROSS-BORDER: CABOTAGE RULES PENALIZE FLEETS",
+                "teaserTitle": "INTERMODAL: BNSF NETWORK HIT BY NM FLOODING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cma CGM launched a dedicated freight train service connecting the Port of Mombasa to East African inland hubs. The multimodal connection bypasses congested highway corridors handling forty-five million metric tons annually."
+                "narration_line": "Heightened cross-border cabotage enforcements along the Mexican border are restricting foreign drayage carriers from handling regional domestic legs. Regional authorities slashed bridge transit tolls by fifty percent to maintain vital freight liquidity across international manufacturing corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
-                "teaserTitle": "CARGO YIELDS TRAIL FUEL SURGES",
+                "headline": "INTERMODAL: BNSF NETWORK HIT BY NM FLOODING",
+                "teaserTitle": "REGULATION: STATES HALT NON-DOMICILED CDLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The National Retail Federation projects a four point two percent increase in holiday retail sales to one point zero one trillion dollars. Retailers are preparing for compressed peak shopping windows."
+                "narration_line": "Catastrophic flash flooding in New Mexico washed out critical B N S F railway mainlines connecting Southern California to Midwestern logistics hubs. Intermodal rail operators are actively rerouting transcontinental traffic, adding several days of transit delay to scheduled retail shipments."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: CARGO YIELDS TRAIL FUEL SURGES",
-                "teaserTitle": "FMC TACKLES DEMURRAGE INVOICES",
+                "headline": "REGULATION: STATES HALT NON-DOMICILED CDLS",
+                "teaserTitle": "CARGO SECURITY: HIGH-VALUE THEFTS SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo carriers are experiencing severe yield compression as skyrocketing jet fuel prices outpace freight rates. International operators struggle to maintain profitable operating margins."
+                "narration_line": "Multiple states have halted non-domiciled commercial driver license programs following federal regulatory crackdowns on commercial driver vetting. Motor carriers face severe capacity pinches as thousands of regional heavy truck drivers are disqualified from long-haul domestic operations."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: FMC TACKLES DEMURRAGE INVOICES",
+                "headline": "CARGO SECURITY: HIGH-VALUE THEFTS SURGE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Federal Maritime Commission is advancing digital compliance platforms to combat disputed demurrage invoice billing practices. Importers regain financial transparency and eliminate administrative overhead."
+                "narration_line": "Organized theft networks are aggressively targeting high-value electronics and pharmaceuticals, escalating cargo losses across North American transport lanes. Shippers must enforce advanced digital monitoring and strict facility vetting to mitigate substantial financial exposure during transit."
             },
             {
                 "slide_index": 8,
