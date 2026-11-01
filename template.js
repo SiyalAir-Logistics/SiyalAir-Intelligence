@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA-LB STRIKE DEADLINE",
-        "titleBlue": "EXTENDED",
-        "footerSummary": "Pacific Maritime Association defers LA-LB strike deadline to Nov 4, averting immediate port gridlock while shippers scramble to clear rail backlogs."
+        "titleWhite": "GLOBAL DOCKWORKER",
+        "titleBlue": "STRIKE",
+        "footerSummary": "Massive 113-port strike across 22 countries triggers global maritime gridlock, threatening holiday transit schedules as 25 unions halt operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORTS: LA-LB STRIKE DEADLINE EXTENDED",
+            "heading": "PORTS: GLOBAL DOCKWORKER STRIKE",
             "paragraphs": [
-                "The Pacific Maritime Association and ILWU agreed to postpone a threatened strike deadline at the Ports of Los Angeles and Long Beach until Nov 4, 2026. The contract dispute centers on local security watchmen agreements and threatens to halt container handling across terminal complexes handling over 35% of US maritime imports. Terminal gates remain operational under temporary extensions while trans-Pacific cargo queues continue to build.",
-                "Importers face high contingency costs as transcontinental supply chains prepare for immediate diversion toward Gulf and US East Coast gateways. Dwell times for inland intermodal boxes already average 6.8 days, increasing exposure to carrier demurrage fees and missed retail holiday distribution targets. Logistics directors must stage hot freight at off-dock facilities before the revised deadline."
+                "More than 25 labor unions have launched a coordinated strike across 113 ports in 22 countries, marking one of the largest maritime mobilizations in history. The action halts container handling at major gateways, specifically targeting militarization and working conditions through the global \"Dockworkers do not move war\" campaign. This disruption immediately freezes transshipment flows and breaks sailing schedules for mainline ocean carriers.",
+                "Importers face extreme schedule volatility as port-to-port connections fail and berthing delays compound across international trade lanes. The financial fallout includes diverted cargo costs and potential port congestion surcharges as vessel backlogs exceed 48 hours at primary transit hubs. Logistics directors must evaluate alternative intermodal gateways and buffer inventory to mitigate total network failure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
+            "nextUpTease": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
             "tags": [
-                "Source: https://www.joc.com/article/strike-deadline-la-lb-ports-delayed-until-nov-4-pma-4682498",
-                "Published: 2026-10-31T18:20:00Z",
+                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
+                "Published: 2026-10-30T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
+            "heading": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
             "paragraphs": [
-                "Commercial shipping lanes in the Strait of Hormuz faced severe escalation after small craft attached hull-mounted explosive devices to a commercial product tanker. The explosion forced Oman maritime rescue units to evacuate the entire crew as fires engulfed the vessel's hull structure. Maritime security agencies elevated threat advisory levels to critical across the Persian Gulf transit corridor.",
-                "War risk insurance premiums for Middle East tanker fixtures surged above 1.25% of insured hull values within hours, driving Brent crude toward $113.51 per barrel. Ocean carriers and industrial bunker suppliers are assessing mandatory route diversions around the Cape of Good Hope, which adds 14 sailing days to Europe-bound voyages. Shippers must prepare for immediate emergency security surcharges ranging from $450 to $700 per TEU."
+                "North American robot orders surged 24.8% in Q3 2026 as logistics operators accelerate automated material handling to offset persistent labor scarcity. The spike reflects significant capital investment in facility automation across fulfillment centers and manufacturing nodes struggling with rising overhead. Companies are prioritizing scalable robotic fleets to maintain throughput despite uneven labor participation in regional hubs.",
+                "The shift to robotic reliance creates a new strategic hurdle regarding high-cost capital depreciation and long-term maintenance cycles. While automation reduces per-unit labor costs, it increases technical risk and requires a total re-engineering of the facility lifecycle. Procurement leads must balance high-interest capital expense with the immediate productivity gains required to survive current volume spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
+            "nextUpTease": "IT: CARGOWISE CUSTOMS OUTAGE",
             "tags": [
-                "Source: https://splash247.com/tanker-targeted-with-hull-mounted-explosives-in-hormuz/",
-                "Published: 2026-10-30T17:45:00Z",
+                "Source: https://www.dcvelocity.com/articles/62311-north-american-robot-orders-increased-248-in-third-quarter",
+                "Published: 2026-10-30T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
+            "heading": "IT: CARGOWISE CUSTOMS OUTAGE",
             "paragraphs": [
-                "Schneider National finalized an agreement to shift its primary Eastern US intermodal rail business from CSX Transportation to Norfolk Southern. The operational realignment moves tens of thousands of annual 53-foot domestic container loads onto Norfolk Southern's rail network ahead of pending Class I consolidation reviews. The transition begins across primary Midwest-to-Southeast intermodal corridors over the next fiscal quarter.",
-                "Shippers operating along Eastern freight corridors must review contractual lane allocations to prevent ramp interchange bottlenecks during equipment cutovers. The carrier switch alters origin-terminal drayage radiuses and terminal cutoff windows across 14 metropolitan logistics hubs. Transportation procurement leaders should adjust drayage carrier routing guides to mitigate terminal congestion surcharges."
+                "A major IT messaging failure within WiseTech Global's CargoWise platform has disrupted customs declarations for forwarders in the UK and Japan. The outage caused severe delays in processing import and export clearance messages, leaving thousands of shipments stranded at terminal gates. Technical teams are working to restore the automated interface, but backlogs continue to mount at critical customs entry points.",
+                "Shippers operating in affected regions face immediate storage and detention fees as cargo fails to clear regulatory hurdles. The reliance on centralized software platforms introduces a single point of failure risk that can halt entire national trade pipelines in hours. Supply chain architects must establish manual fallback procedures and secondary clearance partnerships to ensure continuity during platform outages."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
+            "nextUpTease": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
             "tags": [
-                "Source: https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
-                "Published: 2026-10-30T20:10:00Z",
+                "Source: https://theloadstar.com/exclusive-cargowise-customs-message-delays-leave-forwarders-waiting-for-clearance/",
+                "Published: 2026-10-30T18:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
+            "heading": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
             "paragraphs": [
-                "The Ministry of Ports, Shipping and Waterways of India unveiled a $1B subsidy framework to accelerate domestic marine container manufacturing. The policy initiative establishes coastal production clusters in Gujarat and Tamil Nadu to curb supply dependence on Chinese container manufacturers who control 90% of global output. Initial production mandates target 150K TEUs annually by late 2027.",
-                "Global forwarders and Indian export shippers face chronic container deficit penalties during regional peak trade surges. Enhancing domestic production provides structural freight rate stability and insulates exporters from empty repositioning surcharges of $300 to $500 per unit. Multi-national procurement teams should evaluate long-term leasing commitments tied to emerging South Asian equipment depots."
+                "US shipper costs have reached a 5-year high as stagnant freight demand fails to offset rising carrier operational expenses and regulatory compliance burdens. High fuel volatility and increased insurance premiums are forcing carriers to hold floor rates, despite a lack of significant volume growth. This environment has created a pricing floor that prevents shippers from realizing traditional recessionary rate drops.",
+                "Logistics procurement teams are trapped in a high-cost environment where capacity is available but expensive to utilize. The strategy of waiting for lower rates has failed, necessitating a shift toward long-term carrier partnerships and freight consolidation. Shippers must optimize truckload density and reduce deadhead miles to protect margins against these structural cost increases."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
+            "nextUpTease": "LTL: TFI CHIEF PROMISES OVERHAUL",
             "tags": [
-                "Source: https://www.joc.com/article/india-launches-1-billion-plan-to-boost-domestic-container-manufacturing-4682495",
-                "Published: 2026-10-31T14:30:00Z",
+                "Source: https://www.dcvelocity.com/articles/62312-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+                "Published: 2026-10-30T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
+            "heading": "LTL: TFI CHIEF PROMISES OVERHAUL",
             "paragraphs": [
-                "The White House initiated a comprehensive national security trade review investigating foreign imports of advanced logistics robotics and automated material handling equipment. The executive review targets foreign-subsidized robotic arms, automated guided vehicles, and warehouse sorting installations operating across critical logistics hubs. Regulatory findings may trigger Section 301 tariff escalations up to 25% within 180 days.",
-                "Warehouse automation integrators and distribution operators face immediate capital expenditure uncertainty on ongoing fulfillment center retrofits. Procurement contracts referencing foreign-manufactured robotic units risk severe margin compression and customs entry delays under expanded exclusion review filings. Logistics engineering leaders must audit equipment bills of materials to establish domestic supplier alternatives."
+                "TFI International Chairman and CEO Alain Bedard issued a public mandate for rapid change across the company\u2019s US less-than-truckload (LTL) operations. The directive follows a performance dip where operating ratios at the LTL unit slipped, prompting a leadership focus on cost reduction and service density. The aggressive overhaul aims to recapture market share and improve profitability through tighter fleet management.",
+                "Shippers using TFI's LTL network may experience transit time re-alignments as the carrier optimizes lanes and terminal footprints. This internal pivot highlights the volatility within the LTL sector as providers struggle to maintain margins amidst shifting retail volumes. Corporate logistics managers should monitor service level agreements (SLAs) closely during this transition to ensure cargo velocity remains stable."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
+            "nextUpTease": "ENERGY: BP REFINERY PROFIT BOOM",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/white_house_targets_robotics_imports_in_a_new_national_security_trade_review",
-                "Published: 2026-10-30T16:50:00Z",
+                "Source: https://www.freightwaves.com/news/tfi-chief-bedard-rips-into-its-us-ltl-operations-promises-change",
+                "Published: 2026-10-30T21:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
+            "heading": "ENERGY: BP REFINERY PROFIT BOOM",
             "paragraphs": [
-                "State highway police and commercial enforcement officers in Arkansas conducted an unannounced 48-hour commercial vehicle inspection blitz, issuing 183 English language proficiency violations and detaining 44 commercial drivers. State inspectors placed non-compliant drivers out of service immediately, halting freight trailers along high-density interstate freight arteries including I-40 and I-55. The operations follow an expanded federal enforcement push targeting commercial driver licensing integrity.",
-                "Carriers face steep out-of-service safety score penalties and stranded-load recovery costs averaging $1.8K per delayed tractor-trailer. Cross-country shippers must expect delayed transit schedules and abrupt delivery re-appointments across central Southern freight corridors. Freight brokers are advised to enforce strict carrier compliance audits prior to dispatching regional dry van freight."
+                "BP reported its highest quarterly profit in 18 years, driven by a global surge in refinery margins and extreme volatility in fuel markets. The energy giant\u2019s results highlight the disconnect between record corporate earnings and the high fuel costs currently squeezing industrial shippers. The massive windfall comes as refinery capacity remains tight, keeping diesel and jet fuel prices at elevated levels.",
+                "Sustained high fuel costs are driving an increase in bunker and fuel surcharges across ocean, air, and ground transport modes. Freight forwarders are increasingly passing these costs directly to shippers, who must now budget for fuel expenses that exceed 30% of total transportation spend. Strategic procurement now requires advanced fuel hedging or indexed contract structures to manage this extreme budget exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
+            "nextUpTease": "LAST MILE: DOORDASH BUYS INSTACART",
             "tags": [
-                "Source: https://www.freightwaves.com/news/arkansas-truck-blitz-nets-183-english-violations-44-arrests-in-48-hours",
-                "Published: 2026-10-30T19:00:00Z",
+                "Source: https://www.ttnews.com/articles/bp-profit-refinery-boom",
+                "Published: 2026-10-30T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
+            "heading": "LAST MILE: DOORDASH BUYS INSTACART",
             "paragraphs": [
-                "Global terminal operator DP World commissioned a $200M expansion of its deepwater container facility at the Port of Posorja in Ecuador. The terminal investment extends the quay length to 700 meters and adds high-capacity electric ship-to-shore gantry cranes, expanding annual terminal throughput to 1.4M TEUs. The upgraded infrastructure accommodates 16,000-TEU neo-Panamax container vessels on mainline trans-Pacific and European services.",
-                "Exporters of perishable agricultural goods across the West Coast of South America gain direct access to expedited weekly ocean rotations without transshipment intermediate stops. The facility reduces feeder transshipment costs by approximately $150 per container while eliminating feeder congestion delays. Perishable cargo shippers should review cold-chain booking allocations to utilize this upgraded deepwater terminal."
+                "DoorDash has agreed to acquire Instacart for $17B, creating a dominant logistics power in the last-mile and grocery fulfillment space. This consolidation merges DoorDash\u2019s dense urban delivery network with Instacart\u2019s sophisticated grocery logistics infrastructure and retail partnerships. The deal is expected to accelerate the development of autonomous delivery and dark store fulfillment models across North America.",
+                "The acquisition reduces competition in the last-mile sector, potentially leading to higher service fees and standardized carrier rates for retailers. Commercial logistics directors must evaluate how this consolidation impacts their direct-to-consumer (DTC) fulfillment costs and delivery speed. This merger signals a broader trend toward platform consolidation where scale is the only defense against high last-mile operational costs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/dp-world-completes-200m-posorja-container-terminal-expansion/",
-                "Published: 2026-11-01T04:15:00Z",
+                "Source: https://www.ttnews.com/articles/doordash-instacart-buyout",
+                "Published: 2026-10-29T17:30:00Z",
                 "Status: Audited & True"
             ]
         }

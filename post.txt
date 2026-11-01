@@ -1,26 +1,26 @@
-🌐 LA-LB STRIKE DEADLINE EXTENDED
+🌐 GLOBAL DOCKWORKER STRIKE
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / PORTS: LA-LB STRIKE DEADLINE EXTENDED
-The Pacific Maritime Association deferred its Los Angeles and Long Beach strike deadline to Nov 4 as rail dwell times average 6.8 days.
+01 / PORTS: GLOBAL DOCKWORKER STRIKE
+25 unions across 22 countries halt operations at 113 ports, freezing global container transshipments.
 
-02 / MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE
-Hull-mounted explosive strikes on a tanker in the Strait of Hormuz triggered emergency evacuations and pushed Brent crude toward $113.51 per barrel.
+02 / ROBOTICS: Q3 ORDERS JUMP 24.8%
+Logistics robot orders surge as North American operators spend heavily to offset labor scarcity.
 
-03 / INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL
-Schneider National agreed to transition its core Eastern intermodal domestic container contract from CSX to Norfolk Southern.
+03 / IT: CARGOWISE CUSTOMS OUTAGE
+CargoWise IT failure strands thousands of shipments in the UK and Japan due to clearance delays.
 
-04 / CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM
-India authorized a $1B subsidy framework establishing coastal container production hubs targeting 150K TEUs annually to eliminate equipment shortages.
+04 / TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH
+US shipper costs reach a 5-year peak as carrier operating expenses outpace stagnant freight demand.
 
-05 / TRADE POLICY: US LAUNCHES ROBOTICS PROBE
-The White House initiated a national security review targeting logistics robotics imports that could trigger 25% Section 301 tariffs.
+05 / LTL: TFI CHIEF PROMISES OVERHAUL
+TFI initiates aggressive US LTL restructuring to recover margins, impacting lane transit schedules.
 
-06 / TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS
-Arkansas state highway enforcement issued 183 out-of-service driver violations during a targeted 48-hour roadside enforcement sweep along I-40.
+06 / ENERGY: BP REFINERY PROFIT BOOM
+BP profit hits 18-year high on record refining margins, driving fuel surcharges above 30%.
 
-07 / PORTS: DP WORLD EXPANDS POSORJA WITH $200M
-DP World commissioned a $200M deepwater terminal expansion at Posorja, elevating annual container throughput capacity to 1.4M TEUs.
+07 / LAST MILE: DOORDASH BUYS INSTACART
+DoorDash acquires Instacart for $17B to dominate last-mile grocery logistics and fulfillment.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -31,4 +31,4 @@ For inquiries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #GlobalLogistics #FreightForwarding #MaritimeShipping #PortOfLA #IntermodalFreight #CustomsCompliance #MomentumPoint
+#SupplyChain #GlobalLogistics #FreightForwarding #PortStrike #RobotAutomation #MaritimeNews #LogisticsIT #MomentumPoint

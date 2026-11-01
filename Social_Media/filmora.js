@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: LA-LB STRIKE DEADLINE EXTENDED",
-                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
-                "visual_caption": "The Pacific Maritime Association deferred its strike deadline at LA-LB ports to Nov 4. The extension provides brief breathing room while inland rail backlogs challenge regional networks."
+                "headline": "PORTS: GLOBAL DOCKWORKER STRIKE",
+                "teaserTitle": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
+                "visual_caption": "25 unions in 22 countries have struck 113 ports globally. The action freezes container flows and halts primary transshipment networks instantly."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
-                "teaserTitle": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
-                "visual_caption": "Hull-mounted explosives targeted a product tanker in Hormuz, forcing emergency crew evacuations. War risk insurance rates jumped over 1.25%, pushing Brent crude toward $113.51 per barrel."
+                "headline": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
+                "teaserTitle": "IT: CARGOWISE CUSTOMS OUTAGE",
+                "visual_caption": "Robot orders jumped 24.8% in Q3 2026 to offset labor scarcity. Firms are prioritizing high-cost automation to maintain facility throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
-                "teaserTitle": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
-                "visual_caption": "Schneider National shifted its primary Eastern intermodal container business from CSX to Norfolk Southern. Eastern rail shippers must adjust routing guides across 14 hubs to mitigate terminal delays."
+                "headline": "IT: CARGOWISE CUSTOMS OUTAGE",
+                "teaserTitle": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+                "visual_caption": "CargoWise IT failure has halted UK and Japan customs clearance. Thousands of containers are stranded as automated messaging remains offline."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
-                "teaserTitle": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
-                "visual_caption": "India introduced a $1B production subsidy program to develop domestic marine container manufacturing capacity. The initiative targets 150K TEUs annually to eliminate costly equipment repositioning fees."
+                "headline": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+                "teaserTitle": "LTL: TFI CHIEF PROMISES OVERHAUL",
+                "visual_caption": "US shipper costs hit 5-year highs as carrier expenses outpace demand. Shippers must optimize density to protect margins against firm price floors."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
-                "teaserTitle": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
-                "visual_caption": "The White House initiated a national security review targeting imported logistics robotics and automated systems. Importers face potential 25% Section 301 tariffs across distribution center equipment."
+                "headline": "LTL: TFI CHIEF PROMISES OVERHAUL",
+                "teaserTitle": "ENERGY: BP REFINERY PROFIT BOOM",
+                "visual_caption": "TFI is overhauling its US LTL operations after operating ratios slipped. Shippers face lane re-alignments as the carrier optimizes its network."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
-                "teaserTitle": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
-                "visual_caption": "Arkansas state police cited 183 commercial drivers during an intensive 48-hour inspection operation. The sudden enforcement sweep sidelined dozens of tractor-trailers across central freight corridors."
+                "headline": "ENERGY: BP REFINERY PROFIT BOOM",
+                "teaserTitle": "LAST MILE: DOORDASH BUYS INSTACART",
+                "visual_caption": "BP hits 18-year profit high on record refinery margins. Fuel surcharges now frequently exceed 30% of total transportation expenditure."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
+                "headline": "LAST MILE: DOORDASH BUYS INSTACART",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "DP World completed a $200M expansion at Posorja container terminal, expanding throughput to 1.4M TEUs. The deepwater pier accommodates 16,000-TEU neo-Panamax vessels on mainline Pacific routes."
+                "visual_caption": "DoorDash acquires Instacart for $17B to dominate last-mile logistics. The deal standardizes carrier rates and accelerates dark store fulfillment."
             },
             {
                 "slide_index": 8,
