@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: GLOBAL 113 PORT STOPPAGE",
-                "teaserTitle": "TRADE: ROBOTICS IMPORT TARIFF REVIEW",
-                "visual_caption": "More than 25 maritime labor unions launched coordinated strikes across 113 commercial ports in 22 countries. This sudden operational shutdown disrupts vessel berthing schedules and accelerates container dwell times worldwide."
+                "headline": "LOGISTICS: HORMUZ REROUTING WILL RAISE CONSUMER PRICES",
+                "teaserTitle": "ROBOT ORDERS INCREASE 24.8% IN Q3",
+                "visual_caption": "Strait of Hormuz attacks pushed Brent crude up 2.5% to $113.51 per barrel. Carriers are rerouting transit corridors, which will directly elevate consumer goods pricing."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: ROBOTICS IMPORT TARIFF REVIEW",
-                "teaserTitle": "EQUIPMENT: INDIA $1B BOX PROGRAM",
-                "visual_caption": "The White House initiated a national security trade review into industrial robotics and warehouse equipment imports. The investigation lays the regulatory groundwork for potential Section 301 tariffs on automated logistics technology."
+                "headline": "ROBOTICS: ROBOT ORDERS INCREASE 24.8% IN Q3",
+                "teaserTitle": "SHIPPER COSTS HIT 5-YEAR HIGH",
+                "visual_caption": "North American automation investments drove a 24.8% increase in robot orders during Q3. Warehouses are rapidly adopting advanced physical automation to mitigate labor shortages."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: INDIA $1B BOX PROGRAM",
-                "teaserTitle": "INTERMODAL: SCHNEIDER SHIFTS EASTERN RAIL",
-                "visual_caption": "India launched a $1B manufacturing initiative to accelerate domestic intermodal container production. The government program aims to reduce reliance on foreign equipment and lower structural shipping container deficits across South Asia."
+                "headline": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+                "teaserTitle": "CMA CGM EXPANDS EAST AFRICAN RAIL",
+                "visual_caption": "Total freight transportation costs reached a 5-year high as tightening spot capacity intersected with demand. Motor carriers are successfully pushing rate increases to cover expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: SCHNEIDER SHIFTS EASTERN RAIL",
-                "teaserTitle": "COMPLIANCE: FMCSA PURGES 10K SCHOOLS",
-                "visual_caption": "Schneider National announced plans to transition its primary eastern intermodal rail volume from CSX to Norfolk Southern. The strategic shift will alter terminal interchanges and regional drayage patterns across key eastern logistics networks."
+                "headline": "MARITIME: CMA CGM EXPANDS EAST AFRICAN RAIL",
+                "teaserTitle": "NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "visual_caption": "CMA CGM launched a dedicated freight train service connecting the Port of Mombasa to East African hubs. The multimodal connection bypasses highway corridors handling 45.4M metric tons annually."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: FMCSA PURGES 10K SCHOOLS",
-                "teaserTitle": "RAIL: CMA CGM LAUNCHES MOMBASA TRAIN",
-                "visual_caption": "The FMCSA removed more than 10K commercial driver training providers from its registry. The nationwide compliance purge will constrain commercial driver recruitment and tighten commercial fleet capacity."
+                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
+                "teaserTitle": "CARGO YIELDS TRAIL FUEL SURGES",
+                "visual_caption": "The National Retail Federation projects a 4.2% increase in holiday retail sales to $1.013T. Retailers are preparing for compressed peak shopping windows and surging volumes."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: CMA CGM LAUNCHES MOMBASA TRAIN",
-                "teaserTitle": "M&A: ROBINSON BUYS RXO FOR $5.8B",
-                "visual_caption": "CMA CGM launched a dedicated freight train service linking Kenya's Port of Mombasa to interior trade hubs. The multimodal connection bypasses congested road corridors to accelerate container velocity across East Africa."
+                "headline": "AVIATION: CARGO YIELDS TRAIL FUEL SURGES",
+                "teaserTitle": "FMC TACKLES DEMURRAGE INVOICES",
+                "visual_caption": "Global air cargo carriers are experiencing severe yield compression as jet fuel prices outpace freight rates. International operators struggle to maintain profitable operating margins."
             },
             {
                 "slide_index": 7,
-                "headline": "M&A: ROBINSON BUYS RXO FOR $5.8B",
+                "headline": "REGULATION: FMC TACKLES DEMURRAGE INVOICES",
                 "teaserTitle": "",
-                "visual_caption": "C.H. Robinson entered an agreement to acquire RXO for $5.8B in cash and stock. The merger consolidates major brokerage capacity, significantly expanding C.H. Robinson's expedited freight and last-mile operations."
+                "visual_caption": "The Federal Maritime Commission is advancing digital compliance platforms to combat disputed demurrage invoice billing. Importers regain financial transparency and eliminate overhead."
             },
             {
                 "slide_index": 8,

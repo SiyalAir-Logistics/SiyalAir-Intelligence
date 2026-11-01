@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL 113 PORT",
-        "titleBlue": "STOPPAGE",
-        "footerSummary": "Over 113 global ports face coordinated union walkouts, threatening immediate vessel delays and compounding demurrage fees across 22 nations."
+        "titleWhite": "HORMUZ REROUTING WILL RAISE CONSUMER",
+        "titleBlue": "PRICES",
+        "footerSummary": "Strait of Hormuz attacks drive Brent crude to $113.51 per barrel, forcing maritime rerouting that will directly elevate consumer goods pricing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: GLOBAL 113 PORT STOPPAGE",
+            "heading": "LOGISTICS: HORMUZ REROUTING WILL RAISE CONSUMER PRICES",
             "paragraphs": [
-                "More than 25 maritime trade unions launched coordinated strikes and walkouts across 113 commercial ports in 22 nations during an unprecedented international labor mobilization. The simultaneous industrial action immediately disrupted scheduled vessel berthing, gantry crane operations, and drayage gate processing across key international maritime corridors.",
-                "Cargo owners face immediate terminal dwell spikes and rolling vessel blankings across impacted regional nodes. Supply chain directors must evaluate emergency cargo diversion strategies to avoid compounding demurrage and detention liabilities."
+                "Escalating military attacks on commercial shipping vessels within the Strait of Hormuz have pushed Brent crude oil prices up 2.5% to $113.51 per barrel. Ocean carriers are frantically rerouting transit corridors away from the volatile Middle Eastern chokepoint to avoid hull-mounted explosive threats and vessel damage.",
+                "Extended voyage distances and soaring marine fuel costs are compounding operational overhead across global container networks. Logistics directors must immediately update baseline freight rate models to absorb surging bunker surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: ROBOTICS IMPORT TARIFF REVIEW",
+            "nextUpTease": "TECHNOLOGY: ROBOTICS IMPORT TARIFF REVIEW",
             "tags": [
-                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
-                "Published: 2026-10-30T14:00:00Z",
+                "Source: https://www.ttnews.com/articles/logistics-ceo-hormuz-rerouting-will-raise-consumer-prices",
+                "Published: 2026-10-30T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: ROBOTICS IMPORT TARIFF REVIEW",
+            "heading": "ROBOTICS: ROBOT ORDERS INCREASE 24.8% IN Q3",
             "paragraphs": [
-                "The White House initiated a comprehensive national security trade review targeting industrial robotics and automated warehouse machinery imports. The inquiry establishes a formal legal runway for potential Section 301 tariffs on foreign automation equipment entering domestic supply chains.",
-                "Distribution operators and fulfillment developers face abrupt capital expenditure surges for planned automated logistics facilities. Procurement teams must rapidly audit equipment origin documentation and model tariff surcharges into multi-year automation rollout budgets."
+                "North American manufacturing and fulfillment operations accelerated automation investments, driving a 24.8% year-over-year increase in robot orders during the third quarter. Warehouses are rapidly adopting advanced physical automation to mitigate persistent labor shortages and offset climbing labor expenses.",
+                "Fulfillment centers face substantial capital expenditure requirements for facility retooling and integration engineering. Procurement teams must balance upfront equipment costs against long-term operational savings to justify capital allocation."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: INDIA $1B BOX PROGRAM",
+            "nextUpTease": "FINANCE: SHIPPERS HIT 5-YEAR HIGH",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/white_house_targets_robotics_imports_in_national_security_trade_review",
-                "Published: 2026-10-30T13:15:00Z",
+                "Source: https://www.dcvelocity.com/articles/north-american-robot-orders-increased-248-percent-in-third-quarter",
+                "Published: 2026-10-30T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: INDIA $1B BOX PROGRAM",
+            "heading": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
             "paragraphs": [
-                "The Government of India finalized a $1B production incentive framework to scale domestic intermodal container manufacturing across major coastal industrial clusters. The program seeks to challenge Chinese container manufacturing dominance and stabilize export equipment availability.",
-                "Global shippers operating along Indian Ocean and South Asian trade lanes anticipate structural reductions in empty repositioning surcharges. Ocean carriers are evaluating localized equipment lease agreements to insulate container availability against transpacific trade imbalances."
+                "Total freight transportation costs for shippers reached a 5-year high watermark as tightening spot capacity intersected with stubborn freight demand. Motor carriers are successfully pushing through rate increases to cover escalating equipment maintenance and rising commercial insurance premiums.",
+                "Transportation budgets are experiencing severe margin compression across manufacturing and retail supply chains. Logistics managers must diversify carrier portfolios and increase contractual routing guide compliance to control runaway expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: SCHNEIDER SHIFTS EASTERN RAIL",
+            "nextUpTease": "MARITIME: CMA CGM EXPANDS EAST AFRICAN RAIL",
             "tags": [
-                "Source: https://www.joc.com/article/india-launches-1-billion-plan-to-boost-domestic-container-manufacturing",
-                "Published: 2026-10-30T12:30:00Z",
+                "Source: https://www.dcvelocity.com/articles/shipper-costs-hit-five-year-high-as-freight-demand-stalls",
+                "Published: 2026-10-30T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INTERMODAL: SCHNEIDER SHIFTS EASTERN RAIL",
+            "heading": "MARITIME: CMA CGM EXPANDS EAST AFRICAN RAIL",
             "paragraphs": [
-                "Schneider National announced a strategic realignment of its eastern intermodal rail operations, shifting exclusive primary service from CSX to Norfolk Southern. The operational pivot alters interchange dynamics and drayage routing configurations across major eastern freight corridors.",
-                "Intermodal shippers across the Midwest and East Coast must recalculate regional ramp transit schedules and reconfigure line-haul carrier contracts. Freight managers should audit gate turn times and chassis pool liquidity at newly designated Norfolk Southern interchange terminals."
+                "Global container carrier CMA CGM launched a dedicated freight train service linking the Port of Mombasa directly to East African inland trade hubs. The multimodal connection bypasses heavily congested highway corridors where over 45.4M metric tons of cargo enter the regional market annually.",
+                "Importers secure guaranteed container velocity and predictable door-to-door transit schedules across the hinterland network. Supply chain planners must align inventory release schedules with rail departure frequencies to maximize supply chain efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMCSA PURGES 10K SCHOOLS",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
             "tags": [
-                "Source: https://www.freightwaves.com/news/schneider-to-shift-eastern-rail-business-to-norfolk-southern-from-csx",
-                "Published: 2026-10-30T11:45:00Z",
+                "Source: https://maritime-executive.com/article/cma-cgm-seeks-to-consolidate-position-in-east-african-market",
+                "Published: 2026-10-30T14:24:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: FMCSA PURGES 10K SCHOOLS",
+            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GAIN",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration removed more than 10,000 commercial driver training providers from its official registry following widespread documentation audits. The aggressive regulatory purge establishes stricter verification mandates for prospective commercial motor vehicle operators.",
-                "Motor carriers face immediate contraction in entry-level driver pipelines as compliance oversight tightens across training institutions. Transportation directors must prepare for upward wage pressure and lengthened recruiting cycles across long-haul asset-based fleets."
+                "The National Retail Federation released its annual forecast projecting a 4.2% increase in holiday retail sales to reach $1.013T despite lingering macroeconomic headwinds. Retailers are preparing for compressed peak shopping windows as consumers delay discretionary spending until promotional events.",
+                "Omnichannel distributors face immense pressure to optimize inventory placement across regional distribution centers ahead of peak volume surges. Logistics directors must secure flexible surge warehousing contracts to prevent costly stockouts and excessive last-mile surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CMA CGM LAUNCHES MOMBASA TRAIN",
+            "nextUpTease": "AVIATION: CARGO YIELDS TRAIL FUEL SURGES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/fmcsa-removes-10000-plus-driver-training-providers-amid-safety-push",
-                "Published: 2026-10-30T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/nrf-forecasts-4.2-percent-growth-in-2026-holiday-retail-sales",
+                "Published: 2026-10-30T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL: CMA CGM LAUNCHES MOMBASA TRAIN",
+            "heading": "AVIATION: CARGO YIELDS TRAIL FUEL SURGES",
             "paragraphs": [
-                "CMA CGM launched a dedicated hinterland freight rail service connecting the Port of Mombasa directly to East African inland trade destinations. The multimodal corridor bypasses chronic highway congestion across the Northern Corridor where over 45.4M metric tons move annually.",
-                "Importers and cross-border forwarders secure guaranteed inland transit velocity and predictable container turnaround cycles. Logistics planners must assess dry port customs clearance protocols to fully capitalize on rail-linked intermodal velocity advantages."
+                "Global air cargo carriers are experiencing severe yield compression as skyrocketing jet fuel prices outpace rising freight rate pricing. International operators are struggling to maintain profitable operating margins on major trade lanes as fuel expenditures consume a larger share of revenue.",
+                "Airfreight forwarders face potential emergency fuel surcharge adjustments and reduced dedicated freighter capacity. Shippers relying on expedited air transport must re-evaluate modal economics and consider deferred air or ocean alternatives for non-critical cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: ROBINSON BUYS RXO FOR $5.8B",
+            "nextUpTease": "REGULATION: FMC TACKLES DEMURRAGE INVOICES",
             "tags": [
-                "Source: https://maritime-executive.com/article/cma-cgm-seeks-to-consolidate-position-in-east-african-market",
-                "Published: 2026-10-30T10:24:00Z",
+                "Source: https://theloadstar.com/air-cargo-growth-masks-freighter-squeeze-as-fuel-price-outpaces-yields/",
+                "Published: 2026-10-29T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "M&A: ROBINSON BUYS RXO FOR $5.8B",
+            "heading": "REGULATION: FMC TACKLES DEMURRAGE INVOICES",
             "paragraphs": [
-                "C.H. Robinson entered into a definitive $5.8B agreement to acquire RXO, combining two of North America's largest freight brokerage and tech-enabled logistics operations. The landmark consolidation significantly expands C.H. Robinson's expedited freight, truckload brokerage, and last-mile delivery footprint.",
-                "Shippers anticipate consolidated freight broker pricing power and concentrated carrier capacity negotiations across North American dry van networks. Logistics executives should diversify transportation provider rosters to retain procurement leverage during post-merger systems integration."
+                "The Federal Maritime Commission is spearheading new digital compliance platforms to combat automated, disputed detention and demurrage invoice billing practices. Port congestion across major gateway terminals has historically triggered thousands of erroneous fee disputes between shippers and marine terminal operators.",
+                "Importers regain financial transparency and eliminate administrative overhead spent auditing inaccurate terminal access fees. Supply chain legal teams must leverage FMC regulatory guidelines to aggressively challenge non-compliant demurrage charges."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5_8_billion_cash_and_stock_deal",
-                "Published: 2026-10-30T09:15:00Z",
+                "Source: https://theloadstar.com/a-platform-to-challenge-death-by-a-thousand-dd-invoices/",
+                "Published: 2026-10-30T07:00:00Z",
                 "Status: Audited & True"
             ]
         }
