@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: 113 PORTS FACE COORDINATED STRIKES",
-                "teaserTitle": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
-                "visual_caption": "Over 25 labor unions have launched coordinated strikes across 113 commercial ports in 22 countries. Shippers face immediate container terminal shutdowns and mounting vessel queues that threaten schedule reliability across primary ocean trade lanes."
+                "headline": "PORTS: LA-LB STRIKE DEADLINE EXTENDED",
+                "teaserTitle": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
+                "visual_caption": "The Pacific Maritime Association deferred its strike deadline at LA-LB ports to Nov 4. The extension provides brief breathing room while inland rail backlogs challenge regional networks."
             },
             {
                 "slide_index": 2,
-                "headline": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "CUSTOMS: CARGOWISE OUTAGE SNARLS CLEARANCES",
-                "visual_caption": "C.H. Robinson has agreed to acquire logistics provider RXO in a $5.8B cash-and-stock transaction. The enterprise acquisition consolidates freight brokerage volumes and significantly expands North American expedited and final-mile transport networks."
+                "headline": "MARITIME: HORMUZ TANKER EXPLOSIVES SPIKE",
+                "teaserTitle": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
+                "visual_caption": "Hull-mounted explosives targeted a product tanker in Hormuz, forcing emergency crew evacuations. War risk insurance rates jumped over 1.25%, pushing Brent crude toward $113.51 per barrel."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: CARGOWISE OUTAGE SNARLS CLEARANCES",
-                "teaserTitle": "CROSS-BORDER: CABOTAGE RULES PENALIZE FLEETS",
-                "visual_caption": "WiseTech Global suffered widespread customs messaging delays on its CargoWise platform, disrupting clearance filings across Britain and Japan. Freight forwarders experienced extended gateway backlogs, forcing customs brokerage operations to deploy manual entry procedures."
+                "headline": "INTERMODAL: SCHNEIDER SWITCHES TO NS RAIL",
+                "teaserTitle": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
+                "visual_caption": "Schneider National shifted its primary Eastern intermodal container business from CSX to Norfolk Southern. Eastern rail shippers must adjust routing guides across 14 hubs to mitigate terminal delays."
             },
             {
                 "slide_index": 4,
-                "headline": "CROSS-BORDER: CABOTAGE RULES PENALIZE FLEETS",
-                "teaserTitle": "INTERMODAL: BNSF NETWORK HIT BY NM FLOODING",
-                "visual_caption": "Heightened cross-border cabotage enforcements along the Mexican border are restricting foreign drayage carriers from handling regional domestic legs. Regional authorities slashed bridge transit tolls by 50% to maintain vital freight liquidity across international manufacturing corridors."
+                "headline": "CONTAINERS: INDIA LAUNCHES $1B BOX PROGRAM",
+                "teaserTitle": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
+                "visual_caption": "India introduced a $1B production subsidy program to develop domestic marine container manufacturing capacity. The initiative targets 150K TEUs annually to eliminate costly equipment repositioning fees."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: BNSF NETWORK HIT BY NM FLOODING",
-                "teaserTitle": "REGULATION: STATES HALT NON-DOMICILED CDLS",
-                "visual_caption": "Catastrophic flash flooding in New Mexico washed out critical BNSF railway mainlines connecting Southern California to Midwestern logistics hubs. Intermodal rail operators are actively rerouting transcontinental traffic, adding several days of transit delay to scheduled retail shipments."
+                "headline": "TRADE POLICY: US LAUNCHES ROBOTICS PROBE",
+                "teaserTitle": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
+                "visual_caption": "The White House initiated a national security review targeting imported logistics robotics and automated systems. Importers face potential 25% Section 301 tariffs across distribution center equipment."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: STATES HALT NON-DOMICILED CDLS",
-                "teaserTitle": "CARGO SECURITY: HIGH-VALUE THEFTS SURGE",
-                "visual_caption": "Multiple states have halted non-domiciled CDL programs following federal regulatory crackdowns on commercial driver vetting. Motor carriers face severe capacity pinches as thousands of regional heavy truck drivers are disqualified from long-haul domestic operations."
+                "headline": "TRUCKING: ROADSIDE BLITZ NETS 183 CITATIONS",
+                "teaserTitle": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
+                "visual_caption": "Arkansas state police cited 183 commercial drivers during an intensive 48-hour inspection operation. The sudden enforcement sweep sidelined dozens of tractor-trailers across central freight corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "CARGO SECURITY: HIGH-VALUE THEFTS SURGE",
-                "teaserTitle": "",
-                "visual_caption": "Organized theft networks are aggressively targeting high-value electronics and pharmaceuticals, escalating cargo losses across North American transport lanes. Shippers must enforce advanced digital monitoring and strict facility vetting to mitigate substantial financial exposure during transit."
+                "headline": "PORTS: DP WORLD EXPANDS POSORJA WITH $200M",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "DP World completed a $200M expansion at Posorja container terminal, expanding throughput to 1.4M TEUs. The deepwater pier accommodates 16,000-TEU neo-Panamax vessels on mainline Pacific routes."
             },
             {
                 "slide_index": 8,
