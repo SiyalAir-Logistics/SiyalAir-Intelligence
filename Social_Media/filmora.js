@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: PORT STRIKE DEADLINE DELAYED TO NOV 4",
-                "teaserTitle": "RAIL: FLOODING SNARES BNSF NETWORK",
-                "visual_caption": "Port union and terminal operators pushed the strike deadline to Nov 4. Shippers gain a vital window to reroute container volume away from potential disruptions."
+                "headline": "REGULATION: USTR URGED TO SUSPEND CHINESE SHIP FEES",
+                "teaserTitle": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
+                "visual_caption": "Industry groups urge the Trade Representative to suspend proposed Chinese shipping fees. The delay aims to prevent surging transportation costs and protect export competitiveness."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: FLOODING SNARES BNSF NETWORK",
-                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
-                "visual_caption": "Severe flooding in New Mexico halted BNSF Railway intermodal freight operations. Logistics teams must absorb higher spot truckload rates to bypass damaged tracks."
+                "headline": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
+                "teaserTitle": "CARRIER: CH ROBINSON ACQUIRES RXO",
+                "visual_caption": "LA and LB port terminals pushed their potential strike deadline to Nov. 4. The extension averts an immediate gateway shutdown for peak holiday cargo."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ TANKER ATTACK",
-                "teaserTitle": "REGULATION: FMCSA UPDATES SAFETY RULES",
-                "visual_caption": "An offshore tug attack in the Strait of Hormuz escalated regional shipping risks. Marine war risk insurance premiums and bunker surcharges continue rising globally."
+                "headline": "CARRIER: C.H. ROBINSON ACQUIRES RXO",
+                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a massive $5.8B transaction. The deal expands expedited services and reshapes freight brokerage market dynamics."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: FMCSA UPDATES SAFETY RULES",
-                "teaserTitle": "CARRIER: CH ROBINSON ACQUIRES RXO",
-                "visual_caption": "FMCSA initiated major updates to hours-of-service and safety measurement systems. Fleet operators face increased administrative overhead and stricter roadside enforcement."
+                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+                "teaserTitle": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "visual_caption": "The NRF forecasts holiday sales to climb 4.2% to $1.013T. Fulfillment networks are operating at peak intensity to ensure merchandise delivery."
             },
             {
                 "slide_index": 5,
-                "headline": "CARRIER: CH ROBINSON ACQUIRES RXO",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock transaction. The mega-deal significantly reshapes 3PL market competition and brokerage pricing."
+                "headline": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SURGE",
+                "visual_caption": "The FMCSA removed over 10K commercial driver training providers from its registry. Fleet operators face tightening driver pipelines and increased regulatory oversight."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSSES RISE",
-                "visual_caption": "NRF forecasts 4.2% holiday sales growth to reach $1.013T this season. Retail fulfillment networks are operating at peak intensity to manage inventory."
+                "headline": "SECURITY: CARGO THEFT LOSSES SURGE",
+                "teaserTitle": "MARITIME: WALLENIUS SECURES $700M DEAL",
+                "visual_caption": "Cargo theft incidents dropped while total financial losses surged across North America. Criminal syndicates are increasingly targeting high-value electronics."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: CARGO THEFT LOSSES RISE",
+                "headline": "MARITIME: WALLENIUS SECURES $700M DEAL",
                 "teaserTitle": "",
-                "visual_caption": "Cargo theft incidents dropped while total financial losses surged across North America. Criminal syndicates are increasingly targeting high-value freight loads."
+                "visual_caption": "Wallenius Wilhelmsen secured a $700M shipping contract with an Asian automaker. The deal highlights steady demand for dedicated vehicle carrier capacity."
             },
             {
                 "slide_index": 8,
