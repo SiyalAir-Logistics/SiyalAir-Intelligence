@@ -1,23 +1,23 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "STRIKE THREAT LOOMS AT",
-        "titleBlue": "PORTS",
-        "footerSummary": "LA and LB port terminals brace for potential labor strike disruption as contract negotiations stall holiday supply chain movement."
+        "titleWhite": "PORT STRIKE DEADLINE DELAYED TO",
+        "titleBlue": "NOV",
+        "footerSummary": "LA and LB port terminals gain breathing room as the PMA and union extend contract talks to Nov. 4."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: STRIKE THREAT LOOMS AT PORTS",
+            "heading": "LABOR: PORT STRIKE DEADLINE DELAYED TO NOV 4",
             "paragraphs": [
-                "The major port complex spanning Los Angeles and Long Beach faces an immediate disruption risk as union contract expiration triggers potential strike actions. Shippers with distribution centers across the country report that container processing is slowing rapidly as terminal operators prepare for gate closures. This looming labor stoppage threatens to strand holiday retail merchandise destined for key distribution hubs.",
-                "Supply chain directors must urgently reroute inbound ocean volume toward alternative regional gateways to avoid severe transit paralysis. The financial impact includes mounting demurrage exposure and expedited drayage costs as carriers scramble for available chassis. Logistics managers need to activate contingency trucking allocations immediately to safeguard fourth-quarter inventory velocity."
+                "The International Longshore and Warehouse Union and terminal operators at the Los Angeles and Long Beach port complex have pushed their potential strike deadline to November 4. Ongoing negotiations between the Pacific Maritime Association and local union leaders have temporarily averted an immediate gateway shutdown that threatened holiday supply chains. Shippers maintain a watchful stance as container processing continues under a strict 48-hour rolling extension.",
+                "This temporary reprieve gives logistics directors vital breathing room to reroute urgent ocean volume away from potential bottleneck zones. However, unresolved contract terms mean transport planners must keep contingency trucking allocations primed to mitigate sudden terminal gate closures. Shippers should utilize the extended window to accelerate final distribution of high-demand retail inventory."
             ],
             "imageUrl": "",
             "nextUpTease": "RAIL: FLOODING SNARES BNSF NETWORK",
             "tags": [
-                "Source: https://theloadstar.com/lalb-port-complex-braces-for-potential-strike-as-labour-contract-expires",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -32,7 +32,7 @@ const dailyData = {
             "nextUpTease": "MARITIME: HORMUZ TANKER ATTACK",
             "tags": [
                 "Source: https://www.joc.com",
-                "Published: 2026-10-30T00:00:00Z",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -44,10 +44,10 @@ const dailyData = {
                 "The ongoing conflict in the Middle East continues to inflate marine war risk insurance premiums and bunker fuel surcharges globally. Shippers are absorbing these rising transit costs as carriers pass on the financial burden of regional security protocols. Maritime logistics planners must incorporate extended transit buffers and enhanced risk assessments into all Gulf-bound vessel charters."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FMCSA UPDATES SAFETY RULES",
+            "nextUpTease": "REGULATION: FMCSA UPDATES SAFETY RULES",
             "tags": [
                 "Source: https://maritime-executive.com",
-                "Published: 2026-11-01T13:47:00Z",
+                "Published: 2026-11-02T09:26:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -59,25 +59,25 @@ const dailyData = {
                 "Fleet operators face increased administrative overhead and potential operational slowdowns as drivers adapt to the revised safety protocols. Failure to meet the updated safety measurement thresholds risks immediate authority suspensions and higher commercial insurance premiums. Logistics directors must audit carrier safety scores continuously to prevent unexpected capacity interruptions in their contracted networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: KENYA APPROVES $1B CONCESSION",
+            "nextUpTease": "CARRIER: CH ROBINSON ACQUIRES RXO",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-10-30T00:00:00Z",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
+            "heading": "CARRIER: CH ROBINSON ACQUIRES RXO",
             "paragraphs": [
-                "Kenya's National Treasury has approved a comprehensive feasibility study to privatize key port assets in Mombasa and Lamu through a phased concession plan. The strategic initiative aims to attract $1.2B in private sector investment to upgrade terminal efficiency and expand regional logistics competitiveness. The phased rollout will transfer specific dock operations to private operators to eliminate chronic vessel turnaround bottlenecks.",
-                "East African trade stakeholders stand to benefit from improved cargo handling speeds and reduced port dwell times once the privatization agreements take full effect. However, the transitional phase may introduce short-term operational friction as management structures and customs interfaces evolve. Exporters utilizing East African gateways should monitor terminal schedules closely to maintain predictable supply chain flows."
+                "C.H. Robinson has officially agreed to acquire RXO in a massive $5.8B cash-and-stock transaction that reshapes the third-party logistics landscape. The strategic merger expands C.H. Robinson's footprint in specialized expedited and last-mile delivery services as the freight sector consolidates. Industry analysts expect the transaction to close in the first half of 2027 pending regulatory approvals.",
+                "Shippers utilizing 3P L services must review their provider contracts to anticipate potential service adjustments during the multi-year integration process. The combined enterprise gains immense leverage in carrier procurement, potentially altering market pricing dynamics for truckload and brokerage lanes. Supply chain managers should diversify their provider portfolios to maintain competitive rate structures."
             ],
             "imageUrl": "",
             "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-01T13:47:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -89,25 +89,25 @@ const dailyData = {
                 "The projected sales volume requires flawless inventory orchestration to prevent costly stockouts and excessive last-mile delivery surcharges. Supply chain executives must balance holding costs against the risk of unfulfilled consumer orders during the peak retail season. Comprehensive demand planning and flexible warehousing strategies remain essential for capturing profitable holiday revenue."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO: THEFT LOSSES RISE DESPITE DROP",
+            "nextUpTease": "SECURITY: CARGO THEFT LOSSES RISE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-10-30T00:00:00Z",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
+            "heading": "SECURITY: CARGO THEFT LOSSES RISE",
             "paragraphs": [
-                "Verisk CargoNet data reveals that while total reported cargo theft incidents dropped across the United States and Canada, the total financial losses experienced an upward surge. Sophisticated criminal syndicates are increasingly targeting high-value electronics and pharmaceutical shipments through strategic identity theft and targeted facility intrusions. This trend highlights a shift from opportunistic thefts to highly organized cargo heists.",
+                "Verisk CargoNet data reveals that while total reported cargo theft incidents dropped across the United States and Canada, total financial losses surged significantly. Sophisticated criminal syndicates are increasingly targeting high-value electronics and pharmaceutical shipments through strategic identity theft and facility intrusions. This trend highlights a dangerous shift from opportunistic cargo theft to highly organized criminal operations.",
                 "Supply chain security teams must upgrade verification protocols for carrier vetting and facility access to mitigate rising cargo loss liabilities. Insurance underwriters are tightening security requirements, demanding real-time tracking and verified driver credentials for all high-value loads. Shippers failing to implement robust risk mitigation measures face unprotected financial exposure and higher claims deductibles."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-30T00:00:00Z",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: STRIKE THREAT LOOMS AT PORTS",
+                "headline": "LABOR: PORT STRIKE DEADLINE DELAYED TO NOV 4",
                 "teaserTitle": "RAIL: FLOODING SNARES BNSF NETWORK",
-                "visual_caption": "Ports of LA and LB face potential strike actions as union contracts expire. Inbound ocean freight must be rerouted immediately to avoid holiday transit gridlock."
+                "visual_caption": "Port union and terminal operators pushed the strike deadline to Nov 4. Shippers gain a vital window to reroute container volume away from potential disruptions."
             },
             {
                 "slide_index": 2,
                 "headline": "RAIL: FLOODING SNARES BNSF NETWORK",
                 "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
-                "visual_caption": "Severe flooding in New Mexico has disrupted BNSF Railway intermodal operations. Shippers are shifting cargo to spot market trucks to bypass damaged railheads."
+                "visual_caption": "Severe flooding in New Mexico halted BNSF Railway intermodal freight operations. Logistics teams must absorb higher spot truckload rates to bypass damaged tracks."
             },
             {
                 "slide_index": 3,
                 "headline": "MARITIME: HORMUZ TANKER ATTACK",
                 "teaserTitle": "REGULATION: FMCSA UPDATES SAFETY RULES",
-                "visual_caption": "An offshore tug was struck by a projectile in the Strait of Hormuz. Regional security threats continue to inflate marine insurance and bunker fuel costs."
+                "visual_caption": "An offshore tug attack in the Strait of Hormuz escalated regional shipping risks. Marine war risk insurance premiums and bunker surcharges continue rising globally."
             },
             {
                 "slide_index": 4,
                 "headline": "REGULATION: FMCSA UPDATES SAFETY RULES",
-                "teaserTitle": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
-                "visual_caption": "FMCSA released sweeping hours-of-service and safety measurement updates. Fleets must maintain strict compliance standards to prevent unexpected operating freezes."
+                "teaserTitle": "CARRIER: CH ROBINSON ACQUIRES RXO",
+                "visual_caption": "FMCSA initiated major updates to hours-of-service and safety measurement systems. Fleet operators face increased administrative overhead and stricter roadside enforcement."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
+                "headline": "CARRIER: CH ROBINSON ACQUIRES RXO",
                 "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "visual_caption": "Kenya approved a $1.2B concession plan to privatize Mombasa port assets. Private investment will eliminate terminal bottlenecks and boost regional trade speed."
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock transaction. The mega-deal significantly reshapes 3PL market competition and brokerage pricing."
             },
             {
                 "slide_index": 6,
                 "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
-                "visual_caption": "NRF forecasts a 4.2% jump in holiday sales to reach $1.013T. Retail supply chains require agile inventory management to handle compressed shopping demand."
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES RISE",
+                "visual_caption": "NRF forecasts 4.2% holiday sales growth to reach $1.013T this season. Retail fulfillment networks are operating at peak intensity to manage inventory."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
+                "headline": "SECURITY: CARGO THEFT LOSSES RISE",
                 "teaserTitle": "",
-                "visual_caption": "Cargo theft financial losses are rising despite a drop in total incidents. Criminal groups are utilizing targeted identity fraud to steal high-value freight."
+                "visual_caption": "Cargo theft incidents dropped while total financial losses surged across North America. Criminal syndicates are increasingly targeting high-value freight loads."
             },
             {
                 "slide_index": 8,
