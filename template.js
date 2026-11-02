@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL DOCKWORKER",
-        "titleBlue": "STRIKE",
-        "footerSummary": "Massive 113-port strike across 22 countries triggers global maritime gridlock, threatening holiday transit schedules as 25 unions halt operations."
+        "titleWhite": "STRIKE THREAT LOOMS AT",
+        "titleBlue": "PORTS",
+        "footerSummary": "LA and LB port terminals brace for potential labor strike disruption as contract negotiations stall holiday supply chain movement."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORTS: GLOBAL DOCKWORKER STRIKE",
+            "heading": "LABOR: STRIKE THREAT LOOMS AT PORTS",
             "paragraphs": [
-                "More than 25 labor unions have launched a coordinated strike across 113 ports in 22 countries, marking one of the largest maritime mobilizations in history. The action halts container handling at major gateways, specifically targeting militarization and working conditions through the global \"Dockworkers do not move war\" campaign. This disruption immediately freezes transshipment flows and breaks sailing schedules for mainline ocean carriers.",
-                "Importers face extreme schedule volatility as port-to-port connections fail and berthing delays compound across international trade lanes. The financial fallout includes diverted cargo costs and potential port congestion surcharges as vessel backlogs exceed 48 hours at primary transit hubs. Logistics directors must evaluate alternative intermodal gateways and buffer inventory to mitigate total network failure."
+                "The major port complex spanning Los Angeles and Long Beach faces an immediate disruption risk as union contract expiration triggers potential strike actions. Shippers with distribution centers across the country report that container processing is slowing rapidly as terminal operators prepare for gate closures. This looming labor stoppage threatens to strand holiday retail merchandise destined for key distribution hubs.",
+                "Supply chain directors must urgently reroute inbound ocean volume toward alternative regional gateways to avoid severe transit paralysis. The financial impact includes mounting demurrage exposure and expedited drayage costs as carriers scramble for available chassis. Logistics managers need to activate contingency trucking allocations immediately to safeguard fourth-quarter inventory velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
+            "nextUpTease": "RAIL: FLOODING SNARES BNSF NETWORK",
             "tags": [
-                "Source: https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
-                "Published: 2026-10-30T14:30:00Z",
+                "Source: https://theloadstar.com/lalb-port-complex-braces-for-potential-strike-as-labour-contract-expires",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
+            "heading": "RAIL: FLOODING SNARES BNSF NETWORK",
             "paragraphs": [
-                "North American robot orders surged 24.8% in Q3 2026 as logistics operators accelerate automated material handling to offset persistent labor scarcity. The spike reflects significant capital investment in facility automation across fulfillment centers and manufacturing nodes struggling with rising overhead. Companies are prioritizing scalable robotic fleets to maintain throughput despite uneven labor participation in regional hubs.",
-                "The shift to robotic reliance creates a new strategic hurdle regarding high-cost capital depreciation and long-term maintenance cycles. While automation reduces per-unit labor costs, it increases technical risk and requires a total re-engineering of the facility lifecycle. Procurement leads must balance high-interest capital expense with the immediate productivity gains required to survive current volume spikes."
+                "A severe, once-in-a-generation flood near Laguna, New Mexico, has severely disrupted BNSF Railway's primary intermodal network across the southwestern corridor. Track washouts and structural damage have halted mainline freight traffic, stranding numerous stack trains and intermodal shipments. Engineering crews are working around the clock to restore tracks, but recovery timelines remain uncertain amid ongoing weather hazards.",
+                "Intermodal shippers face significant transit delays and equipment shortages as transcontinental rail service ground to a temporary halt. The disruption forces logistics teams to absorb higher spot market truckload rates to move stranded cargo around the damaged railhead. Shippers must evaluate alternate rail routings and communicate potential delivery schedule adjustments to retail clients."
             ],
             "imageUrl": "",
-            "nextUpTease": "IT: CARGOWISE CUSTOMS OUTAGE",
+            "nextUpTease": "MARITIME: HORMUZ TANKER ATTACK",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/62311-north-american-robot-orders-increased-248-in-third-quarter",
-                "Published: 2026-10-30T16:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "IT: CARGOWISE CUSTOMS OUTAGE",
+            "heading": "MARITIME: HORMUZ TANKER ATTACK",
             "paragraphs": [
-                "A major IT messaging failure within WiseTech Global's CargoWise platform has disrupted customs declarations for forwarders in the UK and Japan. The outage caused severe delays in processing import and export clearance messages, leaving thousands of shipments stranded at terminal gates. Technical teams are working to restore the automated interface, but backlogs continue to mount at critical customs entry points.",
-                "Shippers operating in affected regions face immediate storage and detention fees as cargo fails to clear regulatory hurdles. The reliance on centralized software platforms introduces a single point of failure risk that can halt entire national trade pipelines in hours. Supply chain architects must establish manual fallback procedures and secondary clearance partnerships to ensure continuity during platform outages."
+                "An Emirati-owned offshore tug was struck by a projectile in the Strait of Hormuz, intensifying security threats along critical crude and fuel transit routes. Regional maritime security cells report that commercial shipping faces heightened risks from hull-mounted explosives and projectile attacks near the Musandam Peninsula. This security escalation keeps vital energy corridors constrained, forcing vessel operators to adopt costly defensive measures.",
+                "The ongoing conflict in the Middle East continues to inflate marine war risk insurance premiums and bunker fuel surcharges globally. Shippers are absorbing these rising transit costs as carriers pass on the financial burden of regional security protocols. Maritime logistics planners must incorporate extended transit buffers and enhanced risk assessments into all Gulf-bound vessel charters."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+            "nextUpTease": "TRUCKING: FMCSA UPDATES SAFETY RULES",
             "tags": [
-                "Source: https://theloadstar.com/exclusive-cargowise-customs-message-delays-leave-forwarders-waiting-for-clearance/",
-                "Published: 2026-10-30T18:20:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-01T13:47:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+            "heading": "REGULATION: FMCSA UPDATES SAFETY RULES",
             "paragraphs": [
-                "US shipper costs have reached a 5-year high as stagnant freight demand fails to offset rising carrier operational expenses and regulatory compliance burdens. High fuel volatility and increased insurance premiums are forcing carriers to hold floor rates, despite a lack of significant volume growth. This environment has created a pricing floor that prevents shippers from realizing traditional recessionary rate drops.",
-                "Logistics procurement teams are trapped in a high-cost environment where capacity is available but expensive to utilize. The strategy of waiting for lower rates has failed, necessitating a shift toward long-term carrier partnerships and freight consolidation. Shippers must optimize truckload density and reduce deadhead miles to protect margins against these structural cost increases."
+                "The Federal Motor Carrier Safety Administration has initiated sweeping updates targeting hours-of-service rules and the safety measurement system to enhance highway compliance. The regulatory adjustments aim to tighten carrier oversight while introducing targeted flexibilities for compliant motor carriers operating across federal corridors. Enforcement agencies are increasing roadside inspections to ensure strict adherence to the updated compliance mandates.",
+                "Fleet operators face increased administrative overhead and potential operational slowdowns as drivers adapt to the revised safety protocols. Failure to meet the updated safety measurement thresholds risks immediate authority suspensions and higher commercial insurance premiums. Logistics directors must audit carrier safety scores continuously to prevent unexpected capacity interruptions in their contracted networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "LTL: TFI CHIEF PROMISES OVERHAUL",
+            "nextUpTease": "PORT: KENYA APPROVES $1B CONCESSION",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/62312-shipper-costs-hit-five-year-high-as-freight-demand-stalls",
-                "Published: 2026-10-30T15:10:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LTL: TFI CHIEF PROMISES OVERHAUL",
+            "heading": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
             "paragraphs": [
-                "TFI International Chairman and CEO Alain Bedard issued a public mandate for rapid change across the company\u2019s US less-than-truckload (LTL) operations. The directive follows a performance dip where operating ratios at the LTL unit slipped, prompting a leadership focus on cost reduction and service density. The aggressive overhaul aims to recapture market share and improve profitability through tighter fleet management.",
-                "Shippers using TFI's LTL network may experience transit time re-alignments as the carrier optimizes lanes and terminal footprints. This internal pivot highlights the volatility within the LTL sector as providers struggle to maintain margins amidst shifting retail volumes. Corporate logistics managers should monitor service level agreements (SLAs) closely during this transition to ensure cargo velocity remains stable."
+                "Kenya's National Treasury has approved a comprehensive feasibility study to privatize key port assets in Mombasa and Lamu through a phased concession plan. The strategic initiative aims to attract $1.2B in private sector investment to upgrade terminal efficiency and expand regional logistics competitiveness. The phased rollout will transfer specific dock operations to private operators to eliminate chronic vessel turnaround bottlenecks.",
+                "East African trade stakeholders stand to benefit from improved cargo handling speeds and reduced port dwell times once the privatization agreements take full effect. However, the transitional phase may introduce short-term operational friction as management structures and customs interfaces evolve. Exporters utilizing East African gateways should monitor terminal schedules closely to maintain predictable supply chain flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: BP REFINERY PROFIT BOOM",
+            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
             "tags": [
-                "Source: https://www.freightwaves.com/news/tfi-chief-bedard-rips-into-its-us-ltl-operations-promises-change",
-                "Published: 2026-10-30T21:05:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-01T13:47:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: BP REFINERY PROFIT BOOM",
+            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
             "paragraphs": [
-                "BP reported its highest quarterly profit in 18 years, driven by a global surge in refinery margins and extreme volatility in fuel markets. The energy giant\u2019s results highlight the disconnect between record corporate earnings and the high fuel costs currently squeezing industrial shippers. The massive windfall comes as refinery capacity remains tight, keeping diesel and jet fuel prices at elevated levels.",
-                "Sustained high fuel costs are driving an increase in bunker and fuel surcharges across ocean, air, and ground transport modes. Freight forwarders are increasingly passing these costs directly to shippers, who must now budget for fuel expenses that exceed 30% of total transportation spend. Strategic procurement now requires advanced fuel hedging or indexed contract structures to manage this extreme budget exposure."
+                "The National Retail Federation has released its annual holiday forecast, projecting retail sales to climb 4.2% to $1.013T despite ongoing economic headwinds. Retailers are bracing for compressed shopping windows and heightened inventory competition as consumer demand shifts toward later buying patterns. Fulfillment networks are currently operating at peak intensity to ensure merchandise reaches distribution centers ahead of major promotional events.",
+                "The projected sales volume requires flawless inventory orchestration to prevent costly stockouts and excessive last-mile delivery surcharges. Supply chain executives must balance holding costs against the risk of unfulfilled consumer orders during the peak retail season. Comprehensive demand planning and flexible warehousing strategies remain essential for capturing profitable holiday revenue."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE: DOORDASH BUYS INSTACART",
+            "nextUpTease": "CARGO: THEFT LOSSES RISE DESPITE DROP",
             "tags": [
-                "Source: https://www.ttnews.com/articles/bp-profit-refinery-boom",
-                "Published: 2026-10-30T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LAST MILE: DOORDASH BUYS INSTACART",
+            "heading": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
             "paragraphs": [
-                "DoorDash has agreed to acquire Instacart for $17B, creating a dominant logistics power in the last-mile and grocery fulfillment space. This consolidation merges DoorDash\u2019s dense urban delivery network with Instacart\u2019s sophisticated grocery logistics infrastructure and retail partnerships. The deal is expected to accelerate the development of autonomous delivery and dark store fulfillment models across North America.",
-                "The acquisition reduces competition in the last-mile sector, potentially leading to higher service fees and standardized carrier rates for retailers. Commercial logistics directors must evaluate how this consolidation impacts their direct-to-consumer (DTC) fulfillment costs and delivery speed. This merger signals a broader trend toward platform consolidation where scale is the only defense against high last-mile operational costs."
+                "Verisk CargoNet data reveals that while total reported cargo theft incidents dropped across the United States and Canada, the total financial losses experienced an upward surge. Sophisticated criminal syndicates are increasingly targeting high-value electronics and pharmaceutical shipments through strategic identity theft and targeted facility intrusions. This trend highlights a shift from opportunistic thefts to highly organized cargo heists.",
+                "Supply chain security teams must upgrade verification protocols for carrier vetting and facility access to mitigate rising cargo loss liabilities. Insurance underwriters are tightening security requirements, demanding real-time tracking and verified driver credentials for all high-value loads. Shippers failing to implement robust risk mitigation measures face unprotected financial exposure and higher claims deductibles."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/doordash-instacart-buyout",
-                "Published: 2026-10-29T17:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

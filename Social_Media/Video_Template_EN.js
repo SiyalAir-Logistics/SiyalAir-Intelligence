@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL DOCKWORKER STRIKE",
+        "hookTitle": "STRIKE THREAT LOOMS AT PORTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: GLOBAL DOCKWORKER STRIKE",
-                "teaserTitle": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
+                "headline": "LABOR: STRIKE THREAT LOOMS AT PORTS",
+                "teaserTitle": "RAIL: FLOODING SNARES BNSF NETWORK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Twenty-five unions across twenty-two countries have launched a coordinated strike at one hundred thirteen ports. This massive mobilization freezes global container handling and halts primary transshipment flows immediately."
+                "narration_line": "The ports of Los Angeles and Long Beach face potential strike disruptions as union contracts expire. Shippers must reroute inbound ocean freight immediately to avoid severe holiday delivery delays."
             },
             {
                 "slide_index": 2,
-                "headline": "ROBOTICS: Q3 ORDERS JUMP 24.8%",
-                "teaserTitle": "IT: CARGOWISE CUSTOMS OUTAGE",
+                "headline": "RAIL: FLOODING SNARES BNSF NETWORK",
+                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "North American robot orders surged nearly twenty-five percent in the third quarter as operators battle labor scarcity. These capital investments aim to maintain warehouse throughput despite rising labor costs."
+                "narration_line": "A historic flood in New Mexico has severely disrupted BNSF Railway's intermodal network. Shippers are forced to utilize spot market trucks to bypass the damaged rail corridor."
             },
             {
                 "slide_index": 3,
-                "headline": "IT: CARGOWISE CUSTOMS OUTAGE",
-                "teaserTitle": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
+                "headline": "MARITIME: HORMUZ TANKER ATTACK",
+                "teaserTitle": "REGULATION: FMCSA UPDATES SAFETY RULES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A Cargo-Wise software failure has halted customs clearance in the United Kingdom and Japan. Thousands of shipments are stranded at terminal gates as technical teams scramble to restore clearance messaging."
+                "narration_line": "An offshore tug was struck by a projectile in the Strait of Hormuz. The attack escalates regional risks and drives up marine war risk insurance premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: SHIPPER COSTS HIT 5-YEAR HIGH",
-                "teaserTitle": "LTL: TFI CHIEF PROMISES OVERHAUL",
+                "headline": "REGULATION: FMCSA UPDATES SAFETY RULES",
+                "teaserTitle": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States shipper costs have climbed to a five-year high as operating expenses outpace freight demand. Carriers are holding price floors, forcing logistics teams to manage high-cost capacity without volume growth."
+                "narration_line": "The Federal Motor Carrier Safety Administration has introduced sweeping updates to safety measurement systems. Fleets must audit compliance data to prevent unexpected authority suspensions."
             },
             {
                 "slide_index": 5,
-                "headline": "LTL: TFI CHIEF PROMISES OVERHAUL",
-                "teaserTitle": "ENERGY: BP REFINERY PROFIT BOOM",
+                "headline": "INFRASTRUCTURE: KENYA APPROVES $1B CONCESSION",
+                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "T-F-I International has announced an aggressive overhaul of its less-than-truckload operations in the United States. Shippers should expect lane re-alignments as the carrier works to improve its service density."
+                "narration_line": "Kenya has approved a $1.2B concession plan to privatize key port assets in Mombasa. The investment aims to eliminate chronic terminal bottlenecks and improve regional logistics efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: BP REFINERY PROFIT BOOM",
-                "teaserTitle": "LAST MILE: DOORDASH BUYS INSTACART",
+                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "B-P has recorded an eighteen-year profit high fueled by record-breaking refinery margins. These energy costs are driving bunker and fuel surcharges above thirty percent of total transportation spend."
+                "narration_line": "The National Retail Federation forecasts a 4.2% increase in holiday sales to over $1T. Fulfillment networks must manage compressed shopping windows to capture peak revenue."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DOORDASH BUYS INSTACART",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "SECURITY: CARGO THEFT LOSSES RISE DESPITE DROP",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Door-Dash is acquiring Instacart for seventeen billion dollars to consolidate last-mile logistics dominance. This merger will likely standardize delivery rates and accelerate autonomous grocery fulfillment across North America."
+                "narration_line": "Cargo theft losses are surging despite a drop in total reported incidents across North America. Criminal syndicates are increasingly targeting high-value freight with strategic identity fraud."
             },
             {
                 "slide_index": 8,
