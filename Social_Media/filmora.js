@@ -5,44 +5,44 @@ module.exports = {
             {
                 "slide_index": 1,
                 "headline": "MANUFACTURING: PMI BEATS EXPECTATIONS",
-                "teaserTitle": "CARRIER: PAMT REPORTS Q3 LOSS",
-                "visual_caption": "October manufacturing PMI hits 55.5 as industrial output records its strongest expansion since late 2021. New orders surge significantly as factory activity scales up."
+                "teaserTitle": "PORT: LA LB SETS RECORDS",
+                "visual_caption": "October manufacturing PMI hit 55.5, marking the strongest industrial growth reading since late 2021. Supply chain executives must align logistics capacity with strengthening factory output to prevent bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER: PAMT REPORTS Q3 LOSS",
-                "teaserTitle": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
-                "visual_caption": "Pamt Corp records a Q3 net loss driven by elevated fuel and driver procurement expenses. Carrier margins remain pressured across the trucking sector."
+                "headline": "PORT: LA LB SETS RECORDS",
+                "teaserTitle": "CARRIER: PAMT REPORTS LOSS",
+                "visual_caption": "The ports of Los Angeles and Long Beach processed record-breaking container volumes as peak season cargo flooded West Coast gateways. Importers must monitor dwell times closely to prevent costly demurrage fees."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
-                "teaserTitle": "TECHNOLOGY: TRASHLAB RAISES 12M",
-                "visual_caption": "ShipMatrix forecasts a 4% increase in parcel shipping demand during the holiday peak season. Last-mile networks scale operations for surging volume."
+                "headline": "CARRIER: PAMT REPORTS LOSS",
+                "teaserTitle": "PARCEL: HOLIDAY SHIPPING SURGE",
+                "visual_caption": "Truckload carrier Pamt Corp. recorded a Q3 net loss due to elevated driver procurement and diesel fuel expenses. Shippers partnering with asset-based fleets must anticipate potential rate adjustments."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: TRASHLAB RAISES 12M",
-                "teaserTitle": "LIABILITY: FREIGHT LIABILITY SHIFT",
-                "visual_caption": "TrashLab secures $12M in funding to automate back-office operations for waste haulers. Capital accelerates software deployment to eliminate administrative friction."
+                "headline": "PARCEL: HOLIDAY SHIPPING SURGE",
+                "teaserTitle": "SAFETY: CDL CRACKDOWN ARRESTS",
+                "visual_caption": "Parcel shipping demand is projected to increase 4% during the upcoming holiday peak fulfillment season. Retail logistics directors must enforce strict carrier compliance to mitigate peak season surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "LIABILITY: FREIGHT LIABILITY SHIFT",
-                "teaserTitle": "SAFETY: CDL CRACKDOWN ARRESTS",
-                "visual_caption": "Legal precedents introduce major shifts in freight liability frameworks across the brokerage sector. Intermediaries face heightened exposure under new contract rules."
+                "headline": "SAFETY: CDL CRACKDOWN ARRESTS",
+                "teaserTitle": "BUNKER: SINGAPORE VLSFO SPIKE",
+                "visual_caption": "Law enforcement agencies arrested over 230 individuals in a targeted crackdown against unauthorized CDL holders. Motor carriers must verify driver credentialing data continuously to avoid fleet disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: CDL CRACKDOWN ARRESTS",
-                "teaserTitle": "PORT: LA LB SETS NEW RECORDS",
-                "visual_caption": "Law enforcement arrests over 230 individuals in a crackdown targeting unauthorized CDL holders. Safety push eliminates fraudulent credentials nationwide."
+                "headline": "BUNKER: SINGAPORE VLSFO SPIKE",
+                "teaserTitle": "TECHNOLOGY: TRASHLAB FUNDING",
+                "visual_caption": "Singapore marine fuel costs climbed back above $1,000 per ton for the first time since March. Ocean freight procurement teams must factor escalating fuel adjustment factors into upcoming contract negotiations."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: LA LB SETS NEW RECORDS",
+                "headline": "TECHNOLOGY: TRASHLAB FUNDING",
                 "teaserTitle": "",
-                "visual_caption": "Ports of LA and Long Beach process all-time record container volumes during peak import season. Terminals work continuously to clear yard congestion."
+                "visual_caption": "Waste automation startup TrashLab secured $12M in new funding to automate back-office logistics workflows. Supply chain organizations are increasingly investing in software tools to reduce overhead operating costs."
             },
             {
                 "slide_index": 8,
