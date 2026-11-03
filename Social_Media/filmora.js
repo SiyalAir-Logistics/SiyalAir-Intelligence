@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: USTR URGED TO SUSPEND CHINESE SHIP FEES",
-                "teaserTitle": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
-                "visual_caption": "Industry groups urge the Trade Representative to suspend proposed Chinese shipping fees. The delay aims to prevent surging transportation costs and protect export competitiveness."
+                "headline": "MANUFACTURING: PMI BEATS EXPECTATIONS",
+                "teaserTitle": "CARRIER: PAMT REPORTS Q3 LOSS",
+                "visual_caption": "October manufacturing PMI hits 55.5 as industrial output records its strongest expansion since late 2021. New orders surge significantly as factory activity scales up."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
-                "teaserTitle": "CARRIER: CH ROBINSON ACQUIRES RXO",
-                "visual_caption": "LA and LB port terminals pushed their potential strike deadline to Nov. 4. The extension averts an immediate gateway shutdown for peak holiday cargo."
+                "headline": "CARRIER: PAMT REPORTS Q3 LOSS",
+                "teaserTitle": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
+                "visual_caption": "Pamt Corp records a Q3 net loss driven by elevated fuel and driver procurement expenses. Carrier margins remain pressured across the trucking sector."
             },
             {
                 "slide_index": 3,
-                "headline": "CARRIER: C.H. ROBINSON ACQUIRES RXO",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a massive $5.8B transaction. The deal expands expedited services and reshapes freight brokerage market dynamics."
+                "headline": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
+                "teaserTitle": "TECHNOLOGY: TRASHLAB RAISES 12M",
+                "visual_caption": "ShipMatrix forecasts a 4% increase in parcel shipping demand during the holiday peak season. Last-mile networks scale operations for surging volume."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "teaserTitle": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
-                "visual_caption": "The NRF forecasts holiday sales to climb 4.2% to $1.013T. Fulfillment networks are operating at peak intensity to ensure merchandise delivery."
+                "headline": "TECHNOLOGY: TRASHLAB RAISES 12M",
+                "teaserTitle": "LIABILITY: FREIGHT LIABILITY SHIFT",
+                "visual_caption": "TrashLab secures $12M in funding to automate back-office operations for waste haulers. Capital accelerates software deployment to eliminate administrative friction."
             },
             {
                 "slide_index": 5,
-                "headline": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SURGE",
-                "visual_caption": "The FMCSA removed over 10K commercial driver training providers from its registry. Fleet operators face tightening driver pipelines and increased regulatory oversight."
+                "headline": "LIABILITY: FREIGHT LIABILITY SHIFT",
+                "teaserTitle": "SAFETY: CDL CRACKDOWN ARRESTS",
+                "visual_caption": "Legal precedents introduce major shifts in freight liability frameworks across the brokerage sector. Intermediaries face heightened exposure under new contract rules."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: CARGO THEFT LOSSES SURGE",
-                "teaserTitle": "MARITIME: WALLENIUS SECURES $700M DEAL",
-                "visual_caption": "Cargo theft incidents dropped while total financial losses surged across North America. Criminal syndicates are increasingly targeting high-value electronics."
+                "headline": "SAFETY: CDL CRACKDOWN ARRESTS",
+                "teaserTitle": "PORT: LA LB SETS NEW RECORDS",
+                "visual_caption": "Law enforcement arrests over 230 individuals in a crackdown targeting unauthorized CDL holders. Safety push eliminates fraudulent credentials nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: WALLENIUS SECURES $700M DEAL",
+                "headline": "PORT: LA LB SETS NEW RECORDS",
                 "teaserTitle": "",
-                "visual_caption": "Wallenius Wilhelmsen secured a $700M shipping contract with an Asian automaker. The deal highlights steady demand for dedicated vehicle carrier capacity."
+                "visual_caption": "Ports of LA and Long Beach process all-time record container volumes during peak import season. Terminals work continuously to clear yard congestion."
             },
             {
                 "slide_index": 8,

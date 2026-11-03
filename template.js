@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR URGED TO SUSPEND CHINESE SHIP",
-        "titleBlue": "FEES",
-        "footerSummary": "Industry groups warn that proposed maritime fees targeting Chinese shipping will drive up U.S. transportation costs and reduce export competitiveness."
+        "titleWhite": "MANUFACTURING PMI BEATS",
+        "titleBlue": "EXPECTATIONS",
+        "footerSummary": "October manufacturing PMI hits 55.5 as industrial output records its strongest expansion since late 2021, driven by robust new order growth."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: USTR URGED TO SUSPEND CHINESE SHIP FEES",
+            "heading": "MANUFACTURING: PMI BEATS EXPECTATIONS",
             "paragraphs": [
-                "Industry associations submitted formal comments urging the Office of the United States Trade Representative to suspend proposed maritime fees targeting China's shipping sector until at least Jan. Freight stakeholders warn that punitive port levies would immediately inflate operational expenses across multiple domestic supply chains and degrade export competitiveness.",
-                "Logistics directors must factor potential trade policy shifts into 2027 ocean contracting strategies to avoid sudden cost shocks. Delaying these tariffs would provide temporary relief for transpacific shippers navigating volatile freight rate environments."
+                "October's manufacturing PMI registered at 55.5, marking the strongest industrial growth reading since late 2021 amid accelerating factory output. A key measure of new orders surged to its highest level since July, remaining well within expansionary territory as production activity scales up.",
+                "Supply chain executives must align logistics capacity with strengthening factory output to prevent bottlenecks at regional distribution centers. Sustained manufacturing momentum requires proactive inventory planning to manage rising raw material throughput effectively."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
+            "nextUpTease": "CARRIER: PAMT REPORTS Q3 LOSS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
+            "heading": "CARRIER: PAMT REPORTS Q3 LOSS",
             "paragraphs": [
-                "The Pacific Maritime Association and union leadership agreed to extend the potential strike deadline for the Los Angeles and Long Beach port complex to Nov. 4. This vital extension averts an immediate gateway shutdown that threatened to snarl peak season retail inventory deliveries ahead of Black Friday.",
-                "Supply chain planners gain a brief window to reroute urgent cargo and clear backlogs, though lingering contract uncertainty requires active contingency monitoring. Shippers must maintain alternative trucking allocations to safeguard against sudden terminal disruptions."
+                "Truckload carrier Pamt Corp. recorded a net loss during the third quarter, pointing to elevated driver procurement expenses and surging diesel fuel costs. These persistent operational headwinds continue to pressure carrier margins and reflect broader financial strain across the trucking sector.",
+                "Shippers partnering with asset-based fleets must anticipate potential rate adjustments as motor carriers absorb higher operational overhead. Maintaining diversified carrier relationships remains essential to insulate supply chains against contractor instability."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER: CH ROBINSON ACQUIRES RXO",
+            "nextUpTease": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER: C.H. ROBINSON ACQUIRES RXO",
+            "heading": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
             "paragraphs": [
-                "C.H. Robinson has reached a definitive agreement to acquire RXO in a massive $5.8B cash-and-stock transaction set to reshape the third-party logistics landscape. The merger significantly expands the combined entity's footprint in specialized expedited and last-mile delivery services as the broader freight sector consolidates.",
-                "Shippers utilizing 3PL networks must review existing provider contracts to anticipate potential service adjustments during the multi-year integration process. The mega-merger increases carrier leverage, requiring logistics managers to diversify provider portfolios to maintain competitive freight rates."
+                "ShipMatrix projections indicate that parcel shipping demand will increase by 4% during the upcoming holiday peak fulfillment season. Last-mile carrier networks are actively scaling operations to handle the projected surge in e-commerce volume without compromising service levels.",
+                "Retail logistics directors must enforce strict carrier compliance and optimize routing protocols to mitigate peak season surcharges. Early inventory positioning across regional hubs is critical to absorb unexpected volume spikes and maintain customer delivery commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+            "nextUpTease": "TECHNOLOGY: TRASHLAB RAISES 12M",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+            "heading": "TECHNOLOGY: TRASHLAB RAISES 12M",
             "paragraphs": [
-                "The National Retail Federation projects holiday retail sales to climb 4.2% to reach $1.013T despite ongoing economic headwinds and compressed consumer shopping windows. Retail fulfillment networks are operating at peak intensity to ensure merchandise reaches regional distribution hubs ahead of major promotional events.",
-                "The projected surge requires flawless inventory orchestration to prevent costly stockouts and excessive last-mile delivery surcharges. Supply chain executives must carefully balance holding costs against unfulfilled order risks during the critical year-end sales rush."
+                "Waste automation startup TrashLab has successfully secured $12M in new funding to automate back-office operations for waste haulers. The capital infusion will accelerate the deployment of intelligent software solutions designed to eliminate manual administrative friction in logistics workflows.",
+                "Supply chain organizations are increasingly investing in back-office automation to reduce overhead costs and improve operational scalability. Adopting advanced software tools allows logistics providers to reallocate human capital toward strategic network optimization."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+            "nextUpTease": "LIABILITY: FREIGHT LIABILITY SHIFT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+            "heading": "LIABILITY: FREIGHT LIABILITY SHIFT",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration has removed over 10,000 commercial driver training providers from its registry in an aggressive highway safety enforcement push. The sweeping action aims to eliminate non-compliant training programs and ensure rigorous qualification standards across national motor carrier networks.",
-                "Fleet operators face tightening driver pipelines and potential onboarding delays as qualified training capacity shrinks across regional transport corridors. Logistics directors must audit carrier recruitment channels continuously to prevent unexpected capacity bottlenecks in dedicated fleets."
+                "Recent legal precedents and regulatory developments are introducing significant shifts in freight liability frameworks across the brokerage sector. Transport intermediaries and motor carriers face heightened exposure under evolving legal interpretations governing transport contracts.",
+                "Logistics managers must conduct thorough legal audits of existing broker-shipper agreements to protect against emerging liability risks. Proactive contract risk mitigation prevents unexpected financial exposure when handling disputed freight claims."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT LOSSES SURGE",
+            "nextUpTease": "SAFETY: CDL CRACKDOWN ARRESTS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-11-02T08:00:00Z",
@@ -83,30 +83,30 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "SECURITY: CARGO THEFT LOSSES SURGE",
+            "heading": "SAFETY: CDL CRACKDOWN ARRESTS",
             "paragraphs": [
-                "Verisk CargoNet data reveals that while reported cargo theft incidents dropped across North America, total financial losses surged significantly due to targeted high-value commodity thefts. Sophisticated criminal syndicates are increasingly utilizing strategic identity theft and facility intrusions to intercept high-end electronics and pharmaceuticals.",
-                "Supply chain security teams must upgrade carrier vetting protocols and facility access controls to mitigate rising cargo loss liabilities. Insurance underwriters are demanding real-time tracking and verified driver credentials, leaving non-compliant shippers with higher deductibles."
+                "Law enforcement agencies recently arrested more than 230 individuals in a targeted enforcement sweep against unauthorized commercial driver's license holders. This coordinated safety crackdown aims to eliminate fraudulent credentials and enforce strict compliance across commercial transport networks.",
+                "Motor carriers must verify driver credentialing data continuously to avoid severe regulatory penalties and fleet disruptions. Tightening enforcement on driver qualifications further constrains available transport capacity across regional corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: WALLENIUS SECURES $700M DEAL",
+            "nextUpTease": "PORT: LA LB SETS NEW RECORDS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-30T08:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: WALLENIUS SECURES $700M DEAL",
+            "heading": "PORT: LA LB SETS NEW RECORDS",
             "paragraphs": [
-                "Norwegian car carrier giant Wallenius Wilhelmsen has secured a lucrative 3-year shipping contract worth approximately $700M with a major Asian automotive manufacturer. The long-term agreement underscores sustained demand for dedicated ro-ro vessel capacity as global finished vehicle supply chains stabilize.",
-                "Automotive shippers must lock in multi-year maritime commitments early to secure stable vessel allocation against tightening global fleet capacity. Relying on spot market charters for vehicle logistics risks severe rate volatility and schedule disruptions."
+                "The ports of Los Angeles and Long Beach processed record-breaking container volumes as peak season import cargo continued to flood West Coast gateways. Terminal operators are working around the clock to clear yard congestion and accelerate intermodal rail connections.",
+                "Importers must monitor dwell times closely and secure priority chassis allocations to prevent costly demurrage fees at marine terminals. Effective coordination with drayage partners ensures seamless container evacuation during periods of intense port activity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]

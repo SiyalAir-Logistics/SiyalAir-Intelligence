@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR URGED TO SUSPEND CHINESE SHIP FEES",
+        "hookTitle": "MANUFACTURING PMI BEATS EXPECTATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: USTR URGED TO SUSPEND CHINESE SHIP FEES",
-                "teaserTitle": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
+                "headline": "MANUFACTURING: PMI BEATS EXPECTATIONS",
+                "teaserTitle": "CARRIER: PAMT REPORTS Q3 LOSS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Industry groups urge the Trade Representative to suspend proposed Chinese shipping fees. The delay aims to prevent surging transportation costs and protect export competitiveness."
+                "narration_line": "October manufacturing PMI reached fifty-five point five as industrial output recorded its strongest expansion since late twenty twenty-one. A surge in new orders highlights robust manufacturing momentum across the industrial sector."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR: LA-LB PORT STRIKE DEADLINE DELAYED",
-                "teaserTitle": "CARRIER: CH ROBINSON ACQUIRES RXO",
+                "headline": "CARRIER: PAMT REPORTS Q3 LOSS",
+                "teaserTitle": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Los Angeles and Long Beach port terminals pushed their potential strike deadline to November 4. The extension averts an immediate gateway shutdown for holiday cargo."
+                "narration_line": "Truckload carrier Pamt Corporation reported a net loss during the third quarter due to rising fuel and driver expenses. Elevated operational overhead continues to pressure carrier profit margins nationwide."
             },
             {
                 "slide_index": 3,
-                "headline": "CARRIER: C.H. ROBINSON ACQUIRES RXO",
-                "teaserTitle": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
+                "headline": "PARCEL: HOLIDAY SHIPPING DEMAND SURGE",
+                "teaserTitle": "TECHNOLOGY: TRASHLAB RAISES 12M",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a massive five point eight billion dollar transaction. The deal expands expedited services and reshapes freight brokerage dynamics."
+                "narration_line": "ShipMatrix projects that parcel shipping demand will increase by four percent during the upcoming holiday peak season. Last-mile carriers are actively scaling networks to handle surging e-commerce volume."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL: NRF FORECASTS 4.2% HOLIDAY GROWTH",
-                "teaserTitle": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
+                "headline": "TECHNOLOGY: TRASHLAB RAISES 12M",
+                "teaserTitle": "LIABILITY: FREIGHT LIABILITY SHIFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The National Retail Federation forecasts holiday sales to climb four point two percent to one trillion dollars. Fulfillment networks are operating at peak intensity."
+                "narration_line": "Waste automation startup TrashLab has secured twelve million dollars in new funding for back-office technology. The capital will accelerate software deployment designed to eliminate administrative freight friction."
             },
             {
                 "slide_index": 5,
-                "headline": "SAFETY: FMCSA PURGES 10K DRIVER TRAINERS",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SURGE",
+                "headline": "LIABILITY: FREIGHT LIABILITY SHIFT",
+                "teaserTitle": "SAFETY: CDL CRACKDOWN ARRESTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The transport safety administration removed over ten thousand driver training providers. Fleet operators face tightening driver pipelines and increased onboarding oversight."
+                "narration_line": "Recent legal precedents are introducing significant shifts in freight liability frameworks across the brokerage sector. Transport intermediaries face heightened exposure under evolving contract interpretations."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: CARGO THEFT LOSSES SURGE",
-                "teaserTitle": "MARITIME: WALLENIUS SECURES $700M DEAL",
+                "headline": "SAFETY: CDL CRACKDOWN ARRESTS",
+                "teaserTitle": "PORT: LA LB SETS NEW RECORDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cargo theft incidents dropped while total financial losses surged across North America. Criminal syndicates increasingly target high-value electronics and pharmaceuticals."
+                "narration_line": "Law enforcement arrested over two hundred thirty individuals in an enforcement sweep targeting unauthorized commercial drivers. This safety crackdown aims to eliminate fraudulent credentials across transport networks."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: WALLENIUS SECURES $700M DEAL",
+                "headline": "PORT: LA LB SETS NEW RECORDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Wallenius Wilhelmsen secured a seven hundred million dollar shipping contract with an Asian automaker. The deal highlights steady demand for dedicated vehicle carrier capacity."
+                "narration_line": "The ports of Los Angeles and Long Beach processed record container volumes during peak import operations. Terminal operators are working continuously to clear yard congestion and rail backlogs."
             },
             {
                 "slide_index": 8,
