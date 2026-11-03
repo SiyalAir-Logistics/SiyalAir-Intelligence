@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MANUFACTURING PMI BEATS",
-        "titleBlue": "EXPECTATIONS",
-        "footerSummary": "October manufacturing PMI hits 55.5 as industrial output records its strongest expansion since late 2021, driven by robust new order growth."
+        "titleWhite": "PEAK SEASON INVENTORY SURGE BOLSTERS TL",
+        "titleBlue": "CARRIERS",
+        "footerSummary": "October logistics index jumps as inventory spikes ahead of holidays, giving truckload carriers a vital rate tailwind in bidding seasons."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MANUFACTURING: PMI BEATS EXPECTATIONS",
+            "heading": "TRUCKLOAD: PEAK SEASON INVENTORY SURGE",
             "paragraphs": [
-                "October's manufacturing PMI registered at 55.5, marking the strongest industrial growth reading since late 2021 amid accelerating factory output. A key measure of new orders surged to its highest level since July, remaining well within expansionary territory as production activity scales up.",
-                "Supply chain executives must align logistics capacity with strengthening factory output to prevent bottlenecks at regional distribution centers. Sustained manufacturing momentum requires proactive inventory planning to manage rising raw material throughput effectively."
+                "The October Logistics Managers Index revealed a significant jump in inventory levels ahead of the holiday buying season, providing an added operational tailwind for truckload carriers. Several major motor carriers have already initiated new bid seasons to capitalize on tightening equipment availability across key freight corridors.",
+                "Shippers must secure dedicated capacity early to protect freight budgets against impending double-digit rate increases driven by heightened seasonal demand. Proactive allocation planning remains critical to maintaining service reliability and preventing costly spot market exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: LA LB SETS RECORDS",
+            "nextUpTease": "MARITIME: HAPAG WARNS CARGO",
             "tags": [
-                "Source: https://www.ttnews.com/articles/factory-production-grows-most-since-2021",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/peak-season-inventory-surge-bolsters-tl-carriers-double-digit-rate-ask",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT: LA LB SETS RECORDS",
+            "heading": "MARITIME: HAPAG WARNS CARGO",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach processed record-breaking container volumes as peak season import cargo continued to flood West Coast gateways. Terminal operators are working around the clock to clear yard congestion and accelerate intermodal rail connections.",
-                "Importers must monitor dwell times closely and secure priority chassis allocations to prevent costly demurrage fees at marine terminals. Effective coordination with drayage partners ensures seamless container evacuation during periods of intense port activity."
+                "Two weeks after a devastating fire broke out in the South Atlantic aboard the container ship Espirito Santo Express, ocean carriers are advising customers that the vast majority of onboard freight is severely damaged or a total loss. Salvage teams are actively working to stabilize the vessel while navigating complex recovery protocols for remaining uncompromised containers.",
+                "Cargo owners with inventory aboard the affected ship must initiate insurance claims immediately and review force majeure clauses to mitigate financial exposure. Supply chain directors should diversify routing schedules to insulate secondary shipments against unexpected maritime casualties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER: PAMT REPORTS LOSS",
+            "nextUpTease": "PORT: LA LB STRIKE THREAT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ports-los-angeles-and-long-beach-set-all-time-records",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://maritime-executive.com/article/hapag-and-one-warn-cargo-on-espirito-santo-express-is-severely-fire-damaged",
+                "Published: 2026-11-02T16:37:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER: PAMT REPORTS LOSS",
+            "heading": "PORT: LA LB STRIKE THREAT",
             "paragraphs": [
-                "Truckload carrier Pamt Corp. recorded a net loss during the third quarter, pointing to elevated driver procurement expenses and surging diesel fuel costs. These persistent operational headwinds continue to pressure carrier margins and reflect broader financial strain across the trucking sector.",
-                "Shippers partnering with asset-based fleets must anticipate potential rate adjustments as motor carriers absorb higher operational overhead. Maintaining diversified carrier relationships remains essential to insulate supply chains against contractor instability."
+                "Rising tensions at the ports of Los Angeles and Long Beach have heightened concerns among cargo owners and logistics providers as a potential labor strike looms large over San Pedro Bay gateways. Approximately 250 security watchmen represented by the ILWU approach critical contract expiration milestones, threatening immediate operational disruption across marine terminals.",
+                "Supply chain operators must divert critical import volumes toward alternative Pacific Northwest or Gulf Coast gateways to bypass anticipated terminal congestion. Establishing contingency drayage plans ensures seamless cargo movement if labor negotiations break down entirely."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: HOLIDAY SHIPPING SURGE",
+            "nextUpTease": "RAIL: TFI BUYS NON-UNION",
             "tags": [
-                "Source: https://www.freightwaves.com/news/pamt-corp-reports-q3-net-loss",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-worsen-congestion/",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL: HOLIDAY SHIPPING SURGE",
+            "heading": "RAIL: TFI BUYS NON-UNION",
             "paragraphs": [
-                "ShipMatrix projections indicate that parcel shipping demand will increase by 4% during the upcoming holiday peak fulfillment season. Last-mile carrier networks are actively scaling operations to handle the projected surge in e-commerce volume without compromising service levels.",
-                "Retail logistics directors must enforce strict carrier compliance and optimize routing protocols to mitigate peak season surcharges. Early inventory positioning across regional hubs is critical to absorb unexpected volume spikes and maintain customer delivery commitments."
+                "TFI International plans to construct an asset-light less-than-truckload network utilizing independent contractors while its unionized subsidiary, TForce Freight, undergoes restructuring under fresh executive leadership. CEO Alain B\u00e9dard announced the strategic pivot to capture fragmented regional freight opportunities without expanding heavy terminal overhead.",
+                "Shippers relying on legacy union carriers should monitor service performance closely and evaluate alternative non-asset provider networks for risk mitigation. Diversifying carrier partnerships protects distribution schedules against potential labor disputes and internal restructuring friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: CDL CRACKDOWN ARRESTS",
+            "nextUpTease": "SAFETY: OPERATION WICKED SAFE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/parcel-shipping-demand-to-increase-4percent-during-holidays",
+                "Source: https://www.joc.com/article/tfi-looks-build-non-union-us-ltl-network-beyond-tforce-freight_20261102.html",
                 "Published: 2026-11-02T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SAFETY: CDL CRACKDOWN ARRESTS",
+            "heading": "SAFETY: OPERATION WICKED SAFE",
             "paragraphs": [
-                "Law enforcement agencies recently arrested more than 230 individuals in a targeted enforcement sweep against unauthorized commercial driver's license holders. This coordinated safety crackdown aims to eliminate fraudulent credentials and enforce strict compliance across commercial transport networks.",
-                "Motor carriers must verify driver credentialing data continuously to avoid severe regulatory penalties and fleet disruptions. Tightening enforcement on driver qualifications further constrains available transport capacity across regional corridors."
+                "Participating state police agencies across six northeastern states uncovered nearly 2,000 commercial motor vehicle safety violations during the intensive Operation Wicked Safe enforcement blitz. Officers conducted rigorous roadside inspections targeting hours-of-service compliance, equipment fitness, and driver credential verification.",
+                "Fleet operators must audit internal maintenance records and driver logs continuously to avoid costly out-of-service orders and severe regulatory fines. Heightened regional enforcement will continue to constrain driver availability and inflate transit times along eastern corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "BUNKER: SINGAPORE VLSFO SPIKE",
+            "nextUpTease": "TECHNOLOGY: LOAMY RAISES 6M",
             "tags": [
-                "Source: https://www.freightwaves.com/news/230-plus-immigrants-arrested-in-crackdown",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://www.ttnews.com/articles/operation-wicked-safe-violations",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BUNKER: SINGAPORE VLSFO SPIKE",
+            "heading": "TECHNOLOGY: LOAMY RAISES 6M",
             "paragraphs": [
-                "The cost of fueling ships in Singapore climbed back above $1,000 per ton for the first time since March as regional conflict pressures bunker bills. This renewed pricing surge directly inflates operating expenditures across container liner services and major trade routes.",
-                "Ocean freight procurement teams must factor escalating fuel adjustment factors into upcoming quarterly contract negotiations. Evaluating slow-steaming strategies and fuel hedging options remains vital to protect operating margins against volatile bunker pricing."
+                "Agtech startup Loamy has successfully secured $6M in new funding to deploy advanced artificial intelligence tools designed to flag produce quality defects before prospective buyers reject shipments. The proprietary software automates visual inspection workflows to minimize agricultural food waste across cold chain transit networks.",
+                "Fresh produce distributors and grocers can leverage automated quality detection platforms to reduce costly inventory write-offs and streamline supplier negotiations. Integrating predictive analytics into perishables logistics protects operating margins against volatile supply fluctuations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: TRASHLAB FUNDING",
+            "nextUpTease": "BUNKER: SINGAPORE VLSFO SPIKE",
             "tags": [
-                "Source: https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march",
+                "Source: https://www.freightwaves.com/news/loamy-raises-6m-to-flag-produce-before-a-buyer-rejects-it",
                 "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: TRASHLAB FUNDING",
+            "heading": "BUNKER: SINGAPORE VLSFO SPIKE",
             "paragraphs": [
-                "Waste automation startup TrashLab has successfully secured $12M in new funding to automate back-office operations for waste haulers. The capital infusion will accelerate the deployment of intelligent software solutions designed to eliminate manual administrative friction in logistics workflows.",
-                "Supply chain organizations are increasingly investing in back-office automation to reduce overhead costs and improve operational scalability. Adopting advanced software tools allows logistics providers to reallocate human capital toward strategic network optimization."
+                "Very low sulfur fuel oil prices in Singapore climbed back above $1,000 per ton for the first time since March as regional maritime security threats inflate bunker fuel costs. This sharp pricing escalation immediately drives up voyage operating expenses across major container liner services and global trade lanes.",
+                "Ocean freight procurement managers must incorporate dynamic bunker adjustment factors into upcoming quarterly service contracts to maintain budget predictability. Evaluating vessel slow-steaming strategies and fuel hedging instruments remains essential for protecting maritime operating margins."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/trashlab-raises-12m",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march/",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         }
