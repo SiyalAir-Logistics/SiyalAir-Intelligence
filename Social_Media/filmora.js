@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT: SAN PEDRO BAY STRIKE",
-                "teaserTitle": "MARITIME: ASIA EUROPE SUEZ RESUMPTION",
-                "visual_caption": "ILWU labor tensions at Los Angeles and Long Beach threaten severe terminal congestion. Shippers must establish contingency drayage routes now."
+                "headline": "MARITIME: TRANSPACIFIC TRADE PROFITABILITY",
+                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE WARNING",
+                "visual_caption": "Transpacific container routes represent the most lucrative trade lane globally. Carriers capture up to $1.30 per nautical mile on spot shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
-                "teaserTitle": "RAIL: UNION PACIFIC INTERMODAL GROWTH",
-                "visual_caption": "Mainline carriers are returning Asia-Europe services to the Suez Canal routing. Logistics directors should review updated transit schedules."
+                "headline": "PORT: SAN PEDRO BAY STRIKE WARNING",
+                "teaserTitle": "MARITIME: SUEZ ROUTE RESUMPTION",
+                "visual_caption": "Rising labor friction threatens terminal operations across San Pedro Bay gateways. Shippers must activate contingency drayage plans immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: UNION PACIFIC EXPANSION",
-                "teaserTitle": "FUEL: NEW JERSEY DIESEL WARNING",
-                "visual_caption": "Union Pacific acquired 500 new domestic containers, breaking a 3-year industry equipment freeze. Shippers should evaluate long-term leasing options."
+                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
+                "teaserTitle": "TANKER: TORM NEWBUILD EXPANSION",
+                "visual_caption": "Major ocean liners are preparing to resume Asia to Europe services through Suez. This routing shift aims to capture vital fuel efficiency gains."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: NEW JERSEY DIESEL WARNING",
+                "headline": "TANKER: TORM NEWBUILD EXPANSION",
                 "teaserTitle": "AIR: LATIN AMERICA AIR CARGO",
-                "visual_caption": "New Jersey warned terminals against accepting Russian diesel shipments. Fleets must verify fuel origins to avoid federal penalties."
+                "visual_caption": "Torm has accelerated fleet modernization with an 8-tanker newbuilding agreement. The joint venture underscores confidence in refined product demand."
             },
             {
                 "slide_index": 5,
                 "headline": "AIR: LATIN AMERICA AIR CARGO",
-                "teaserTitle": "PORT: BANGLADESH GARMENT PROTESTS",
-                "visual_caption": "Surging e-commerce volumes are driving structural imbalances across Latin American air networks. Operators must optimize southbound yields."
+                "teaserTitle": "REGULATORY: GREENLAND SCRUBBER BAN",
+                "visual_caption": "Surging e-commerce volumes are driving rapid air cargo growth across Latin America. Carriers continue to manage persistent directional trade imbalances."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT: BANGLADESH GARMENT PROTESTS",
-                "teaserTitle": "TRUCKING: PEAK INVENTORY SURGE",
-                "visual_caption": "Labor protests in Bangladesh threaten vital apparel export delivery schedules. Retailers should establish buffer stock inventories."
+                "headline": "REGULATORY: GREENLAND SCRUBBER BAN",
+                "teaserTitle": "RAIL: INTERMODAL VOLUME SURGE",
+                "visual_caption": "Greenland has banned scrubber wastewater discharges across its territorial waters. Environmental groups are now pushing for wider Arctic prohibitions."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: PEAK INVENTORY SURGE",
+                "headline": "RAIL: INTERMODAL VOLUME SURGE",
                 "teaserTitle": "",
-                "visual_caption": "Rising inventory levels provide truckload carriers with double-digit rate leverage. Shippers should lock in contracted capacity ahead of peak season."
+                "visual_caption": "Weekly US rail traffic rose 3.5% on strong intermodal volume gains. Rail operators are capturing freight as shippers seek reliable alternatives."
             },
             {
                 "slide_index": 8,

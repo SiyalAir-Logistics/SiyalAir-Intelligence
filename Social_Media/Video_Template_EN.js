@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SAN PEDRO BAY PORTS THREATENED BY STRIKE",
+        "hookTitle": "TRANSPACIFIC EMERGES AS CONTAINER SHIPPING'S GOLDEN TRADE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT: SAN PEDRO BAY STRIKE",
-                "teaserTitle": "MARITIME: ASIA EUROPE SUEZ RESUMPTION",
+                "headline": "MARITIME: TRANSPACIFIC TRADE PROFITABILITY",
+                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE WARNING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Labor tensions at Los Angeles and Long Beach threaten terminal congestion. Shippers should establish contingency drayage plans immediately."
+                "narration_line": "Transpacific container routes have become the most lucrative trade lane globally. Carriers earn up to one dollar and thirty cents per nautical mile on spot shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
-                "teaserTitle": "RAIL: UNION PACIFIC INTERMODAL GROWTH",
+                "headline": "PORT: SAN PEDRO BAY STRIKE WARNING",
+                "teaserTitle": "MARITIME: SUEZ ROUTE RESUMPTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Container lines are shifting Asia to Europe services back through Suez. Supply chain managers must factor revised transit times into planning."
+                "narration_line": "Rising labor tensions threaten terminal operations across San Pedro Bay gateways. Shippers must activate contingency drayage plans to avoid severe delays."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: UNION PACIFIC EXPANSION",
-                "teaserTitle": "FUEL: NEW JERSEY DIESEL WARNING",
+                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
+                "teaserTitle": "TANKER: TORM NEWBUILD EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Union Pacific purchased 500 new domestic containers. This breaks a three-year industry equipment freeze."
+                "narration_line": "Major ocean liners are preparing to resume Asia to Europe services through Suez. This routing shift aims to capture vital fuel efficiency gains."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: NEW JERSEY DIESEL WARNING",
+                "headline": "TANKER: TORM NEWBUILD EXPANSION",
                 "teaserTitle": "AIR: LATIN AMERICA AIR CARGO",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New Jersey warned terminals against importing Russian diesel. Fleets must verify fuel origins to ensure compliance."
+                "narration_line": "Torm has accelerated fleet modernization with an eight tanker newbuilding agreement. The joint venture underscores confidence in refined product demand."
             },
             {
                 "slide_index": 5,
                 "headline": "AIR: LATIN AMERICA AIR CARGO",
-                "teaserTitle": "PORT: BANGLADESH GARMENT PROTESTS",
+                "teaserTitle": "REGULATORY: GREENLAND SCRUBBER BAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "E-commerce imports are reshaping Latin American air cargo networks. Carriers must optimize yield management across corridors."
+                "narration_line": "Surging e-commerce volumes are driving rapid air cargo growth across Latin America. Carriers continue to manage persistent directional trade imbalances."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT: BANGLADESH GARMENT PROTESTS",
-                "teaserTitle": "TRUCKING: PEAK INVENTORY SURGE",
+                "headline": "REGULATORY: GREENLAND SCRUBBER BAN",
+                "teaserTitle": "RAIL: INTERMODAL VOLUME SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Labor protests in Bangladesh threaten apparel export deadlines. Brands should secure early bookings to protect inventory."
+                "narration_line": "Greenland has banned scrubber wastewater discharges across its territorial waters. Environmental groups are now pushing for wider Arctic prohibitions."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: PEAK INVENTORY SURGE",
+                "headline": "RAIL: INTERMODAL VOLUME SURGE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Higher inventory levels ahead of peak season bolster truckload carriers. Shippers should lock in contractual capacity early."
+                "narration_line": "Weekly United States rail traffic rose three point five percent on intermodal gains. Rail operators are capturing freight as shippers seek reliable alternatives."
             },
             {
                 "slide_index": 8,
