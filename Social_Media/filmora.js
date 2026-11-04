@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ZIM CHINA USWC EXPRESS",
-                "teaserTitle": "MARITIME: MAINLINE OPERATORS SUEZ",
-                "visual_caption": "Zim launches a 3rd China-USWC express service to capture peak demand. Spot rates hover near 2026 highs across trans-Pacific routes."
+                "headline": "PORT: SAN PEDRO BAY STRIKE",
+                "teaserTitle": "MARITIME: ASIA EUROPE SUEZ RESUMPTION",
+                "visual_caption": "ILWU labor tensions at Los Angeles and Long Beach threaten severe terminal congestion. Shippers must establish contingency drayage routes now."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MAINLINE OPERATORS SUEZ",
-                "teaserTitle": "PORT: LA LB STRIKE THREAT",
-                "visual_caption": "Gemini partners shift Asia-Europe services back through the Suez Canal. Carriers are prioritizing fuel efficiency and reduced voyage times."
+                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
+                "teaserTitle": "RAIL: UNION PACIFIC INTERMODAL GROWTH",
+                "visual_caption": "Mainline carriers are returning Asia-Europe services to the Suez Canal routing. Logistics directors should review updated transit schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT: LA LB STRIKE THREAT",
-                "teaserTitle": "RAIL: SCHNEIDER EASTERN INTERMODAL",
-                "visual_caption": "ILWU watchman strike threats at LA-LB ports risk severe terminal congestion. Shippers are diverting critical volumes to alternative gateways."
+                "headline": "RAIL: UNION PACIFIC EXPANSION",
+                "teaserTitle": "FUEL: NEW JERSEY DIESEL WARNING",
+                "visual_caption": "Union Pacific acquired 500 new domestic containers, breaking a 3-year industry equipment freeze. Shippers should evaluate long-term leasing options."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: SCHNEIDER EASTERN INTERMODAL",
-                "teaserTitle": "ACQUISITION: CH ROBINSON ACQUIRES RXO",
-                "visual_caption": "Schneider shifts eastern intermodal freight operations to Norfolk Southern. The network alignment optimizes rail velocity across corridors."
+                "headline": "FUEL: NEW JERSEY DIESEL WARNING",
+                "teaserTitle": "AIR: LATIN AMERICA AIR CARGO",
+                "visual_caption": "New Jersey warned terminals against accepting Russian diesel shipments. Fleets must verify fuel origins to avoid federal penalties."
             },
             {
                 "slide_index": 5,
-                "headline": "ACQUISITION: CH ROBINSON RXO DEAL",
-                "teaserTitle": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock transaction. The deal expands enterprise expedited and last-mile networks."
+                "headline": "AIR: LATIN AMERICA AIR CARGO",
+                "teaserTitle": "PORT: BANGLADESH GARMENT PROTESTS",
+                "visual_caption": "Surging e-commerce volumes are driving structural imbalances across Latin American air networks. Operators must optimize southbound yields."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
-                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
-                "visual_caption": "Iran doubles its list of non-compliant vessels in regional Middle East waters. Designated ships face strict passage restrictions and fines."
+                "headline": "PORT: BANGLADESH GARMENT PROTESTS",
+                "teaserTitle": "TRUCKING: PEAK INVENTORY SURGE",
+                "visual_caption": "Labor protests in Bangladesh threaten vital apparel export delivery schedules. Retailers should establish buffer stock inventories."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "headline": "TRUCKING: PEAK INVENTORY SURGE",
                 "teaserTitle": "",
-                "visual_caption": "NRF forecasts 4.2% growth in 2026 holiday retail sales amid economic headwinds. Retailers maintain strategic inventory buffers for peak fulfillment."
+                "visual_caption": "Rising inventory levels provide truckload carriers with double-digit rate leverage. Shippers should lock in contracted capacity ahead of peak season."
             },
             {
                 "slide_index": 8,
