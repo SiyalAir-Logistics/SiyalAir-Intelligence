@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRUCKLOAD: PEAK SEASON INVENTORY SURGE",
-                "teaserTitle": "MARITIME: HAPAG WARNS CARGO",
-                "visual_caption": "The October Logistics Managers Index showed a major inventory jump ahead of the holidays. Truckload carriers are utilizing this surge to push for double-digit rate increases."
+                "headline": "MARITIME: ZIM CHINA USWC EXPRESS",
+                "teaserTitle": "MARITIME: MAINLINE OPERATORS SUEZ",
+                "visual_caption": "Zim launches a 3rd China-USWC express service to capture peak demand. Spot rates hover near 2026 highs across trans-Pacific routes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HAPAG WARNS CARGO",
+                "headline": "MARITIME: MAINLINE OPERATORS SUEZ",
                 "teaserTitle": "PORT: LA LB STRIKE THREAT",
-                "visual_caption": "Carriers confirm cargo aboard the Espirito Santo Express is severely damaged or a total loss. Salvage teams are progressing as affected shippers process insurance claims."
+                "visual_caption": "Gemini partners shift Asia-Europe services back through the Suez Canal. Carriers are prioritizing fuel efficiency and reduced voyage times."
             },
             {
                 "slide_index": 3,
                 "headline": "PORT: LA LB STRIKE THREAT",
-                "teaserTitle": "RAIL: TFI BUYS NON-UNION",
-                "visual_caption": "San Pedro Bay ports face mounting congestion risks as labor contract expiration nears. Logistics teams are diverting container shipments to alternative coastal gateways."
+                "teaserTitle": "RAIL: SCHNEIDER EASTERN INTERMODAL",
+                "visual_caption": "ILWU watchman strike threats at LA-LB ports risk severe terminal congestion. Shippers are diverting critical volumes to alternative gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: TFI BUYS NON-UNION",
-                "teaserTitle": "SAFETY: OPERATION WICKED SAFE",
-                "visual_caption": "TFI is expanding an asset-light LTL network using contractors while TForce regroups. Management aims to capture regional freight without heavy terminal overhead."
+                "headline": "RAIL: SCHNEIDER EASTERN INTERMODAL",
+                "teaserTitle": "ACQUISITION: CH ROBINSON ACQUIRES RXO",
+                "visual_caption": "Schneider shifts eastern intermodal freight operations to Norfolk Southern. The network alignment optimizes rail velocity across corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "SAFETY: OPERATION WICKED SAFE",
-                "teaserTitle": "TECHNOLOGY: LOAMY RAISES 6M",
-                "visual_caption": "Operation Wicked Safe inspections uncovered nearly 2,000 CMV safety violations across 6 states. Strict credential enforcement continues to tighten regional trucking capacity."
+                "headline": "ACQUISITION: CH ROBINSON RXO DEAL",
+                "teaserTitle": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
+                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock transaction. The deal expands enterprise expedited and last-mile networks."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: LOAMY RAISES 6M",
-                "teaserTitle": "BUNKER: SINGAPORE VLSFO SPIKE",
-                "visual_caption": "Startup Loamy raised $6M to automate produce quality inspections before buyer rejection. The technology minimizes agricultural waste across cold chain networks."
+                "headline": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
+                "teaserTitle": "RETAIL: NRF HOLIDAY SALES FORECAST",
+                "visual_caption": "Iran doubles its list of non-compliant vessels in regional Middle East waters. Designated ships face strict passage restrictions and fines."
             },
             {
                 "slide_index": 7,
-                "headline": "BUNKER: SINGAPORE VLSFO SPIKE",
+                "headline": "RETAIL: NRF HOLIDAY SALES FORECAST",
                 "teaserTitle": "",
-                "visual_caption": "Singapore VLSFO bunker prices crossed back above $1,000 per ton amid regional conflict. Ocean procurement teams must account for rising fuel adjustment factors."
+                "visual_caption": "NRF forecasts 4.2% growth in 2026 holiday retail sales amid economic headwinds. Retailers maintain strategic inventory buffers for peak fulfillment."
             },
             {
                 "slide_index": 8,

@@ -1,38 +1,38 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PEAK SEASON INVENTORY SURGE BOLSTERS TL",
-        "titleBlue": "CARRIERS",
-        "footerSummary": "October logistics index jumps as inventory spikes ahead of holidays, giving truckload carriers a vital rate tailwind in bidding seasons."
+        "titleWhite": "ZIM LAUNCHES THIRD CHINA USWC EXPRESS",
+        "titleBlue": "SERVICE",
+        "footerSummary": "Trans-Pacific spot rates hover near 2026 highs as Zim deploys a third China USWC express service to capture peak freight demand."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUCKLOAD: PEAK SEASON INVENTORY SURGE",
+            "heading": "MARITIME: ZIM CHINA USWC EXPRESS",
             "paragraphs": [
-                "The October Logistics Managers Index revealed a significant jump in inventory levels ahead of the holiday buying season, providing an added operational tailwind for truckload carriers. Several major motor carriers have already initiated new bid seasons to capitalize on tightening equipment availability across key freight corridors.",
-                "Shippers must secure dedicated capacity early to protect freight budgets against impending double-digit rate increases driven by heightened seasonal demand. Proactive allocation planning remains critical to maintaining service reliability and preventing costly spot market exposure."
+                "Zim has officially launched a third dedicated express service connecting Chinese manufacturing hubs directly to the U.S. West Coast. This strategic vessel deployment arrives as eastbound trans-Pacific spot freight rates hover near peak levels late into the traditional shipping season.",
+                "Cargo owners facing constrained capacity across major maritime corridors must evaluate whether premium express service pricing aligns with holiday inventory delivery targets. Securing reliable slot allocations now prevents costly last-minute spot market exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG WARNS CARGO",
+            "nextUpTease": "MARITIME: MAINLINE OPERATORS SUEZ",
             "tags": [
-                "Source: https://www.freightwaves.com/news/peak-season-inventory-surge-bolsters-tl-carriers-double-digit-rate-ask",
+                "Source: https://www.joc.com/article/zim-launches-third-china-uswc-express-service-to-tap-freight-surge_20261103.html",
                 "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HAPAG WARNS CARGO",
+            "heading": "MARITIME: MAINLINE OPERATORS SUEZ",
             "paragraphs": [
-                "Two weeks after a devastating fire broke out in the South Atlantic aboard the container ship Espirito Santo Express, ocean carriers are advising customers that the vast majority of onboard freight is severely damaged or a total loss. Salvage teams are actively working to stabilize the vessel while navigating complex recovery protocols for remaining uncompromised containers.",
-                "Cargo owners with inventory aboard the affected ship must initiate insurance claims immediately and review force majeure clauses to mitigate financial exposure. Supply chain directors should diversify routing schedules to insulate secondary shipments against unexpected maritime casualties."
+                "All major container shipping lines in the Gemini cooperation are preparing to transition their mainline Asia to North Europe services back through the Suez Canal routing. This operational shift signals a gradual normalization of transit paths as carriers seek fuel efficiency gains.",
+                "Supply chain directors should review upcoming vessel schedules and factor revised transit times into European distribution planning. While Suez transits reduce voyage lengths, shippers must monitor ongoing regional security updates closely."
             ],
             "imageUrl": "",
             "nextUpTease": "PORT: LA LB STRIKE THREAT",
             "tags": [
-                "Source: https://maritime-executive.com/article/hapag-and-one-warn-cargo-on-espirito-santo-express-is-severely-fire-damaged",
-                "Published: 2026-11-02T16:37:00Z",
+                "Source: https://theloadstar.com/major-liners-set-to-resume-all-asia-europe-services-through-suez/",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -40,11 +40,11 @@ const dailyData = {
             "id": 3,
             "heading": "PORT: LA LB STRIKE THREAT",
             "paragraphs": [
-                "Rising tensions at the ports of Los Angeles and Long Beach have heightened concerns among cargo owners and logistics providers as a potential labor strike looms large over San Pedro Bay gateways. Approximately 250 security watchmen represented by the ILWU approach critical contract expiration milestones, threatening immediate operational disruption across marine terminals.",
-                "Supply chain operators must divert critical import volumes toward alternative Pacific Northwest or Gulf Coast gateways to bypass anticipated terminal congestion. Establishing contingency drayage plans ensures seamless cargo movement if labor negotiations break down entirely."
+                "Rising labor tensions involving security watchmen represented by the ILWU at the ports of Los Angeles and Long Beach threaten to turbo-charge terminal congestion. Logistics providers and cargo owners are bracing for potential disruptions across vital San Pedro Bay gateways.",
+                "Importers must establish contingency drayage plans and reroute urgent import volumes toward alternative Pacific Northwest terminals. Proactive diversion safeguards holiday fulfillment schedules against sudden labor-driven bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: TFI BUYS NON-UNION",
+            "nextUpTease": "RAIL: SCHNEIDER EASTERN INTERMODAL",
             "tags": [
                 "Source: https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-worsen-congestion/",
                 "Published: 2026-11-03T08:00:00Z",
@@ -53,60 +53,60 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "RAIL: TFI BUYS NON-UNION",
+            "heading": "RAIL: SCHNEIDER EASTERN INTERMODAL",
             "paragraphs": [
-                "TFI International plans to construct an asset-light less-than-truckload network utilizing independent contractors while its unionized subsidiary, TForce Freight, undergoes restructuring under fresh executive leadership. CEO Alain B\u00e9dard announced the strategic pivot to capture fragmented regional freight opportunities without expanding heavy terminal overhead.",
-                "Shippers relying on legacy union carriers should monitor service performance closely and evaluate alternative non-asset provider networks for risk mitigation. Diversifying carrier partnerships protects distribution schedules against potential labor disputes and internal restructuring friction."
+                "Schneider National has officially shifted its eastern intermodal freight operations to Norfolk Southern, restructuring its core network partnerships across key eastern corridors. This strategic realignment aims to optimize rail velocity and service reliability for regional shippers.",
+                "Supply chain managers utilizing eastern intermodal services should audit current routing guides and verify transit schedule adjustments with carrier partners. Close coordination ensures seamless modal handoffs during the active peak shipping window."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: OPERATION WICKED SAFE",
+            "nextUpTease": "ACQUISITION: CH ROBINSON ACQUIRES RXO",
             "tags": [
-                "Source: https://www.joc.com/article/tfi-looks-build-non-union-us-ltl-network-beyond-tforce-freight_20261102.html",
-                "Published: 2026-11-02T08:00:00Z",
+                "Source: https://www.ttnews.com/articles/schneider-shifts-eastern-intermodal-freight-to-norfolk-southern",
+                "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SAFETY: OPERATION WICKED SAFE",
+            "heading": "ACQUISITION: CH ROBINSON RXO DEAL",
             "paragraphs": [
-                "Participating state police agencies across six northeastern states uncovered nearly 2,000 commercial motor vehicle safety violations during the intensive Operation Wicked Safe enforcement blitz. Officers conducted rigorous roadside inspections targeting hours-of-service compliance, equipment fitness, and driver credential verification.",
-                "Fleet operators must audit internal maintenance records and driver logs continuously to avoid costly out-of-service orders and severe regulatory fines. Heightened regional enforcement will continue to constrain driver availability and inflate transit times along eastern corridors."
+                "C.H. Robinson has formally agreed to acquire RXO in a major $5.8B cash and stock transaction designed to expand enterprise logistics capabilities. The landmark deal significantly strengthens combined service offerings across expedited transport and last-mile delivery sectors.",
+                "Shippers partnering with these providers must monitor integration timelines and evaluate how consolidated contract terms impact service level agreements. Strategic oversight of third-party logistics portfolios protects long-term transportation budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: LOAMY RAISES 6M",
+            "nextUpTease": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/operation-wicked-safe-violations",
+                "Source: https://www.logisticsmgmt.com/article/c.h._robinson_agrees_to_acquire_rxo_in_$5.8_billion_cash-and-stock_deal",
                 "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: LOAMY RAISES 6M",
+            "heading": "MARITIME: IRAN DOUBLES NON-COMPLIANT",
             "paragraphs": [
-                "Agtech startup Loamy has successfully secured $6M in new funding to deploy advanced artificial intelligence tools designed to flag produce quality defects before prospective buyers reject shipments. The proprietary software automates visual inspection workflows to minimize agricultural food waste across cold chain transit networks.",
-                "Fresh produce distributors and grocers can leverage automated quality detection platforms to reduce costly inventory write-offs and streamline supplier negotiations. Integrating predictive analytics into perishables logistics protects operating margins against volatile supply fluctuations."
+                "Iran's Persian Gulf Strait Authority has released an updated list doubling the number of commercial vessels designated as non-compliant in regional waters. The agency reiterates strict operational limitations, including potential fines, detention, or confiscation for targeted ships.",
+                "Maritime operators navigating Middle Eastern trade lanes must enforce rigorous risk assessment protocols and review vessel security clearances. Avoiding restricted zones protects crew safety and prevents catastrophic cargo impoundment."
             ],
             "imageUrl": "",
-            "nextUpTease": "BUNKER: SINGAPORE VLSFO SPIKE",
+            "nextUpTease": "RETAIL: NRF HOLIDAY SALES FORECAST",
             "tags": [
-                "Source: https://www.freightwaves.com/news/loamy-raises-6m-to-flag-produce-before-a-buyer-rejects-it",
-                "Published: 2026-11-03T08:00:00Z",
+                "Source: https://maritime-executive.com/article/iran-increases-pressure-on-shipping-doubling-non-compliant-list",
+                "Published: 2026-11-03T1:33:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BUNKER: SINGAPORE VLSFO SPIKE",
+            "heading": "RETAIL: NRF HOLIDAY SALES FORECAST",
             "paragraphs": [
-                "Very low sulfur fuel oil prices in Singapore climbed back above $1,000 per ton for the first time since March as regional maritime security threats inflate bunker fuel costs. This sharp pricing escalation immediately drives up voyage operating expenses across major container liner services and global trade lanes.",
-                "Ocean freight procurement managers must incorporate dynamic bunker adjustment factors into upcoming quarterly service contracts to maintain budget predictability. Evaluating vessel slow-steaming strategies and fuel hedging instruments remains essential for protecting maritime operating margins."
+                "The National Retail Federation has forecasted a solid 4.2% growth in 2026 holiday retail sales despite lingering economic headwinds and supply chain cost pressures. Retailers are managing inventory replenishment carefully as consumer demand remains resilient across key categories.",
+                "Supply chain executives must align distribution center staffing and carrier allocations with projected consumer spending velocity. Maintaining flexible inventory buffers ensures high fulfillment rates throughout the peak retail season."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/singapore-vlsfo-back-above-1000-for-first-time-since-march/",
+                "Source: https://www.logisticsmgmt.com/article/nrf_forecasts_4.2%_growth_in_2026_in_holiday_retail_sales_despite_economic_headwinds",
                 "Published: 2026-11-03T08:00:00Z",
                 "Status: Audited & True"
             ]
