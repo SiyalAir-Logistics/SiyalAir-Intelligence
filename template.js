@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSPACIFIC SPOT RATES SURGE TO FIVE TIMES",
-        "titleBlue": "NORTH",
-        "footerSummary": "Transpacific container trade generates peak spot yields of $1.30 per nautical mile while carriers implement November rate hikes."
+        "titleWhite": "BNSF NEW MEXICO",
+        "titleBlue": "FLOODING",
+        "footerSummary": "BNSF halts intermodal service in New Mexico due to generational floods, disrupting SW corridor routing and Q4 retail delivery windows."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: TRANSPACIFIC SPOT RATES",
+            "heading": "RAIL: BNSF NEW MEXICO FLOODING",
             "paragraphs": [
-                "Alphaliner market data confirms that the transpacific lane has emerged as the most lucrative major container shipping route globally. Ocean carriers are generating up to $1.30 per nautical mile on spot shipments from China to the US west coast.",
-                "This extraordinary yield performance delivers a massive financial cushion against volatile regional operating expenses. Cargo owners must secure long-term service contracts to protect annual transport budgets from further escalation."
+                "A once-in-generation flood near Laguna, New Mexico, has forced BNSF to suspend operations on a primary intermodal corridor. The saturation has compromised track integrity, impacting all freight moving between Southern California and the Midwest.",
+                "Logistics managers must evaluate immediate rerouting to Union Pacific or long-haul trucking to maintain Q4 inventory fluidities. Transit delays are expected to escalate as terminal backlogs build across the southwestern network."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ONE PROFIT FORECAST",
+            "nextUpTease": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
             "tags": [
-                "Source: https://splash247.com/transpacific-emerges-as-liner-shipper-golden-trade/",
-                "Published: 2026-11-05T08:00:00Z",
+                "Source: https://www.joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network",
+                "Published: 2026-11-04T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: ONE PROFIT FORECAST",
+            "heading": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
             "paragraphs": [
-                "Ocean Network Express has doubled its full-year profit forecast to $2B following a massive surge in freight rates and cargo volumes. Strong transpacific demand and elevated base yields continue to drive stellar financial returns for major carriers.",
-                "Shippers face persistent cost pressure as liners maintain aggressive pricing discipline across primary international trade corridors. Managing ocean freight expenditures requires real-time lane optimization and proactive rate negotiations."
+                "North American Class 8 truck orders plummeted 36% in October as EPA 2027 regulatory uncertainty rattles fleet procurement strategies. Total orders dropped to 10K units, reflecting a sharp defensive pivot by major carriers.",
+                "The contraction in equipment investment suggests a prolonged capacity ceiling heading into the next fiscal cycle. Shippers should monitor fleet age metrics to anticipate potential service disruptions from maintenance-related downtime."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: SAN PEDRO BAY STRIKE",
+            "nextUpTease": "AIR: DATA CENTER CARGO UPGRADE",
             "tags": [
-                "Source: https://theloadstar.com/one-profits-soar-thanks-to-surging-rates-and-volumes/",
-                "Published: 2026-11-04T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-percent",
+                "Published: 2026-11-04T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT: SAN PEDRO BAY STRIKE",
+            "heading": "AIR: DATA CENTER CARGO UPGRADE",
             "paragraphs": [
-                "Growing labor friction and an expiring union contract at the Los Angeles and Long Beach port complex are heightening terminal congestion fears. Logistics providers warn that sudden strike action could immediately disrupt crucial southern California import gateways.",
-                "Supply chain executives should activate contingency routing plans and divert flexible cargo volumes to alternate terminals. Proactive distribution adjustments safeguard holiday inventory schedules against unexpected terminal shutdowns."
+                "Emirates SkyCargo has launched a specialized handling protocol for high-value data center infrastructure components to capitalize on the AI infrastructure boom. The service targets the rapid deployment of server racks and cooling units globally.",
+                "The allocation of specialized widebody capacity for tech infrastructure may tighten space for traditional electronics and retail goods. Forwarders should secure blocks early to avoid premium spot surcharges during high-demand tech rollouts."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: BRENT CRUDE SLUMP",
+            "nextUpTease": "MARITIME: ASIA-LATAM SERVICE SHIFT",
             "tags": [
-                "Source: https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-worsen-congestion/",
-                "Published: 2026-11-03T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators",
+                "Published: 2026-11-04T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: BRENT CRUDE SLUMP",
+            "heading": "MARITIME: ASIA-LATAM SERVICE SHIFT",
             "paragraphs": [
-                "International benchmark Brent crude oil prices plunged 9.2% to $94.11 per barrel following major political shifts in Washington. The sharp drop in global energy markets provides immediate relief for carrier bunkering surcharges across major trade lanes.",
-                "Logistics procurement teams should monitor fuel adjustment factor recalibrations to capture immediate transportation savings. Leveraging lower bunker costs helps offset elevated base freight rates during the current peak season."
+                "Hapag-Lloyd has announced the launch of two dedicated Asia-Latin America services to restructure its southern hemisphere coverage. These loops aim to improve transit times for perishable goods and automotive parts across emerging trade lanes.",
+                "Increased carrier competition in the LATAM corridor is expected to stabilize rate volatility for north-south shippers. Companies should audit their current ocean contracts to leverage this new capacity before the 2027 reshuffle."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: LUFTHANSA YIELD GROWTH",
+            "nextUpTease": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-sink-below-95-as-markets-soar-on-midterm-results",
-                "Published: 2026-11-04T08:00:00Z",
+                "Source: https://www.joc.com/article/hapag-lloyd-launch-two-asia-latin-america-services-next-year",
+                "Published: 2026-11-04T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR: LUFTHANSA YIELD GROWTH",
+            "heading": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
             "paragraphs": [
-                "Lufthansa Cargo successfully increased its base airfreight yields by 14% year over year during the third quarter. Strong pricing power and robust cargo demand across key global corridors drove exceptional financial performance for the carrier.",
-                "Air cargo shippers must navigate higher baseline transportation costs by optimizing cargo density and booking key allocations early. Strategic capacity planning prevents margin erosion amid tightening global air network capacity."
+                "The Democratic sweep in the midterm elections is triggering a total leadership overhaul of the House Transportation and Infrastructure Committee. New priorities are expected to focus on climate-resilient logistics and stricter labor protections.",
+                "Legislative shifts could accelerate the mandate for zero-emission drayage and increased freight rail safety regulations. Supply chain executives must prepare for a more aggressive federal oversight environment regarding port labor and carbon reporting."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: OP WICKED SAFE",
+            "nextUpTease": "GEOPOLITICS: PLA NAVY PURGE",
             "tags": [
-                "Source: https://theloadstar.com/lufthansa-cargo-rides-airfreight-pricing-power-to-stronger-yields/",
-                "Published: 2026-11-04T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election",
+                "Published: 2026-11-04T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAFETY: OP WICKED SAFE",
+            "heading": "GEOPOLITICS: PLA NAVY PURGE",
             "paragraphs": [
-                "State police agencies across 6 northeastern states uncovered nearly 2,000 commercial motor vehicle violations during the Operation Wicked Safe enforcement blitz. Rigorous roadside inspections targeted equipment safety, driver hours, and compliance failures.",
-                "Fleet operators must enforce strict pre-trip inspection protocols to prevent costly roadside out-of-service orders. Maintaining high safety compliance scores protects delivery schedules and avoids severe regulatory penalties."
+                "Xi Jinping has completed a comprehensive purge of the PLA Navy high command, removing top admirals ahead of the 2027 military readiness target. This internal upheaval signals a tightening of central control over maritime territorial strategies.",
+                "The removal of experienced maritime leaders increases regional instability and heightens risk for commercial shipping in the South China Sea. War risk insurance premiums may see upward pressure as geopolitical tensions remain elevated."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: TRADE DEFICIT",
+            "nextUpTease": "REGULATION: JONES ACT WAIVER FRICTION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/operation-wicked-safe-uncovers-nearly-2000-cmv-violations",
-                "Published: 2026-11-03T08:00:00Z",
+                "Source: https://maritime-executive.com/article/xi-jinping-completes-his-military-purge-including-pla-navy-s-top-admirals",
+                "Published: 2026-11-04T16:24:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GOVERNMENT: TRADE DEFICIT",
+            "heading": "REGULATION: JONES ACT WAIVER FRICTION",
             "paragraphs": [
-                "The US goods and services trade deficit narrowed by 0.7% in September to $105B, driven by a steady pickup in outbound goods exports. Commerce Department data highlights shifting cross-border trade flows as international demand patterns evolve.",
-                "Supply chain planners must analyze changing export-import imbalances to optimize international container repositioning and equipment availability. Aligning logistics networks with macroeconomic trade shifts ensures long-term operational resilience."
+                "Lobbying intensity has surged regarding the renewal of Jones Act waivers for domestic energy cargoes following the shift in Congressional control. Petroleum interests are clashing with domestic shipbuilders over the necessity of foreign-flagged vessel usage.",
+                "A failure to renew waivers could lead to a spike in domestic fuel transport costs and impact East Coast refinery logistics. Shippers of liquid bulk must monitor these legislative proceedings to adjust domestic coastal routing strategy."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/trade-deficit-narrows-slightly-on-pickup-in-goods-exports",
-                "Published: 2026-11-04T08:00:00Z",
+                "Source: https://maritime-executive.com/article/lobbying-over-jones-act-waiver-heats-up-as-renewal-approaches",
+                "Published: 2026-11-04T19:48:00Z",
                 "Status: Audited & True"
             ]
         }
