@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "BNSF NEW MEXICO",
-        "titleBlue": "FLOODING",
-        "footerSummary": "BNSF halts intermodal service in New Mexico due to generational floods, disrupting SW corridor routing and Q4 retail delivery windows."
+        "titleWhite": "MAERSK REVENUE Q3",
+        "titleBlue": "BUMP",
+        "footerSummary": "Maersk reports 27% revenue increase to $18.1B, signaling higher container rates as shippers navigate tight 2027 contract renewals."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL: BNSF NEW MEXICO FLOODING",
+            "heading": "MARITIME: MAERSK REVENUE BUMP",
             "paragraphs": [
-                "A once-in-generation flood near Laguna, New Mexico, has forced BNSF to suspend operations on a primary intermodal corridor. The saturation has compromised track integrity, impacting all freight moving between Southern California and the Midwest.",
-                "Logistics managers must evaluate immediate rerouting to Union Pacific or long-haul trucking to maintain Q4 inventory fluidities. Transit delays are expected to escalate as terminal backlogs build across the southwestern network."
+                "Maersk reported a 27% year-over-year revenue increase to $18.1B in Q3, driven by a sharp rise in container freight rates that offset slight volume declines. This financial performance highlights the carrier's ability to capitalize on current rate environments despite broader market cooling.",
+                "The surge in revenue strengthens the carrier's position as they head into 2027 contract negotiations. Shippers on Asia-Europe trades should anticipate aggressive rate strategies as carriers prioritize margins over volume growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
+            "nextUpTease": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
             "tags": [
-                "Source: https://www.joc.com/article/new-mexico-flooding-snarls-bnsfs-intermodal-network",
-                "Published: 2026-11-04T14:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
+            "heading": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
             "paragraphs": [
-                "North American Class 8 truck orders plummeted 36% in October as EPA 2027 regulatory uncertainty rattles fleet procurement strategies. Total orders dropped to 10K units, reflecting a sharp defensive pivot by major carriers.",
-                "The contraction in equipment investment suggests a prolonged capacity ceiling heading into the next fiscal cycle. Shippers should monitor fleet age metrics to anticipate potential service disruptions from maintenance-related downtime."
+                "C.H. Robinson has reached a definitive agreement to acquire RXO in a $5.8B cash-and-stock transaction. This deal significantly expands Robinson's expedited and last-mile service capabilities, with the integration expected to conclude in the first half of 2027.",
+                "The consolidation marks a major shift in the 3PL landscape, promising enhanced service density for large-scale shippers. Market participants should monitor potential service disruptions during the transition phase as overlapping operations are unified."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: DATA CENTER CARGO UPGRADE",
+            "nextUpTease": "LOGISTICS: LMI REACHES 4-YEAR HIGH",
             "tags": [
-                "Source: https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-percent",
-                "Published: 2026-11-04T11:45:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR: DATA CENTER CARGO UPGRADE",
+            "heading": "LOGISTICS: LMI 4-YEAR HIGH",
             "paragraphs": [
-                "Emirates SkyCargo has launched a specialized handling protocol for high-value data center infrastructure components to capitalize on the AI infrastructure boom. The service targets the rapid deployment of server racks and cooling units globally.",
-                "The allocation of specialized widebody capacity for tech infrastructure may tighten space for traditional electronics and retail goods. Forwarders should secure blocks early to avoid premium spot surcharges during high-demand tech rollouts."
+                "The Logistics Manager\u2019s Index (LMI) hit a four-year high of 70.7 in October, reflecting significant upward pressure on inventory and capacity costs. Growth across the board indicates a persistent imbalance as supply constraints continue to outweigh demand expansion.",
+                "This index reading confirms a hardening environment for logistics procurement professionals. Organizations must prepare for sustained cost volatility as freight flows remain under pressure from restricted capacity and rising operating expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ASIA-LATAM SERVICE SHIFT",
+            "nextUpTease": "GOVERNMENT: LA-LB STRIKE DELAY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators",
-                "Published: 2026-11-04T16:20:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: ASIA-LATAM SERVICE SHIFT",
+            "heading": "GOVERNMENT: LA-LB STRIKE DELAY",
             "paragraphs": [
-                "Hapag-Lloyd has announced the launch of two dedicated Asia-Latin America services to restructure its southern hemisphere coverage. These loops aim to improve transit times for perishable goods and automotive parts across emerging trade lanes.",
-                "Increased carrier competition in the LATAM corridor is expected to stabilize rate volatility for north-south shippers. Companies should audit their current ocean contracts to leverage this new capacity before the 2027 reshuffle."
+                "A looming strike at the Port of Los Angeles and Port of Long Beach has been pushed to November 6 following last-minute negotiations. Terminal operations remain vulnerable as the midnight Friday deadline approaches, threatening a major disruption to trans-Pacific cargo flows.",
+                "Potential work stoppages pose a direct risk to Q4 holiday retail inventory delivery schedules. Shippers are advised to activate contingency routing plans immediately to mitigate the impact of terminal shutdowns in Southern California."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
+            "nextUpTease": "AIR: TAIWAN CARGO CONGESTION",
             "tags": [
-                "Source: https://www.joc.com/article/hapag-lloyd-launch-two-asia-latin-america-services-next-year",
-                "Published: 2026-11-04T09:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
+            "heading": "AIR: TAIWAN CARGO CONGESTION",
             "paragraphs": [
-                "The Democratic sweep in the midterm elections is triggering a total leadership overhaul of the House Transportation and Infrastructure Committee. New priorities are expected to focus on climate-resilient logistics and stricter labor protections.",
-                "Legislative shifts could accelerate the mandate for zero-emission drayage and increased freight rail safety regulations. Supply chain executives must prepare for a more aggressive federal oversight environment regarding port labor and carbon reporting."
+                "Taiwan Taoyuan Airport is experiencing severe air cargo congestion as uncollected imports choke warehouse space and deplete ground support equipment. The backlog is creating significant delays for global shipments tied to the current AI infrastructure boom.",
+                "The bottleneck effectively slows regional throughput and increases wait times for critical tech components. Forwarders must account for prolonged processing times at this key gateway and consider alternative routing for time-sensitive air freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: PLA NAVY PURGE",
+            "nextUpTease": "REGULATION: US SANCTIONS NETWORK",
             "tags": [
-                "Source: https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election",
-                "Published: 2026-11-04T13:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GEOPOLITICS: PLA NAVY PURGE",
+            "heading": "REGULATION: US SANCTIONS NETWORK",
             "paragraphs": [
-                "Xi Jinping has completed a comprehensive purge of the PLA Navy high command, removing top admirals ahead of the 2027 military readiness target. This internal upheaval signals a tightening of central control over maritime territorial strategies.",
-                "The removal of experienced maritime leaders increases regional instability and heightens risk for commercial shipping in the South China Sea. War risk insurance premiums may see upward pressure as geopolitical tensions remain elevated."
+                "The U.S. Treasury has issued new sanctions against a maritime network based in India, accusing it of providing false flags and certifications to ships transporting Iranian petroleum. This action is part of the ongoing U.S. effort to dismantle shadow fleets supporting sanctioned energy trade.",
+                "Companies maintaining global maritime trade routes must enhance their due diligence protocols to avoid accidental entanglement with sanctioned actors. Failure to vet vessel origins poses significant compliance and reputational risk to logistics providers."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: JONES ACT WAIVER FRICTION",
+            "nextUpTease": "OPERATIONS: WOODSIDE JOB CUTS",
             "tags": [
-                "Source: https://maritime-executive.com/article/xi-jinping-completes-his-military-purge-including-pla-navy-s-top-admirals",
-                "Published: 2026-11-04T16:24:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: JONES ACT WAIVER FRICTION",
+            "heading": "OPERATIONS: WOODSIDE JOB CUTS",
             "paragraphs": [
-                "Lobbying intensity has surged regarding the renewal of Jones Act waivers for domestic energy cargoes following the shift in Congressional control. Petroleum interests are clashing with domestic shipbuilders over the necessity of foreign-flagged vessel usage.",
-                "A failure to renew waivers could lead to a spike in domestic fuel transport costs and impact East Coast refinery logistics. Shippers of liquid bulk must monitor these legislative proceedings to adjust domestic coastal routing strategy."
+                "Australian energy giant Woodside plans to eliminate over 500 jobs globally to achieve $400M in annual savings by 2028. This restructuring reflects a strategic move to optimize operational overhead amid fluctuating global energy demand and profitability pressures.",
+                "The workforce reduction highlights the defensive posture major energy players are adopting in the current fiscal climate. Logistics and supply chain partners must evaluate the stability of ongoing energy projects and project support requirements accordingly."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/lobbying-over-jones-act-waiver-heats-up-as-renewal-approaches",
-                "Published: 2026-11-04T19:48:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

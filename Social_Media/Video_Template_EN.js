@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "BNSF NEW MEXICO FLOODING",
+        "hookTitle": "MAERSK REVENUE BUMP",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL: BNSF NEW MEXICO FLOODING",
-                "teaserTitle": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
+                "headline": "MARITIME: MAERSK REVENUE BUMP",
+                "teaserTitle": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A once in a generation flood in New Mexico has forced BNSF to suspend primary intermodal operations. Shippers must anticipate significant transit delays as the carrier works to restore regional network fluidity."
+                "narration_line": "Maersk reported a twenty-seven percent revenue jump in the third quarter. High freight rates are bolstering their financial position for upcoming contract renewals."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: CLASS 8 ORDERS PLUNGE 36%",
-                "teaserTitle": "AIR: DATA CENTER CARGO UPGRADE",
+                "headline": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
+                "teaserTitle": "LOGISTICS: LMI 4-YEAR HIGH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "North American Class eight truck orders dropped thirty six percent in October due to regulatory uncertainty. This shift suggests a sharp defensive pivot by major fleets ahead of new emission standards."
+                "narration_line": "C.H. Robinson is acquiring RXO in a deal worth five point eight billion dollars. This merger aims to significantly expand expedited and last-mile service capabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR: DATA CENTER CARGO UPGRADE",
-                "teaserTitle": "MARITIME: ASIA-LATAM SERVICE SHIFT",
+                "headline": "LOGISTICS: LMI 4-YEAR HIGH",
+                "teaserTitle": "GOVERNMENT: LA-LB STRIKE DELAY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Emirates Sky Cargo has launched specialized handling for data center infrastructure to meet artificial intelligence demand. This priority allocation may tighten air freight capacity for traditional retail electronics globally."
+                "narration_line": "The Logistics Manager Index has hit a four year high of seventy point seven. Growing inventory and capacity pressures are driving this significant index increase."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: ASIA-LATAM SERVICE SHIFT",
-                "teaserTitle": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
+                "headline": "GOVERNMENT: LA-LB STRIKE DELAY",
+                "teaserTitle": "AIR: TAIWAN CARGO CONGESTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hapag Lloyd is launching two dedicated Asia to Latin America services to improve regional transit times. This restructuring provides shippers with new capacity options across critical north south trade lanes."
+                "narration_line": "A looming strike at Los Angeles and Long Beach ports has been delayed until Friday. Terminal operators are bracing for potential shutdowns as negotiations remain tense."
             },
             {
                 "slide_index": 5,
-                "headline": "GOVERNMENT: HOUSE T&I COMMITTEE OVERHAUL",
-                "teaserTitle": "GEOPOLITICS: PLA NAVY PURGE",
+                "headline": "AIR: TAIWAN CARGO CONGESTION",
+                "teaserTitle": "REGULATION: US SANCTIONS NETWORK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Midterm election results are triggering a leadership overhaul of the House Transportation Committee. New legislative priorities will likely focus on climate resilience and stricter labor protections for the logistics sector."
+                "narration_line": "Air cargo imports are clogging warehouses at Taiwan Taoyuan Airport. The congestion is slowing down critical shipments linked to the current artificial intelligence boom."
             },
             {
                 "slide_index": 6,
-                "headline": "GEOPOLITICS: PLA NAVY PURGE",
-                "teaserTitle": "REGULATION: JONES ACT WAIVER FRICTION",
+                "headline": "REGULATION: US SANCTIONS NETWORK",
+                "teaserTitle": "OPERATIONS: WOODSIDE JOB CUTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "China has completed a purge of its naval high command as part of its twenty twenty seven military readiness goals. This internal shift increases regional instability and impacts risk assessments for commercial shipping."
+                "narration_line": "The United States is sanctioning an Indian network for providing false flags to Iranian ships. Companies must now tighten due diligence to avoid these illicit operations."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: JONES ACT WAIVER FRICTION",
+                "headline": "OPERATIONS: WOODSIDE JOB CUTS",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Lobbying over Jones Act waivers has intensified following the change in Congressional control. A failure to extend these waivers could significantly increase transportation costs for domestic energy shipments."
+                "narration_line": "Woodside is cutting over five hundred jobs to save four hundred million dollars. This restructuring is part of a broad effort to optimize their global operations."
             },
             {
                 "slide_index": 8,
