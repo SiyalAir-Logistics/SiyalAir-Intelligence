@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSPACIFIC EMERGES AS CONTAINER SHIPPING'S GOLDEN",
-        "titleBlue": "TRADE",
-        "footerSummary": "Transpacific container trade delivers peak profitability at $1.30 per nautical mile while San Pedro Bay labor friction threatens regional gateway stability."
+        "titleWhite": "TRANSPACIFIC SPOT RATES SURGE TO FIVE TIMES",
+        "titleBlue": "NORTH",
+        "footerSummary": "Transpacific container trade generates peak spot yields of $1.30 per nautical mile while carriers implement November rate hikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: TRANSPACIFIC TRADE PROFITABILITY",
+            "heading": "MARITIME: TRANSPACIFIC SPOT RATES",
             "paragraphs": [
-                "Recent market data from Alphaliner confirms that the transpacific has solidified its position as the most lucrative major container trade route globally. Ocean carriers are capturing up to $1.30 per nautical mile on spot shipments moving from China directly to the US west coast.",
-                "This extraordinary yield performance offers carriers substantial financial buffer against rising operational costs and volatile regional routing adjustments. Shippers must navigate these high-density rate environments by securing long-term service contracts to protect annual transport budgets."
+                "Alphaliner market data confirms that the transpacific lane has emerged as the most lucrative major container shipping route globally. Ocean carriers are generating up to $1.30 per nautical mile on spot shipments from China to the US west coast.",
+                "This extraordinary yield performance delivers a massive financial cushion against volatile regional operating expenses. Cargo owners must secure long-term service contracts to protect annual transport budgets from further escalation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: SAN PEDRO BAY STRIKE WARNING",
+            "nextUpTease": "MARITIME: ONE PROFIT FORECAST",
             "tags": [
                 "Source: https://splash247.com/transpacific-emerges-as-liner-shipper-golden-trade/",
                 "Published: 2026-11-05T08:00:00Z",
@@ -23,13 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "PORT: SAN PEDRO BAY STRIKE WARNING",
+            "heading": "MARITIME: ONE PROFIT FORECAST",
             "paragraphs": [
-                "Rising labor tensions and an expiring labor contract at the Los Angeles and Long Beach port complex are forcing cargo owners to prepare for potential terminal congestion. Logistics providers are warning that any sudden strike action could severely restrict vital southern California import gateways.",
-                "Supply chain directors should immediately activate contingency routing plans and divert flexible cargo volumes toward Pacific Northwest terminals. Proactive distribution adjustments safeguard holiday inventory schedules against unexpected terminal lockouts."
+                "Ocean Network Express has doubled its full-year profit forecast to $2B following a massive surge in freight rates and cargo volumes. Strong transpacific demand and elevated base yields continue to drive stellar financial returns for major carriers.",
+                "Shippers face persistent cost pressure as liners maintain aggressive pricing discipline across primary international trade corridors. Managing ocean freight expenditures requires real-time lane optimization and proactive rate negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SUEZ ROUTE RESUMPTION",
+            "nextUpTease": "PORT: SAN PEDRO BAY STRIKE",
+            "tags": [
+                "Source: https://theloadstar.com/one-profits-soar-thanks-to-surging-rates-and-volumes/",
+                "Published: 2026-11-04T08:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "PORT: SAN PEDRO BAY STRIKE",
+            "paragraphs": [
+                "Growing labor friction and an expiring union contract at the Los Angeles and Long Beach port complex are heightening terminal congestion fears. Logistics providers warn that sudden strike action could immediately disrupt crucial southern California import gateways.",
+                "Supply chain executives should activate contingency routing plans and divert flexible cargo volumes to alternate terminals. Proactive distribution adjustments safeguard holiday inventory schedules against unexpected terminal shutdowns."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FUEL: BRENT CRUDE SLUMP",
             "tags": [
                 "Source: https://theloadstar.com/fears-a-strike-at-san-pedro-bay-ports-could-worsen-congestion/",
                 "Published: 2026-11-03T08:00:00Z",
@@ -37,76 +52,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME: SUEZ ROUTE RESUMPTION",
-            "paragraphs": [
-                "Major container shipping lines within the Gemini cooperation are actively preparing to transition mainline Asia to North Europe services back through the Suez Canal routing. This strategic operational pivot reflects a calculated push by carriers to capture fuel efficiency gains as security assessments stabilize.",
-                "Supply chain directors must re-evaluate upcoming vessel transit schedules and adjust European distribution lead times accordingly. While routing via Suez shortens voyage lengths, continuous monitoring of regional security remains essential for risk mitigation."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TANKER: TORM NEWBUILD EXPANSION",
-            "tags": [
-                "Source: https://theloadstar.com/major-liners-set-to-resume-all-asia-europe-services-through-suez/",
-                "Published: 2026-11-03T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "TANKER: TORM NEWBUILD EXPANSION",
+            "heading": "FUEL: BRENT CRUDE SLUMP",
             "paragraphs": [
-                "Danish product tanker giant Torm has significantly accelerated its fleet modernization strategy by securing agreements for 8 LR2 newbuildings through a new 50:50 joint venture structure. This capital commitment underscores strong market confidence in long-term refined product shipping demand.",
-                "Energy logistics providers and charterers should monitor evolving vessel supply metrics to anticipate shifts in mid-range tanker charter rates. Expanding modern tonnage helps operators comply with tightening environmental regulations while maintaining fleet reliability."
+                "International benchmark Brent crude oil prices plunged 9.2% to $94.11 per barrel following major political shifts in Washington. The sharp drop in global energy markets provides immediate relief for carrier bunkering surcharges across major trade lanes.",
+                "Logistics procurement teams should monitor fuel adjustment factor recalibrations to capture immediate transportation savings. Leveraging lower bunker costs helps offset elevated base freight rates during the current peak season."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: LATIN AMERICA AIR CARGO",
+            "nextUpTease": "AIR: LUFTHANSA YIELD GROWTH",
             "tags": [
-                "Source: https://splash247.com/torm-strikes-eight-tanker-newbuild-deal-in-joint-venture-push/",
+                "Source: https://www.ttnews.com/articles/oil-prices-sink-below-95-as-markets-soar-on-midterm-results",
                 "Published: 2026-11-04T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR: LATIN AMERICA AIR CARGO",
+            "heading": "AIR: LUFTHANSA YIELD GROWTH",
             "paragraphs": [
-                "Surging e-commerce import volumes continue to drive rapid air cargo expansion across Latin America, exacerbating persistent directional trade imbalances. Regional carriers are managing heavy southbound cargo flows while northbound aircraft capacity remains underutilized.",
-                "Logistics providers operating across Latin American trade corridors must optimize yield management strategies to offset asymmetric operating costs. Adjusting rate tiers on return legs ensures sustained profitability across cross-border air networks."
+                "Lufthansa Cargo successfully increased its base airfreight yields by 14% year over year during the third quarter. Strong pricing power and robust cargo demand across key global corridors drove exceptional financial performance for the carrier.",
+                "Air cargo shippers must navigate higher baseline transportation costs by optimizing cargo density and booking key allocations early. Strategic capacity planning prevents margin erosion amid tightening global air network capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: GREENLAND SCRUBBER BAN",
+            "nextUpTease": "SAFETY: OP WICKED SAFE",
             "tags": [
-                "Source: https://theloadstar.com/ecommerce-growth-leaves-latin-americas-air-cargo-imbalance-unresolved/",
-                "Published: 2026-11-03T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "REGULATORY: GREENLAND SCRUBBER BAN",
-            "paragraphs": [
-                "Greenland's parliament has voted unanimously to ban exhaust gas cleaning system wastewater discharges across its territorial waters. This decisive environmental measure has triggered widespread calls from conservation groups for broader restrictions throughout the Arctic.",
-                "Maritime operators utilizing Arctic shipping lanes must audit vessel compliance systems and prepare for potential fuel switching prior to entering regulated northern waters. Proactive compliance planning prevents costly port state detentions and environmental penalties."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL: INTERMODAL VOLUME SURGE",
-            "tags": [
-                "Source: https://splash247.com/greenlands-scrubber-ban-sparks-calls-for-wider-arctic-crackdown/",
+                "Source: https://theloadstar.com/lufthansa-cargo-rides-airfreight-pricing-power-to-stronger-yields/",
                 "Published: 2026-11-04T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "RAIL: INTERMODAL VOLUME SURGE",
+            "id": 6,
+            "heading": "SAFETY: OP WICKED SAFE",
             "paragraphs": [
-                "US weekly rail traffic rose 3.5% according to the Association of American Railroads, driven primarily by strong gains in domestic intermodal volumes. Rail operators are capturing additional freight as shippers seek reliable land-side alternatives to highway transport.",
-                "Supply chain managers should evaluate intermodal service metrics to optimize long-haul domestic distribution and reduce carbon footprints. Leveraging rail capacity during peak volume cycles protects enterprise logistics budgets from truckload spot market volatility."
+                "State police agencies across 6 northeastern states uncovered nearly 2,000 commercial motor vehicle violations during the Operation Wicked Safe enforcement blitz. Rigorous roadside inspections targeted equipment safety, driver hours, and compliance failures.",
+                "Fleet operators must enforce strict pre-trip inspection protocols to prevent costly roadside out-of-service orders. Maintaining high safety compliance scores protects delivery schedules and avoids severe regulatory penalties."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOVERNMENT: TRADE DEFICIT",
+            "tags": [
+                "Source: https://www.ttnews.com/articles/operation-wicked-safe-uncovers-nearly-2000-cmv-violations",
+                "Published: 2026-11-03T08:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GOVERNMENT: TRADE DEFICIT",
+            "paragraphs": [
+                "The US goods and services trade deficit narrowed by 0.7% in September to $105B, driven by a steady pickup in outbound goods exports. Commerce Department data highlights shifting cross-border trade flows as international demand patterns evolve.",
+                "Supply chain planners must analyze changing export-import imbalances to optimize international container repositioning and equipment availability. Aligning logistics networks with macroeconomic trade shifts ensures long-term operational resilience."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
+                "Source: https://www.ttnews.com/articles/trade-deficit-narrows-slightly-on-pickup-in-goods-exports",
                 "Published: 2026-11-04T08:00:00Z",
                 "Status: Audited & True"
             ]

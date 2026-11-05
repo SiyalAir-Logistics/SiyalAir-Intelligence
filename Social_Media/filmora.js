@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TRANSPACIFIC TRADE PROFITABILITY",
-                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE WARNING",
-                "visual_caption": "Transpacific container routes represent the most lucrative trade lane globally. Carriers capture up to $1.30 per nautical mile on spot shipments."
+                "headline": "MARITIME: TRANSPACIFIC SPOT RATES",
+                "teaserTitle": "MARITIME: ONE PROFIT FORECAST",
+                "visual_caption": "Transpacific spot shipments from China reach $1.30 per nautical mile. This extraordinary yield cushions carriers against rising operational expenses."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: SAN PEDRO BAY STRIKE WARNING",
-                "teaserTitle": "MARITIME: SUEZ ROUTE RESUMPTION",
-                "visual_caption": "Rising labor friction threatens terminal operations across San Pedro Bay gateways. Shippers must activate contingency drayage plans immediately."
+                "headline": "MARITIME: ONE PROFIT FORECAST",
+                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE",
+                "visual_caption": "Ocean Network Express doubled its profit forecast to $2B on surging rates. Shippers face ongoing cost pressure from aggressive pricing."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
-                "teaserTitle": "TANKER: TORM NEWBUILD EXPANSION",
-                "visual_caption": "Major ocean liners are preparing to resume Asia to Europe services through Suez. This routing shift aims to capture vital fuel efficiency gains."
+                "headline": "PORT: SAN PEDRO BAY STRIKE",
+                "teaserTitle": "FUEL: BRENT CRUDE SLUMP",
+                "visual_caption": "Expiring union contracts at LA and Long Beach threaten terminal disruptions. Supply chain executives must activate contingency routing plans."
             },
             {
                 "slide_index": 4,
-                "headline": "TANKER: TORM NEWBUILD EXPANSION",
-                "teaserTitle": "AIR: LATIN AMERICA AIR CARGO",
-                "visual_caption": "Torm has accelerated fleet modernization with an 8-tanker newbuilding agreement. The joint venture underscores confidence in refined product demand."
+                "headline": "FUEL: BRENT CRUDE SLUMP",
+                "teaserTitle": "AIR: LUFTHANSA YIELD GROWTH",
+                "visual_caption": "Brent crude prices plunged 9.2% to $94.11 per barrel. This drop provides immediate relief for carrier bunkering surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR: LATIN AMERICA AIR CARGO",
-                "teaserTitle": "REGULATORY: GREENLAND SCRUBBER BAN",
-                "visual_caption": "Surging e-commerce volumes are driving rapid air cargo growth across Latin America. Carriers continue to manage persistent directional trade imbalances."
+                "headline": "AIR: LUFTHANSA YIELD GROWTH",
+                "teaserTitle": "SAFETY: OP WICKED SAFE",
+                "visual_caption": "Lufthansa Cargo increased base airfreight yields by 14% in Q3. Strong pricing power across key corridors drove financial performance."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: GREENLAND SCRUBBER BAN",
-                "teaserTitle": "RAIL: INTERMODAL VOLUME SURGE",
-                "visual_caption": "Greenland has banned scrubber wastewater discharges across its territorial waters. Environmental groups are now pushing for wider Arctic prohibitions."
+                "headline": "SAFETY: OP WICKED SAFE",
+                "teaserTitle": "GOVERNMENT: TRADE DEFICIT",
+                "visual_caption": "State police uncovered nearly 2K commercial vehicle safety violations. Fleets must enforce strict pre-trip inspection protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: INTERMODAL VOLUME SURGE",
+                "headline": "GOVERNMENT: TRADE DEFICIT",
                 "teaserTitle": "",
-                "visual_caption": "Weekly US rail traffic rose 3.5% on strong intermodal volume gains. Rail operators are capturing freight as shippers seek reliable alternatives."
+                "visual_caption": "The US trade deficit narrowed 0.7% to $105B in September. Outbound goods exports rose steadily according to Commerce Department data."
             },
             {
                 "slide_index": 8,

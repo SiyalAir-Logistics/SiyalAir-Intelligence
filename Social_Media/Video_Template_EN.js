@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRANSPACIFIC EMERGES AS CONTAINER SHIPPING'S GOLDEN TRADE",
+        "hookTitle": "TRANSPACIFIC SPOT RATES SURGE TO FIVE TIMES NORTH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TRANSPACIFIC TRADE PROFITABILITY",
-                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE WARNING",
+                "headline": "MARITIME: TRANSPACIFIC SPOT RATES",
+                "teaserTitle": "MARITIME: ONE PROFIT FORECAST",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Transpacific container routes have become the most lucrative trade lane globally. Carriers earn up to one dollar and thirty cents per nautical mile on spot shipments."
+                "narration_line": "Transpacific spot shipments from China to the West Coast are generating one dollar and thirty cents per nautical mile. This exceptional yield performance protects carriers against rising operational expenses."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: SAN PEDRO BAY STRIKE WARNING",
-                "teaserTitle": "MARITIME: SUEZ ROUTE RESUMPTION",
+                "headline": "MARITIME: ONE PROFIT FORECAST",
+                "teaserTitle": "PORT: SAN PEDRO BAY STRIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Rising labor tensions threaten terminal operations across San Pedro Bay gateways. Shippers must activate contingency drayage plans to avoid severe delays."
+                "narration_line": "Ocean Network Express doubled its full-year profit forecast to two billion dollars on surging freight rates. Shippers face persistent cost pressure as liners maintain aggressive pricing discipline."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SUEZ ROUTE RESUMPTION",
-                "teaserTitle": "TANKER: TORM NEWBUILD EXPANSION",
+                "headline": "PORT: SAN PEDRO BAY STRIKE",
+                "teaserTitle": "FUEL: BRENT CRUDE SLUMP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Major ocean liners are preparing to resume Asia to Europe services through Suez. This routing shift aims to capture vital fuel efficiency gains."
+                "narration_line": "Expiring labor contracts at Los Angeles and Long Beach ports threaten sudden terminal disruptions. Supply chain executives must activate contingency routing plans immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "TANKER: TORM NEWBUILD EXPANSION",
-                "teaserTitle": "AIR: LATIN AMERICA AIR CARGO",
+                "headline": "FUEL: BRENT CRUDE SLUMP",
+                "teaserTitle": "AIR: LUFTHANSA YIELD GROWTH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Torm has accelerated fleet modernization with an eight tanker newbuilding agreement. The joint venture underscores confidence in refined product demand."
+                "narration_line": "Brent crude oil prices plunged nine point two percent to ninety-four dollars and eleven cents per barrel. This sharp drop provides immediate relief for carrier bunkering surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR: LATIN AMERICA AIR CARGO",
-                "teaserTitle": "REGULATORY: GREENLAND SCRUBBER BAN",
+                "headline": "AIR: LUFTHANSA YIELD GROWTH",
+                "teaserTitle": "SAFETY: OP WICKED SAFE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Surging e-commerce volumes are driving rapid air cargo growth across Latin America. Carriers continue to manage persistent directional trade imbalances."
+                "narration_line": "Lufthansa Cargo increased its base airfreight yields by fourteen percent in the third quarter. Strong pricing power across key global corridors drove exceptional financial performance."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: GREENLAND SCRUBBER BAN",
-                "teaserTitle": "RAIL: INTERMODAL VOLUME SURGE",
+                "headline": "SAFETY: OP WICKED SAFE",
+                "teaserTitle": "GOVERNMENT: TRADE DEFICIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Greenland has banned scrubber wastewater discharges across its territorial waters. Environmental groups are now pushing for wider Arctic prohibitions."
+                "narration_line": "State police agencies uncovered nearly two thousand commercial motor vehicle violations during safety blitzes. Fleet operators must enforce strict pre-trip inspection protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: INTERMODAL VOLUME SURGE",
+                "headline": "GOVERNMENT: TRADE DEFICIT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Weekly United States rail traffic rose three point five percent on intermodal gains. Rail operators are capturing freight as shippers seek reliable alternatives."
+                "narration_line": "The United States trade deficit narrowed by zero point seven percent to one hundred five billion dollars. Outbound goods exports rose steadily according to Commerce Department data."
             },
             {
                 "slide_index": 8,
