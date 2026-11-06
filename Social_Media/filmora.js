@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK Q3 REVENUE SURGE",
-                "teaserTitle": "AIR FREIGHT: TAIWAN AIRPORT CONGESTION",
-                "visual_caption": "Maersk reported $18.1B in Q3 revenue driven by higher freight rates. Investor caution sent shares tumbling 6.4% despite the strong financial performance."
+                "headline": "RAIL: UNION PACIFIC VIDEO INQUIRY",
+                "teaserTitle": "MARITIME: PERSIAN GULF TANKER ATTACK",
+                "visual_caption": "STB orders Union Pacific to publish alleged rate hike threat video. Federal regulators intensify scrutiny on rail carrier market dominance and shipper relations."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR: TAIWAN AIRPORT CONGESTION",
-                "teaserTitle": "TECHNOLOGY: HARBINGER EV FUNDING",
-                "visual_caption": "Uncollected imports are choking cargo warehouses at Taiwan Taoyuan Airport. Surging AI hardware shipments are overwhelming local ground handling capacity."
+                "headline": "MARITIME: PERSIAN GULF TANKER ATTACK",
+                "teaserTitle": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
+                "visual_caption": "Greek product tanker damaged by military strike in the central Arabian Gulf. Vessel operators face escalating security risks and soaring war risk surcharges."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: HARBINGER EV FUNDING",
-                "teaserTitle": "GOVERNMENT: PACKAGING PRICE PROBE",
-                "visual_caption": "Startup Harbinger raised $240M to expand its electric vehicle platform. The funding accelerates heavy-duty platform deployment across defense and commercial sectors."
+                "headline": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
+                "teaserTitle": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
+                "visual_caption": "Retailers face severe holiday shipping friction as surging freight costs squeeze margins. Supply chain leaders must diversify distribution channels before peak windows."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: PACKAGING PRICE PROBE",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSS TREND",
-                "visual_caption": "The DOJ probed major packaging firms over containerboard pricing collusion. Shippers must review procurement contracts amid rising regulatory scrutiny."
+                "headline": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
+                "teaserTitle": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
+                "visual_caption": "Tesla to wind down Cybertruck production in Texas by mid-2027. Manufacturing capacity shifts toward autonomous robotaxis and commercial platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: CARGO THEFT LOSS TREND",
-                "teaserTitle": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
-                "visual_caption": "CargoNet recorded 677 theft incidents across North America. Criminal syndicates are increasingly targeting higher-value freight loads over commodity items."
+                "headline": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
+                "teaserTitle": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
+                "visual_caption": "Insurers probe vulnerabilities after $6.3B crypto heist by state hackers. Supply chain organizations must bolster digital resilience across enterprise networks."
             },
             {
                 "slide_index": 6,
-                "headline": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
-                "teaserTitle": "MARITIME: ANCHOR DRAGGING CONVICTION",
-                "visual_caption": "Woodside plans to cut 500+ global positions to achieve $400M in annual savings. The workforce restructuring reflects a defensive strategic realignment."
+                "headline": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
+                "teaserTitle": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
+                "visual_caption": "Uncollected imports clog Taiwan Taoyuan Airport cargo warehouses. Surging AI hardware shipments overwhelm local ground handling capacity and equipment."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: ANCHOR DRAGGING CONVICTION",
+                "headline": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
                 "teaserTitle": "",
-                "visual_caption": "A Finnish court convicted a ship captain for aggravated vandalism following a cable severance. Vessel operators must enforce rigorous bridge tracking to prevent severe liability."
+                "visual_caption": "Alfa Laval executes $700M all-cash acquisition of maritime software specialist NAVTOR. Fleet managers expand digital portfolios to optimize fuel efficiency."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK THIRD QUARTER REVENUES JUMP 27%",
-        "titleBlue": "SURGE",
-        "footerSummary": "Maersk reports $18.1B Q3 revenue driven by higher freight rates, while investor caution sends shares tumbling 6.4% amid shifting market expectations."
+        "titleWhite": "UNION PACIFIC VIDEO THREAT SPARKS RAIL",
+        "titleBlue": "INQUIRY",
+        "footerSummary": "STB orders Union Pacific to publish alleged rate hike threat video, intensifying regulatory scrutiny on rail carrier market dominance and shipper relations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK Q3 REVENUE SURGE",
+            "heading": "RAIL: UNION PACIFIC VIDEO INQUIRY",
             "paragraphs": [
-                "AP Moller-Maersk reported a 27% year-on-year increase in third-quarter revenues, reaching $18.1B, driven by a sharp rise in container freight rates that offset minor volume dips. Despite the strong financial performance, the company's cautious outlook and market strategy failed to satisfy investors, triggering a 6.4% drop in share value.",
-                "Shippers must navigate persistent rate volatility and tighter carrier capacity as major liners prioritize profitability over volume expansion. Supply chain leaders should re-evaluate long-term service contracts to hedge against ongoing maritime rate fluctuations."
+                "The Surface Transportation Board has formally ordered Union Pacific to make public a leaked video showing its CEO threatening higher freight rates against shippers opposing the proposed Norfolk Southern merger. Federal regulators are investigating whether the remarks amounted to intimidation and illegal retaliation designed to silence opposition from industrial cargo owners.",
+                "Shippers relying on rail intermodal networks face mounting concerns over carrier retaliation and aggressive pricing tactics amid major industry consolidation. Logistics executives must evaluate alternative routing options and legal protections to safeguard long-term freight budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: TAIWAN AIRPORT CONGESTION",
+            "nextUpTease": "MARITIME: PERSIAN GULF TANKER ATTACK",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR: TAIWAN AIRPORT CONGESTION",
+            "heading": "MARITIME: PERSIAN GULF TANKER ATTACK",
             "paragraphs": [
-                "Uncollected imports are clogging cargo warehouses at Taiwan Taoyuan Airport, tying up ground dollies and severely slowing regional throughput for high-demand technology shipments. The severe facility bottleneck mirrors pandemic-era constraints as surging AI hardware imports overwhelm local handling capacity.",
-                "Forwarders must account for extended processing times and consider alternate gateways to prevent costly delays for critical components. Shippers face immediate schedule adjustments as ground equipment shortages restrict air cargo velocity."
+                "A Greek-flagged product tanker sustained severe projectile damage and reported 1 crew fatality following a military strike in the central Arabian Gulf off the coast of Qatar. The attack occurred far outside the Strait of Hormuz security umbrella, underscoring widening regional kinetic risks for maritime energy and bulk transport.",
+                "Vessel operators must immediately upgrade security threat assessments and reroute voyages to avoid high-risk zones in Middle Eastern waters. Marine insurance premiums and war risk surcharges are expected to spike sharply for vessels transiting the Gulf."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: HARBINGER EV FUNDING",
+            "nextUpTease": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-05T19:31:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: HARBINGER EV FUNDING",
+            "heading": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
             "paragraphs": [
-                "Electric vehicle startup Harbinger has successfully raised $240M in fresh capital to expand its proprietary EV platform beyond traditional commercial trucks into power and defense applications. The significant capital injection underscores growing investor appetite for heavy-duty electrification across industrial sectors.",
-                "Fleet operators should monitor the commercial availability of alternative-fuel medium-duty platforms as regulatory emissions targets tighten. Adopting scalable EV architectures early can insulate logistics operations from future carbon compliance penalties."
+                "Small and mid-sized retailers face significant supply chain friction this holiday season as surging domestic shipping costs and lingering port backlogs threaten inventory delivery timelines. Retail industry groups warn that uncollected cargo and elevated spot freight rates will squeeze operational margins severely ahead of peak shopping weeks.",
+                "Supply chain leaders must diversify distribution channels and accelerate last-mile fulfillment schedules to prevent costly stockouts during peak retail windows. Proactive inventory positioning remains critical as macroeconomic headwinds amplify transportation rate volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: PACKAGING PRICE PROBE",
+            "nextUpTease": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOVERNMENT: PACKAGING PRICE PROBE",
+            "heading": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
             "paragraphs": [
-                "The U.S. Department of Justice has launched an antitrust investigation into major packaging firms over alleged collusion concerning corrugated box pricing. Investigators are examining market coordination among dominant containerboard manufacturers following prolonged pricing stability amid fluctuating input costs.",
-                "Industrial shippers and e-commerce enterprises must review packaging procurement contracts and supplier diversification strategies. Heightened regulatory oversight across the packaging sector could introduce significant pricing volatility for supply chain operations."
+                "Tesla has confirmed plans to wind down Cybertruck production at its Texas gigafactory by mid-2027 following years of persistently weak sales performance. The manufacturing pivot allows the automaker to reallocate assembly capacity toward autonomous robotaxi development and high-demand commercial vehicle platforms.",
+                "Fleet operators and commercial logistics providers should monitor how automotive manufacturing shifts impact regional parts availability and commercial EV adoption timelines. Supply chain procurement strategies for alternative-fuel fleets must adapt to evolving OEM production priorities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT LOSS TREND",
+            "nextUpTease": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://www.reuters.com",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: CARGO THEFT LOSS TREND",
+            "heading": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
             "paragraphs": [
-                "Verisk CargoNet recorded 677 cargo theft incidents across the U.S. and Canada, revealing that while overall theft volume dropped, total financial losses are climbing. Sophisticated criminal syndicates are increasingly targeting higher-value freight loads rather than volume commodities.",
-                "Logistics providers must enhance transit security protocols, including real-time GPS tracking and strict driver vetting procedures. Shippers moving high-value electronics and pharmaceuticals face escalating exposure to targeted cargo heists."
+                "Marine and commercial insurance underwriters are intensifying cyber risk assessments following revelations that state-sponsored North Korean hackers netted $6.3B in the massive Binance crypto heist. Insurers are actively probing enterprise client vulnerabilities to ensure logistics and financial networks are shielded from similar sophisticated state-backed intrusions.",
+                "Supply chain organizations must bolster digital resilience by deploying advanced endpoint protection and rigorous access controls across all operational systems. Failure to secure digital infrastructure exposes enterprises to catastrophic financial losses and severe regulatory liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
+            "nextUpTease": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.reuters.com",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
+            "heading": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
             "paragraphs": [
-                "Australian energy giant Woodside plans to eliminate over 500 positions globally to achieve $400M in annual cost savings by 2028. The workforce restructuring reflects a defensive strategic realignment as major corporations grapple with volatile global energy demand and tightening margins.",
-                "Upstream logistics partners and project cargo carriers must re-evaluate service contract stability amid major corporate retrenchments. Supply chain vendors dependent on capital-intensive energy projects should diversify client portfolios to mitigate exposure."
+                "Uncollected import cargo is severely clogging warehouse facilities at Taiwan Taoyuan International Airport, causing acute shortages of ground dollies and delaying regional throughput. The severe facility congestion mirrors pandemic-era bottlenecks as surging imports of specialized AI hardware overwhelm local handling infrastructure.",
+                "Air freight forwarders and shippers must account for extended ground processing times and reroute critical technology shipments through alternate regional gateways. Proactive schedule adjustments are essential to prevent costly supply chain disruptions for high-value components."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ANCHOR DRAGGING CONVICTION",
+            "nextUpTease": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: ANCHOR DRAGGING CONVICTION",
+            "heading": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
             "paragraphs": [
-                "The Helsinki District Court convicted the captain and boatswain of the cargo ship Fitburg for aggravated vandalism after intentionally dragging an anchor that severed two undersea telecommunications cables. The landmark ruling underscores strict judicial intolerance for reckless maritime navigation and asset endangerment in European waters.",
-                "Vessel operators must enforce rigorous bridge resource management and real-time tracking protocols to prevent catastrophic liability. Failure to monitor anchor deployment creates immense legal exposure and reputational damage for ship managers."
+                "Swedish industrial group Alfa Laval has completed a $700M all-cash acquisition of Norwegian maritime software specialist NAVTOR to expand its digital shipping portfolio. The strategic buyout significantly strengthens Alfa Laval's suite of vessel optimization and port coordination platforms amid accelerating maritime decarbonization demands.",
+                "Shipowners and fleet managers must integrate advanced digital navigation tools to optimize fuel efficiency and maintain regulatory compliance across global voyages. Investing in unified software solutions is increasingly vital for mitigating rising operational overhead."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
