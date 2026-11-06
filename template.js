@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UNION PACIFIC VIDEO THREAT SPARKS RAIL",
-        "titleBlue": "INQUIRY",
-        "footerSummary": "STB orders Union Pacific to publish alleged rate hike threat video, intensifying regulatory scrutiny on rail carrier market dominance and shipper relations."
+        "titleWhite": "CUBAN SHIPPING",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "Expanded Cuban sanctions and a $2.87B European port acquisition signal deepening maritime volatility and aggressive global infrastructure consolidation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL: UNION PACIFIC VIDEO INQUIRY",
+            "heading": "U.S. SANCTIONS: CUBAN SHIPPING EXPANSION",
             "paragraphs": [
-                "The Surface Transportation Board has formally ordered Union Pacific to make public a leaked video showing its CEO threatening higher freight rates against shippers opposing the proposed Norfolk Southern merger. Federal regulators are investigating whether the remarks amounted to intimidation and illegal retaliation designed to silence opposition from industrial cargo owners.",
-                "Shippers relying on rail intermodal networks face mounting concerns over carrier retaliation and aggressive pricing tactics amid major industry consolidation. Logistics executives must evaluate alternative routing options and legal protections to safeguard long-term freight budgets."
+                "The U.S. State Department has expanded sanctions targeting Cuba's maritime sector, blacklisting 5 vessels and 2 individuals linked to oil transport networks. The measures include broad sectoral sanctions against the country's entire maritime industry to disrupt state-sponsored energy logistics.",
+                "Shipowners and compliance officers must immediately screen vessel histories for links to Caroil Transport Marine and other sanctioned entities to avoid heavy federal penalties. The escalation highlights rising geopolitical friction affecting Caribbean energy routing and insurance eligibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PERSIAN GULF TANKER ATTACK",
+            "nextUpTease": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://maritime-executive.com/article/u-s-state-department-expands-sanctions-on-cuban-shipping",
+                "Published: 2026-11-05T22:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PERSIAN GULF TANKER ATTACK",
+            "heading": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
             "paragraphs": [
-                "A Greek-flagged product tanker sustained severe projectile damage and reported 1 crew fatality following a military strike in the central Arabian Gulf off the coast of Qatar. The attack occurred far outside the Strait of Hormuz security umbrella, underscoring widening regional kinetic risks for maritime energy and bulk transport.",
-                "Vessel operators must immediately upgrade security threat assessments and reroute voyages to avoid high-risk zones in Middle Eastern waters. Marine insurance premiums and war risk surcharges are expected to spike sharply for vessels transiting the Gulf."
+                "Adani Ports has entered a definitive agreement to acquire Netherlands-based Evos B.V. for $2.87B, marking its largest entry into the European liquid storage market. Evos operates significant storage infrastructure across key hubs, strengthening Adani\u2019s global integrated transport strategy.",
+                "Logistics leaders should monitor how Adani\u2019s expanding footprint influences liquid bulk flow and terminal access across Northern Europe. This multi-billion dollar consolidation underscores a shift toward centralized control of critical energy and chemical storage assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
+            "nextUpTease": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-05T19:31:00Z",
+                "Source: https://maritime-executive.com/article/india-s-adani-agrees-to-buy-europe-s-2nd-largest-liquid-storage-operator",
+                "Published: 2026-11-05T20:11:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
+            "heading": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
             "paragraphs": [
-                "Small and mid-sized retailers face significant supply chain friction this holiday season as surging domestic shipping costs and lingering port backlogs threaten inventory delivery timelines. Retail industry groups warn that uncollected cargo and elevated spot freight rates will squeeze operational margins severely ahead of peak shopping weeks.",
-                "Supply chain leaders must diversify distribution channels and accelerate last-mile fulfillment schedules to prevent costly stockouts during peak retail windows. Proactive inventory positioning remains critical as macroeconomic headwinds amplify transportation rate volatility."
+                "Daimler Truck North America is set to reveal the site for a new domestic manufacturing plant by December 2026 to support surging vehicle demand. The facility will specifically address the production requirements for fleets preparing for the strict EPA 2027 emissions standards.",
+                "Procurement managers must evaluate how this capacity expansion will impact lead times for Class 8 trucks ahead of the 2027 regulatory shift. Increasing domestic production serves as a hedge against global supply chain volatility and tightening emissions compliance windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
+            "nextUpTease": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-us-plant-christmas",
+                "Published: 2026-11-06T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
+            "heading": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
             "paragraphs": [
-                "Tesla has confirmed plans to wind down Cybertruck production at its Texas gigafactory by mid-2027 following years of persistently weak sales performance. The manufacturing pivot allows the automaker to reallocate assembly capacity toward autonomous robotaxi development and high-demand commercial vehicle platforms.",
-                "Fleet operators and commercial logistics providers should monitor how automotive manufacturing shifts impact regional parts availability and commercial EV adoption timelines. Supply chain procurement strategies for alternative-fuel fleets must adapt to evolving OEM production priorities."
+                "Following the 2026 midterm election results, analysts predict a significant shift in federal permitting rules for major infrastructure and energy projects. While trade tariffs are expected to remain stable, the new legislative balance targets faster approvals for domestic manufacturing and logistics hubs.",
+                "Shippers and developers should prepare for a more streamlined regulatory environment for intermodal and port expansion projects. Strategic investment in domestic supply chain nodes may become more attractive as administrative hurdles for infrastructure development decrease."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
+            "nextUpTease": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
             "tags": [
-                "Source: https://www.reuters.com",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/93241-analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
+                "Published: 2026-11-05T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
+            "heading": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
             "paragraphs": [
-                "Marine and commercial insurance underwriters are intensifying cyber risk assessments following revelations that state-sponsored North Korean hackers netted $6.3B in the massive Binance crypto heist. Insurers are actively probing enterprise client vulnerabilities to ensure logistics and financial networks are shielded from similar sophisticated state-backed intrusions.",
-                "Supply chain organizations must bolster digital resilience by deploying advanced endpoint protection and rigorous access controls across all operational systems. Failure to secure digital infrastructure exposes enterprises to catastrophic financial losses and severe regulatory liabilities."
+                "A massive 15-state law enforcement operation led by Oklahoma has resulted in the arrest of over 40 foreign truck drivers holding active deportation orders. The multi-agency dragnet spanned from the Canadian border to the Gulf Coast, focusing on commercial driver license compliance and national security.",
+                "Carrier safety departments must intensify their driver verification protocols to mitigate the risk of operational disruptions during such high-intensity enforcement actions. Failure to maintain rigorous employment documentation could lead to immediate vehicle impoundment and severe reputational damage."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
+            "nextUpTease": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
             "tags": [
-                "Source: https://www.reuters.com",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/oklahoma-15-state-truck-driver-enforcement",
+                "Published: 2026-11-05T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
+            "heading": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
             "paragraphs": [
-                "Uncollected import cargo is severely clogging warehouse facilities at Taiwan Taoyuan International Airport, causing acute shortages of ground dollies and delaying regional throughput. The severe facility congestion mirrors pandemic-era bottlenecks as surging imports of specialized AI hardware overwhelm local handling infrastructure.",
-                "Air freight forwarders and shippers must account for extended ground processing times and reroute critical technology shipments through alternate regional gateways. Proactive schedule adjustments are essential to prevent costly supply chain disruptions for high-value components."
+                "EV truck manufacturer Harbinger has successfully raised $240M in new funding to expand its electric chassis platform into the power and defense sectors. This capital injection allows the firm to scale production of medium-duty commercial vehicles while diversifying its technological applications.",
+                "Logistics providers focused on electrification should monitor Harbinger\u2019s expansion as it may accelerate the availability of ruggedized EV platforms for specialized delivery. The infusion of $240M into the sector signals continued investor confidence in domestic zero-emission commercial transport solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
+            "nextUpTease": "RAIL: LA-LB PORT BACKLOG CRISIS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/harbinger-raises-240m-to-expand-ev-platform-beyond-trucks",
+                "Published: 2026-11-05T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
+            "heading": "RAIL: LA-LB PORT BACKLOG CRISIS",
             "paragraphs": [
-                "Swedish industrial group Alfa Laval has completed a $700M all-cash acquisition of Norwegian maritime software specialist NAVTOR to expand its digital shipping portfolio. The strategic buyout significantly strengthens Alfa Laval's suite of vessel optimization and port coordination platforms amid accelerating maritime decarbonization demands.",
-                "Shipowners and fleet managers must integrate advanced digital navigation tools to optimize fuel efficiency and maintain regulatory compliance across global voyages. Investing in unified software solutions is increasingly vital for mitigating rising operational overhead."
+                "Retailers are reporting critical concerns over a growing rail container backlog at the Los Angeles and Long Beach ports as the holiday season approaches. The bottleneck threatens the timely delivery of merchandise intended for major Black Friday sales events across the Eastern United States.",
+                "Importers must evaluate expedited transloading and alternative trucking options to bypass the rail congestion and protect Q4 sales margins. This infrastructure friction highlights the ongoing vulnerability of fixed-rail networks to sudden surges in consumer demand and container volume."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.joc.com/article/la-lb-rail-container-backlog-causes-growing-concern-among-retailers_20261106.html",
+                "Published: 2026-11-06T08:15:00Z",
                 "Status: Audited & True"
             ]
         }

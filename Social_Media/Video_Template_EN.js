@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UNION PACIFIC VIDEO THREAT SPARKS RAIL INQUIRY",
+        "hookTitle": "CUBAN SHIPPING EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL: UNION PACIFIC VIDEO INQUIRY",
-                "teaserTitle": "MARITIME: PERSIAN GULF TANKER ATTACK",
+                "headline": "U.S. SANCTIONS: CUBAN SHIPPING EXPANSION",
+                "teaserTitle": "ADANI $2.87B EUROPEAN ACQUISITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal regulators have ordered Union Pacific to release a video showing its chief executive threatening freight rate hikes against merger opponents. The investigation highlights growing oversight into rail carrier market dominance."
+                "narration_line": "The United States has expanded sanctions on five vessels and two individuals linked to Cuba's maritime oil network. This move effectively blacklists the country's entire maritime industry to disrupt state energy logistics."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PERSIAN GULF TANKER ATTACK",
-                "teaserTitle": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
+                "headline": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
+                "teaserTitle": "DTNA NEW U.S. PLANT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A Greek tanker sustained projectile damage and one fatality following a military strike in the central Arabian Gulf. Vessel operators face escalating security risks and spiking insurance premiums."
+                "narration_line": "Adani Ports agreed to acquire Netherlands based Evos for two point eight seven billion dollars. The deal strengthens Adani\u2019s presence in the European liquid storage market across several major hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: RETAIL HOLIDAY SHIPPING PRESSURES",
-                "teaserTitle": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
+                "headline": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
+                "teaserTitle": "MIDTERM ELECTION PERMITTING SHIFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Retailers face severe holiday shipping pressures as surging freight costs and port backlogs squeeze operational margins. Supply chain leaders must diversify distribution channels immediately."
+                "narration_line": "Daimler Truck North America will reveal a new manufacturing plant site by Christmas to meet rising fleet demand. This facility will prioritize production for the upcoming two thousand twenty seven emissions standards."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: TESLA CYBERTRUCK WIND DOWN",
-                "teaserTitle": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
+                "headline": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
+                "teaserTitle": "15-STATE DRIVER SWEEP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Tesla will wind down Cybertruck production in Texas to prioritize commercial robotaxi manufacturing platforms. Fleet operators must monitor how automotive shifts impact regional parts availability."
+                "narration_line": "Analysts expect a shift in federal permitting rules for infrastructure following the latest midterm election results. Faster approvals are anticipated for domestic logistics hubs while trade tariffs likely remain stable."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: BINANCE HEIST SCRUTINY",
-                "teaserTitle": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
+                "headline": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
+                "teaserTitle": "HARBINGER $240M EV EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Marine insurers are intensifying cyber assessments following revelations that state hackers stole six point three billion dollars in crypto. Organizations must deploy advanced endpoint protection."
+                "narration_line": "A fifteen state enforcement operation has led to the arrest of over forty foreign truck drivers with deportation orders. This multi agency sweep focused on commercial driver compliance from Canada to the Gulf Coast."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: TAIPEI AIRPORT CARGO BOTTLENECK",
-                "teaserTitle": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
+                "headline": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
+                "teaserTitle": "LA-LB PORT BACKLOG CRISIS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Uncollected import cargo is severely clogging warehouse facilities at Taiwan Taoyuan Airport amid surging hardware shipments. Forwarders must account for extended processing times."
+                "narration_line": "Electric vehicle manufacturer Harbinger raised two hundred and forty million dollars to expand its platform into defense and power. The funding will scale medium duty commercial vehicle production for global fleets."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: ALFA LAVAL NAVTOR ACQUISITION",
-                "teaserTitle": "",
+                "headline": "RAIL: LA-LB PORT BACKLOG CRISIS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Alfa Laval has acquired Norwegian maritime software specialist Navtor in a seven hundred million dollar deal. Fleet managers must integrate advanced digital tools to optimize efficiency."
+                "narration_line": "A growing rail container backlog at Los Angeles and Long Beach ports is threatening holiday retail inventory. Shippers are now evaluating expedited transloading to ensure cargo reaches store shelves before Black Friday."
             },
             {
                 "slide_index": 8,
