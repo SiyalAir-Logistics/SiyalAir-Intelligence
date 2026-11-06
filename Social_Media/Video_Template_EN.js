@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK REVENUE BUMP",
+        "hookTitle": "OKLAHOMA LEADS 15 STATE TRUCK DRIVER ENFORCEMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK REVENUE BUMP",
-                "teaserTitle": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
+                "headline": "GOVERNMENT: OKLAHOMA TRUCK ENFORCEMENT",
+                "teaserTitle": "AIR FREIGHT: TAIWAN AIRPORT CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maersk reported a twenty-seven percent revenue jump in the third quarter. High freight rates are bolstering their financial position for upcoming contract renewals."
+                "narration_line": "Oklahoma spearheaded a fifteen state enforcement dragnet resulting in the arrests of over forty foreign truck drivers with deportation orders. This multi-state operation highlights escalating regulatory oversight across key domestic commercial freight corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
-                "teaserTitle": "LOGISTICS: LMI 4-YEAR HIGH",
+                "headline": "AIR: TAIWAN AIRPORT CONGESTION",
+                "teaserTitle": "MARITIME: ANCHOR DRAGGING CONVICTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson is acquiring RXO in a deal worth five point eight billion dollars. This merger aims to significantly expand expedited and last-mile service capabilities."
+                "narration_line": "Uncollected imports are clogging cargo warehouses at Taiwan Taoyuan Airport and slowing regional tech shipments. Ground equipment shortages are restricting air cargo velocity and forcing schedule adjustments."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: LMI 4-YEAR HIGH",
-                "teaserTitle": "GOVERNMENT: LA-LB STRIKE DELAY",
+                "headline": "MARITIME: ANCHOR DRAGGING CONVICTION",
+                "teaserTitle": "TECHNOLOGY: LONG BEACH HYDROFOIL PILOT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Logistics Manager Index has hit a four year high of seventy point seven. Growing inventory and capacity pressures are driving this significant index increase."
+                "narration_line": "A Finnish court convicted a cargo ship captain and boatswain for aggravated vandalism after intentional anchor dragging severed underwater telecommunications cables. The landmark ruling underscores strict judicial penalties for reckless maritime navigation."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: LA-LB STRIKE DELAY",
-                "teaserTitle": "AIR: TAIWAN CARGO CONGESTION",
+                "headline": "TECHNOLOGY: LONG BEACH HYDROFOIL PILOT",
+                "teaserTitle": "LOGISTICS: JUSTICE PACKAGING PROBE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A looming strike at Los Angeles and Long Beach ports has been delayed until Friday. Terminal operators are bracing for potential shutdowns as negotiations remain tense."
+                "narration_line": "The Port of Long Beach acquired the world's first hydrofoiling electric pilot boat to optimize harbor navigation efficiency. Port authorities are rapidly adopting green propulsion technology to meet strict regional emissions mandates."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR: TAIWAN CARGO CONGESTION",
-                "teaserTitle": "REGULATION: US SANCTIONS NETWORK",
+                "headline": "GOVERNMENT: PACKAGING PRICE PROBE",
+                "teaserTitle": "MARITIME: METHAMPHETAMINE BUST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air cargo imports are clogging warehouses at Taiwan Taoyuan Airport. The congestion is slowing down critical shipments linked to the current artificial intelligence boom."
+                "narration_line": "The United States Department of Justice launched an antitrust investigation into major packaging firms over alleged corrugated box price collusion. Industrial shippers must review procurement contracts as regulatory oversight increases."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: US SANCTIONS NETWORK",
-                "teaserTitle": "OPERATIONS: WOODSIDE JOB CUTS",
+                "headline": "MARITIME: COCONUT WATER DRUG BUST",
+                "teaserTitle": "OPERATIONS: WOODSIDE GLOBAL CUTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United States is sanctioning an Indian network for providing false flags to Iranian ships. Companies must now tighten due diligence to avoid these illicit operations."
+                "narration_line": "Australian border officials seized eight hundred liters of liquid methamphetamine dissolved inside imported coconut water shipments. Transnational cartels continue exploiting beverage imports to bypass traditional cargo screening protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "OPERATIONS: WOODSIDE JOB CUTS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Woodside is cutting over five hundred jobs to save four hundred million dollars. This restructuring is part of a broad effort to optimize their global operations."
+                "narration_line": "Woodside plans to eliminate over five hundred jobs globally to achieve four hundred million dollars in annual savings. Upstream logistics partners must evaluate contract stability amid corporate restructuring."
             },
             {
                 "slide_index": 8,

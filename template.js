@@ -1,65 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK REVENUE Q3",
-        "titleBlue": "BUMP",
-        "footerSummary": "Maersk reports 27% revenue increase to $18.1B, signaling higher container rates as shippers navigate tight 2027 contract renewals."
+        "titleWhite": "OKLAHOMA LEADS 15 STATE TRUCK DRIVER",
+        "titleBlue": "ENFORCEMENT",
+        "footerSummary": "Multi-state enforcement sweep arrests over 40 foreign truck drivers with deportation orders, tightening carrier compliance across key freight corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK REVENUE BUMP",
+            "heading": "GOVERNMENT: OKLAHOMA TRUCK ENFORCEMENT",
             "paragraphs": [
-                "Maersk reported a 27% year-over-year revenue increase to $18.1B in Q3, driven by a sharp rise in container freight rates that offset slight volume declines. This financial performance highlights the carrier's ability to capitalize on current rate environments despite broader market cooling.",
-                "The surge in revenue strengthens the carrier's position as they head into 2027 contract negotiations. Shippers on Asia-Europe trades should anticipate aggressive rate strategies as carriers prioritize margins over volume growth."
+                "A 15-state enforcement dragnet spearheaded by Oklahoma from Canada to the Gulf Coast led to the arrests of more than 40 foreign truck drivers with deportation orders. State and federal agencies deployed coordinated checkpoints to intercept non-compliant operators and verify commercial driver credentials.",
+                "This aggressive multi-state sweep highlights escalating regulatory scrutiny on carrier hiring practices and border-state transit compliance. Fleets must audit driver qualification files immediately to mitigate sudden capacity losses and regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-05T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "FINANCE: C.H. ROBINSON ACQUIRES RXO",
-            "paragraphs": [
-                "C.H. Robinson has reached a definitive agreement to acquire RXO in a $5.8B cash-and-stock transaction. This deal significantly expands Robinson's expedited and last-mile service capabilities, with the integration expected to conclude in the first half of 2027.",
-                "The consolidation marks a major shift in the 3PL landscape, promising enhanced service density for large-scale shippers. Market participants should monitor potential service disruptions during the transition phase as overlapping operations are unified."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS: LMI REACHES 4-YEAR HIGH",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-05T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LOGISTICS: LMI 4-YEAR HIGH",
-            "paragraphs": [
-                "The Logistics Manager\u2019s Index (LMI) hit a four-year high of 70.7 in October, reflecting significant upward pressure on inventory and capacity costs. Growth across the board indicates a persistent imbalance as supply constraints continue to outweigh demand expansion.",
-                "This index reading confirms a hardening environment for logistics procurement professionals. Organizations must prepare for sustained cost volatility as freight flows remain under pressure from restricted capacity and rising operating expenses."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: LA-LB STRIKE DELAY",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-05T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "GOVERNMENT: LA-LB STRIKE DELAY",
-            "paragraphs": [
-                "A looming strike at the Port of Los Angeles and Port of Long Beach has been pushed to November 6 following last-minute negotiations. Terminal operations remain vulnerable as the midnight Friday deadline approaches, threatening a major disruption to trans-Pacific cargo flows.",
-                "Potential work stoppages pose a direct risk to Q4 holiday retail inventory delivery schedules. Shippers are advised to activate contingency routing plans immediately to mitigate the impact of terminal shutdowns in Southern California."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR: TAIWAN CARGO CONGESTION",
+            "nextUpTease": "AIR FREIGHT: TAIWAN AIRPORT CONGESTION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-11-05T00:00:00Z",
@@ -67,14 +22,14 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AIR: TAIWAN CARGO CONGESTION",
+            "id": 2,
+            "heading": "AIR: TAIWAN AIRPORT CONGESTION",
             "paragraphs": [
-                "Taiwan Taoyuan Airport is experiencing severe air cargo congestion as uncollected imports choke warehouse space and deplete ground support equipment. The backlog is creating significant delays for global shipments tied to the current AI infrastructure boom.",
-                "The bottleneck effectively slows regional throughput and increases wait times for critical tech components. Forwarders must account for prolonged processing times at this key gateway and consider alternative routing for time-sensitive air freight."
+                "Uncollected imports are clogging cargo warehouses at Taiwan Taoyuan Airport, tying up ground dollies and severely slowing regional throughput for high-demand technology shipments. The severe facility bottleneck mirrors pandemic-era bottlenecks as surging AI hardware imports overwhelm local handling capacity.",
+                "Forwarders must account for extended processing times and consider alternate gateways to prevent costly delays for critical components. Shippers face immediate schedule adjustments as ground equipment shortages restrict air cargo velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: US SANCTIONS NETWORK",
+            "nextUpTease": "MARITIME: ANCHOR DRAGGING CONVICTION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-11-05T00:00:00Z",
@@ -82,14 +37,59 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "REGULATION: US SANCTIONS NETWORK",
+            "id": 3,
+            "heading": "MARITIME: ANCHOR DRAGGING CONVICTION",
             "paragraphs": [
-                "The U.S. Treasury has issued new sanctions against a maritime network based in India, accusing it of providing false flags and certifications to ships transporting Iranian petroleum. This action is part of the ongoing U.S. effort to dismantle shadow fleets supporting sanctioned energy trade.",
-                "Companies maintaining global maritime trade routes must enhance their due diligence protocols to avoid accidental entanglement with sanctioned actors. Failure to vet vessel origins poses significant compliance and reputational risk to logistics providers."
+                "The Helsinki District Court convicted the captain and boatswain of the cargo ship Fitburg for aggravated vandalism after intentionally dragging an anchor that severed two undersea telecommunications cables. The landmark ruling underscores strict judicial intolerance for reckless maritime navigation and asset endangerment in European waters.",
+                "Vessel operators must enforce rigorous bridge resource management and real-time tracking protocols to prevent catastrophic liability. Failure to monitor anchor deployment creates immense legal exposure and reputational damage for ship managers."
             ],
             "imageUrl": "",
-            "nextUpTease": "OPERATIONS: WOODSIDE JOB CUTS",
+            "nextUpTease": "INFRASTRUCTURE: LONG BEACH PILOT BOAT",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-11-05T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TECHNOLOGY: LONG BEACH HYDROFOIL PILOT",
+            "paragraphs": [
+                "Jacobsen Pilot Service has purchased the world's first hydrofoiling electric pilot boat built by Artemis Technologies to service the Port of Long Beach. The advanced vessel combines zero-emission electric propulsion with hydrofoil technology to optimize harbor navigation efficiency.",
+                "Port authorities and marine operators are increasingly adopting green propulsion technology to meet stringent regional emissions mandates. This deployment signals a broader industry shift toward sustainable harbor infrastructure and advanced vessel designs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: JUSTICE PACKAGING PROBE",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-05T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "GOVERNMENT: PACKAGING PRICE PROBE",
+            "paragraphs": [
+                "The U.S. Department of Justice has launched an antitrust investigation into major packaging firms over alleged collusion concerning corrugated box pricing. Investigators are examining market coordination among dominant containerboard manufacturers following prolonged pricing stability amid fluctuating input costs.",
+                "Industrial shippers and e-commerce enterprises must review packaging procurement contracts and supplier diversification strategies. Heightened regulatory oversight across the packaging sector could introduce significant pricing volatility for supply chain operations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: METHAMPHETAMINE BUST",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-05T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME: COCONUT WATER DRUG BUST",
+            "paragraphs": [
+                "Australian Border Force inspectors discovered 800 liters of liquid methamphetamine dissolved inside commercial shipments of imported coconut water, leading to federal drug smuggling charges. Transnational cartels increasingly exploit benign beverage imports and liquid concealment methods to bypass traditional cargo screening protocols.",
+                "Logistics providers and customs brokers must enhance cargo inspection standards for high-risk agricultural and beverage commodities. Comprehensive supply chain visibility and thorough vendor vetting remain essential defenses against illicit trafficking."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OPERATIONS: WOODSIDE GLOBAL CUTS",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-11-05T00:00:00Z",
@@ -98,10 +98,10 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "OPERATIONS: WOODSIDE JOB CUTS",
+            "heading": "OPERATIONS: WOODSIDE JOB REDUCTIONS",
             "paragraphs": [
-                "Australian energy giant Woodside plans to eliminate over 500 jobs globally to achieve $400M in annual savings by 2028. This restructuring reflects a strategic move to optimize operational overhead amid fluctuating global energy demand and profitability pressures.",
-                "The workforce reduction highlights the defensive posture major energy players are adopting in the current fiscal climate. Logistics and supply chain partners must evaluate the stability of ongoing energy projects and project support requirements accordingly."
+                "Australian energy giant Woodside plans to eliminate over 500 positions globally to achieve $400M in annual cost savings by 2028. The workforce restructuring reflects a defensive strategic realignment as major corporations grapple with volatile global energy demand and tightening margins.",
+                "Upstream logistics partners and project cargo carriers must re-evaluate service contract stability amid major corporate retrenchments. Supply chain vendors dependent on capital-intensive energy projects should diversify client portfolios to mitigate exposure."
             ],
             "imageUrl": "",
             "nextUpTease": "",
