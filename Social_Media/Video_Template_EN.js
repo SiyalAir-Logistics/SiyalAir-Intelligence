@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "WEST COAST DOCK EXTENSION",
+        "hookTitle": "ROBINSON ACQUIRES RXO IN $5.8B MEGA DEAL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: WEST COAST CONTRACT EXTENSION",
-                "teaserTitle": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
+                "headline": "BROKERAGE: ROBINSON RXO $5.8B BUYOUT",
+                "teaserTitle": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "West Coast port employers and union negotiators extended contract talks through November twentieth, avoiding an immediate port shutdown. Shippers gain thirteen days to clear terminal cargo backlogs before strike deadlines renew."
+                "narration_line": "C.H. Robinson has agreed to acquire freight broker RXO in a five point eight billion dollar transaction. The massive buyout unites expedited transportation and last-mile logistics networks ahead of anticipated freight market tightening."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
-                "teaserTitle": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
+                "headline": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
+                "teaserTitle": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Compromised communications directly enabled forty percent of recent strategic freight thefts across North America. Fraudulent carrier calls surged ninety percent, forcing logistics providers to enforce mandatory automated identity checks."
+                "narration_line": "October Class Eight commercial truck orders plummeted sharply across North American fleets as carrier procurement paused. Fleets are actively delaying multi-million dollar capital outlays until federal regulators issue finalized heavy-duty diesel engine standards."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
-                "teaserTitle": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
+                "headline": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
+                "teaserTitle": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Uncollected artificial intelligence hardware shipments are choking cargo floors at Taiwan Taoyuan Airport. Freight forwarders report terminal delays topping seventy-two hours, trapping pallet dollies across major regional export corridors."
+                "narration_line": "China's Ningbo-Zhoushan Port launched a one hundred fifty-seven million dollar acquisition to secure key container terminal infrastructure in Brazil. The deal strengthens direct control over transatlantic South American agricultural and raw commodity trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
-                "teaserTitle": "RAIL: STB MERGER RETALIATION INQUIRY",
+                "headline": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global shipbuilding orders have expanded three and a half times since twenty-twenty while shipyard capacity grew only thirty percent. Container and bulk carriers face delivery shortages and firm charter rates through twenty-twenty-eight."
+                "narration_line": "German ocean liner Hapag-Lloyd finalized its acquisition of a twenty-five percent terminal stake in Rotterdam. Securing dedicated quay capacity insulates European vessel rotations against severe gateway terminal congestion and berthing penalties."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: STB MERGER RETALIATION INQUIRY",
-                "teaserTitle": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
+                "headline": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
+                "teaserTitle": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal rail regulators ordered Union Pacific to submit records regarding alleged rate retaliation threats against shippers. Regulatory oversight now threatens carrier rate adjustments during pending intermodal consolidation reviews."
+                "narration_line": "A European Parliament committee voted down proposals to approve two Indian shipbreaking yards for maritime recycling compliance. Shipowners now face severe shortages of authorized dismantling drydocks alongside surging regulatory penalties across the continent."
             },
             {
                 "slide_index": 6,
-                "headline": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
-                "teaserTitle": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
+                "headline": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
+                "teaserTitle": "FEES: HONG KONG RIVER TRADE REBATES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Alfa Laval agreed to acquire navigation software firm NAVTOR in a seven hundred million dollar cash transaction. The deal merges voyage planning, fleet tracking, and fuel optimization under unified maritime digital platforms."
+                "narration_line": "Arkansas state police conducted a forty-eight hour commercial driver blitz resulting in forty-four arrests and one hundred eighty-three compliance citations. Motor carriers must review driver documentation immediately to avoid unexpected equipment impoundments and roadside delays."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "FEES: HONG KONG RIVER TRADE REBATES",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "BNSF is metering container traffic across its Southern Transcon following track washout repairs in New Mexico. Rail shippers face inland freight delays of nearly a week heading toward Midwest hubs."
+                "narration_line": "Hong Kong maritime officials are reviewing river trade vessel permit fees as neighboring mainland hubs capture regional freight. Ocean forwarders should recalculate feeder transshipment expenses across the Pearl River Delta to optimize regional shipping margins."
             },
             {
                 "slide_index": 8,

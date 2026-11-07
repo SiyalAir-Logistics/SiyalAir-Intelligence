@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "WEST COAST CONTRACT",
-        "titleBlue": "EXTENSION",
-        "footerSummary": "PMA and ILWU Local 26 defer strike action at Los Angeles and Long Beach ports to Nov 20, granting temporary relief to peak transpacific cargo."
+        "titleWhite": "ROBINSON RXO $5.8B",
+        "titleBlue": "BUYOUT",
+        "footerSummary": "C.H. Robinson agrees to acquire RXO in a $5.8B transaction, reshaping domestic freight brokerage and last-mile consolidation networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORTS: WEST COAST CONTRACT EXTENSION",
+            "heading": "BROKERAGE: ROBINSON RXO $5.8B BUYOUT",
             "paragraphs": [
-                "The Pacific Maritime Association and ILWU Local 26 extended labor contract negotiations through Nov 20 following midnight bargaining sessions across the San Pedro Bay port complex. The provisional truce temporarily defers potential work stoppages across marine terminals handling over 35% of containerized US ocean imports.",
-                "Importers and intermodal carriers gain an operational window of 13 days to clear accumulated maritime dwell before renewed strike risks reemerge. Logistics directors are accelerating container diversion to Gulf and East Coast gateways to insulate supply chains against sudden port lockouts."
+                "C.H. Robinson entered into a definitive agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, marking the largest domestic brokerage consolidation in years. The acquisition combines two top-tier freight management networks to dramatically scale expedited freight, managed transportation, and last-mile delivery operations ahead of an anticipated market rebound in 2027.",
+                "Shippers face an immediate contraction in carrier routing options as freight brokerage pricing power concentrates heavily within a single mega-entity. Enterprise logistics procurement leaders must re-evaluate contract rate commitments and diversify tier-one transportation providers to prevent exposure to aggressive lane re-pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
+            "nextUpTease": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-07T08:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-07T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
+            "heading": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
             "paragraphs": [
-                "A forensic freight fraud analysis by Highway reveals compromised electronic communications directly facilitated 40% of strategic cargo thefts reported across North American highway networks. Fraudulent dispatcher inbound calls spiked 90%, while unverified corporate identity changes targeting licensed motor carriers surged over 100%.",
-                "Brokers and enterprise shippers face mounting cargo loss liability and unrecoverable insurance claims as digital spoofing circumvents basic onboarding controls. Freight operations must mandate automated digital verification and multi-factor carrier identity protocols to prevent unauthorized load re-brokering."
+                "Preliminary Class 8 truck net orders across North America dropped significantly in October as fleet managers froze capital expenditure amid regulatory uncertainty surrounding EPA 2027 emissions rules. Commercial carriers are postponing planned equipment replacements until federal regulators release finalized standards for heavy-duty nitrogen oxide and greenhouse gas compliance.",
+                "Postponed tractor procurement risks creating severe equipment supply deficits and aging fleet downtime when freight demand recovers. Fleet operators must balance maintenance cost escalations against the financial premiums of pre-buying current-generation diesel equipment before manufacturing lead times stretch."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
+            "nextUpTease": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-06T18:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-06T17:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
+            "heading": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
             "paragraphs": [
-                "Severe cargo staging congestion at Taiwan Taoyuan International Airport has paralyzed terminal handling as uncollected imports of oversized AI semiconductor hardware overwhelm facility floors. Terminal handlers report unretrieved palletized freight has tied up airport dollies and restricted export processing capacity across East Asian air lanes.",
-                "High-tech electronics forwarders are experiencing cargo transfer delays exceeding 72 hours alongside elevated warehousing detention assessments. Supply chain planners must secure dedicated off-airport staging yards and alternative ramp slots through secondary regional hubs to bypass Taipei bottlenecks."
+                "China's state-backed port operator Ningbo-Zhoushan Port announced a $157M investment to acquire a substantial equity stake in a major container terminal facility in Brazil. The strategic terminal acquisition forms part of an expansive initiative to integrate direct maritime feeder networks between South American agricultural export basins and East Asian manufacturing centers.",
+                "Global shippers utilizing Latin American trade corridors must prepare for shifting berthing allocations as Chinese carrier alliances prioritize dedicated terminal windows. Logistics coordinators should analyze alternative regional port infrastructure to safeguard against selective terminal berth congestion during peak agricultural export seasons."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
+            "nextUpTease": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-05T14:40:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-07T07:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
+            "heading": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
             "paragraphs": [
-                "The global commercial shipbuilding orderbook expanded 3.5-fold since 2020 while aggregate shipyard building berth capacity grew just 30%, triggering severe shipyard slippage. Available construction slots for dual-fuel containerships, gas carriers, and bulk vessels remain fully booked through 2028 across major Asian yards.",
-                "Ocean freight carriers face extended delivery timelines that constrain planned fleet replacement schedules and regulatory carbon compliance targets. Shippers negotiating long-term maritime contracts must incorporate structural slot scarcity and sustained vessel charter rates into transport cost projections through 2029."
+                "German container shipping line Hapag-Lloyd finalized its acquisition of a 25% ownership stake in a major container terminal at the Port of Rotterdam following regulatory clearance. The purchase secures long-term berthing priority and container handling throughput at Europe's primary deep-sea container gateway for its Gemini Cooperation fleet.",
+                "Independent maritime operators face reduced common-user terminal capacity and extended anchorage delays as ocean carrier alliances lock down exclusive berthing windows across northern European hubs. Supply chain directors must evaluate multi-port European import discharge routing to mitigate localized terminal bottleneck surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: STB MERGER RETALIATION INQUIRY",
+            "nextUpTease": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-11-06T10:15:00Z",
+                "Published: 2026-11-06T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: STB MERGER RETALIATION INQUIRY",
+            "heading": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
             "paragraphs": [
-                "The Surface Transportation Board issued formal disclosure orders targeting Union Pacific following public remarks indicating possible commercial rate retaliation against shippers opposing Class 1 rail mergers. Federal rail regulators are examining internal communications to determine whether commercial pricing policies breached statutory common-carrier fairness mandates.",
-                "Industrial rail shippers face immediate pricing volatility and potential service disputes as regulatory scrutiny alters long-term volume contract bargaining. Enterprise logistics teams must document carrier communications and review service agreement dispute provisions to insulate lane contracts from retaliatory rate actions."
+                "A European Parliament committee formally voted to reject proposals granting approved EU environmental status to two prominent Indian ship recycling yards. The decision blocks EU-flagged commercial vessels from utilizing South Asian dismantling facilities, restricting certified green ship demolition capacity exclusively to high-cost yards.",
+                "Vessel owners face surging compliance scrap expenditures and mounting holding costs for aging tonnage unable to access cost-effective recycling options. Maritime asset managers must adjust residual fleet book values and prepare for elevated charter rates as shipowners delay retiring older vessels."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
+            "nextUpTease": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-06T12:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-06T13:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
+            "heading": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
             "paragraphs": [
-                "Industrial marine engineering giant Alfa Laval signed a definitive $700M all-cash agreement to acquire maritime navigation software developer NAVTOR. The acquisition consolidates digital vessel routing, voyage optimization, and voyage emissions tracking platforms under a unified enterprise fleet operating system.",
-                "Maritime carriers face rapid consolidation among digital platform providers, accelerating integrated fleet management software adoption across container and bulk segments. Vessel operators must evaluate data lock-in and vendor reliance while assessing the cost benefits of automated fuel-route optimization solutions."
+                "A concentrated 48-hour commercial motor vehicle law enforcement operation conducted across Arkansas highways yielded 183 English language proficiency violations and resulted in 44 driver arrests. State inspection checkpoints placed dozens of heavy trucks out of service immediately, intercepting drivers lacking valid CDL credentials and compliance certifications.",
+                "Regional supply chains face sudden transit delays and unpredicted freight cross-docking costs as carriers scramble replacement drivers to recover impounded tractor-trailers. Freight brokers and shippers must tighten carrier vetting protocols to ensure contracted haulers satisfy federal credentialing mandates before dispatch."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
+            "nextUpTease": "FEES: HONG KONG RIVER TRADE REBATES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-06T09:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-06T11:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
+            "heading": "FEES: HONG KONG RIVER TRADE REBATES",
             "paragraphs": [
-                "BNSF Railway deployed emergency track maintenance crews and implemented restrictive cargo metering across its Southern Transcon corridor following heavy flood damage in New Mexico. Metering controls limit container throughput into major Midwest intermodal distribution hubs to avoid catastrophic terminal gridlock.",
-                "Intermodal shippers face transit delays of 5 to 7 days for inland containerized freight traversing between Southern California and Chicago distribution terminals. Freight coordinators must route urgent holiday retail inventory onto domestic over-the-road dry van teams to bypass southwestern rail corridors."
+                "Hong Kong maritime authorities initiated an emergency review of permit fees and port dues imposed on river trade vessels as mainland Chinese ports capture regional cargo volumes. Competitive transshipment tariffs and advanced intermodal rail links at neighboring Pearl River Delta terminals have systematically diverted container traffic away from Hong Kong quays.",
+                "Regional freight forwarders are evaluating routing options to capitalize on potential fee reductions across South China coastal trade lanes. Importers must weigh transit reliability against fluctuating river barge handling costs to maintain agile feeder connections into global ocean networks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-07T06:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-06T10:45:00Z",
                 "Status: Audited & True"
             ]
         }

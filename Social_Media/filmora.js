@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: WEST COAST CONTRACT EXTENSION",
-                "teaserTitle": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
-                "visual_caption": "West Coast employers and union labor extended talks through Nov 20, averting an immediate port shutdown. Shippers gain 13 days to clear terminal backlogs before strike deadlines renew."
+                "headline": "BROKERAGE: ROBINSON RXO $5.8B BUYOUT",
+                "teaserTitle": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
+                "visual_caption": "C.H. Robinson has agreed to acquire freight broker RXO in a $5.8B cash-and-stock transaction. The buyout unites expedited transportation and last-mile logistics networks ahead of anticipated 2027 market tightening."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
-                "teaserTitle": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
-                "visual_caption": "Compromised communications enabled 40% of strategic freight thefts across North America. Fraudulent carrier calls surged 90%, forcing logistics providers to enforce mandatory automated identity checks."
+                "headline": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
+                "teaserTitle": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
+                "visual_caption": "October Class 8 commercial truck orders plummeted sharply across North American fleets as carrier procurement paused. Fleets are actively delaying multi-million-dollar capital outlays until regulators issue finalized EPA 2027 engine standards."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
-                "teaserTitle": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
-                "visual_caption": "Uncollected AI hardware shipments are choking cargo floors at Taiwan Taoyuan Airport. Freight forwarders report terminal delays topping 72 hours, trapping pallet dollies across regional export corridors."
+                "headline": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
+                "teaserTitle": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
+                "visual_caption": "China's Ningbo-Zhoushan Port launched a $157M acquisition to secure key container terminal infrastructure in Brazil. The transaction strengthens direct control over transatlantic South American agricultural and raw commodity trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
-                "teaserTitle": "RAIL: STB MERGER RETALIATION INQUIRY",
-                "visual_caption": "Global shipbuilding orders expanded 3.5x since 2020 while yard capacity grew only 30%. Container and bulk carriers face delivery shortages and firm charter rates through 2028."
+                "headline": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
+                "visual_caption": "German ocean liner Hapag-Lloyd finalized its acquisition of a 25% terminal stake at the Port of Rotterdam. Securing dedicated quay capacity insulates European vessel rotations against severe gateway terminal congestion and dwell fees."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: STB MERGER RETALIATION INQUIRY",
-                "teaserTitle": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
-                "visual_caption": "Federal rail regulators ordered Union Pacific to submit records regarding alleged rate retaliation threats against shippers. Regulatory oversight now threatens carrier rate adjustments during pending rail merger reviews."
+                "headline": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
+                "teaserTitle": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
+                "visual_caption": "A European Parliament committee voted down proposals to approve two Indian shipbreaking yards for maritime recycling compliance. Shipowners now face severe shortages of authorized dismantling drydocks alongside surging regulatory penalties across the EU."
             },
             {
                 "slide_index": 6,
-                "headline": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
-                "teaserTitle": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
-                "visual_caption": "Alfa Laval agreed to acquire navigation software firm NAVTOR in a $700M cash transaction. The deal merges voyage planning, fleet tracking, and fuel optimization under unified maritime digital platforms."
+                "headline": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
+                "teaserTitle": "FEES: HONG KONG RIVER TRADE REBATES",
+                "visual_caption": "Arkansas state police conducted a 48-hour commercial vehicle blitz resulting in 44 arrests and 183 compliance citations. Motor carriers must review driver documentation immediately to avoid unexpected equipment impoundments and roadside transit delays."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "BNSF is metering container traffic across its Southern Transcon following track washout repairs in New Mexico. Rail shippers face inland freight delays of 5 to 7 days heading toward Midwest hubs."
+                "headline": "FEES: HONG KONG RIVER TRADE REBATES",
+                "teaserTitle": "",
+                "visual_caption": "Hong Kong maritime officials are reviewing river trade vessel permit fees as neighboring mainland hubs capture regional cargo. Ocean forwarders should recalculate feeder transshipment expenses across the Pearl River Delta to optimize regional routing margins."
             },
             {
                 "slide_index": 8,
