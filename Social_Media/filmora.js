@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "EQUIPMENT: TRUCK OUTPUT DENTS SUPPLY",
-                "teaserTitle": "REGULATION: EPA RULEMAKING",
-                "visual_caption": "Commercial truck output faces assembly bottlenecks from 3rd-party component shortages. Fleets must extend legacy asset maintenance schedules to manage delivery delays."
+                "headline": "PORTS: WEST COAST CONTRACT EXTENSION",
+                "teaserTitle": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
+                "visual_caption": "West Coast employers and union labor extended talks through Nov 20, averting an immediate port shutdown. Shippers gain 13 days to clear terminal backlogs before strike deadlines renew."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: EPA RULEMAKING",
-                "teaserTitle": "ENFORCEMENT: DRIVER OPERATION",
-                "visual_caption": "The EPA plans a December emission rule release before Jan 1 enforcement. Equipment buyers face tight compliance windows and vehicle pricing uncertainty."
+                "headline": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
+                "teaserTitle": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
+                "visual_caption": "Compromised communications enabled 40% of strategic freight thefts across North America. Fraudulent carrier calls surged 90%, forcing logistics providers to enforce mandatory automated identity checks."
             },
             {
                 "slide_index": 3,
-                "headline": "ENFORCEMENT: DRIVER OPERATION",
-                "teaserTitle": "FUEL: TAX SUSPENSIONS",
-                "visual_caption": "A 15-state enforcement dragnet resulted in the arrest of over 40 foreign commercial truck drivers. Carriers must audit driver credentials to prevent sudden operational disruptions."
+                "headline": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
+                "teaserTitle": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
+                "visual_caption": "Uncollected AI hardware shipments are choking cargo floors at Taiwan Taoyuan Airport. Freight forwarders report terminal delays topping 72 hours, trapping pallet dollies across regional export corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: TAX SUSPENSIONS",
-                "teaserTitle": "MARITIME: RECYCLING ROADBLOCK",
-                "visual_caption": "3 states have suspended commercial diesel taxes to reduce fuel expenses by up to $0.47/gal. Transport planners must update routing engines to capture regional cost savings."
+                "headline": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
+                "teaserTitle": "RAIL: STB MERGER RETALIATION INQUIRY",
+                "visual_caption": "Global shipbuilding orders expanded 3.5x since 2020 while yard capacity grew only 30%. Container and bulk carriers face delivery shortages and firm charter rates through 2028."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: RECYCLING ROADBLOCK",
-                "teaserTitle": "INFRASTRUCTURE: PLANT SITE",
-                "visual_caption": "EU regulators blocked Indian ship recycling facilities from approved dismantling lists. Fleet owners face restricted scrapping options and higher asset compliance overhead."
+                "headline": "RAIL: STB MERGER RETALIATION INQUIRY",
+                "teaserTitle": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
+                "visual_caption": "Federal rail regulators ordered Union Pacific to submit records regarding alleged rate retaliation threats against shippers. Regulatory oversight now threatens carrier rate adjustments during pending rail merger reviews."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: PLANT SITE",
-                "teaserTitle": "SECURITY: CARGO THEFT",
-                "visual_caption": "Daimler Truck plans to reveal a new U.S. plant site before Christmas. The upcoming facility aims to support long-term vehicle demand growth by 2029."
+                "headline": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
+                "teaserTitle": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
+                "visual_caption": "Alfa Laval agreed to acquire navigation software firm NAVTOR in a $700M cash transaction. The deal merges voyage planning, fleet tracking, and fuel optimization under unified maritime digital platforms."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: CARGO THEFT",
-                "teaserTitle": "",
-                "visual_caption": "Cargo theft incidents fell in Q3 while financial losses surged. Criminal networks increasingly exploit carrier identity fraud and digital freight vulnerabilities."
+                "headline": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "BNSF is metering container traffic across its Southern Transcon following track washout repairs in New Mexico. Rail shippers face inland freight delays of 5 to 7 days heading toward Midwest hubs."
             },
             {
                 "slide_index": 8,

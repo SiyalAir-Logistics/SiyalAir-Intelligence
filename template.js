@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUCK OUTPUT DENTS",
-        "titleBlue": "SUPPLY",
-        "footerSummary": "Third-party axle and engine component shortages disrupt DTNA truck output, threatening heavy-duty equipment delivery schedules for fleets ahead of 2027."
+        "titleWhite": "WEST COAST CONTRACT",
+        "titleBlue": "EXTENSION",
+        "footerSummary": "PMA and ILWU Local 26 defer strike action at Los Angeles and Long Beach ports to Nov 20, granting temporary relief to peak transpacific cargo."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "EQUIPMENT: TRUCK OUTPUT DENTS SUPPLY",
+            "heading": "PORTS: WEST COAST CONTRACT EXTENSION",
             "paragraphs": [
-                "Commercial vehicle production at Daimler Truck North America faces significant operational headwinds as ongoing third-party axle and engine component shortages restrict facility output. Assembly lines are experiencing disrupted inventory cadences, forcing plant managers to recalibrate manufacturing throughput to match available sub-assembly parts.",
-                "Fleet operators face extended lead times and uncertain delivery windows for Class 8 replacement vehicles as component bottlenecks constrain factory replenishment. Logistics enterprises must adjust capital expenditure deployment and extend legacy asset maintenance life cycles to bridge upcoming capacity shortfalls."
+                "The Pacific Maritime Association and ILWU Local 26 extended labor contract negotiations through Nov 20 following midnight bargaining sessions across the San Pedro Bay port complex. The provisional truce temporarily defers potential work stoppages across marine terminals handling over 35% of containerized US ocean imports.",
+                "Importers and intermodal carriers gain an operational window of 13 days to clear accumulated maritime dwell before renewed strike risks reemerge. Logistics directors are accelerating container diversion to Gulf and East Coast gateways to insulate supply chains against sudden port lockouts."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EPA RULEMAKING",
+            "nextUpTease": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/third-party-axle-engine-supply-issues-dent-dtna-truck-output",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: EPA RULEMAKING",
+            "heading": "CYBERSECURITY: FREIGHT FRAUD CALL SURGE",
             "paragraphs": [
-                "The Environmental Protection Agency prepares to release its final heavy-duty truck nitrogen oxide emissions rule in December, arriving just weeks before the Jan 1 enforcement deadline. Engine manufacturers face an exceptionally compressed compliance window to validate hardware and finalize production specifications for commercial buyers.",
-                "The regulatory squeeze creates severe procurement uncertainty for motor carriers attempting to budget and schedule equipment purchases for early 2027 delivery. Fleet executives must weigh the financial exposure of pre-buy acquisitions against potential compliance penalties under the impending emissions framework."
+                "A forensic freight fraud analysis by Highway reveals compromised electronic communications directly facilitated 40% of strategic cargo thefts reported across North American highway networks. Fraudulent dispatcher inbound calls spiked 90%, while unverified corporate identity changes targeting licensed motor carriers surged over 100%.",
+                "Brokers and enterprise shippers face mounting cargo loss liability and unrecoverable insurance claims as digital spoofing circumvents basic onboarding controls. Freight operations must mandate automated digital verification and multi-factor carrier identity protocols to prevent unauthorized load re-brokering."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENFORCEMENT: DRIVER OPERATION",
+            "nextUpTease": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
             "tags": [
-                "Source: https://www.ttnews.com/articles/cummins-expects-final-epa-nox-rulemaking-december",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-06T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENFORCEMENT: DRIVER OPERATION",
+            "heading": "AIR CARGO: TAIWAN AI EQUIPMENT BOTTLENECK",
             "paragraphs": [
-                "A synchronized 15-state enforcement operation spearheaded by Oklahoma authorities across major freight corridors from Canada to the Gulf Coast resulted in the arrest of over 40 foreign commercial truck drivers possessing active deportation orders. State and federal inspectors targeted credential compliance and driver verification records during the coordinated sweep.",
-                "The multi-state dragnet highlights tightening regulatory oversight over commercial driver credentials, threatening sudden capacity reductions for motor carriers relying on immigrant labor pools. Fleet compliance departments must conduct immediate internal audits of driver documentation to mitigate sudden operational disqualifications."
+                "Severe cargo staging congestion at Taiwan Taoyuan International Airport has paralyzed terminal handling as uncollected imports of oversized AI semiconductor hardware overwhelm facility floors. Terminal handlers report unretrieved palletized freight has tied up airport dollies and restricted export processing capacity across East Asian air lanes.",
+                "High-tech electronics forwarders are experiencing cargo transfer delays exceeding 72 hours alongside elevated warehousing detention assessments. Supply chain planners must secure dedicated off-airport staging yards and alternative ramp slots through secondary regional hubs to bypass Taipei bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: TAX SUSPENSIONS",
+            "nextUpTease": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oklahoma-leads-15-state-truck-driver-enforcement-operation",
-                "Published: 2026-11-05T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-05T14:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: TAX SUSPENSIONS",
+            "heading": "SHIPBUILDING: SHIPYARD CAPACITY SQUEEZE",
             "paragraphs": [
-                "Legislative authorities across 3 states have implemented temporary diesel excise tax suspensions, eliminating regional levies that previously added up to 47 cents per gallon at distribution racks. The targeted tax relief measures seek to cushion motor carriers against volatile motor fuel expenses during peak seasonal shipping volumes.",
-                "Transport routing engines must dynamically update automated fuel surcharge calculation models to accurately reflect localized tax disparities across interstate lanes. Fleet managers must recalibrate fueling stop optimization algorithms to capture regional margin savings without inducing inefficient out-of-route mileage."
+                "The global commercial shipbuilding orderbook expanded 3.5-fold since 2020 while aggregate shipyard building berth capacity grew just 30%, triggering severe shipyard slippage. Available construction slots for dual-fuel containerships, gas carriers, and bulk vessels remain fully booked through 2028 across major Asian yards.",
+                "Ocean freight carriers face extended delivery timelines that constrain planned fleet replacement schedules and regulatory carbon compliance targets. Shippers negotiating long-term maritime contracts must incorporate structural slot scarcity and sustained vessel charter rates into transport cost projections through 2029."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: RECYCLING ROADBLOCK",
+            "nextUpTease": "RAIL: STB MERGER RETALIATION INQUIRY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/diesel-tax-suspensions-cut-fuel-costs-3-states",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-06T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: RECYCLING ROADBLOCK",
+            "heading": "RAIL: STB MERGER RETALIATION INQUIRY",
             "paragraphs": [
-                "The European Parliament Environment Committee voted to reject the inclusion of 2 major Indian ship recycling facilities on the official EU approved dismantling list. The decision obstructs maritime operators seeking compliant South Asian green shipbreaking capacity for European-flagged vessel retirements.",
-                "Commercial fleet owners face restricted recycling options and depressed residual asset valuations due to the acute bottleneck in approved dismantling infrastructure. Vessel operators must navigate extended phase-out timelines and elevated compliance overhead when planning fleet modernization schedules."
+                "The Surface Transportation Board issued formal disclosure orders targeting Union Pacific following public remarks indicating possible commercial rate retaliation against shippers opposing Class 1 rail mergers. Federal rail regulators are examining internal communications to determine whether commercial pricing policies breached statutory common-carrier fairness mandates.",
+                "Industrial rail shippers face immediate pricing volatility and potential service disputes as regulatory scrutiny alters long-term volume contract bargaining. Enterprise logistics teams must document carrier communications and review service agreement dispute provisions to insulate lane contracts from retaliatory rate actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: PLANT SITE",
+            "nextUpTease": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
             "tags": [
-                "Source: https://splash247.com/indian-ship-recycling-breakthrough-hits-brussels-roadblock/",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-06T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE: PLANT SITE",
+            "heading": "M&A: ALFA LAVAL NAVTOR ACQUISITION",
             "paragraphs": [
-                "Daimler Truck North America announced plans to reveal a new United States manufacturing plant site before Christmas to address projected long-term demand growth across North American markets. The facility investment underscores OEM commitments to expand localized production capabilities despite current supply chain friction.",
-                "The incoming production plant is scheduled to commence commercial operations by 2029, offering structural capacity relief for commercial fleet procurement pipelines. Long-term equipment planners must align capital allocation strategies with upcoming regional production expansions to secure future vehicle allocations."
+                "Industrial marine engineering giant Alfa Laval signed a definitive $700M all-cash agreement to acquire maritime navigation software developer NAVTOR. The acquisition consolidates digital vessel routing, voyage optimization, and voyage emissions tracking platforms under a unified enterprise fleet operating system.",
+                "Maritime carriers face rapid consolidation among digital platform providers, accelerating integrated fleet management software adoption across container and bulk segments. Vessel operators must evaluate data lock-in and vendor reliance while assessing the cost benefits of automated fuel-route optimization solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT",
+            "nextUpTease": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-likely-to-reveal-new-us-plant-site-christmas",
-                "Published: 2026-11-06T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-06T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: CARGO THEFT",
+            "heading": "INTERMODAL: BNSF METERS SOUTHWEST FREIGHT",
             "paragraphs": [
-                "Verisk CargoNet data indicates that reported cargo theft incidents across North America decreased during the third quarter, even as total financial losses sustained by shippers continued to climb. Organized criminal networks are increasingly deploying sophisticated identity fraud, carrier impersonation, and digital freight verification exploits.",
-                "Shippers and logistics providers face escalating loss exposures per incident as criminal enterprises target higher-value electronics and pharmaceutical shipments. Supply chain security teams must mandate multi-factor carrier vetting protocols and real-time tracking safeguards to neutralize identity theft vulnerabilities."
+                "BNSF Railway deployed emergency track maintenance crews and implemented restrictive cargo metering across its Southern Transcon corridor following heavy flood damage in New Mexico. Metering controls limit container throughput into major Midwest intermodal distribution hubs to avoid catastrophic terminal gridlock.",
+                "Intermodal shippers face transit delays of 5 to 7 days for inland containerized freight traversing between Southern California and Chicago distribution terminals. Freight coordinators must route urgent holiday retail inventory onto domestic over-the-road dry van teams to bypass southwestern rail corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/cargo-theft-incidents-fall-as-thieves-target-higher-value-freight/",
-                "Published: 2026-10-30T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T06:45:00Z",
                 "Status: Audited & True"
             ]
         }
