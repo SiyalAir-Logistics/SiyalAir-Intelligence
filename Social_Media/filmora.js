@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BROKERAGE: ROBINSON RXO $5.8B BUYOUT",
-                "teaserTitle": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
-                "visual_caption": "C.H. Robinson has agreed to acquire freight broker RXO in a $5.8B cash-and-stock transaction. The buyout unites expedited transportation and last-mile logistics networks ahead of anticipated 2027 market tightening."
+                "headline": "LABOR: LA-LB PORT CONTRACT EXTENSION",
+                "teaserTitle": "SECURITY: HIGHWAY CARGO THEFT SURGE",
+                "visual_caption": "Maritime employers and dockworkers extended Southern California port contract negotiations through Nov 20. This temporary agreement delays an imminent terminal shutdown across LA and Long Beach."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
-                "teaserTitle": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
-                "visual_caption": "October Class 8 commercial truck orders plummeted sharply across North American fleets as carrier procurement paused. Fleets are actively delaying multi-million-dollar capital outlays until regulators issue finalized EPA 2027 engine standards."
+                "headline": "SECURITY: HIGHWAY CARGO THEFT SURGE",
+                "teaserTitle": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
+                "visual_caption": "Compromised communications triggered 40% of freight fraud incidents as illegitimate carrier calls jumped 90%. Transportation managers must tighten identity screening to prevent illegal load diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
-                "teaserTitle": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
-                "visual_caption": "China's Ningbo-Zhoushan Port launched a $157M acquisition to secure key container terminal infrastructure in Brazil. The transaction strengthens direct control over transatlantic South American agricultural and raw commodity trade corridors."
+                "headline": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
+                "teaserTitle": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
+                "visual_caption": "Alfa Laval agreed to acquire maritime voyage specialist NAVTOR in a $700M all-cash deal. The transaction deepens shipping consolidation across digital routing and regulatory tracking platforms."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
-                "visual_caption": "German ocean liner Hapag-Lloyd finalized its acquisition of a 25% terminal stake at the Port of Rotterdam. Securing dedicated quay capacity insulates European vessel rotations against severe gateway terminal congestion and dwell fees."
+                "headline": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
+                "teaserTitle": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
+                "visual_caption": "Surging imports of AI hardware created severe warehouse congestion across Taiwan Taoyuan Airport. Uncollected shipments are tying up ground equipment and delaying transpacific air trade."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
-                "teaserTitle": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
-                "visual_caption": "A European Parliament committee voted down proposals to approve two Indian shipbreaking yards for maritime recycling compliance. Shipowners now face severe shortages of authorized dismantling drydocks alongside surging regulatory penalties across the EU."
+                "headline": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
+                "teaserTitle": "CARRIERS: MAERSK REVENUE JUMPS 27%",
+                "visual_caption": "Daimler Truck North America slowed commercial truck assembly due to third-party axle and engine part shortages. Fleet buyers face extended equipment delivery timelines and rising maintenance costs."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
-                "teaserTitle": "FEES: HONG KONG RIVER TRADE REBATES",
-                "visual_caption": "Arkansas state police conducted a 48-hour commercial vehicle blitz resulting in 44 arrests and 183 compliance citations. Motor carriers must review driver documentation immediately to avoid unexpected equipment impoundments and roadside transit delays."
+                "headline": "CARRIERS: MAERSK REVENUE JUMPS 27%",
+                "teaserTitle": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+                "visual_caption": "Maersk reported a 27% revenue jump to $18.1B despite falling container volumes. Higher freight rates from extended routing prompted another annual profit upgrade."
             },
             {
                 "slide_index": 7,
-                "headline": "FEES: HONG KONG RIVER TRADE REBATES",
+                "headline": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
                 "teaserTitle": "",
-                "visual_caption": "Hong Kong maritime officials are reviewing river trade vessel permit fees as neighboring mainland hubs capture regional cargo. Ocean forwarders should recalculate feeder transshipment expenses across the Pearl River Delta to optimize regional routing margins."
+                "visual_caption": "Three states temporarily suspended diesel taxes to reduce pump prices by up to 47 cents per gallon. Motor carriers gain immediate cash relief while shippers recalculate fuel surcharges."
             },
             {
                 "slide_index": 8,

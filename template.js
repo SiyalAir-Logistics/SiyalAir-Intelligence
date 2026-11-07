@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROBINSON RXO $5.8B",
-        "titleBlue": "BUYOUT",
-        "footerSummary": "C.H. Robinson agrees to acquire RXO in a $5.8B transaction, reshaping domestic freight brokerage and last-mile consolidation networks."
+        "titleWhite": "LA-LB PORT CONTRACT",
+        "titleBlue": "EXTENSION",
+        "footerSummary": "West Coast port contract extension defers strike risk to Nov 20 while cyber cargo fraud surges 90% across North American freight lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "BROKERAGE: ROBINSON RXO $5.8B BUYOUT",
+            "heading": "LABOR: LA-LB PORT CONTRACT EXTENSION",
             "paragraphs": [
-                "C.H. Robinson entered into a definitive agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, marking the largest domestic brokerage consolidation in years. The acquisition combines two top-tier freight management networks to dramatically scale expedited freight, managed transportation, and last-mile delivery operations ahead of an anticipated market rebound in 2027.",
-                "Shippers face an immediate contraction in carrier routing options as freight brokerage pricing power concentrates heavily within a single mega-entity. Enterprise logistics procurement leaders must re-evaluate contract rate commitments and diversify tier-one transportation providers to prevent exposure to aggressive lane re-pricing."
+                "The Pacific Maritime Association and ILWU Local 26 reached an eleventh-hour agreement extending terminal contract negotiations through Nov 20. The temporary truce averts an immediate shutdown across the ports of Los Angeles and Long Beach after talks stalled late Friday night.",
+                "Shippers gain an operational reprieve of 14 days to clear high-priority transpacific container volumes before strike threats resurface. Ocean freight procurement teams must expedite dwell clearing and prepare diversion contingencies toward alternate gateways should negotiations fail."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
+            "nextUpTease": "SECURITY: HIGHWAY CARGO THEFT SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-07T09:15:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: CLASS 8 TRUCK ORDERS PLUNGE",
+            "heading": "SECURITY: HIGHWAY CARGO THEFT SURGE",
             "paragraphs": [
-                "Preliminary Class 8 truck net orders across North America dropped significantly in October as fleet managers froze capital expenditure amid regulatory uncertainty surrounding EPA 2027 emissions rules. Commercial carriers are postponing planned equipment replacements until federal regulators release finalized standards for heavy-duty nitrogen oxide and greenhouse gas compliance.",
-                "Postponed tractor procurement risks creating severe equipment supply deficits and aging fleet downtime when freight demand recovers. Fleet operators must balance maintenance cost escalations against the financial premiums of pre-buying current-generation diesel equipment before manufacturing lead times stretch."
+                "A forensic supply chain report by Highway revealed that compromised digital communications and carrier impersonation accounted for 40% of fraudulent load thefts this quarter. Illegitimate dispatch calls jumped by 90% alongside a 100% surge in fraudulent carrier ownership filings across domestic networks.",
+                "Freight brokers and shippers face escalating liability risks as sophisticated digital crime syndicates exploit weak carrier verification protocols. Transportation risk managers must mandate multi-factor automated credentialing and secure dispatch verification to prevent high-value load diversions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
+            "nextUpTease": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-06T17:40:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-07T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TERMINALS: NINGBO ZHOUSHAN BRAZIL EXPANSION",
+            "heading": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
             "paragraphs": [
-                "China's state-backed port operator Ningbo-Zhoushan Port announced a $157M investment to acquire a substantial equity stake in a major container terminal facility in Brazil. The strategic terminal acquisition forms part of an expansive initiative to integrate direct maritime feeder networks between South American agricultural export basins and East Asian manufacturing centers.",
-                "Global shippers utilizing Latin American trade corridors must prepare for shifting berthing allocations as Chinese carrier alliances prioritize dedicated terminal windows. Logistics coordinators should analyze alternative regional port infrastructure to safeguard against selective terminal berth congestion during peak agricultural export seasons."
+                "Swedish engineering conglomerate Alfa Laval signed an all-cash agreement to acquire maritime voyage intelligence provider NAVTOR for $700M. The consolidation merges NAVTOR's navigation routing platform with Alfa Laval's digital fleet ecosystem alongside StormGeo and Portchain.",
+                "The deal accelerates maritime commercial integration, locking ocean carriers into unified emissions and passage optimization software suites. Vessel charterers and cargo owners will face increased data consolidation as primary navigation and port clearance tools fall under single enterprise umbrellas."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
+            "nextUpTease": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-11-07T07:20:00Z",
+                "Published: 2026-11-06T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: HAPAG LLOYD ROTTERDAM STAKE",
+            "heading": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
             "paragraphs": [
-                "German container shipping line Hapag-Lloyd finalized its acquisition of a 25% ownership stake in a major container terminal at the Port of Rotterdam following regulatory clearance. The purchase secures long-term berthing priority and container handling throughput at Europe's primary deep-sea container gateway for its Gemini Cooperation fleet.",
-                "Independent maritime operators face reduced common-user terminal capacity and extended anchorage delays as ocean carrier alliances lock down exclusive berthing windows across northern European hubs. Supply chain directors must evaluate multi-port European import discharge routing to mitigate localized terminal bottleneck surcharges."
+                "Heavy inbound consignments of artificial intelligence hardware and data center machinery created acute warehouse congestion at Taiwan Taoyuan Airport. Uncollected high-density shipments have immobilized handling dollies and overwhelmed apron storage, causing systemic handling delays across regional air cargo operations.",
+                "Air freight forwarders face rolling terminal demurrage penalties and transit disruptions across transpacific tech supply corridors. Electronics manufacturers and supply chain managers must coordinate immediate ramp releases or secure off-airport bonded staging to avoid severe delivery penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
+            "nextUpTease": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-06T15:10:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-06T12:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: EU BLOCKS INDIAN RECYCLING",
+            "heading": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
             "paragraphs": [
-                "A European Parliament committee formally voted to reject proposals granting approved EU environmental status to two prominent Indian ship recycling yards. The decision blocks EU-flagged commercial vessels from utilizing South Asian dismantling facilities, restricting certified green ship demolition capacity exclusively to high-cost yards.",
-                "Vessel owners face surging compliance scrap expenditures and mounting holding costs for aging tonnage unable to access cost-effective recycling options. Maritime asset managers must adjust residual fleet book values and prepare for elevated charter rates as shipowners delay retiring older vessels."
+                "Daimler Truck North America curbed commercial vehicle assembly rates due to severe component shortages from tier-one axle and engine suppliers. The manufacturing bottleneck disrupts delivery schedules for new Class 8 highway tractors across North American fleet customer orderbooks.",
+                "Truckload carriers face extended tractor lead times and forced fleet aging, escalating preventative maintenance costs across linehaul networks. Fleet replacement managers must evaluate alternative OEM build allocations or extend existing equipment leases through 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
+            "nextUpTease": "CARRIERS: MAERSK REVENUE JUMPS 27%",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-06T13:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-06T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: ARKANSAS TRUCK BLITZ NETS 44",
+            "heading": "CARRIERS: MAERSK REVENUE JUMPS 27%",
             "paragraphs": [
-                "A concentrated 48-hour commercial motor vehicle law enforcement operation conducted across Arkansas highways yielded 183 English language proficiency violations and resulted in 44 driver arrests. State inspection checkpoints placed dozens of heavy trucks out of service immediately, intercepting drivers lacking valid CDL credentials and compliance certifications.",
-                "Regional supply chains face sudden transit delays and unpredicted freight cross-docking costs as carriers scramble replacement drivers to recover impounded tractor-trailers. Freight brokers and shippers must tighten carrier vetting protocols to ensure contracted haulers satisfy federal credentialing mandates before dispatch."
+                "A.P. Moller - Maersk posted a 27% year-over-year revenue increase to $18.1B in Q3, prompting management to raise full-year earnings guidance for the third consecutive time. The financial surge was driven by elevated spot freight rates across extended Red Sea diversion routes despite a net decline in carried ocean container volumes.",
+                "Carrier profitability resilience reinforces ocean liner pricing discipline heading into upcoming 2027 annual contract negotiations. Shippers negotiating long-term service agreements face limited carrier concessions unless global vessel capacity additions outpace persistent geopolitical diversions."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEES: HONG KONG RIVER TRADE REBATES",
+            "nextUpTease": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-11-06T11:05:00Z",
+                "Published: 2026-11-06T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FEES: HONG KONG RIVER TRADE REBATES",
+            "heading": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
             "paragraphs": [
-                "Hong Kong maritime authorities initiated an emergency review of permit fees and port dues imposed on river trade vessels as mainland Chinese ports capture regional cargo volumes. Competitive transshipment tariffs and advanced intermodal rail links at neighboring Pearl River Delta terminals have systematically diverted container traffic away from Hong Kong quays.",
-                "Regional freight forwarders are evaluating routing options to capitalize on potential fee reductions across South China coastal trade lanes. Importers must weigh transit reliability against fluctuating river barge handling costs to maintain agile feeder connections into global ocean networks."
+                "Regulatory authorities across three states enacted emergency fuel tax suspensions, eliminating state road levies to lower diesel prices by up to 47 cents per gallon. The fiscal relief measures aim to cushion motor carriers and regional logistics operators against persistent operating cost volatility.",
+                "Over-the-road freight carriers operating regional dedicated routes gain immediate operating margin relief through reduced fuel expense baselines. Shippers utilizing dynamic fuel surcharge indexes must recalculate contract billing matrices to capture immediate baseline transportation savings."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-06T10:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-06T18:20:00Z",
                 "Status: Audited & True"
             ]
         }
