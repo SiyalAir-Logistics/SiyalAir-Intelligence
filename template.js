@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROBINSON $5.8B RXO",
-        "titleBlue": "ACQUISITION",
-        "footerSummary": "A $5.8B brokerage mega-merger, imminent West Coast port strike deadlines, and record Mexico trade reshape Q4 freight margins and contract pricing."
+        "titleWhite": "TRUCK OUTPUT DENTS",
+        "titleBlue": "SUPPLY",
+        "footerSummary": "Third-party axle and engine component shortages disrupt DTNA truck output, threatening heavy-duty equipment delivery schedules for fleets ahead of 2027."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "M&A: ROBINSON $5.8B RXO ACQUISITION",
+            "heading": "EQUIPMENT: TRUCK OUTPUT DENTS SUPPLY",
             "paragraphs": [
-                "C.H. Robinson has entered a definitive agreement to acquire freight brokerage competitor RXO in a $5.8B cash-and-stock transaction slated to close in early 2027. The mega-merger consolidates critical expedited brokerage capacity, digital booking infrastructure, and high-density last-mile delivery networks under one balance sheet.",
-                "Shippers face immediate procurement concentration as two of the largest North American freight brokerages unite, reducing independent spot bidding leverage across major retail lanes. Freight procurement teams must re-evaluate 2027 routing guides to mitigate carrier dependency and prepare for contract pricing recalibrations."
+                "Commercial vehicle production at Daimler Truck North America faces significant operational headwinds as ongoing third-party axle and engine component shortages restrict facility output. Assembly lines are experiencing disrupted inventory cadences, forcing plant managers to recalibrate manufacturing throughput to match available sub-assembly parts.",
+                "Fleet operators face extended lead times and uncertain delivery windows for Class 8 replacement vehicles as component bottlenecks constrain factory replenishment. Logistics enterprises must adjust capital expenditure deployment and extend legacy asset maintenance life cycles to bridge upcoming capacity shortfalls."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECH: ALFA LAVAL $700M NAVTOR BUY",
+            "nextUpTease": "REGULATION: EPA RULEMAKING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_acquires_rxo_deal",
-                "Published: 2026-11-06T14:00:00Z",
+                "Source: https://www.ttnews.com/articles/third-party-axle-engine-supply-issues-dent-dtna-truck-output",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECH: ALFA LAVAL $700M NAVTOR BUY",
+            "heading": "REGULATION: EPA RULEMAKING",
             "paragraphs": [
-                "Alfa Laval has entered into a definitive agreement to acquire Norwegian maritime technology specialist NAVTOR for $700M in an all-cash transaction. The transaction integrates electronic navigational charting, voyage planning, and performance tracking into Alfa Laval's digital marine portfolio alongside StormGeo and Portchain.",
-                "The consolidation signals accelerating carrier investment into autonomous voyage optimization to comply with tightening international maritime emission benchmarks. Vessel operators must assess how proprietary software integration across fleets impacts data portability and third-party voyage monitoring overhead."
+                "The Environmental Protection Agency prepares to release its final heavy-duty truck nitrogen oxide emissions rule in December, arriving just weeks before the Jan 1 enforcement deadline. Engine manufacturers face an exceptionally compressed compliance window to validate hardware and finalize production specifications for commercial buyers.",
+                "The regulatory squeeze creates severe procurement uncertainty for motor carriers attempting to budget and schedule equipment purchases for early 2027 delivery. Fleet executives must weigh the financial exposure of pre-buy acquisitions against potential compliance penalties under the impending emissions framework."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
+            "nextUpTease": "ENFORCEMENT: DRIVER OPERATION",
             "tags": [
-                "Source: https://splash247.com/alfa-laval-makes-700m-navtor-bet/",
-                "Published: 2026-11-06T15:30:00Z",
+                "Source: https://www.ttnews.com/articles/cummins-expects-final-epa-nox-rulemaking-december",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
+            "heading": "ENFORCEMENT: DRIVER OPERATION",
             "paragraphs": [
-                "Mexico expanded its lead as the top United States trading partner after bilateral trade hit a historic monthly record of $96.3B for September. Cross-border freight flows surged across Laredo and Otay Mesa, driven by heightened nearshoring investments in automotive, advanced electronics, and industrial manufacturing components.",
-                "This unprecedented volume strains customs checkpoint capacity and amplifies border wait times for southbound raw materials and northbound finished goods. Enterprise shippers must deploy dedicated cross-border drayage assets and automated clearance protocols to avoid customs demurrage at saturated border gateways."
+                "A synchronized 15-state enforcement operation spearheaded by Oklahoma authorities across major freight corridors from Canada to the Gulf Coast resulted in the arrest of over 40 foreign commercial truck drivers possessing active deportation orders. State and federal inspectors targeted credential compliance and driver verification records during the coordinated sweep.",
+                "The multi-state dragnet highlights tightening regulatory oversight over commercial driver credentials, threatening sudden capacity reductions for motor carriers relying on immigrant labor pools. Fleet compliance departments must conduct immediate internal audits of driver documentation to mitigate sudden operational disqualifications."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
+            "nextUpTease": "FUEL: TAX SUSPENSIONS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september",
-                "Published: 2026-11-06T11:45:00Z",
+                "Source: https://www.ttnews.com/articles/oklahoma-leads-15-state-truck-driver-enforcement-operation",
+                "Published: 2026-11-05T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
+            "heading": "FUEL: TAX SUSPENSIONS",
             "paragraphs": [
-                "The European Parliament Environment Committee voted against authorizing two Indian ship recycling facilities to join the European Union approved ship dismantling list. The decision blocks South Asian green recycling yards that complied with the Hong Kong Convention from handling EU-flagged tonnage disposals.",
-                "Commercial fleet owners face severely constrained scrapping options and discounted residual asset valuations due to the bottleneck in approved European recycling yards. With global green recycling capacity constrained, maritime carriers must navigate higher compliance overhead and delayed fleet renewal timelines through 2027."
+                "Legislative authorities across 3 states have implemented temporary diesel excise tax suspensions, eliminating regional levies that previously added up to 47 cents per gallon at distribution racks. The targeted tax relief measures seek to cushion motor carriers against volatile motor fuel expenses during peak seasonal shipping volumes.",
+                "Transport routing engines must dynamically update automated fuel surcharge calculation models to accurately reflect localized tax disparities across interstate lanes. Fleet managers must recalibrate fueling stop optimization algorithms to capture regional margin savings without inducing inefficient out-of-route mileage."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
+            "nextUpTease": "MARITIME: RECYCLING ROADBLOCK",
             "tags": [
-                "Source: https://splash247.com/indian-ship-recycling-breakthrough-hits-brussels-roadblock/",
-                "Published: 2026-11-06T13:10:00Z",
+                "Source: https://www.ttnews.com/articles/diesel-tax-suspensions-cut-fuel-costs-3-states",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
+            "heading": "MARITIME: RECYCLING ROADBLOCK",
             "paragraphs": [
-                "Federal mediators have intervened at the Ports of Los Angeles and Long Beach as contract negotiations approach a critical midnight Pacific strike deadline. The unresolved labor standoff threatens to stall operations across the busiest ocean gateway in North America, halting marine terminal gate transactions.",
-                "Shippers face critical cargo grounding risks for inbound Q4 retail stock, forcing immediate contingency diversions toward Gulf and East Coast ports. Logistics managers must secure secondary drayage and intermodal capacity to bypass anticipated West Coast dwell time spikes if talks collapse."
+                "The European Parliament Environment Committee voted to reject the inclusion of 2 major Indian ship recycling facilities on the official EU approved dismantling list. The decision obstructs maritime operators seeking compliant South Asian green shipbreaking capacity for European-flagged vessel retirements.",
+                "Commercial fleet owners face restricted recycling options and depressed residual asset valuations due to the acute bottleneck in approved dismantling infrastructure. Vessel operators must navigate extended phase-out timelines and elevated compliance overhead when planning fleet modernization schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
+            "nextUpTease": "INFRASTRUCTURE: PLANT SITE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/deadline_approaches_for_potential_polb_and_pola_strike",
-                "Published: 2026-11-06T16:20:00Z",
+                "Source: https://splash247.com/indian-ship-recycling-breakthrough-hits-brussels-roadblock/",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
+            "heading": "INFRASTRUCTURE: PLANT SITE",
             "paragraphs": [
-                "Engine manufacturer Cummins expects the Environmental Protection Agency to release its final heavy-duty truck nitrogen oxide emissions rule in December, weeks before the Jan 1 enforcement date. The tight timeline leaves commercial engine makers and commercial fleets minimal transition runway to validate certified hardware.",
-                "Equipment buyers face procurement freezes and unconfirmed powertrain pricing across Class 8 replacement programs scheduled for early 2027 delivery. Fleet executives must balance pre-buy capital expenditures against compliance risk as engine manufacturers adjust production allocations to align with delayed mandates."
+                "Daimler Truck North America announced plans to reveal a new United States manufacturing plant site before Christmas to address projected long-term demand growth across North American markets. The facility investment underscores OEM commitments to expand localized production capabilities despite current supply chain friction.",
+                "The incoming production plant is scheduled to commence commercial operations by 2029, offering structural capacity relief for commercial fleet procurement pipelines. Long-term equipment planners must align capital allocation strategies with upcoming regional production expansions to secure future vehicle allocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
+            "nextUpTease": "SECURITY: CARGO THEFT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/cummins-expects-final-epa-nox-rulemaking-december",
-                "Published: 2026-11-06T12:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-likely-to-reveal-new-us-plant-site-christmas",
+                "Published: 2026-11-06T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
+            "heading": "SECURITY: CARGO THEFT",
             "paragraphs": [
-                "Legislative authorities in three states have instituted temporary suspensions on commercial diesel excise taxes, eliminating levies of up to 47 cents per gallon at regional distribution racks. The tax relief measures aim to dampen escalating motor fuel expenses across key interstate freight corridors during peak freight shipping season.",
-                "Motor carriers and 3PL routing engines must recalibrate automated fuel surcharge algorithms to reflect regional tax disparities across interstate lanes. Transport planners must dynamically optimize fueling stops to capture local margin savings without adding circuitous miles to scheduled dispatches."
+                "Verisk CargoNet data indicates that reported cargo theft incidents across North America decreased during the third quarter, even as total financial losses sustained by shippers continued to climb. Organized criminal networks are increasingly deploying sophisticated identity fraud, carrier impersonation, and digital freight verification exploits.",
+                "Shippers and logistics providers face escalating loss exposures per incident as criminal enterprises target higher-value electronics and pharmaceutical shipments. Supply chain security teams must mandate multi-factor carrier vetting protocols and real-time tracking safeguards to neutralize identity theft vulnerabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/diesel-tax-suspensions-cut-fuel-costs-3-states",
-                "Published: 2026-11-06T10:15:00Z",
+                "Source: https://www.inboundlogistics.com/articles/cargo-theft-incidents-fall-as-thieves-target-higher-value-freight/",
+                "Published: 2026-10-30T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

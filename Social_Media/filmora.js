@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: ROBINSON $5.8B RXO ACQUISITION",
-                "teaserTitle": "TECH: ALFA LAVAL $700M NAVTOR BUY",
-                "visual_caption": "C.H. Robinson has agreed to acquire freight brokerage rival RXO in a $5.8B mega-deal. The transaction consolidates critical freight capacity, reducing spot bidding leverage for enterprise shippers across North America."
+                "headline": "EQUIPMENT: TRUCK OUTPUT DENTS SUPPLY",
+                "teaserTitle": "REGULATION: EPA RULEMAKING",
+                "visual_caption": "Commercial truck output faces assembly bottlenecks from 3rd-party component shortages. Fleets must extend legacy asset maintenance schedules to manage delivery delays."
             },
             {
                 "slide_index": 2,
-                "headline": "TECH: ALFA LAVAL $700M NAVTOR BUY",
-                "teaserTitle": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
-                "visual_caption": "Alfa Laval has signed a definitive $700M agreement to acquire maritime technology firm NAVTOR. The buyout expands connected voyage planning and tracking tools to help ocean carriers navigate tightening international emissions mandates."
+                "headline": "REGULATION: EPA RULEMAKING",
+                "teaserTitle": "ENFORCEMENT: DRIVER OPERATION",
+                "visual_caption": "The EPA plans a December emission rule release before Jan 1 enforcement. Equipment buyers face tight compliance windows and vehicle pricing uncertainty."
             },
             {
                 "slide_index": 3,
-                "headline": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
-                "teaserTitle": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
-                "visual_caption": "Trade between Mexico and the U.S. hit a record $96.3B in September. Surging manufacturing shipments are driving heavy congestion and extended customs delays across major southern border gateways."
+                "headline": "ENFORCEMENT: DRIVER OPERATION",
+                "teaserTitle": "FUEL: TAX SUSPENSIONS",
+                "visual_caption": "A 15-state enforcement dragnet resulted in the arrest of over 40 foreign commercial truck drivers. Carriers must audit driver credentials to prevent sudden operational disruptions."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
-                "teaserTitle": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
-                "visual_caption": "EU regulators have voted against approving 2 Indian ship recycling facilities under European environmental standards. The ruling restricts green vessel scrapping capacity, forcing commercial shipowners to absorb higher decommissioning costs in Europe."
+                "headline": "FUEL: TAX SUSPENSIONS",
+                "teaserTitle": "MARITIME: RECYCLING ROADBLOCK",
+                "visual_caption": "3 states have suspended commercial diesel taxes to reduce fuel expenses by up to $0.47/gal. Transport planners must update routing engines to capture regional cost savings."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
-                "teaserTitle": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
-                "visual_caption": "Federal mediators have joined contract negotiations as San Pedro Bay container ports face an imminent strike deadline. An operational shutdown would immediately stall critical holiday cargo imports across the nation's busiest ocean gateway."
+                "headline": "MARITIME: RECYCLING ROADBLOCK",
+                "teaserTitle": "INFRASTRUCTURE: PLANT SITE",
+                "visual_caption": "EU regulators blocked Indian ship recycling facilities from approved dismantling lists. Fleet owners face restricted scrapping options and higher asset compliance overhead."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
-                "teaserTitle": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
-                "visual_caption": "Cummins expects the EPA to release its final commercial truck NOx emissions rule in December. The compressed timeline leaves heavy-duty fleets minimal runway to finalize procurement strategies before Jan 1 enforcement begins."
+                "headline": "INFRASTRUCTURE: PLANT SITE",
+                "teaserTitle": "SECURITY: CARGO THEFT",
+                "visual_caption": "Daimler Truck plans to reveal a new U.S. plant site before Christmas. The upcoming facility aims to support long-term vehicle demand growth by 2029."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Three states have temporarily suspended commercial diesel taxes, cutting motor fuel levies by up to 47 cents per gallon. Fleet operators must adjust routing schedules and fuel surcharge formulas to capture immediate lane savings."
+                "headline": "SECURITY: CARGO THEFT",
+                "teaserTitle": "",
+                "visual_caption": "Cargo theft incidents fell in Q3 while financial losses surged. Criminal networks increasingly exploit carrier identity fraud and digital freight vulnerabilities."
             },
             {
                 "slide_index": 8,
