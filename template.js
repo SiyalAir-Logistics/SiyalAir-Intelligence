@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CUBAN SHIPPING",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "Expanded Cuban sanctions and a $2.87B European port acquisition signal deepening maritime volatility and aggressive global infrastructure consolidation."
+        "titleWhite": "ROBINSON $5.8B RXO",
+        "titleBlue": "ACQUISITION",
+        "footerSummary": "A $5.8B brokerage mega-merger, imminent West Coast port strike deadlines, and record Mexico trade reshape Q4 freight margins and contract pricing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "U.S. SANCTIONS: CUBAN SHIPPING EXPANSION",
+            "heading": "M&A: ROBINSON $5.8B RXO ACQUISITION",
             "paragraphs": [
-                "The U.S. State Department has expanded sanctions targeting Cuba's maritime sector, blacklisting 5 vessels and 2 individuals linked to oil transport networks. The measures include broad sectoral sanctions against the country's entire maritime industry to disrupt state-sponsored energy logistics.",
-                "Shipowners and compliance officers must immediately screen vessel histories for links to Caroil Transport Marine and other sanctioned entities to avoid heavy federal penalties. The escalation highlights rising geopolitical friction affecting Caribbean energy routing and insurance eligibility."
+                "C.H. Robinson has entered a definitive agreement to acquire freight brokerage competitor RXO in a $5.8B cash-and-stock transaction slated to close in early 2027. The mega-merger consolidates critical expedited brokerage capacity, digital booking infrastructure, and high-density last-mile delivery networks under one balance sheet.",
+                "Shippers face immediate procurement concentration as two of the largest North American freight brokerages unite, reducing independent spot bidding leverage across major retail lanes. Freight procurement teams must re-evaluate 2027 routing guides to mitigate carrier dependency and prepare for contract pricing recalibrations."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
+            "nextUpTease": "TECH: ALFA LAVAL $700M NAVTOR BUY",
             "tags": [
-                "Source: https://maritime-executive.com/article/u-s-state-department-expands-sanctions-on-cuban-shipping",
-                "Published: 2026-11-05T22:10:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ch_robinson_acquires_rxo_deal",
+                "Published: 2026-11-06T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
+            "heading": "TECH: ALFA LAVAL $700M NAVTOR BUY",
             "paragraphs": [
-                "Adani Ports has entered a definitive agreement to acquire Netherlands-based Evos B.V. for $2.87B, marking its largest entry into the European liquid storage market. Evos operates significant storage infrastructure across key hubs, strengthening Adani\u2019s global integrated transport strategy.",
-                "Logistics leaders should monitor how Adani\u2019s expanding footprint influences liquid bulk flow and terminal access across Northern Europe. This multi-billion dollar consolidation underscores a shift toward centralized control of critical energy and chemical storage assets."
+                "Alfa Laval has entered into a definitive agreement to acquire Norwegian maritime technology specialist NAVTOR for $700M in an all-cash transaction. The transaction integrates electronic navigational charting, voyage planning, and performance tracking into Alfa Laval's digital marine portfolio alongside StormGeo and Portchain.",
+                "The consolidation signals accelerating carrier investment into autonomous voyage optimization to comply with tightening international maritime emission benchmarks. Vessel operators must assess how proprietary software integration across fleets impacts data portability and third-party voyage monitoring overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
+            "nextUpTease": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
             "tags": [
-                "Source: https://maritime-executive.com/article/india-s-adani-agrees-to-buy-europe-s-2nd-largest-liquid-storage-operator",
-                "Published: 2026-11-05T20:11:00Z",
+                "Source: https://splash247.com/alfa-laval-makes-700m-navtor-bet/",
+                "Published: 2026-11-06T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
+            "heading": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
             "paragraphs": [
-                "Daimler Truck North America is set to reveal the site for a new domestic manufacturing plant by December 2026 to support surging vehicle demand. The facility will specifically address the production requirements for fleets preparing for the strict EPA 2027 emissions standards.",
-                "Procurement managers must evaluate how this capacity expansion will impact lead times for Class 8 trucks ahead of the 2027 regulatory shift. Increasing domestic production serves as a hedge against global supply chain volatility and tightening emissions compliance windows."
+                "Mexico expanded its lead as the top United States trading partner after bilateral trade hit a historic monthly record of $96.3B for September. Cross-border freight flows surged across Laredo and Otay Mesa, driven by heightened nearshoring investments in automotive, advanced electronics, and industrial manufacturing components.",
+                "This unprecedented volume strains customs checkpoint capacity and amplifies border wait times for southbound raw materials and northbound finished goods. Enterprise shippers must deploy dedicated cross-border drayage assets and automated clearance protocols to avoid customs demurrage at saturated border gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
+            "nextUpTease": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-us-plant-christmas",
-                "Published: 2026-11-06T09:00:00Z",
+                "Source: https://www.freightwaves.com/news/mexico-widens-us-trade-lead-with-record-96-3b-september",
+                "Published: 2026-11-06T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
+            "heading": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
             "paragraphs": [
-                "Following the 2026 midterm election results, analysts predict a significant shift in federal permitting rules for major infrastructure and energy projects. While trade tariffs are expected to remain stable, the new legislative balance targets faster approvals for domestic manufacturing and logistics hubs.",
-                "Shippers and developers should prepare for a more streamlined regulatory environment for intermodal and port expansion projects. Strategic investment in domestic supply chain nodes may become more attractive as administrative hurdles for infrastructure development decrease."
+                "The European Parliament Environment Committee voted against authorizing two Indian ship recycling facilities to join the European Union approved ship dismantling list. The decision blocks South Asian green recycling yards that complied with the Hong Kong Convention from handling EU-flagged tonnage disposals.",
+                "Commercial fleet owners face severely constrained scrapping options and discounted residual asset valuations due to the bottleneck in approved European recycling yards. With global green recycling capacity constrained, maritime carriers must navigate higher compliance overhead and delayed fleet renewal timelines through 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
+            "nextUpTease": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/93241-analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
-                "Published: 2026-11-05T14:30:00Z",
+                "Source: https://splash247.com/indian-ship-recycling-breakthrough-hits-brussels-roadblock/",
+                "Published: 2026-11-06T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
+            "heading": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
             "paragraphs": [
-                "A massive 15-state law enforcement operation led by Oklahoma has resulted in the arrest of over 40 foreign truck drivers holding active deportation orders. The multi-agency dragnet spanned from the Canadian border to the Gulf Coast, focusing on commercial driver license compliance and national security.",
-                "Carrier safety departments must intensify their driver verification protocols to mitigate the risk of operational disruptions during such high-intensity enforcement actions. Failure to maintain rigorous employment documentation could lead to immediate vehicle impoundment and severe reputational damage."
+                "Federal mediators have intervened at the Ports of Los Angeles and Long Beach as contract negotiations approach a critical midnight Pacific strike deadline. The unresolved labor standoff threatens to stall operations across the busiest ocean gateway in North America, halting marine terminal gate transactions.",
+                "Shippers face critical cargo grounding risks for inbound Q4 retail stock, forcing immediate contingency diversions toward Gulf and East Coast ports. Logistics managers must secure secondary drayage and intermodal capacity to bypass anticipated West Coast dwell time spikes if talks collapse."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
+            "nextUpTease": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oklahoma-15-state-truck-driver-enforcement",
-                "Published: 2026-11-05T16:45:00Z",
+                "Source: https://www.logisticsmgmt.com/article/deadline_approaches_for_potential_polb_and_pola_strike",
+                "Published: 2026-11-06T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
+            "heading": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
             "paragraphs": [
-                "EV truck manufacturer Harbinger has successfully raised $240M in new funding to expand its electric chassis platform into the power and defense sectors. This capital injection allows the firm to scale production of medium-duty commercial vehicles while diversifying its technological applications.",
-                "Logistics providers focused on electrification should monitor Harbinger\u2019s expansion as it may accelerate the availability of ruggedized EV platforms for specialized delivery. The infusion of $240M into the sector signals continued investor confidence in domestic zero-emission commercial transport solutions."
+                "Engine manufacturer Cummins expects the Environmental Protection Agency to release its final heavy-duty truck nitrogen oxide emissions rule in December, weeks before the Jan 1 enforcement date. The tight timeline leaves commercial engine makers and commercial fleets minimal transition runway to validate certified hardware.",
+                "Equipment buyers face procurement freezes and unconfirmed powertrain pricing across Class 8 replacement programs scheduled for early 2027 delivery. Fleet executives must balance pre-buy capital expenditures against compliance risk as engine manufacturers adjust production allocations to align with delayed mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: LA-LB PORT BACKLOG CRISIS",
+            "nextUpTease": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
             "tags": [
-                "Source: https://www.freightwaves.com/news/harbinger-raises-240m-to-expand-ev-platform-beyond-trucks",
-                "Published: 2026-11-05T11:20:00Z",
+                "Source: https://www.ttnews.com/articles/cummins-expects-final-epa-nox-rulemaking-december",
+                "Published: 2026-11-06T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: LA-LB PORT BACKLOG CRISIS",
+            "heading": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
             "paragraphs": [
-                "Retailers are reporting critical concerns over a growing rail container backlog at the Los Angeles and Long Beach ports as the holiday season approaches. The bottleneck threatens the timely delivery of merchandise intended for major Black Friday sales events across the Eastern United States.",
-                "Importers must evaluate expedited transloading and alternative trucking options to bypass the rail congestion and protect Q4 sales margins. This infrastructure friction highlights the ongoing vulnerability of fixed-rail networks to sudden surges in consumer demand and container volume."
+                "Legislative authorities in three states have instituted temporary suspensions on commercial diesel excise taxes, eliminating levies of up to 47 cents per gallon at regional distribution racks. The tax relief measures aim to dampen escalating motor fuel expenses across key interstate freight corridors during peak freight shipping season.",
+                "Motor carriers and 3PL routing engines must recalibrate automated fuel surcharge algorithms to reflect regional tax disparities across interstate lanes. Transport planners must dynamically optimize fueling stops to capture local margin savings without adding circuitous miles to scheduled dispatches."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/la-lb-rail-container-backlog-causes-growing-concern-among-retailers_20261106.html",
-                "Published: 2026-11-06T08:15:00Z",
+                "Source: https://www.ttnews.com/articles/diesel-tax-suspensions-cut-fuel-costs-3-states",
+                "Published: 2026-11-06T10:15:00Z",
                 "Status: Audited & True"
             ]
         }

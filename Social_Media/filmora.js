@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "U.S. SANCTIONS: CUBAN SHIPPING EXPANSION",
-                "teaserTitle": "ADANI $2.87B EUROPEAN ACQUISITION",
-                "visual_caption": "The U.S. expanded sanctions on 5 vessels and 2 individuals linked to Cuba's maritime oil network. The move blacklists the nation's entire maritime industry to disrupt state energy logistics."
+                "headline": "M&A: ROBINSON $5.8B RXO ACQUISITION",
+                "teaserTitle": "TECH: ALFA LAVAL $700M NAVTOR BUY",
+                "visual_caption": "C.H. Robinson has agreed to acquire freight brokerage rival RXO in a $5.8B mega-deal. The transaction consolidates critical freight capacity, reducing spot bidding leverage for enterprise shippers across North America."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: ADANI $2.87B EUROPEAN ACQUISITION",
-                "teaserTitle": "DTNA NEW U.S. PLANT",
-                "visual_caption": "Adani Ports will acquire Netherlands-based Evos for $2.87B in an all-cash transaction. The deal secures Adani\u2019s foothold in the European liquid storage and chemical hub markets."
+                "headline": "TECH: ALFA LAVAL $700M NAVTOR BUY",
+                "teaserTitle": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
+                "visual_caption": "Alfa Laval has signed a definitive $700M agreement to acquire maritime technology firm NAVTOR. The buyout expands connected voyage planning and tracking tools to help ocean carriers navigate tightening international emissions mandates."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: DTNA NEW U.S. PLANT",
-                "teaserTitle": "MIDTERM ELECTION PERMITTING SHIFT",
-                "visual_caption": "DTNA will reveal a new U.S. plant site by Christmas to address rising Class 8 demand. The facility targets the 2027 EPA emissions deadline for commercial fleets."
+                "headline": "CROSS-BORDER: MEXICO $96.3B US TRADE PEAK",
+                "teaserTitle": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
+                "visual_caption": "Trade between Mexico and the U.S. hit a record $96.3B in September. Surging manufacturing shipments are driving heavy congestion and extended customs delays across major southern border gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: MIDTERM ELECTION PERMITTING SHIFT",
-                "teaserTitle": "15-STATE DRIVER SWEEP",
-                "visual_caption": "Midterm election results suggest a shift toward streamlined permitting for domestic logistics infrastructure. While trade tariffs remain steady, administrative hurdles for port expansions may decrease significantly."
+                "headline": "MARITIME: EU REJECTS INDIAN SHIP RECYCLING",
+                "teaserTitle": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
+                "visual_caption": "EU regulators have voted against approving 2 Indian ship recycling facilities under European environmental standards. The ruling restricts green vessel scrapping capacity, forcing commercial shipowners to absorb higher decommissioning costs in Europe."
             },
             {
                 "slide_index": 5,
-                "headline": "ENFORCEMENT: 15-STATE DRIVER SWEEP",
-                "teaserTitle": "HARBINGER $240M EV EXPANSION",
-                "visual_caption": "A 15-state enforcement operation led to the arrests of 40+ foreign truck drivers with deportation orders. The sweep targeted CDL compliance across major corridors from Canada to the Gulf Coast."
+                "headline": "LABOR: SAN PEDRO BAY STRIKE DEADLINE",
+                "teaserTitle": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
+                "visual_caption": "Federal mediators have joined contract negotiations as San Pedro Bay container ports face an imminent strike deadline. An operational shutdown would immediately stall critical holiday cargo imports across the nation's busiest ocean gateway."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: HARBINGER $240M EV EXPANSION",
-                "teaserTitle": "LA-LB PORT BACKLOG CRISIS",
-                "visual_caption": "EV maker Harbinger raised $240M to scale its electric chassis for the power and defense sectors. The expansion increases the availability of zero-emission platforms for specialized commercial delivery."
+                "headline": "REGULATION: CUMMINS WARNS ON DEC EPA RULE",
+                "teaserTitle": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
+                "visual_caption": "Cummins expects the EPA to release its final commercial truck NOx emissions rule in December. The compressed timeline leaves heavy-duty fleets minimal runway to finalize procurement strategies before Jan 1 enforcement begins."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: LA-LB PORT BACKLOG CRISIS",
+                "headline": "ENERGY: 3-STATE DIESEL TAX SUSPENSION",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "A severe rail backlog at LA-LB ports is endangering retail inventories ahead of Black Friday. Shippers are pivoting to transloading and road freight to bypass the West Coast rail bottleneck."
+                "visual_caption": "Three states have temporarily suspended commercial diesel taxes, cutting motor fuel levies by up to 47 cents per gallon. Fleet operators must adjust routing schedules and fuel surcharge formulas to capture immediate lane savings."
             },
             {
                 "slide_index": 8,
