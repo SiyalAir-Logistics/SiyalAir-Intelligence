@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "C.H. ROBINSON BUYS RXO FOR",
-        "titleBlue": "$5.8B",
-        "footerSummary": "C.H. Robinson consolidates North American freight brokerage via a $5.8B buyout of RXO while Class 8 truck orders collapse amid EPA uncertainty."
+        "titleWhite": "PORT CONTRACT TALKS EXTENDED TO",
+        "titleBlue": "NOV",
+        "footerSummary": "PMA and ILWU Local 26 extend labor talks to Nov 20 while Maersk raises Q3 guidance and US-Iran naval clashes spike maritime risk."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
+            "heading": "LABOR: PORT CONTRACT TALKS EXTENDED TO NOV",
             "paragraphs": [
-                "C.H. Robinson reached a definitive agreement to acquire rival freight brokerage RXO in a $5.8B cash-and-stock transaction. The acquisition merges two top-tier logistics providers, creating an unprecedented consolidation of North American truck brokerage volume and expanding final-mile delivery capabilities.",
-                "Shippers face an increasingly concentrated third-party logistics market with diminished rate bargaining leverage across major contract freight lanes. Logistics procurement leaders must evaluate routing guide exposure and reassess secondary carrier diversification ahead of regulatory closing in 2027."
+                "Pacific Maritime Association and ILWU Local 26 negotiators agreed to extend their labor contract deadline to November 20 following intensive bargaining sessions. The extension prevents immediate terminal work stoppages across major gateways while complex wage and automation terms remain under negotiation.",
+                "Supply chain planners must maintain contingency routings through secondary regional ports to mitigate potential labor disruption risks. Shippers should monitor ongoing bargaining updates closely to avoid unexpected gate closures and container dwell time surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
+            "nextUpTease": "CARRIER: MAERSK RAISES Q3 EARNINGS GUIDANCE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-07T08:15:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
+            "heading": "CARRIER: MAERSK RAISES Q3 EARNINGS GUIDANCE",
             "paragraphs": [
-                "United States naval forces engaged and disabled a commercial cargo vessel attempting to breach an active coastal blockade outside an Iranian port. Central Command confirmed the vessel was intercepted after ignoring multiple warnings, marking the first kinetic maritime boarding in over 30 days.",
-                "Ocean carriers transiting the Persian Gulf and Red Sea face renewed insurance risk premiums and extended route diversions away from hostile corridors. Supply chain directors must prepare for elevated bunker surcharges and potential transit delays of 10 to 14 days around southern Africa."
+                "AP Moller - Maersk raised its full-year earnings guidance for the third time, driven by robust Q3 revenues hitting $18.1B and sustained high freight rates. CEO Vincent Clerc noted that strong market fundamentals and a favorable Q4 outlook support resilient contract renewal rates heading into 2027.",
+                "Beneficial cargo owners face elevated baseline ocean freight transportation costs as major carriers successfully manage capacity to protect yield margins. Logistics procurement teams must budget for premium rate structures across core Asia-Europe and transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
+            "nextUpTease": "SECURITY: US FORCES ENGAGE IRANIAN CARGO SHIP",
             "tags": [
                 "Source: https://maritime-executive.com",
-                "Published: 2026-11-07T07:45:00Z",
+                "Published: 2026-11-07T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
+            "heading": "SECURITY: US FORCES ENGAGE IRANIAN CARGO SHIP",
             "paragraphs": [
-                "The Surface Transportation Board issued a formal order requiring Union Pacific to disclose internal executive records following public remarks regarding customer rate retaliation. Federal regulators are examining whether the railroad leveraged market power to intimidate shippers opposing recent rail consolidation initiatives.",
-                "Rail freight buyers operating captive production facilities gain temporary regulatory protection against punitive rate increases and unilateral service reductions. Shippers must review historical demurrage claims and submit formal documentation to federal regulators while carrier commercial practices remain under heightened federal scrutiny."
+                "United States naval forces fired on and disabled a commercial cargo vessel attempting to breach the blockade of Iranian ports in the first such action in a month. Central Command confirmed that the intercepted vessel ignored multiple warnings before military units intervened to enforce regional maritime restrictions.",
+                "Commercial vessel operators transiting Middle Eastern chokepoints face heightened risk profiles and escalating war risk insurance premiums. Supply chain executives must incorporate extended transit buffers and alternative routing strategies to bypass active conflict zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
+            "nextUpTease": "M&A: ALFA LAVAL MAKES $700M NAVTOR BUY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-07T06:30:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-07T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
+            "heading": "M&A: ALFA LAVAL MAKES $700M NAVTOR BUY",
             "paragraphs": [
-                "Preliminary Class 8 heavy-duty truck orders dropped sharply in October as commercial fleet operators froze capital equipment allocations across North America. Motor carriers are delaying power unit purchases due to persistent uncertainty surrounding pending EPA 2027 emissions mandates and escalating vehicle acquisition costs.",
-                "Extended equipment lifecycles threaten to elevate operating expenses and maintenance downtime across over-the-road carrier operations throughout 2027. Shippers relying on dedicated freight contracts should audit fleet age metrics to mitigate breakdown risks on high-velocity distribution routes."
+                "Swedish industrial group Alfa Laval reached a definitive all-cash agreement to acquire Norwegian maritime software specialist NAVTOR for $700M. The strategic buyout expands Alfa Laval's digital portfolio, integrating advanced navigation and port optimization tools into its existing maritime offerings.",
+                "Digital fleet management consolidation is accelerating as industrial conglomerates race to capture proprietary vessel routing and compliance data. Fleet operators must evaluate how integrated software ecosystems impact operational transparency and vessel compliance reporting."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
+            "nextUpTease": "RECYCLING: EU BLOCKS INDIAN SHIPBREAKING YARDS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-07T05:50:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-07T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
+            "heading": "RECYCLING: EU BLOCKS INDIAN SHIPBREAKING YARDS",
             "paragraphs": [
-                "BNSF Railway deployed emergency civil engineering crews across New Mexico after catastrophic flash flooding disrupted track infrastructure along primary intermodal corridors. The railroad instituted strict cargo metering on containerized traffic to prevent inland hubs from reaching terminal saturation while track repairs proceed.",
-                "Intermodal shippers face delivery delays of up to 7 days on shipments moving between Southern California gateways and Midwest industrial hubs. Freight managers must route urgent manufacturing freight through over-the-road linehaul alternatives to avert manufacturing line stoppages."
+                "The European Parliament environment committee voted against adding two major Indian shipbreaking yards to the official EU approved recycling list. The legislative hurdle deals a significant setback to international shipowners seeking expanded South Asian dismantling capacity that meets strict environmental standards.",
+                "Vessel owners face constrained recycling facility options and potentially higher compliance overhead when retiring aging ocean tonnage. Asset managers must factor stricter regulatory disposal pathways into long-term fleet depreciation and decommissioning financial models."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
+            "nextUpTease": "INTERMODAL: BNSF METERS NEW MEXICO FREIGHT",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-07T04:20:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-07T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
+            "heading": "INTERMODAL: BNSF METERS NEW MEXICO FREIGHT",
             "paragraphs": [
-                "China's Ningbo-Zhoushan Port Group entered advanced negotiations to purchase a $157M equity stake in a major container handling facility in Brazil. The deal expands Chinese state-backed infrastructure across vital Latin American agricultural, mineral, and containerized export lanes.",
-                "Western exporters and international ocean carriers face increasing consolidation of South American terminal infrastructure under Asian terminal management. Global logistics strategists must account for shifting port priority tariffs and berthing access agreements when planning Southern Hemisphere trade rotations."
+                "BNSF Railway deployed emergency engineering crews and instituted strict cargo metering across New Mexico following severe flash flood damage to track infrastructure. The railway is actively regulating containerized traffic flows to prevent inland intermodal terminals from reaching complete gridlock.",
+                "Intermodal shippers moving freight between Southern California ports and Midwest destinations experience transit delays of up to 7 days. Logistics managers must pivot urgent shipments to over-the-road carrier options to prevent manufacturing plant slowdowns."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
+            "nextUpTease": "COMPLIANCE: ARKANSAS BLITZ NETS 183 CITATIONS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-07T03:10:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T05:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
+            "heading": "COMPLIANCE: ARKANSAS BLITZ NETS 183 CITATIONS",
             "paragraphs": [
-                "Arkansas highway safety inspectors concluded an intensive 48-hour commercial motor vehicle enforcement operation, identifying 183 driver language violations and making 44 arrests. The inspection surge targeted non-compliant and unauthorized commercial driver license holders operating along critical interstate freight arteries.",
-                "Stricter roadside regulatory compliance is rapidly tightening regional driver availability and sidelining non-compliant freight carriers without advance notice. Logistics brokers and enterprise shippers must enforce strict carrier credential auditing to avoid immediate transit failures caused by roadside impoundments."
+                "Arkansas highway safety enforcement officials concluded an intensive 48-hour inspection blitz resulting in 183 driver language violations and 44 arrests. The targeted sweep focused on identifying non-compliant commercial motor vehicle operators along vital interstate freight corridors.",
+                "Stricter roadside regulatory enforcement continues to tighten regional driver capacity and sideline non-compliant fleets without advance warning. Enterprise shippers and 3PL partners must enforce rigorous carrier qualification audits to eliminate unexpected roadside impoundment delays."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-11-07T02:00:00Z",
+                "Published: 2026-11-07T05:00:00Z",
                 "Status: Audited & True"
             ]
         }
