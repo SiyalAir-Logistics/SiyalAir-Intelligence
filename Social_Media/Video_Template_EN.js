@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LA-LB PORT CONTRACT EXTENSION",
+        "hookTitle": "C.H. ROBINSON BUYS RXO FOR $5.8B",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA-LB PORT CONTRACT EXTENSION",
-                "teaserTitle": "SECURITY: HIGHWAY CARGO THEFT SURGE",
+                "headline": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maritime employers and dockworkers extended Southern California port contract negotiations through November twentieth. This temporary agreement delays an imminent terminal shutdown across Los Angeles and Long Beach."
+                "narration_line": "C.H. Robinson agreed to acquire competitor RXO in a five point eight billion dollar transaction. The massive brokerage merger significantly expands expedited freight networks while consolidating pricing power across North American truckload markets."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: HIGHWAY CARGO THEFT SURGE",
-                "teaserTitle": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
+                "headline": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
+                "teaserTitle": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Compromised communications triggered forty percent of freight fraud incidents as illegitimate carrier calls jumped ninety percent. Transportation managers must tighten identity screening to prevent illegal load diversions."
+                "narration_line": "United States naval forces disabled a commercial cargo vessel attempting to breach maritime blockades outside an Iranian port. The kinetic interception signals intensified Persian Gulf surveillance and heightened maritime security risks for Middle Eastern sea routes."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
-                "teaserTitle": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
+                "headline": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
+                "teaserTitle": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Alfa Laval agreed to acquire maritime voyage specialist NAVTOR in a seven hundred million dollar all-cash deal. The transaction deepens shipping consolidation across digital routing and regulatory tracking platforms."
+                "narration_line": "The Surface Transportation Board ordered Union Pacific to submit internal executive communications following public comments about shipper retaliation. Regulators are escalating oversight into anti-competitive carrier practices, threatening significant fines and heightened operating restrictions."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
-                "teaserTitle": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
+                "headline": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
+                "teaserTitle": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Surging imports of artificial intelligence hardware created severe warehouse congestion across Taiwan Taoyuan Airport. Uncollected shipments are tying up ground equipment and delaying transpacific air trade."
+                "narration_line": "Preliminary orders for North American heavy-duty Class Eight trucks plunged during October as motor carriers paused equipment investments. Fleets are actively deferring tractor replacements amid regulatory confusion regarding new Environmental Protection Agency rules starting in twenty twenty-seven."
             },
             {
                 "slide_index": 5,
-                "headline": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
-                "teaserTitle": "CARRIERS: MAERSK REVENUE JUMPS 27%",
+                "headline": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
+                "teaserTitle": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck North America slowed commercial truck assembly due to third-party axle and engine part shortages. Fleet buyers face extended equipment delivery timelines and rising maintenance costs."
+                "narration_line": "BNSF Railway deployed emergency repair crews across New Mexico after flash floods washed out key southwestern rail infrastructure. The carrier initiated intermodal cargo metering to prevent terminal gridlock, delaying transcontinental container movements for up to one week."
             },
             {
                 "slide_index": 6,
-                "headline": "CARRIERS: MAERSK REVENUE JUMPS 27%",
-                "teaserTitle": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+                "headline": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
+                "teaserTitle": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Maersk reported a twenty-seven percent revenue jump to eighteen point one billion dollars despite falling container volumes. Higher freight rates from extended routing prompted another annual profit upgrade."
+                "narration_line": "China's Ningbo-Zhoushan Port entered negotiations to acquire a one hundred fifty-seven million dollar stake in a Brazilian container gateway. The planned purchase broadens Chinese terminal influence over South American agricultural export corridors and long-term ocean shipping flows."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+                "headline": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Three states temporarily suspended diesel taxes to reduce pump prices by up to forty-seven cents per gallon. Motor carriers gain immediate cash relief while shippers recalculate fuel surcharges."
+                "narration_line": "Arkansas state authorities concluded a targeted enforcement blitz resulting in one hundred eighty-three commercial driver violations and forty-four arrests. Heightened state inspections underscore accelerating regulatory crackdowns on unauthorized commercial driver licenses across national freight lanes."
             },
             {
                 "slide_index": 8,

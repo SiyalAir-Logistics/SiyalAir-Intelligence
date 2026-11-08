@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA-LB PORT CONTRACT EXTENSION",
-                "teaserTitle": "SECURITY: HIGHWAY CARGO THEFT SURGE",
-                "visual_caption": "Maritime employers and dockworkers extended Southern California port contract negotiations through Nov 20. This temporary agreement delays an imminent terminal shutdown across LA and Long Beach."
+                "headline": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
+                "visual_caption": "C.H. Robinson agreed to acquire competitor RXO in a $5.8B transaction. The massive brokerage merger significantly expands expedited freight networks while consolidating pricing power across North American truckload markets."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: HIGHWAY CARGO THEFT SURGE",
-                "teaserTitle": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
-                "visual_caption": "Compromised communications triggered 40% of freight fraud incidents as illegitimate carrier calls jumped 90%. Transportation managers must tighten identity screening to prevent illegal load diversions."
+                "headline": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
+                "teaserTitle": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
+                "visual_caption": "US naval forces disabled a commercial cargo vessel attempting to breach maritime blockades outside an Iranian port. The kinetic interception signals intensified Persian Gulf surveillance and heightened maritime security risks for Middle Eastern sea routes."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
-                "teaserTitle": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
-                "visual_caption": "Alfa Laval agreed to acquire maritime voyage specialist NAVTOR in a $700M all-cash deal. The transaction deepens shipping consolidation across digital routing and regulatory tracking platforms."
+                "headline": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
+                "teaserTitle": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
+                "visual_caption": "The Surface Transportation Board ordered Union Pacific to submit internal executive communications following public comments about shipper retaliation. Regulators are escalating oversight into anti-competitive carrier practices, threatening significant fines and heightened operating restrictions."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
-                "teaserTitle": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
-                "visual_caption": "Surging imports of AI hardware created severe warehouse congestion across Taiwan Taoyuan Airport. Uncollected shipments are tying up ground equipment and delaying transpacific air trade."
+                "headline": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
+                "teaserTitle": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
+                "visual_caption": "Preliminary orders for North American heavy-duty Class 8 trucks plunged during October as motor carriers paused equipment investments. Fleets are actively deferring tractor replacements amid regulatory confusion regarding new EPA rules starting in 2027."
             },
             {
                 "slide_index": 5,
-                "headline": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
-                "teaserTitle": "CARRIERS: MAERSK REVENUE JUMPS 27%",
-                "visual_caption": "Daimler Truck North America slowed commercial truck assembly due to third-party axle and engine part shortages. Fleet buyers face extended equipment delivery timelines and rising maintenance costs."
+                "headline": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
+                "teaserTitle": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
+                "visual_caption": "BNSF Railway deployed emergency repair crews across New Mexico after flash floods washed out key southwestern rail infrastructure. The carrier initiated intermodal cargo metering to prevent terminal gridlock, delaying transcontinental container movements for up to 1 week."
             },
             {
                 "slide_index": 6,
-                "headline": "CARRIERS: MAERSK REVENUE JUMPS 27%",
-                "teaserTitle": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
-                "visual_caption": "Maersk reported a 27% revenue jump to $18.1B despite falling container volumes. Higher freight rates from extended routing prompted another annual profit upgrade."
+                "headline": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
+                "teaserTitle": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
+                "visual_caption": "China's Ningbo-Zhoushan Port entered negotiations to acquire a $157M stake in a Brazilian container gateway. The planned purchase broadens Chinese terminal influence over South American agricultural export corridors and long-term ocean shipping flows."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+                "headline": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
                 "teaserTitle": "",
-                "visual_caption": "Three states temporarily suspended diesel taxes to reduce pump prices by up to 47 cents per gallon. Motor carriers gain immediate cash relief while shippers recalculate fuel surcharges."
+                "visual_caption": "Arkansas state authorities concluded a targeted enforcement blitz resulting in 183 commercial driver violations and 44 arrests. Heightened state inspections underscore accelerating regulatory crackdowns on unauthorized CDL credentials across national freight lanes."
             },
             {
                 "slide_index": 8,

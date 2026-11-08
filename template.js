@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA-LB PORT CONTRACT",
-        "titleBlue": "EXTENSION",
-        "footerSummary": "West Coast port contract extension defers strike risk to Nov 20 while cyber cargo fraud surges 90% across North American freight lanes."
+        "titleWhite": "C.H. ROBINSON BUYS RXO FOR",
+        "titleBlue": "$5.8B",
+        "footerSummary": "C.H. Robinson consolidates North American freight brokerage via a $5.8B buyout of RXO while Class 8 truck orders collapse amid EPA uncertainty."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: LA-LB PORT CONTRACT EXTENSION",
+            "heading": "BROKERAGE: C.H. ROBINSON BUYS RXO FOR $5.8B",
             "paragraphs": [
-                "The Pacific Maritime Association and ILWU Local 26 reached an eleventh-hour agreement extending terminal contract negotiations through Nov 20. The temporary truce averts an immediate shutdown across the ports of Los Angeles and Long Beach after talks stalled late Friday night.",
-                "Shippers gain an operational reprieve of 14 days to clear high-priority transpacific container volumes before strike threats resurface. Ocean freight procurement teams must expedite dwell clearing and prepare diversion contingencies toward alternate gateways should negotiations fail."
+                "C.H. Robinson reached a definitive agreement to acquire rival freight brokerage RXO in a $5.8B cash-and-stock transaction. The acquisition merges two top-tier logistics providers, creating an unprecedented consolidation of North American truck brokerage volume and expanding final-mile delivery capabilities.",
+                "Shippers face an increasingly concentrated third-party logistics market with diminished rate bargaining leverage across major contract freight lanes. Logistics procurement leaders must evaluate routing guide exposure and reassess secondary carrier diversification ahead of regulatory closing in 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HIGHWAY CARGO THEFT SURGE",
+            "nextUpTease": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-07T08:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-07T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: HIGHWAY CARGO THEFT SURGE",
+            "heading": "SECURITY: US NAVY DISABLES IRANIAN VESSEL",
             "paragraphs": [
-                "A forensic supply chain report by Highway revealed that compromised digital communications and carrier impersonation accounted for 40% of fraudulent load thefts this quarter. Illegitimate dispatch calls jumped by 90% alongside a 100% surge in fraudulent carrier ownership filings across domestic networks.",
-                "Freight brokers and shippers face escalating liability risks as sophisticated digital crime syndicates exploit weak carrier verification protocols. Transportation risk managers must mandate multi-factor automated credentialing and secure dispatch verification to prevent high-value load diversions."
+                "United States naval forces engaged and disabled a commercial cargo vessel attempting to breach an active coastal blockade outside an Iranian port. Central Command confirmed the vessel was intercepted after ignoring multiple warnings, marking the first kinetic maritime boarding in over 30 days.",
+                "Ocean carriers transiting the Persian Gulf and Red Sea face renewed insurance risk premiums and extended route diversions away from hostile corridors. Supply chain directors must prepare for elevated bunker surcharges and potential transit delays of 10 to 14 days around southern Africa."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
+            "nextUpTease": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-07T06:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-07T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: ALFA LAVAL $700M NAVTOR BET",
+            "heading": "RAIL: STB ORDERS UP RECORD DISCLOSURE",
             "paragraphs": [
-                "Swedish engineering conglomerate Alfa Laval signed an all-cash agreement to acquire maritime voyage intelligence provider NAVTOR for $700M. The consolidation merges NAVTOR's navigation routing platform with Alfa Laval's digital fleet ecosystem alongside StormGeo and Portchain.",
-                "The deal accelerates maritime commercial integration, locking ocean carriers into unified emissions and passage optimization software suites. Vessel charterers and cargo owners will face increased data consolidation as primary navigation and port clearance tools fall under single enterprise umbrellas."
+                "The Surface Transportation Board issued a formal order requiring Union Pacific to disclose internal executive records following public remarks regarding customer rate retaliation. Federal regulators are examining whether the railroad leveraged market power to intimidate shippers opposing recent rail consolidation initiatives.",
+                "Rail freight buyers operating captive production facilities gain temporary regulatory protection against punitive rate increases and unilateral service reductions. Shippers must review historical demurrage claims and submit formal documentation to federal regulators while carrier commercial practices remain under heightened federal scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
+            "nextUpTease": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-06T14:45:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-07T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: TAIWAN GATEWAY AI BOTTLENECK",
+            "heading": "FLEET: CLASS 8 TRUCK ORDERS PLUNGE",
             "paragraphs": [
-                "Heavy inbound consignments of artificial intelligence hardware and data center machinery created acute warehouse congestion at Taiwan Taoyuan Airport. Uncollected high-density shipments have immobilized handling dollies and overwhelmed apron storage, causing systemic handling delays across regional air cargo operations.",
-                "Air freight forwarders face rolling terminal demurrage penalties and transit disruptions across transpacific tech supply corridors. Electronics manufacturers and supply chain managers must coordinate immediate ramp releases or secure off-airport bonded staging to avoid severe delivery penalties."
+                "Preliminary Class 8 heavy-duty truck orders dropped sharply in October as commercial fleet operators froze capital equipment allocations across North America. Motor carriers are delaying power unit purchases due to persistent uncertainty surrounding pending EPA 2027 emissions mandates and escalating vehicle acquisition costs.",
+                "Extended equipment lifecycles threaten to elevate operating expenses and maintenance downtime across over-the-road carrier operations throughout 2027. Shippers relying on dedicated freight contracts should audit fleet age metrics to mitigate breakdown risks on high-velocity distribution routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
+            "nextUpTease": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-06T12:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-07T05:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OEM: DTNA TRUCK OUTPUT BOTTLENECK",
+            "heading": "INTERMODAL: BNSF METERS SOUTHWEST FLOW",
             "paragraphs": [
-                "Daimler Truck North America curbed commercial vehicle assembly rates due to severe component shortages from tier-one axle and engine suppliers. The manufacturing bottleneck disrupts delivery schedules for new Class 8 highway tractors across North American fleet customer orderbooks.",
-                "Truckload carriers face extended tractor lead times and forced fleet aging, escalating preventative maintenance costs across linehaul networks. Fleet replacement managers must evaluate alternative OEM build allocations or extend existing equipment leases through 2027."
+                "BNSF Railway deployed emergency civil engineering crews across New Mexico after catastrophic flash flooding disrupted track infrastructure along primary intermodal corridors. The railroad instituted strict cargo metering on containerized traffic to prevent inland hubs from reaching terminal saturation while track repairs proceed.",
+                "Intermodal shippers face delivery delays of up to 7 days on shipments moving between Southern California gateways and Midwest industrial hubs. Freight managers must route urgent manufacturing freight through over-the-road linehaul alternatives to avert manufacturing line stoppages."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: MAERSK REVENUE JUMPS 27%",
+            "nextUpTease": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-06T16:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-07T04:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CARRIERS: MAERSK REVENUE JUMPS 27%",
+            "heading": "PORTS: NINGBO ZHOUSHAN EYES $157M TERMINAL",
             "paragraphs": [
-                "A.P. Moller - Maersk posted a 27% year-over-year revenue increase to $18.1B in Q3, prompting management to raise full-year earnings guidance for the third consecutive time. The financial surge was driven by elevated spot freight rates across extended Red Sea diversion routes despite a net decline in carried ocean container volumes.",
-                "Carrier profitability resilience reinforces ocean liner pricing discipline heading into upcoming 2027 annual contract negotiations. Shippers negotiating long-term service agreements face limited carrier concessions unless global vessel capacity additions outpace persistent geopolitical diversions."
+                "China's Ningbo-Zhoushan Port Group entered advanced negotiations to purchase a $157M equity stake in a major container handling facility in Brazil. The deal expands Chinese state-backed infrastructure across vital Latin American agricultural, mineral, and containerized export lanes.",
+                "Western exporters and international ocean carriers face increasing consolidation of South American terminal infrastructure under Asian terminal management. Global logistics strategists must account for shifting port priority tariffs and berthing access agreements when planning Southern Hemisphere trade rotations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+            "nextUpTease": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-06T10:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-07T03:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: THREE STATES SUSPEND DIESEL TAX",
+            "heading": "ENFORCEMENT: BLITZ NETS 183 CDL VIOLATIONS",
             "paragraphs": [
-                "Regulatory authorities across three states enacted emergency fuel tax suspensions, eliminating state road levies to lower diesel prices by up to 47 cents per gallon. The fiscal relief measures aim to cushion motor carriers and regional logistics operators against persistent operating cost volatility.",
-                "Over-the-road freight carriers operating regional dedicated routes gain immediate operating margin relief through reduced fuel expense baselines. Shippers utilizing dynamic fuel surcharge indexes must recalculate contract billing matrices to capture immediate baseline transportation savings."
+                "Arkansas highway safety inspectors concluded an intensive 48-hour commercial motor vehicle enforcement operation, identifying 183 driver language violations and making 44 arrests. The inspection surge targeted non-compliant and unauthorized commercial driver license holders operating along critical interstate freight arteries.",
+                "Stricter roadside regulatory compliance is rapidly tightening regional driver availability and sidelining non-compliant freight carriers without advance notice. Logistics brokers and enterprise shippers must enforce strict carrier credential auditing to avoid immediate transit failures caused by roadside impoundments."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-06T18:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-07T02:00:00Z",
                 "Status: Audited & True"
             ]
         }
