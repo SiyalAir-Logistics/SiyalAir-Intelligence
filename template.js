@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUMMER IMPORTS HIT HIGHEST LEVEL SINCE",
-        "titleBlue": "2022",
-        "footerSummary": "Summer imports surge to 2022 highs as North American inbound container volumes rise 9%, pressuring port processing capacity and spot rates."
+        "titleWhite": "BLACK SEA INSURANCE SURGES TO",
+        "titleBlue": "20%",
+        "footerSummary": "Black Sea war-risk insurance hits 20% of hull value while Hormuz attacks escalate, driving carrier diversions and surging transit surcharges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SUMMER IMPORTS HIT HIGHEST LEVEL SINCE 2022",
+            "heading": "MARITIME: BLACK SEA INSURANCE SURGES TO 20%",
             "paragraphs": [
-                "Projected summer monthly container imports across North American gateway ports are on track to reach their highest volumes since 2022, driven by early holiday inventory builds and robust retail replenishment cycles. This inbound volume surge compounds existing terminal congestion and tests intermodal rail evacuation capacity across major coastal hubs.",
-                "Shippers face heightened demurrage risks and tightening dwell times as marine terminals absorb accelerated box inflows ahead of seasonal peaks. Logistics directors must optimize container pickup schedules and pre-clear customs documentation to prevent costly terminal storage penalties."
+                "Escalating military strikes on commercial merchant vessels in the Black Sea have propelled war-risk insurance premiums to an unprecedented 20% of total hull value. Recent attacks on merchant ships off regional transit corridors have triggered emergency underwriting reviews and immediate coverage cancellations across multiple marine insurers.",
+                "Commercial vessel operators face severe capital constraints as soaring voyage insurance expenses render routine bulk and agricultural exports financially prohibitive. Trade desks must re-evaluate Black Sea shipping commitments or pivot export cargo flows toward overland European rail and road corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: FRAUD TIED TO 40% OF STOLEN LOADS",
+            "nextUpTease": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-05T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-09T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: FRAUD TIED TO 40% OF STOLEN LOADS",
+            "heading": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
             "paragraphs": [
-                "Recent supply chain security findings indicate that compromised digital communications, carrier identity spoofing, and freight broker impersonation are directly linked to 40% of all stolen commercial loads. Transnational criminal networks are systematically exploiting vulnerabilities in electronic load boards and dispatch verification workflows.",
-                "Cargo loss values are expanding rapidly despite flat overall theft incident counts, driving up cargo liability insurance premiums and dispute liabilities. Supply chain managers must enforce rigorous multi-factor authentication and direct carrier callback verification before releasing high-value freight."
+                "Commercial merchant shipping transiting the Strait of Hormuz faced dangerous escalations following direct missile strikes on commercial tankers off Oman. Multiple vessels caught fire amid active hostilities and emergency military interventions, prompting emergency warnings concerning naval mine deployments across critical navigation corridors.",
+                "Energy charterers and container carriers face immediate transit delays, emergency surcharges, and spiking protection and indemnity rates across Middle Eastern waterways. Supply chain planners must prepare for extended routing diversions around the Cape of Good Hope if chokepoint transit risks continue to destabilize."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: STB EXPANDS RAIL PROTECTIONS",
+            "nextUpTease": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-06T12:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-08T15:37:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: STB EXPANDS RAIL PROTECTIONS",
+            "heading": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
             "paragraphs": [
-                "The Surface Transportation Board signaled broader regulatory protection for rail-served industrial projects against restrictive state and local zoning ordinances that impede freight infrastructure expansion. Federal regulators are actively intervening to prevent local political disputes from compromising interstate rail connectivity and service fluidity.",
-                "Industrial shippers and real estate developers gain substantial legal recourse against local permitting bottlenecks that delay private freight terminal and siding investments. Rail logistics planners should coordinate closely with federal transport authorities when evaluating new rail-served facility locations."
+                "The Australian Maritime Safety Authority issued a mandatory 90-day port ban on the bulk carrier Wooyang Venus following inspections at the Port of Newcastle. Regulators discovered deliberate falsifications of seafarer hours of work and rest records, violating international maritime labor conventions and crew safety mandates.",
+                "Dry bulk charterers face unexpected vessel detentions, contract defaults, and substantial replacement charter costs under intensified port state control crackdowns. Fleet managers operating in Asia-Pacific trades must audit onboard digital labor logs to eliminate compliance discrepancies prior to berth arrival."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CONTAINER IMPORTS RISE 9%",
+            "nextUpTease": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-07T09:30:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-08T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: CONTAINER IMPORTS RISE 9%",
+            "heading": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
             "paragraphs": [
-                "North American container import volumes climbed 9% year-over-year as freight pricing pressures mounted across major transpacific and transatlantic trade lanes. Ocean carriers are leveraging the demand uptick to implement mid-month rate hikes and enforce stricter space allocations.",
-                "Beneficial cargo owners face escalating spot rate volatility and reduced schedule flexibility as ocean carriers prioritize high-yield loops. Procurement teams must lock in fixed-rate service contracts and diversify routing portfolios to insulate margins against sudden maritime cost spikes."
+                "Global ocean container fleet capacity is projected to expand rapidly from 34M TEU to 50M TEU by 2030, driven by an unprecedented wave of mega-boxship deliveries. New fleet intelligence from Sea-Intelligence underscores that heavy yard orderbooks will outpace underlying global trade volume demand over the next four years.",
+                "Ocean carriers face an impending structural oversupply cycle that threatens long-term freight rate stability and complicates carrier alliance network planning. Cargo owners and procurement teams should position contract strategies to leverage anticipated capacity surpluses while monitoring carrier blank sailing programs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ALFA LAVAL MAKES $700M NAVTOR BET",
+            "nextUpTease": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-07T10:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-09T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: ALFA LAVAL MAKES $700M NAVTOR BET",
+            "heading": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
             "paragraphs": [
-                "Swedish industrial conglomerate Alfa Laval finalized a $700M all-cash acquisition of Norwegian maritime software specialist NAVTOR to expand its digital shipping portfolio. The strategic buyout integrates advanced navigation, performance monitoring, and port scheduling software into a unified maritime management suite.",
-                "Fleet operators face an increasingly consolidated marine technology market where proprietary software ecosystems govern vessel routing and regulatory compliance. Maritime logistics managers must evaluate platform interoperability to ensure seamless data exchange across diverse vessel classes."
+                "United States Central Command established Task Force Iron Gate, deploying specialized interdiction units to restrict illicit overland commercial corridors across Iranian frontier boundaries. The coordinated border enforcement initiative expands upon ongoing naval blockades to disrupt illicit multi-modal transit networks and sanction evasions.",
+                "Regional cross-border logistics networks face severe regulatory scrutiny, extended customs security holds, and sudden border closure risks across Middle Eastern land routes. Cross-border forwarders must establish multi-tier carrier vetting procedures to verify consignment paperwork and prevent severe trade compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: TAIWAN GATEWAY CONGESTION",
+            "nextUpTease": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-06T11:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-08T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR FREIGHT: TAIWAN GATEWAY CONGESTION",
+            "heading": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
             "paragraphs": [
-                "Uncollected high-tech imports and artificial intelligence hardware shipments have created severe congestion at Taiwan Taoyuan International Airport cargo warehouses. The influx of heavy shipments is tying up airport dollies, overwhelming ground handling staff, and slowing outbound transit connections.",
-                "Forwarders routing sensitive semiconductor manufacturing equipment and electronics through Taiwanese hubs face unexpected dwell charges and airside delays. Supply chain planners should establish contingency routings through secondary regional airports to maintain delivery timeframes."
+                "Hong Kong maritime authorities initiated an urgent review of commercial permit fees assessed on Pearl River trade vessels in response to cargo diversion toward mainland hubs. Regional port operators are losing container transshipment volumes to competitive Shenzhen and Guangzhou terminals offering lower terminal fees and streamlined customs clearance.",
+                "Terminal operators at Kwai Tsing face eroding container market share unless regulatory agencies reduce structural port tariffs and administrative handling surcharges. Shippers managing South China manufacturing export channels must compare total landed logistics costs between direct mainland calls and Hong Kong feeder transfers."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: WEST COAST PORTS EXTEND TALKS",
+            "nextUpTease": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-11-05T14:45:00Z",
+                "Published: 2026-11-08T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR: WEST COAST PORTS EXTEND TALKS",
+            "heading": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
             "paragraphs": [
-                "Pacific Maritime Association and dockworker union representatives agreed to extend contract negotiation deadlines to prevent labor disruptions at key West Coast container terminals. Bargaining teams are continuing marathon sessions to resolve automation parameters and wage frameworks before final ratification.",
-                "Supply chain stakeholders maintain a cautious operational posture while labor negotiations remain active across major gateway terminals. Importers must monitor daily operational updates and maintain flexible distribution plans to mitigate potential port slowdown risks."
+                "Ocean liner Evergreen resumed direct transits through the Suez Canal and Red Sea after a three-year routing suspension, deploying the vessel Ever Eon on its eastbound voyage. The canal transit represents a major operational shift as major shipping lines cautiously test security improvements along the critical international waterway.",
+                "Shippers evaluating Asia-to-Europe trade lanes face shortening transit schedules by 10 to 14 days compared to round-Africa loops, alongside potential bunker fuel savings. Beneficial cargo owners must balance transit speed gains against war-risk surcharges when selecting carrier strings returning to Suez navigation."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-07T22:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-08T14:10:00Z",
                 "Status: Audited & True"
             ]
         }
