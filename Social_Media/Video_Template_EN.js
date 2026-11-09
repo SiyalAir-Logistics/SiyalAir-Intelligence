@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "BLACK SEA INSURANCE SURGES TO 20%",
+        "hookTitle": "PORT STRIKE THREAT DEFERRED TO NOVEMBER TWENTIETH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: BLACK SEA INSURANCE SURGES TO 20%",
-                "teaserTitle": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
+                "headline": "PORT STRIKE THREAT DEFERRED TO Nov",
+                "teaserTitle": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Escalating maritime strikes in the Black Sea have driven war risk insurance premiums to twenty percent of vessel hull value. Underwriters are suspending coverage, forcing commercial bulk operators to reassess regional sailing commitments."
+                "narration_line": "West Coast port negotiations successfully deferred a strike deadline to November twentieth. Shippers must maintain contingency routing plans during this temporary reprieve."
             },
             {
                 "slide_index": 2,
-                "headline": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
-                "teaserTitle": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
+                "headline": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
+                "teaserTitle": "MARITIME: HMM DECLARES GENERAL AVERAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Commercial tankers were attacked and set ablaze in the Strait of Hormuz off the coast of Oman. Operators face sudden insurance surcharges and potential transit diversions around the Cape of Good Hope."
+                "narration_line": "Customs enforcement on Delivered Duty Paid shipments is intensifying across ports. Importers must audit brokerage agreements to prevent costly compliance holds."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
-                "teaserTitle": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
+                "headline": "MARITIME: HMM DECLARES GENERAL AVERAGE",
+                "teaserTitle": "AIR FREIGHT: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Australian maritime authorities banned a dry bulk carrier for ninety days after uncovering falsified crew rest records. Fleet managers face heightened port state scrutiny and steep penalties for labor compliance violations."
+                "narration_line": "Carrier HMM declared general average following a fire aboard the HMM Platinum. Affected cargo owners face significant financial liabilities and delivery delays."
             },
             {
                 "slide_index": 4,
-                "headline": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
-                "teaserTitle": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
+                "headline": "AIR CARGO: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
+                "teaserTitle": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The global container fleet is projected to reach fifty million twenty-foot equivalent units by twenty thirty. This massive influx of new mega ships threatens to trigger a structural capacity surplus for ocean carriers."
+                "narration_line": "Cargo backlogs at Bangkok Suvarnabhumi are forcing airlines to restrict inbound freight. Forwarders should evaluate alternative regional transshipment gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
-                "teaserTitle": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
+                "headline": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
+                "teaserTitle": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States Central Command established Task Force Iron Gate to intercept unauthorized land commerce across regional borders. Freight forwarders must reinforce vetting protocols to avoid severe cross-border regulatory delays and enforcement penalties."
+                "narration_line": "COSCO launched a massive fleet expansion with twenty four supertanker orders worth one point four billion dollars. This highlights sustained demand for modern maritime assets."
             },
             {
                 "slide_index": 6,
-                "headline": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
-                "teaserTitle": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
+                "headline": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+                "teaserTitle": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hong Kong launched a regulatory review of river vessel permit fees to stem cargo loss to neighboring mainland terminals. Shippers must evaluate regional fee adjustments when routing South China container flows."
+                "narration_line": "China extended its pause on twenty four percent tariffs through January. Importers should utilize this stability to accelerate strategic sourcing adjustments."
             },
             {
                 "slide_index": 7,
-                "headline": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
+                "headline": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Evergreen returned a container ship through the Suez Canal following a three-year routing suspension around Africa. The restored route cuts transit times by up to fourteen days for Asia to Europe cargo."
+                "narration_line": "The FBI warned of targeted cyberattacks against temperature-controlled cold chain systems. Operators must harden network security to prevent inventory spoilage."
             },
             {
                 "slide_index": 8,

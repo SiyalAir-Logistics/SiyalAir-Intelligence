@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "BLACK SEA INSURANCE SURGES TO",
-        "titleBlue": "20%",
-        "footerSummary": "Black Sea war-risk insurance hits 20% of hull value while Hormuz attacks escalate, driving carrier diversions and surging transit surcharges."
+        "titleWhite": "PORT STRIKE THREAT DEFERRED TO",
+        "titleBlue": "Nov",
+        "footerSummary": "West Coast port strike threat delayed to Nov 20 while DDP import scrutiny increases carrier cost burdens."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: BLACK SEA INSURANCE SURGES TO 20%",
+            "heading": "PORT: PORT STRIKE THREAT DEFERRED TO Nov",
             "paragraphs": [
-                "Escalating military strikes on commercial merchant vessels in the Black Sea have propelled war-risk insurance premiums to an unprecedented 20% of total hull value. Recent attacks on merchant ships off regional transit corridors have triggered emergency underwriting reviews and immediate coverage cancellations across multiple marine insurers.",
-                "Commercial vessel operators face severe capital constraints as soaring voyage insurance expenses render routine bulk and agricultural exports financially prohibitive. Trade desks must re-evaluate Black Sea shipping commitments or pivot export cargo flows toward overland European rail and road corridors."
+                "Labor negotiations between terminal management and maritime unions have successfully deferred a potentially crippling strike deadline at the ports of Los Angeles and Long Beach through November 20. The extended bargaining window maintains operational continuity across regional marine terminals that handle critical import volumes for major North American supply chains.",
+                "Supply chain executives must use this temporary reprieve to diversify cargo entry points and mitigate lingering disruption risks across West Coast intermodal corridors. Shippers should maintain contingency routing plans while labor representatives and employers continue negotiations ahead of the upcoming deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
+            "nextUpTease": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-09T08:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-09T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CHOKEPOINTS: TANKER STRIKES IN HORMUZ ESCALATE",
+            "heading": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
             "paragraphs": [
-                "Commercial merchant shipping transiting the Strait of Hormuz faced dangerous escalations following direct missile strikes on commercial tankers off Oman. Multiple vessels caught fire amid active hostilities and emergency military interventions, prompting emergency warnings concerning naval mine deployments across critical navigation corridors.",
-                "Energy charterers and container carriers face immediate transit delays, emergency surcharges, and spiking protection and indemnity rates across Middle Eastern waterways. Supply chain planners must prepare for extended routing diversions around the Cape of Good Hope if chokepoint transit risks continue to destabilize."
+                "United States Customs and Border Protection is increasing enforcement pressure on corporate buyers utilizing Delivered Duty Paid terms for international shipments. Importers failing to accurately verify customs valuations and regulatory filings face heightened risks of shipment delays and severe administrative penalties.",
+                "Logistics leaders must audit existing third-party customs brokerage agreements to ensure complete regulatory compliance and transparency across inbound supply chains. Relying on opaque DDP structures without rigorous documentation checks exposes companies to unexpected compliance holds and cost overruns."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
+            "nextUpTease": "MARITIME: HMM DECLARES GENERAL AVERAGE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-08T15:37:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-09T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: AUSTRALIA ENFORCES 90-DAY BULKER BAN",
+            "heading": "MARITIME: HMM DECLARES GENERAL AVERAGE",
             "paragraphs": [
-                "The Australian Maritime Safety Authority issued a mandatory 90-day port ban on the bulk carrier Wooyang Venus following inspections at the Port of Newcastle. Regulators discovered deliberate falsifications of seafarer hours of work and rest records, violating international maritime labor conventions and crew safety mandates.",
-                "Dry bulk charterers face unexpected vessel detentions, contract defaults, and substantial replacement charter costs under intensified port state control crackdowns. Fleet managers operating in Asia-Pacific trades must audit onboard digital labor logs to eliminate compliance discrepancies prior to berth arrival."
+                "Ocean carrier HMM has officially declared general average following a severe fire incident aboard the container vessel HMM Platinum during active transit. The emergency declaration triggers complex financial liabilities for cargo owners and requires extensive salvage security deposits before merchandise can be released.",
+                "Beneficial cargo owners with shipments aboard the affected vessel face substantial financial exposure and extended delivery delays while adjustment proceedings are completed. Logistics managers must review marine cargo insurance policies to confirm adequate coverage limits for unexpected general average assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
+            "nextUpTease": "AIR FREIGHT: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-08T18:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-09T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CAPACITY: CONTAINER FLEET EYES 50M TEU BY 2030",
+            "heading": "AIR CARGO: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
             "paragraphs": [
-                "Global ocean container fleet capacity is projected to expand rapidly from 34M TEU to 50M TEU by 2030, driven by an unprecedented wave of mega-boxship deliveries. New fleet intelligence from Sea-Intelligence underscores that heavy yard orderbooks will outpace underlying global trade volume demand over the next four years.",
-                "Ocean carriers face an impending structural oversupply cycle that threatens long-term freight rate stability and complicates carrier alliance network planning. Cargo owners and procurement teams should position contract strategies to leverage anticipated capacity surpluses while monitoring carrier blank sailing programs."
+                "A significant operational backlog at the Thai Airways cargo warehouse in Bangkok Suvarnabhumi Airport is severely disrupting regional export and import processing flows. Major international air carriers have responded by restricting inbound freight bookings to alleviate critical terminal congestion.",
+                "Air freight forwarders and shippers relying on Southeast Asian manufacturing hubs face sudden capacity restrictions and higher spot shipping rates. Supply chain planners should evaluate alternative regional transshipment gateways to maintain delivery schedules and bypass airport bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
+            "nextUpTease": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-09T07:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-09T05:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: CENTCOM LAUNCHES TASK FORCE IRON GATE",
+            "heading": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
             "paragraphs": [
-                "United States Central Command established Task Force Iron Gate, deploying specialized interdiction units to restrict illicit overland commercial corridors across Iranian frontier boundaries. The coordinated border enforcement initiative expands upon ongoing naval blockades to disrupt illicit multi-modal transit networks and sanction evasions.",
-                "Regional cross-border logistics networks face severe regulatory scrutiny, extended customs security holds, and sudden border closure risks across Middle Eastern land routes. Cross-border forwarders must establish multi-tier carrier vetting procedures to verify consignment paperwork and prevent severe trade compliance penalties."
+                "Chinese shipping leader COSCO Shipping Energy Transportation has announced a massive fleet expansion initiative involving 24 very large crude carrier newbuildings valued at $1.4B. The strategic acquisition combines direct shipbuilding contracts with long-term bareboat charters to strengthen global energy transport capabilities.",
+                "Energy charterers must monitor long-term vessel supply trends and charter rate volatility as major operators scale up tonnage capacity. Fleet renewal programs reflect sustained industry demand for modern, fuel-efficient maritime assets capable of meeting stringent environmental standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
+            "nextUpTease": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-08T20:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-09T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TARIFFS: HONG KONG REVIEWS RIVER VESSEL PERMITS",
+            "heading": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
             "paragraphs": [
-                "Hong Kong maritime authorities initiated an urgent review of commercial permit fees assessed on Pearl River trade vessels in response to cargo diversion toward mainland hubs. Regional port operators are losing container transshipment volumes to competitive Shenzhen and Guangzhou terminals offering lower terminal fees and streamlined customs clearance.",
-                "Terminal operators at Kwai Tsing face eroding container market share unless regulatory agencies reduce structural port tariffs and administrative handling surcharges. Shippers managing South China manufacturing export channels must compare total landed logistics costs between direct mainland calls and Hong Kong feeder transfers."
+                "Government officials in Beijing have officially extended the temporary pause on 24% United States tariffs through January, providing a short-term reprieve for bilateral trade flows. The regulatory extension gives manufacturing and logistics enterprises additional breathing room to manage transpacific inventory replenishment cycles.",
+                "Importers must capitalize on this temporary tariff stability to accelerate strategic sourcing adjustments before trade policy conditions shift in the new year. Procurement teams should model various tariff scenarios to protect profit margins against potential trade barrier reinstatements."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
+            "nextUpTease": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-08T11:20:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-09T04:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRANSIT: EVERGREEN RETURNS TO RED SEA CORRIDOR",
+            "heading": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
             "paragraphs": [
-                "Ocean liner Evergreen resumed direct transits through the Suez Canal and Red Sea after a three-year routing suspension, deploying the vessel Ever Eon on its eastbound voyage. The canal transit represents a major operational shift as major shipping lines cautiously test security improvements along the critical international waterway.",
-                "Shippers evaluating Asia-to-Europe trade lanes face shortening transit schedules by 10 to 14 days compared to round-Africa loops, alongside potential bunker fuel savings. Beneficial cargo owners must balance transit speed gains against war-risk surcharges when selecting carrier strings returning to Suez navigation."
+                "The Federal Bureau of Investigation has issued an urgent cybersecurity warning regarding targeted hacker attacks against temperature-controlled cold chain logistics infrastructure in Europe and North America. Criminal syndicates are exploiting vulnerable refrigeration management systems to compromise perishable cargo and disrupt supply networks.",
+                "Cold chain operators and food logistics providers must immediately harden network security protocols and deploy advanced threat detection tools across warehouse IT architectures. Failing to secure digital infrastructure risks catastrophic inventory spoilage and severe operational downtime."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-08T14:10:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-09T03:30:00Z",
                 "Status: Audited & True"
             ]
         }
