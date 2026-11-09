@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "REGULATION: STB ORDERS UP RECORD DISCLOSURE",
-                "visual_caption": "C.H. Robinson has agreed to acquire freight broker RXO in a deal valued at $5.8B. The transaction consolidates enterprise brokerage scale and tightens domestic routing capacity for shippers."
+                "headline": "MARITIME: SUMMER IMPORTS HIT HIGHEST LEVEL SINCE 2022",
+                "teaserTitle": "SECURITY: FRAUD TIED TO 40% OF STOLEN LOADS",
+                "visual_caption": "Summer container imports hit their highest level since 2022. Inbound volume surges test terminal capacity and intermodal rail evacuation."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: STB ORDERS UP RECORD DISCLOSURE",
-                "teaserTitle": "INFRASTRUCTURE: NINGBO ZHOUSHAN $157M BRAZIL PORT",
-                "visual_caption": "The STB ordered Union Pacific to submit internal corporate records over shipper retaliation remarks. Federal regulators are expanding formal oversight into commercial rail operations and freight competition."
+                "headline": "SECURITY: FRAUD TIED TO 40% OF STOLEN LOADS",
+                "teaserTitle": "REGULATION: STB EXPANDS RAIL PROTECTIONS",
+                "visual_caption": "Digital communication fraud is linked to 40% of stolen commercial loads. Cargo losses drive up liability insurance and dispute costs."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: NINGBO ZHOUSHAN $157M BRAZIL PORT",
-                "teaserTitle": "SECURITY: FRAUD DRIVES 40% FREIGHT THEFT",
-                "visual_caption": "China's Ningbo-Zhoushan Port company is targeting a $157M stake in a Brazilian container terminal. The acquisition expands Asian state-backed infrastructure assets across South American export corridors."
+                "headline": "REGULATION: STB EXPANDS RAIL PROTECTIONS",
+                "teaserTitle": "MARITIME: CONTAINER IMPORTS RISE 9%",
+                "visual_caption": "The STB provides broader regulatory protection for rail projects. Shippers gain legal recourse against local zoning and permitting delays."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: FRAUD DRIVES 40% FREIGHT THEFT",
-                "teaserTitle": "AIR FREIGHT: CAPACITY SQUEEZE DRIVES RATES",
-                "visual_caption": "Digital communication breaches and carrier identity fraud now account for 40% of stolen cargo shipments. Organized criminal syndicates are successfully compromising digital dispatch networks to target high-value freight loads."
+                "headline": "MARITIME: CONTAINER IMPORTS RISE 9%",
+                "teaserTitle": "TECHNOLOGY: ALFA LAVAL MAKES $700M NAVTOR BET",
+                "visual_caption": "North American container imports rose 9% amid rising freight pricing pressures. Carriers are leveraging demand to enforce stricter space allocations."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: CAPACITY SQUEEZE DRIVES RATES",
-                "teaserTitle": "EQUIPMENT: EPA 2027 FREEZES CLASS 8 ORDERS",
-                "visual_caption": "Global air cargo spot rates climbed as widebody freighter availability tightened across primary trade lanes. High-tech cargo volumes are consuming key freighter capacity and pushing up baseline spot market surcharges."
+                "headline": "TECHNOLOGY: ALFA LAVAL MAKES $700M NAVTOR BET",
+                "teaserTitle": "AIR FREIGHT: TAIWAN GATEWAY CONGESTION",
+                "visual_caption": "Alfa Laval acquired NAVTOR in a $700M all-cash maritime software deal. The buyout expands integrated digital fleet management capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: EPA 2027 FREEZES CLASS 8 ORDERS",
-                "teaserTitle": "AUTOMATION: DP WORLD JEBEL ALI DEPLOYMENT",
-                "visual_caption": "October Class 8 truck orders plunged as commercial carriers paused fleet procurement ahead of new EPA standards. The capital expenditure freeze could constrain dedicated carrier capacity and lift fleet maintenance costs."
+                "headline": "AIR FREIGHT: TAIWAN GATEWAY CONGESTION",
+                "teaserTitle": "LABOR: WEST COAST PORTS EXTEND TALKS",
+                "visual_caption": "Uncollected high-tech imports cause severe cargo warehouse congestion in Taiwan. Ground handling delays impact sensitive electronic shipments."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATION: DP WORLD JEBEL ALI DEPLOYMENT",
+                "headline": "LABOR: WEST COAST PORTS EXTEND TALKS",
                 "teaserTitle": "",
-                "visual_caption": "DP World deployed autonomous container transport systems across its primary Jebel Ali terminal facility. The robotic infrastructure initiative aims to lift port productivity and accelerate regional intermodal transfer speeds."
+                "visual_caption": "West Coast port negotiators extended contract deadlines to prevent disruptions. Bargaining teams work to resolve automation and wage terms."
             },
             {
                 "slide_index": 8,
