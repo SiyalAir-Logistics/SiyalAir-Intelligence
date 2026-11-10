@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT STRIKE THREAT DEFERRED TO",
-        "titleBlue": "Nov",
-        "footerSummary": "West Coast port strike threat delayed to Nov 20 while DDP import scrutiny increases carrier cost burdens."
+        "titleWhite": "ASIA-U.S. WEST COAST SPOT RATES UP 343% SINCE",
+        "titleBlue": "Iran",
+        "footerSummary": "Asia-US West Coast spot rates surge 343% post-Iran conflict while Cosco ramps up $1.4B VLCC tanker fleet expansion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT: PORT STRIKE THREAT DEFERRED TO Nov",
+            "heading": "MARITIME: ASIA-U.S. WEST COAST RATES UP 343%",
             "paragraphs": [
-                "Labor negotiations between terminal management and maritime unions have successfully deferred a potentially crippling strike deadline at the ports of Los Angeles and Long Beach through November 20. The extended bargaining window maintains operational continuity across regional marine terminals that handle critical import volumes for major North American supply chains.",
-                "Supply chain executives must use this temporary reprieve to diversify cargo entry points and mitigate lingering disruption risks across West Coast intermodal corridors. Shippers should maintain contingency routing plans while labor representatives and employers continue negotiations ahead of the upcoming deadline."
+                "Ocean container spot rates connecting Asian export gateways to the United States West Coast have skyrocketed by 343% since the onset of the Iran conflict. Shippers face severe capacity crunches and aggressive freight surcharges as carriers reroute voyages to avoid high-risk Middle Eastern maritime choke points.",
+                "Beneficial cargo owners must absorb surging ocean transport expenditures while recalibrating long-term budgeting models to survive unprecedented spot market volatility. Supply chain leaders should lock in fixed contract allocations immediately to insulate profit margins from compounding geopolitical disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
+            "nextUpTease": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-09T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COMPLIANCE: CBP SCRUTINIZES DDP IMPORT TERMS",
+            "heading": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
             "paragraphs": [
-                "United States Customs and Border Protection is increasing enforcement pressure on corporate buyers utilizing Delivered Duty Paid terms for international shipments. Importers failing to accurately verify customs valuations and regulatory filings face heightened risks of shipment delays and severe administrative penalties.",
-                "Logistics leaders must audit existing third-party customs brokerage agreements to ensure complete regulatory compliance and transparency across inbound supply chains. Relying on opaque DDP structures without rigorous documentation checks exposes companies to unexpected compliance holds and cost overruns."
+                "Chinese shipping giant Cosco Shipping Energy Transportation has launched a massive $1.4B fleet acquisition initiative featuring 24 very large crude carrier newbuildings. The capital-intensive strategy combines direct shipyard construction contracts with structured long-term bareboat charters to dominate global energy transport corridors.",
+                "Energy charterers and logistics executives must monitor evolving vessel supply dynamics and fluctuating charter rates as major operators scale up heavy tonnage. Fleet modernization programs highlight sustained industry demand for high-efficiency maritime assets capable of complying with strict environmental mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HMM DECLARES GENERAL AVERAGE",
+            "nextUpTease": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-09T07:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-09T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HMM DECLARES GENERAL AVERAGE",
+            "heading": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
             "paragraphs": [
-                "Ocean carrier HMM has officially declared general average following a severe fire incident aboard the container vessel HMM Platinum during active transit. The emergency declaration triggers complex financial liabilities for cargo owners and requires extensive salvage security deposits before merchandise can be released.",
-                "Beneficial cargo owners with shipments aboard the affected vessel face substantial financial exposure and extended delivery delays while adjustment proceedings are completed. Logistics managers must review marine cargo insurance policies to confirm adequate coverage limits for unexpected general average assessments."
+                "United States Customs and Border Protection has issued an interim regulatory rule mandating licensed customs brokers to rigorously verify foreign importer of record qualifications. Taking effect in January, the enforcement directive targets opaque Delivered Duty Paid transactions to eliminate illicit customs valuation practices.",
+                "Corporate importers utilizing DDP shipping terms must conduct immediate internal audits of overseas suppliers and third-party broker compliance agreements. Failure to establish verified importer credentials before cargo arrival will trigger severe customs holds, administrative fines, and costly border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
+            "nextUpTease": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-09T06:30:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-09T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: BANGKOK BACKLOG CONSTRAINTS EXPORTS",
+            "heading": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
             "paragraphs": [
-                "A significant operational backlog at the Thai Airways cargo warehouse in Bangkok Suvarnabhumi Airport is severely disrupting regional export and import processing flows. Major international air carriers have responded by restricting inbound freight bookings to alleviate critical terminal congestion.",
-                "Air freight forwarders and shippers relying on Southeast Asian manufacturing hubs face sudden capacity restrictions and higher spot shipping rates. Supply chain planners should evaluate alternative regional transshipment gateways to maintain delivery schedules and bypass airport bottlenecks."
+                "A severe operational congestion at the Thai Airways cargo warehouse in Bangkok Suvarnabhumi Airport is crippling regional import and export processing workflows. Major international air carriers have responded to the terminal gridlock by strictly clamping down on inbound cargo bookings.",
+                "Air freight forwarders and manufacturing enterprises relying on Southeast Asian supply hubs face sudden capacity shortages and escalating spot shipping rates. Logistics managers must rapidly route time-sensitive freight through alternative regional transshipment gateways to maintain delivery timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
+            "nextUpTease": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-11-09T05:45:00Z",
+                "Published: 2026-11-09T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET: TANKER GIANTS ORDER VLCC NEWBUILDINGS",
+            "heading": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
             "paragraphs": [
-                "Chinese shipping leader COSCO Shipping Energy Transportation has announced a massive fleet expansion initiative involving 24 very large crude carrier newbuildings valued at $1.4B. The strategic acquisition combines direct shipbuilding contracts with long-term bareboat charters to strengthen global energy transport capabilities.",
-                "Energy charterers must monitor long-term vessel supply trends and charter rate volatility as major operators scale up tonnage capacity. Fleet renewal programs reflect sustained industry demand for modern, fuel-efficient maritime assets capable of meeting stringent environmental standards."
+                "Automotive manufacturer Honda has committed $3B to construct an advanced hybrid vehicle assembly plant in Ohio slated for production by 2029. The strategic domestic manufacturing expansion aims to scale output by 240K vehicles annually while supporting the company's global electrification targets.",
+                "Supply chain planners and tier-one component suppliers must align inbound logistics networks and raw material flows with upcoming regional production demands. Long-term sourcing strategies must account for factory retooling timelines and localized subassembly requirements across North American corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+            "nextUpTease": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-09T05:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-09T05:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+            "heading": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
             "paragraphs": [
-                "Government officials in Beijing have officially extended the temporary pause on 24% United States tariffs through January, providing a short-term reprieve for bilateral trade flows. The regulatory extension gives manufacturing and logistics enterprises additional breathing room to manage transpacific inventory replenishment cycles.",
-                "Importers must capitalize on this temporary tariff stability to accelerate strategic sourcing adjustments before trade policy conditions shift in the new year. Procurement teams should model various tariff scenarios to protect profit margins against potential trade barrier reinstatements."
+                "Federal law enforcement agencies have issued a joint cybersecurity alert warning cold chain logistics operators of targeted hacker attacks against refrigeration systems. Cybercriminal syndicates are exploiting digital vulnerabilities in temperature-monitoring networks to compromise perishable food and pharmaceutical inventories.",
+                "Cold chain warehouse managers and transport providers must immediately harden network IT architectures and deploy robust threat detection protocols across enterprise systems. Neglecting digital security enhancements exposes perishable supply chains to catastrophic inventory spoilage and crippling operational downtime."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
+            "nextUpTease": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-11-09T04:15:00Z",
+                "Published: 2026-11-09T04:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: FBI WARNS OF COLD CHAIN THREATS",
+            "heading": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
             "paragraphs": [
-                "The Federal Bureau of Investigation has issued an urgent cybersecurity warning regarding targeted hacker attacks against temperature-controlled cold chain logistics infrastructure in Europe and North America. Criminal syndicates are exploiting vulnerable refrigeration management systems to compromise perishable cargo and disrupt supply networks.",
-                "Cold chain operators and food logistics providers must immediately harden network security protocols and deploy advanced threat detection tools across warehouse IT architectures. Failing to secure digital infrastructure risks catastrophic inventory spoilage and severe operational downtime."
+                "Chinese government authorities have officially extended the temporary suspension of 24% United States tariffs through January, offering a brief window of trade stability. The regulatory extension provides international importers and logistics providers additional time to optimize transpacific inventory replenishment schedules.",
+                "Procurement teams must capitalize on this temporary tariff reprieve to accelerate strategic vendor diversification before trade policy conditions shift in the new year. Businesses should stress-test inventory holding models against potential trade barrier reinstatements to protect bottom-line operating margins."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-11-09T03:30:00Z",
+                "Published: 2026-11-09T04:00:00Z",
                 "Status: Audited & True"
             ]
         }
