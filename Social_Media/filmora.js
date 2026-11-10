@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA-U.S. WEST COAST RATES UP 343%",
-                "teaserTitle": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
-                "visual_caption": "Asia-US West Coast spot rates surge 343% post-Iran conflict. Shippers face severe capacity crunches and aggressive freight surcharges."
+                "headline": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
+                "teaserTitle": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+                "visual_caption": "Fourteen major ports joined a new G7 alliance to combat drug trafficking. Artificial intelligence and data sharing anchor the security program."
             },
             {
                 "slide_index": 2,
-                "headline": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
-                "teaserTitle": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
-                "visual_caption": "Cosco launches a $1.4B fleet expansion involving 24 VLCC newbuildings. The massive investment strengthens global energy transport capabilities."
+                "headline": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+                "teaserTitle": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+                "visual_caption": "PMA and ILWU Local 26 extended contract talks through Nov 20. The extension successfully averts immediate terminal walkouts."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
-                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
-                "visual_caption": "CBP issues interim rules requiring brokers to verify importer credentials. Importers failing compliance checks face severe border delays."
+                "headline": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+                "teaserTitle": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+                "visual_caption": "COSCO Shipping launched a massive fleet expansion involving 24 supertankers. The agreements total $1.42B in new ship contracts."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
-                "teaserTitle": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
-                "visual_caption": "Cargo backlogs at Bangkok Suvarnabhumi Airport prompt airlines to restrict inbound freight. Regional forwarders face surging shipping rates."
+                "headline": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+                "teaserTitle": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+                "visual_caption": "United States inbound import cargo volumes remain exceptionally strong. Retailers continue moving inventory early despite ending peak season."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
-                "teaserTitle": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
-                "visual_caption": "Honda invests $3B in an Ohio hybrid plant with production starting in 2029. The facility will expand regional output by 240K vehicles."
+                "headline": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+                "teaserTitle": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+                "visual_caption": "AutoStore agreed to acquire a Dutch automated storage company for $33M. The buyout accelerates advanced warehouse technology deployment."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
-                "teaserTitle": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
-                "visual_caption": "Federal agencies issue cyber alerts targeting cold chain refrigeration systems. Operators must harden IT infrastructure to prevent spoilage."
+                "headline": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
+                "visual_caption": "The Surface Transportation Board issued a policy statement on rail jurisdiction. The rules aim to reduce regulatory uncertainty for shippers."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
                 "teaserTitle": "",
-                "visual_caption": "China extends the suspension of 24% US tariffs through January. Importers must utilize this window to optimize inventory strategies."
+                "visual_caption": "Cargo terminal congestion at Bangkok airport is disrupting regional exports. Airlines responded by strictly restricting inbound cargo bookings."
             },
             {
                 "slide_index": 8,

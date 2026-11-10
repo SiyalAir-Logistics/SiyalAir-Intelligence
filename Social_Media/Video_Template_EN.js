@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ASIA-U.S. WEST COAST SPOT RATES UP 343% SINCE IRAN",
+        "hookTitle": "G7 LAUNCHES 14 PORT ALLIANCE TO FIGHT SMUGGLING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA-U.S. WEST COAST RATES UP 343%",
-                "teaserTitle": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
+                "headline": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
+                "teaserTitle": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Container spot rates from Asia to the US West Coast jumped three hundred forty-three percent since the Iran conflict began. Shippers face severe capacity crunches and surging freight costs."
+                "narration_line": "Fourteen major ports joined a new G7 alliance to combat drug trafficking. Artificial intelligence and data sharing will drive the security program."
             },
             {
                 "slide_index": 2,
-                "headline": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
-                "teaserTitle": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
+                "headline": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+                "teaserTitle": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Cosco launched a one point four billion dollar fleet acquisition for twenty-four supertankers. The massive capital investment strengthens global energy transport capabilities."
+                "narration_line": "PMA and ILWU Local 26 extended contract talks through November 20. The extension successfully averts immediate terminal walkouts."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
-                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
+                "headline": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+                "teaserTitle": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Customs and Border Protection issued new rules requiring brokers to verify importer qualifications. Importers failing compliance checks face severe shipment holds."
+                "narration_line": "COSCO Shipping launched a massive fleet expansion involving twenty-four supertankers. The agreements total one point four billion dollars."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
-                "teaserTitle": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
+                "headline": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+                "teaserTitle": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Severe cargo backlogs at Bangkok Suvarnabhumi Airport forced airlines to restrict inbound freight. Regional forwarders now face rising spot shipping rates."
+                "narration_line": "United States inbound import cargo volumes remain exceptionally strong. Retailers continue moving inventory early despite ending peak season."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
-                "teaserTitle": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
+                "headline": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+                "teaserTitle": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Honda committed three billion dollars to build a new hybrid vehicle plant in Ohio. Production is scheduled to begin by twenty twenty-nine."
+                "narration_line": "AutoStore agreed to acquire a Dutch automated storage company for thirty-three million dollars. The buyout accelerates warehouse technology deployment."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
-                "teaserTitle": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+                "headline": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal agencies warned cold chain operators about cyber attacks targeting refrigeration monitoring systems. Operators must immediately harden digital infrastructure against threats."
+                "narration_line": "The Surface Transportation Board issued a policy statement on rail jurisdiction. The rules aim to reduce regulatory uncertainty for shippers."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Beijing extended the temporary pause on twenty-four percent US tariffs through January. Importers should utilize this window to optimize inventory strategies."
+                "narration_line": "Cargo terminal congestion at Bangkok airport is disrupting regional exports. Airlines responded by strictly restricting inbound cargo bookings."
             },
             {
                 "slide_index": 8,

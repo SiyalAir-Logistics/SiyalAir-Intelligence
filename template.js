@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ASIA-U.S. WEST COAST SPOT RATES UP 343% SINCE",
-        "titleBlue": "Iran",
-        "footerSummary": "Asia-US West Coast spot rates surge 343% post-Iran conflict while Cosco ramps up $1.4B VLCC tanker fleet expansion."
+        "titleWhite": "G7 LAUNCHES 14 PORT ALLIANCE TO FIGHT",
+        "titleBlue": "Smuggling",
+        "footerSummary": "G7 port alliance tackles trafficking with AI, while PMA and ILWU extend talks to Nov 20 to avert West Coast strikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ASIA-U.S. WEST COAST RATES UP 343%",
+            "heading": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
             "paragraphs": [
-                "Ocean container spot rates connecting Asian export gateways to the United States West Coast have skyrocketed by 343% since the onset of the Iran conflict. Shippers face severe capacity crunches and aggressive freight surcharges as carriers reroute voyages to avoid high-risk Middle Eastern maritime choke points.",
-                "Beneficial cargo owners must absorb surging ocean transport expenditures while recalibrating long-term budgeting models to survive unprecedented spot market volatility. Supply chain leaders should lock in fixed contract allocations immediately to insulate profit margins from compounding geopolitical disruptions."
+                "Fourteen major global ports have joined a new G7-backed initiative designed to eradicate drug trafficking and illicit cargo movements through international shipping networks. The cooperative program places artificial intelligence and advanced cross-border intelligence sharing at the center of maritime security operations.",
+                "Port operators and terminal managers must integrate enhanced data-sharing protocols to comply with stricter G7 surveillance standards. Adopting these AI security frameworks prevents costly cargo inspections and protects supply chain throughput from regulatory bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
+            "nextUpTease": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-09T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FLEET: COSCO UNVEILS 1.4B VLCC EXPANSION",
+            "heading": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
             "paragraphs": [
-                "Chinese shipping giant Cosco Shipping Energy Transportation has launched a massive $1.4B fleet acquisition initiative featuring 24 very large crude carrier newbuildings. The capital-intensive strategy combines direct shipyard construction contracts with structured long-term bareboat charters to dominate global energy transport corridors.",
-                "Energy charterers and logistics executives must monitor evolving vessel supply dynamics and fluctuating charter rates as major operators scale up heavy tonnage. Fleet modernization programs highlight sustained industry demand for high-efficiency maritime assets capable of complying with strict environmental mandates."
+                "The Pacific Maritime Association and ILWU Local 26 have agreed to extend their contract negotiations through November 20, averting an immediate terminal walkout. The ongoing discussions impact critical container gateways handling vital transpacific import and export cargo flows.",
+                "Supply chain planners must maintain contingency routing strategies while labor negotiations remain active across Southern California terminals. Securing alternative modal options safeguards inventory schedules against potential last-minute operational disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
+            "nextUpTease": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-09T07:30:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: CBP ISSUES INTERIM DDP RULE",
+            "heading": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
             "paragraphs": [
-                "United States Customs and Border Protection has issued an interim regulatory rule mandating licensed customs brokers to rigorously verify foreign importer of record qualifications. Taking effect in January, the enforcement directive targets opaque Delivered Duty Paid transactions to eliminate illicit customs valuation practices.",
-                "Corporate importers utilizing DDP shipping terms must conduct immediate internal audits of overseas suppliers and third-party broker compliance agreements. Failure to establish verified importer credentials before cargo arrival will trigger severe customs holds, administrative fines, and costly border delays."
+                "Chinese maritime giant COSCO Shipping Energy Transportation has launched a massive fleet expansion strategy encompassing 24 very large crude carrier newbuildings. The investment combines direct shipyard contracts worth $1.42B with 14 additional supertankers secured through long-term bareboat charters.",
+                "Energy charterers and global logistics executives must evaluate shifting vessel supply metrics as major carriers lock up heavy maritime tonnage. Fleet modernization trends signal sustained long-term demand for high-efficiency ships compliant with strict environmental rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
+            "nextUpTease": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-09T07:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: BANGKOK BACKLOG RESTRICTS EXPORTS",
+            "heading": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
             "paragraphs": [
-                "A severe operational congestion at the Thai Airways cargo warehouse in Bangkok Suvarnabhumi Airport is crippling regional import and export processing workflows. Major international air carriers have responded to the terminal gridlock by strictly clamping down on inbound cargo bookings.",
-                "Air freight forwarders and manufacturing enterprises relying on Southeast Asian supply hubs face sudden capacity shortages and escalating spot shipping rates. Logistics managers must rapidly route time-sensitive freight through alternative regional transshipment gateways to maintain delivery timelines."
+                "United States inbound ocean container volumes are projected to hit their highest seasonal levels since 2022 as extended peak shipping demand persists. Major retailers continue moving inventory early to cushion supply chains against unpredictable freight market shifts and regulatory friction.",
+                "Warehouse operators and distribution centers must optimize labor allocations to handle sustained high inventory inflows during the off-season. Proactive inventory planning minimizes demurrage charges and prevents facility congestion across domestic distribution nodes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
+            "nextUpTease": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-09T06:15:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-11-09T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: HONDA INVESTS 3B IN OHIO",
+            "heading": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
             "paragraphs": [
-                "Automotive manufacturer Honda has committed $3B to construct an advanced hybrid vehicle assembly plant in Ohio slated for production by 2029. The strategic domestic manufacturing expansion aims to scale output by 240K vehicles annually while supporting the company's global electrification targets.",
-                "Supply chain planners and tier-one component suppliers must align inbound logistics networks and raw material flows with upcoming regional production demands. Long-term sourcing strategies must account for factory retooling timelines and localized subassembly requirements across North American corridors."
+                "Automation leader AutoStore has agreed to acquire Dutch automated storage and retrieval system company for $33M to strengthen its warehouse technology portfolio. The strategic buyout aims to accelerate automated fulfillment deployments across complex European and global logistics networks.",
+                "Enterprise supply chain leaders should assess how advanced AS/RS integration can reduce labor dependency and maximize warehouse storage density. Upgrading automated material handling infrastructure remains vital for scaling order fulfillment throughput efficiently."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
+            "nextUpTease": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-09T05:30:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-11-09T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: FBI WARNS OF COLD CHAIN ATTACKS",
+            "heading": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
             "paragraphs": [
-                "Federal law enforcement agencies have issued a joint cybersecurity alert warning cold chain logistics operators of targeted hacker attacks against refrigeration systems. Cybercriminal syndicates are exploiting digital vulnerabilities in temperature-monitoring networks to compromise perishable food and pharmaceutical inventories.",
-                "Cold chain warehouse managers and transport providers must immediately harden network IT architectures and deploy robust threat detection protocols across enterprise systems. Neglecting digital security enhancements exposes perishable supply chains to catastrophic inventory spoilage and crippling operational downtime."
+                "The Surface Transportation Board has issued a new policy statement aimed at reducing regulatory uncertainty and strengthening national rail network consistency. The federal directive clarifies the precise scope of federal jurisdiction over transportation services provided by freight rail carriers.",
+                "Shippers utilizing intermodal rail networks must review how federal oversight changes impact long-term service contracts and dispute resolutions. Clear regulatory frameworks help protect freight owners from arbitrary local restrictions and service disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+            "nextUpTease": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-09T04:45:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-09T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: CHINA EXTENDS TARIFF PAUSE",
+            "heading": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
             "paragraphs": [
-                "Chinese government authorities have officially extended the temporary suspension of 24% United States tariffs through January, offering a brief window of trade stability. The regulatory extension provides international importers and logistics providers additional time to optimize transpacific inventory replenishment schedules.",
-                "Procurement teams must capitalize on this temporary tariff reprieve to accelerate strategic vendor diversification before trade policy conditions shift in the new year. Businesses should stress-test inventory holding models against potential trade barrier reinstatements to protect bottom-line operating margins."
+                "Severe terminal congestion at the Thai Airways cargo warehouse in Bangkok is disrupting regional import and export processing workflows. International air carriers have responded to the severe gridlock by strictly limiting inbound cargo bookings across the facility.",
+                "Air freight forwarders and manufacturing enterprises relying on Asian export hubs face sudden capacity constraints and escalating spot shipping rates. Logistics managers must divert time-sensitive freight through alternative transshipment airports to protect delivery schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-09T04:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-09T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
