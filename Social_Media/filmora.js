@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
-                "teaserTitle": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
-                "visual_caption": "Fourteen major ports joined a new G7 alliance to combat drug trafficking. Artificial intelligence and data sharing anchor the security program."
+                "headline": "YANTIAN PORT: MAERSK VESSEL CRANE COLLAPSE",
+                "teaserTitle": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
+                "visual_caption": "A Maersk vessel has collapsed a ship-to-shore crane at the Yantian port during a berthing accident. This structural failure causes terminal gridlock and forces shippers to divert time-sensitive cargo."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
-                "teaserTitle": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
-                "visual_caption": "PMA and ILWU Local 26 extended contract talks through Nov 20. The extension successfully averts immediate terminal walkouts."
+                "headline": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
+                "teaserTitle": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
+                "visual_caption": "CBP has issued an interim rule heightening bond requirements for foreign importers of record. This mandate ensures compliance with trade enforcement and targets non-resident entities to eliminate enforcement gaps."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
-                "teaserTitle": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
-                "visual_caption": "COSCO Shipping launched a massive fleet expansion involving 24 supertankers. The agreements total $1.42B in new ship contracts."
+                "headline": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
+                "teaserTitle": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
+                "visual_caption": "UPS is suing customs to recover tariff payments it claims were collected unlawfully under emergency powers. This legal challenge could redefine how federal authorities apply trade penalties to global commercial freight."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
-                "teaserTitle": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
-                "visual_caption": "United States inbound import cargo volumes remain exceptionally strong. Retailers continue moving inventory early despite ending peak season."
+                "headline": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
+                "teaserTitle": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "visual_caption": "Shenzhen Airport will suspend international belly cargo next week due to the APEC summit. This temporary ban removes hundreds of tons of capacity from the South China export market."
             },
             {
                 "slide_index": 5,
-                "headline": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
-                "teaserTitle": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
-                "visual_caption": "AutoStore agreed to acquire a Dutch automated storage company for $33M. The buyout accelerates advanced warehouse technology deployment."
+                "headline": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "teaserTitle": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
+                "visual_caption": "$11.4M in Nvidia hardware was hijacked during transit from Oakland to Fort Worth. This massive theft highlights severe security vulnerabilities for high-value technology shipments in the domestic supply chain."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
-                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
-                "visual_caption": "The Surface Transportation Board issued a policy statement on rail jurisdiction. The rules aim to reduce regulatory uncertainty for shippers."
+                "headline": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
+                "teaserTitle": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
+                "visual_caption": "Boluda Towage has acquired Muller Dordrecht to expand its offshore heavy-lift capabilities in Europe. The acquisition adds specialized vessels to a global fleet now exceeding 850 units."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
-                "teaserTitle": "",
-                "visual_caption": "Cargo terminal congestion at Bangkok airport is disrupting regional exports. Airlines responded by strictly restricting inbound cargo bookings."
+                "headline": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "PS Logistics has purchased Roane Transportation to strengthen its specialized flatbed and heavy-haul capacity. This consolidation reduces the number of independent carriers available for large-scale industrial project cargo."
             },
             {
                 "slide_index": 8,

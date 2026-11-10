@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "G7 LAUNCHES 14 PORT ALLIANCE TO FIGHT",
-        "titleBlue": "Smuggling",
-        "footerSummary": "G7 port alliance tackles trafficking with AI, while PMA and ILWU extend talks to Nov 20 to avert West Coast strikes."
+        "titleWhite": "MAERSK VESSEL CRANE",
+        "titleBlue": "COLLAPSE",
+        "footerSummary": "Yantian port operations face disruption after a Maersk crane strike, while CBP tightens foreign importer scrutiny and $11.4M in hardware is hijacked."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
+            "heading": "YANTIAN PORT: MAERSK VESSEL CRANE COLLAPSE",
             "paragraphs": [
-                "Fourteen major global ports have joined a new G7-backed initiative designed to eradicate drug trafficking and illicit cargo movements through international shipping networks. The cooperative program places artificial intelligence and advanced cross-border intelligence sharing at the center of maritime security operations.",
-                "Port operators and terminal managers must integrate enhanced data-sharing protocols to comply with stricter G7 surveillance standards. Adopting these AI security frameworks prevents costly cargo inspections and protects supply chain throughput from regulatory bottlenecks."
+                "A Maersk-operated containership has brought down a ship-to-shore crane at China's Yantian port after striking the massive structure during berthing operations. The terminal incident has triggered an immediate halt at the affected berth and initiated emergency structural safety audits across the facility.",
+                "Logistics managers should expect berthing delays and potential vessel diversions as terminal engineers manage salvage and equipment recovery. This operational friction at a critical export hub threatens to tighten vessel schedules and inflate short-term handling costs for transpacific shippers."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+            "nextUpTease": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-10T00:00:00Z",
+                "Source: https://splash247.com/maersk-boxship-knocks-down-crane-at-yantian/",
+                "Published: 2026-11-10T12:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+            "heading": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
             "paragraphs": [
-                "The Pacific Maritime Association and ILWU Local 26 have agreed to extend their contract negotiations through November 20, averting an immediate terminal walkout. The ongoing discussions impact critical container gateways handling vital transpacific import and export cargo flows.",
-                "Supply chain planners must maintain contingency routing strategies while labor negotiations remain active across Southern California terminals. Securing alternative modal options safeguards inventory schedules against potential last-minute operational disruptions."
+                "U.S. Customs and Border Protection has issued a new interim rule designed to heighten the verification and bond requirements for foreign importers of record. The mandate aims to eliminate enforcement gaps regarding anti-dumping duties and ensures all non-resident entities meet strict financial security benchmarks.",
+                "Trade compliance officers must audit current bond structures and resident agent designations to avoid immediate cargo holds or entry denials. These heightened regulatory barriers increase the administrative cost of U.S. market access for international manufacturing and trading enterprises."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+            "nextUpTease": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-10T00:00:00Z",
+                "Source: https://www.joc.com/article/cbp-issues-interim-rule-to-heighten-scrutiny-of-foreign-importers_20261110.html",
+                "Published: 2026-11-10T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+            "heading": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
             "paragraphs": [
-                "Chinese maritime giant COSCO Shipping Energy Transportation has launched a massive fleet expansion strategy encompassing 24 very large crude carrier newbuildings. The investment combines direct shipyard contracts worth $1.42B with 14 additional supertankers secured through long-term bareboat charters.",
-                "Energy charterers and global logistics executives must evaluate shifting vessel supply metrics as major carriers lock up heavy maritime tonnage. Fleet modernization trends signal sustained long-term demand for high-efficiency ships compliant with strict environmental rules."
+                "UPS has initiated legal action against U.S. Customs and Border Protection to recover tariff payments it claims were unlawfully collected under the International Emergency Economic Powers Act. The litigation targets the Consolidated Administration and Processing of Entries system and challenges the federal authority used to levy specific trade penalties.",
+                "This high-stakes legal challenge could redefine how customs authorities apply emergency economic powers to commercial freight movements and administrative fee structures. Shippers must monitor this case as a successful ruling for UPS could trigger significant refund opportunities for historical tariff overpayments."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+            "nextUpTease": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-10T00:00:00Z",
+                "Source: https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/",
+                "Published: 2026-11-10T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+            "heading": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
             "paragraphs": [
-                "United States inbound ocean container volumes are projected to hit their highest seasonal levels since 2022 as extended peak shipping demand persists. Major retailers continue moving inventory early to cushion supply chains against unpredictable freight market shifts and regulatory friction.",
-                "Warehouse operators and distribution centers must optimize labor allocations to handle sustained high inventory inflows during the off-season. Proactive inventory planning minimizes demurrage charges and prevents facility congestion across domestic distribution nodes."
+                "International belly-cargo operations at Shenzhen Bao'an Airport will be suspended next week due to strict security protocols for the upcoming APEC summit. The temporary prohibition on passenger-plane freight threatens to remove hundreds of tons of weekly capacity from the South China export market.",
+                "Forwarders are already shifting time-sensitive electronics and retail shipments to Hong Kong and Guangzhou, likely driving up regional air bridge rates. Supply chain planners must secure dedicated freighter space immediately to mitigate the impact of this sudden peak-season capacity squeeze."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+            "nextUpTease": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-09T00:00:00Z",
+                "Source: https://theloadstar.com/shenzhen-belly-cargo-ban-threatens-peak-season-squeeze-at-other-gateways/",
+                "Published: 2026-11-10T08:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+            "heading": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
             "paragraphs": [
-                "Automation leader AutoStore has agreed to acquire Dutch automated storage and retrieval system company for $33M to strengthen its warehouse technology portfolio. The strategic buyout aims to accelerate automated fulfillment deployments across complex European and global logistics networks.",
-                "Enterprise supply chain leaders should assess how advanced AS/RS integration can reduce labor dependency and maximize warehouse storage density. Upgrading automated material handling infrastructure remains vital for scaling order fulfillment throughput efficiently."
+                "A high-value shipment of Nvidia hardware valued at $11.4M was stolen during transit from a facility in Oakland to its destination in Fort Worth. The theft involved the hijacking of 6 full pallets of advanced technology, highlighting severe vulnerabilities in domestic high-value cargo transport security.",
+                "Enterprises transporting sensitive technology components must reassess carrier vetting processes and implement multi-layered GPS tracking and covert surveillance protocols. This incident underscores the escalating risk of targeted theft in the semiconductor supply chain as demand for AI infrastructure grows."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+            "nextUpTease": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-09T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment",
+                "Published: 2026-11-09T22:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+            "heading": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
             "paragraphs": [
-                "The Surface Transportation Board has issued a new policy statement aimed at reducing regulatory uncertainty and strengthening national rail network consistency. The federal directive clarifies the precise scope of federal jurisdiction over transportation services provided by freight rail carriers.",
-                "Shippers utilizing intermodal rail networks must review how federal oversight changes impact long-term service contracts and dispute resolutions. Clear regulatory frameworks help protect freight owners from arbitrary local restrictions and service disruptions."
+                "Spanish maritime leader Boluda Towage has acquired Muller Dordrecht to further expand its specialized offshore towage and heavy-lift capabilities across European ports. The strategic acquisition adds specialized offshore vessels and terminal expertise to Boluda's global fleet of over 850 maritime units.",
+                "The consolidation of towage services in major North Sea hubs may impact competitive bidding for large-scale offshore energy and infrastructure projects. Maritime logistics planners should evaluate how this increased market concentration influences long-term harbor service rates and vessel maneuvering availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
+            "nextUpTease": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-09T00:00:00Z",
+                "Source: https://maritime-executive.com/article/boluda-continues-growth-with-acquisition-of-dutch-offshore-towage-operation",
+                "Published: 2026-11-09T20:36:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
+            "heading": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
             "paragraphs": [
-                "Severe terminal congestion at the Thai Airways cargo warehouse in Bangkok is disrupting regional import and export processing workflows. International air carriers have responded to the severe gridlock by strictly limiting inbound cargo bookings across the facility.",
-                "Air freight forwarders and manufacturing enterprises relying on Asian export hubs face sudden capacity constraints and escalating spot shipping rates. Logistics managers must divert time-sensitive freight through alternative transshipment airports to protect delivery schedules."
+                "A subsidiary of PS Logistics has successfully completed the acquisition of Roane Transportation, a Tennessee-based flatbed carrier specializing in heavy-haul and industrial freight. The buyout expands PS Logistics' operational footprint in the southeastern U.S. and strengthens its specialized trailer capacity.",
+                "Industrial shippers and construction firms face a narrowing landscape of independent carriers as regional consolidation in the flatbed sector continues to accelerate. Assessing carrier stability and long-term contract capacity is now critical for maintaining consistent service for heavy-lift and specialized project cargo."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-09T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/ps-logistics-buys-roane",
+                "Published: 2026-11-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "G7 LAUNCHES 14 PORT ALLIANCE TO FIGHT SMUGGLING",
+        "hookTitle": "MAERSK VESSEL CRANE COLLAPSE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT ALLIANCE: G7 TARGETS GLOBAL TRAFFICKING",
-                "teaserTitle": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
+                "headline": "YANTIAN PORT: MAERSK VESSEL CRANE COLLAPSE",
+                "teaserTitle": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Fourteen major ports joined a new G7 alliance to combat drug trafficking. Artificial intelligence and data sharing will drive the security program."
+                "narration_line": "A Maersk vessel has collapsed a ship to shore crane at the Yantian port during a berthing accident. This structural failure causes immediate terminal gridlock and forces shippers to divert cargo."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR TALKS EXTENDED AT WEST COAST PORTS",
-                "teaserTitle": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
+                "headline": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
+                "teaserTitle": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "PMA and ILWU Local 26 extended contract talks through November 20. The extension successfully averts immediate terminal walkouts."
+                "narration_line": "United States Customs has issued an interim rule heightening bond requirements for foreign importers of record. This mandate ensures compliance with trade enforcement and targets non resident entities to eliminate gaps."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET EXPANSION: COSCO ORDERS 24 VLCCS",
-                "teaserTitle": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
+                "headline": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
+                "teaserTitle": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "COSCO Shipping launched a massive fleet expansion involving twenty-four supertankers. The agreements total one point four billion dollars."
+                "narration_line": "U P S is suing customs to recover tariff payments it claims were collected unlawfully under emergency powers. This legal challenge could redefine how federal authorities apply trade penalties to global freight."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL FORECAST: NRF LIFTS SUMMER IMPORTS",
-                "teaserTitle": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
+                "headline": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
+                "teaserTitle": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States inbound import cargo volumes remain exceptionally strong. Retailers continue moving inventory early despite ending peak season."
+                "narration_line": "Shenzhen Bao-ahn Airport will suspend international belly cargo next week due to the A P E C summit. This temporary ban removes hundreds of tons of capacity from the South China market."
             },
             {
                 "slide_index": 5,
-                "headline": "ACQUISITION: AUTOSTORE BUYS DUTCH AS/RS",
-                "teaserTitle": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
+                "headline": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "teaserTitle": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AutoStore agreed to acquire a Dutch automated storage company for thirty-three million dollars. The buyout accelerates warehouse technology deployment."
+                "narration_line": "Eleven point four million dollars in Nvidia hardware was hijacked during transit from Oakland to Fort Worth. This massive theft highlights severe security vulnerabilities for high value technology shipments in the domestic supply chain."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL POLICY: STB ISSUES CONSISTENCY RULES",
-                "teaserTitle": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
+                "headline": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
+                "teaserTitle": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Surface Transportation Board issued a policy statement on rail jurisdiction. The rules aim to reduce regulatory uncertainty for shippers."
+                "narration_line": "Boluda Towage has acquired Muller Dordrecht to expand its offshore heavy lift capabilities in Europe. The acquisition adds specialized vessels to a global fleet now exceeding eight hundred and fifty units."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: BANGKOK BACKLOG RESTRICTS FREIGHT",
-                "teaserTitle": "",
+                "headline": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Cargo terminal congestion at Bangkok airport is disrupting regional exports. Airlines responded by strictly restricting inbound cargo bookings."
+                "narration_line": "PS Logistics has purchased Roane Transportation to strengthen its specialized flatbed and heavy haul capacity. This consolidation reduces the number of independent carriers available for large scale industrial and project cargo."
             },
             {
                 "slide_index": 8,
