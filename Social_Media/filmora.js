@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "YANTIAN PORT: MAERSK VESSEL CRANE COLLAPSE",
-                "teaserTitle": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
-                "visual_caption": "A Maersk vessel has collapsed a ship-to-shore crane at the Yantian port during a berthing accident. This structural failure causes terminal gridlock and forces shippers to divert time-sensitive cargo."
+                "headline": "MARITIME: MAERSK RAISES EARNINGS GUIDANCE",
+                "teaserTitle": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
+                "visual_caption": "Maersk raises annual earnings guidance for the third time on persistent spot rate strength. Favorable contract renewals support carriers heading into 2027."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: CBP HEIGHTENS IMPORTER SCRUTINY",
-                "teaserTitle": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
-                "visual_caption": "CBP has issued an interim rule heightening bond requirements for foreign importers of record. This mandate ensures compliance with trade enforcement and targets non-resident entities to eliminate enforcement gaps."
+                "headline": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
+                "teaserTitle": "LOGISTICS: C.H. ROBINSON ACQUIRES RXO",
+                "visual_caption": "NRF forecasts U.S. import cargo volumes to stay elevated through the end of 2026. Retailers continue front-loading inventory to mitigate supply chain volatility."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: UPS SUES CBP OVER TARIFFS",
-                "teaserTitle": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
-                "visual_caption": "UPS is suing customs to recover tariff payments it claims were collected unlawfully under emergency powers. This legal challenge could redefine how federal authorities apply trade penalties to global commercial freight."
+                "headline": "LOGISTICS: C.H. ROBINSON ACQUIRES RXO",
+                "teaserTitle": "REGULATION: FMC HOSTS DEMURRAGE SYMPOSIUM",
+                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock merger. The deal expands expedited transport networks with closing set for H1 2027."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN BELLY FREIGHT BAN",
-                "teaserTitle": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
-                "visual_caption": "Shenzhen Airport will suspend international belly cargo next week due to the APEC summit. This temporary ban removes hundreds of tons of capacity from the South China export market."
+                "headline": "REGULATION: FMC HOSTS DEMURRAGE SYMPOSIUM",
+                "teaserTitle": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
+                "visual_caption": "FMC announces a research symposium on demurrage and detention billing practices. The regulatory initiative targets container shipping transparency and port fluidity."
             },
             {
                 "slide_index": 5,
-                "headline": "CARGO SECURITY: $11.4M NVIDIA HARDWARE THEFT",
-                "teaserTitle": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
-                "visual_caption": "$11.4M in Nvidia hardware was hijacked during transit from Oakland to Fort Worth. This massive theft highlights severe security vulnerabilities for high-value technology shipments in the domestic supply chain."
+                "headline": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
+                "teaserTitle": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
+                "visual_caption": "Shenzhen airport suspends belly-cargo operations during the upcoming APEC summit. Shippers divert high-value electronics freight to alternative regional gateways."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: BOLUDA BUYS TOWAGE FLEET",
-                "teaserTitle": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
-                "visual_caption": "Boluda Towage has acquired Muller Dordrecht to expand its offshore heavy-lift capabilities in Europe. The acquisition adds specialized vessels to a global fleet now exceeding 850 units."
+                "headline": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
+                "teaserTitle": "MARITIME: CETUS SECURES $175M FINANCING",
+                "visual_caption": "Kodiak AI expands autonomous tractor options to include International Motors in 2027. Fleets accelerate automated linehaul adoption to counter driver shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "M&A: PS LOGISTICS BUYS ROANE FLATBED",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "PS Logistics has purchased Roane Transportation to strengthen its specialized flatbed and heavy-haul capacity. This consolidation reduces the number of independent carriers available for large-scale industrial project cargo."
+                "headline": "MARITIME: CETUS SECURES $175M FINANCING",
+                "teaserTitle": "",
+                "visual_caption": "Cetus Maritime secures $175M in private placement funding ahead of an Oslo listing. Dry bulk operators consolidate asset strength amid growing commodity demand."
             },
             {
                 "slide_index": 8,
