@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UST-LUGA PORT",
-        "titleBlue": "STRIKE",
-        "footerSummary": "Drone strikes at Ust-Luga and Hormuz tanker attacks signal a sharp escalation in global maritime risk, impacting energy margins and routing."
+        "titleWhite": "CHINA SHIP",
+        "titleBlue": "TAX",
+        "footerSummary": "US postpones China ship tax as Maersk reports cyber breach and imports surge, reshaping Q4 freight strategy."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY: UST-LUGA PORT STRIKE",
+            "heading": "MARITIME: CHINA SHIP TAX",
             "paragraphs": [
-                "Ukrainian drone strikes on Russia's Baltic port of Ust-Luga have ignited large-scale fires at critical export infrastructure. Three workers were injured as the facility, a major terminal for oil and fuel shipments, faced significant structural damage overnight.",
-                "This escalation in Baltic maritime conflict directly threatens northern European energy stability and triggers immediate force majeure risks for regional liquid bulk carriers. Logistics planners must anticipate diverted tanker flows and increased insurance premiums for Baltic Sea transit routes."
+                "The United States has officially suspended punitive fees on China-linked shipping for another two months, providing temporary relief to transpacific carriers. This tactical delay averts immediate operational cost spikes for importers navigating peak season volume constraints across major trade lanes.",
+                "Logistics planners must utilize this 60-day window to reassess ocean contract exposures and model alternative routing strategies before penalty structures take effect. Supply chain executives should engage carrier partners immediately to secure favorable long-term rates ahead of upcoming negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ TANKER ATTACK ESCALATION",
+            "nextUpTease": "CYBERSECURITY: MAERSK IT BREACH",
             "tags": [
-                "Source: https://splash247.com/ukrainian-drones-strike-major-russian-baltic-export-port/",
-                "Published: 2026-11-11T09:00:00Z",
+                "Source: https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+                "Published: 2026-11-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: HORMUZ TANKER ATTACK ESCALATION",
+            "heading": "CYBERSECURITY: MAERSK IT BREACH",
             "paragraphs": [
-                "Maritime security around the Strait of Hormuz has deteriorated following reported attacks on two tankers mid-channel between Oman and Iran. This follows uncertainty regarding Iranian interference with Omani-owned navigational aids on Didamar Island, a critical checkpoint for the Traffic Separation Scheme.",
-                "The persistent threat to the world's most vital oil chokepoint forces carriers to re-evaluate war risk surcharges and vessel routing through the Middle East. Shippers should prepare for sudden capacity shifts as maritime insurance markets react to the heightening kinetic risk in the Gulf."
+                "Danish shipping giant AP Moller-Maersk has confirmed a fresh cybersecurity breach after hackers gained unauthorized access to an older IT system. While core operational platforms remain secure, the incident recalls the severe financial exposure of past disruptions that cost the company up to $300M.",
+                "This security vulnerability underscores the critical need for enterprise logistics providers to accelerate legacy system deprecation and harden digital infrastructure. Shippers must audit vendor IT resilience to prevent cascading data compromises across global freight networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: EVERGREEN SUEZ CANAL TRANSITS",
+            "nextUpTease": "CONTAINERS: RECORD US IMPORTS",
             "tags": [
-                "Source: https://maritime-executive.com/article/uncertainty-surrounds-possible-attack-on-oman-s-strait-of-hormuz-lighthouse",
-                "Published: 2026-11-10T17:40:00Z",
+                "Source: https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
+                "Published: 2026-11-12T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: EVERGREEN SUEZ CANAL TRANSITS",
+            "heading": "CONTAINERS: RECORD US IMPORTS",
             "paragraphs": [
-                "Evergreen has confirmed plans for 8 ad hoc Suez Canal and Bab-el-Mandeb transits for its Far East to Europe strings despite ongoing regional instability. This tactical shift includes 4 additional sailings specifically targeting the Red Sea market to alleviate regional equipment shortages.",
-                "The decision to return to Suez transits signals a high-stakes trade-off between reduced transit times and severe vessel safety risks. Enterprise logistics teams must weigh the benefit of faster routing against the potential for catastrophic service interruptions should regional conflict escalate further."
+                "U.S. containerized import volumes reached record levels in October as retailers and manufacturers accelerated precautionary stockpiling ahead of holiday deadlines. This sustained volume surge has kept summer-level import traffic elevated across major gateway ports well into Q4.",
+                "The prolonged peak season activity strains intermodal rail and drayage capacity, driving up dwell times and spot market container rates. Enterprise supply chain managers must coordinate closely with 3PL partners to mitigate terminal congestion and secure priority chassis availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: SPAIN NATIONWIDE GENERAL STRIKE",
+            "nextUpTease": "FINANCE: MAERSK EARNINGS GUIDANCE",
             "tags": [
-                "Source: https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
-                "Published: 2026-11-11T10:15:00Z",
+                "Source: https://www.dcvelocity.com/articles/72834-u-s-container-imports-hit-record-volume-in-october",
+                "Published: 2026-11-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LABOR: SPAIN NATIONWIDE GENERAL STRIKE",
+            "heading": "FINANCE: MAERSK EARNINGS GUIDANCE",
             "paragraphs": [
-                "A nationwide general strike has paralyzed logistics across Spain as workers stage mass protests against housing affordability and economic policy. Picket lines have boarded up retail hubs and disrupted major transport arteries, creating immediate bottlenecks at Spanish container ports and distribution centers.",
-                "The work stoppage forces a complete halt to inland freight movements and increases dwell times for European cargo destined for the Iberian Peninsula. Supply chain managers must coordinate with 3PL partners to redirect time-sensitive shipments to alternative Mediterranean gateways."
+                "Maersk has raised its full-year earnings guidance for the third consecutive time, driven by resilient freight rates and a robust fourth-quarter outlook. CEO Vincent Clerc highlighted that the current high-rate environment strengthens carrier positions heading into upcoming 2027 contract renewals.",
+                "This sustained profitability among ocean carriers limits shipper leverage in upcoming annual service contract negotiations on key trade lanes. Logistics procurement teams must deploy data-driven rate benchmarking and flexible volume commitments to protect freight budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: CBP FOREIGN IMPORTER SCRUTINY",
+            "nextUpTease": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
             "tags": [
-                "Source: https://www.cnbc.com/2026/11/10/general-strikes-to-paralyze-spain-as-protestors-clash-with-police.html",
-                "Published: 2026-11-10T22:00:00Z",
+                "Source: https://www.joc.com/article/maersk-raises-earnings-guidance-third-time-freight-rates-strong-q4-outlook",
+                "Published: 2026-11-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: CBP FOREIGN IMPORTER SCRUTINY",
+            "heading": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
             "paragraphs": [
-                "U.S. Customs and Border Protection has issued an interim rule designed to heighten scrutiny of foreign importers utilizing automated entry systems. The new framework demands more rigorous documentation for non-resident entities to prevent duty evasion and strengthen supply chain visibility.",
-                "This regulatory shift increases the administrative burden for international shippers and raises the risk of entry rejections or extended cargo examinations at U.S. ports. Importers must audit their compliance documentation immediately to ensure zero friction during the transition to these stricter reporting standards."
+                "Kodiak AI has announced plans to integrate retrofitted autonomous tractors from three major manufacturers including International Motors and Peterbilt by the second half of 2027. This multi-platform hardware strategy accelerates commercial scalability for driverless freight operations across long-haul highway corridors.",
+                "Fleet operators investing in autonomous readiness can anticipate significant labor cost reductions and improved asset utilization on repetitive interstate routes. Motor carriers must evaluate integration pathways for retrofit kits to maintain competitive linehaul efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: I-80 TUNNEL CAPACITY UPGRADES",
+            "nextUpTease": "FUEL: DIESEL PRICE SLIDE",
             "tags": [
-                "Source: https://www.joc.com/article/cbp-issues-interim-rule-heighten-scrutiny-foreign-importers",
-                "Published: 2026-11-10T15:30:00Z",
+                "Source: https://www.ttnews.com/articles/kodiak-international-tractors-autonomous",
+                "Published: 2026-11-10T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE: I-80 TUNNEL CAPACITY UPGRADES",
+            "heading": "FUEL: DIESEL PRICE SLIDE",
             "paragraphs": [
-                "Wyoming DOT is launching a major project to upgrade the 60-year-old Green River tunnels on Interstate 80 to accommodate modern freight volumes. The project on this vital transcontinental artery will involve significant lane restrictions and temporary closures during the construction phase.",
-                "As I-80 serves as a primary corridor for West Coast to Midwest freight, these upgrades will trigger localized congestion and increased transit times for motor carriers. Fleet operators should integrate real-time traffic data into dispatch algorithms to mitigate the impact of infrastructure-related delays."
+                "National diesel fuel benchmarks and crude oil prices have touched three-month lows following post-election market stabilization and easing supply pressures. Brent crude fell 3.1% to $89.67 a barrel, providing immediate relief to motor carrier operating margins.",
+                "While lower fuel surcharges reduce immediate linehaul expenses for shippers, fluctuating global energy forecasts require dynamic carrier contract adjustments. Fleet managers should lock in fuel hedging strategies to protect against winter heating oil demand spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: USPS $2.5B FISCAL LOSS",
+            "nextUpTease": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
             "tags": [
-                "Source: https://www.ttnews.com/articles/wyoming-green-river-tunnels-i-80",
-                "Published: 2026-11-09T18:00:00Z",
+                "Source: https://www.ttnews.com/articles/oil-prices-touch-lowest-level-3-months",
+                "Published: 2026-11-10T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCE: USPS $2.5B FISCAL LOSS",
+            "heading": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
             "paragraphs": [
-                "The United States Postal Service has reported a $2.5B net loss for fiscal year 2026 despite achieving a 3% increase in operating revenue to $82.9B. Sustained inflation and high labor costs continue to outpace the results of ongoing cost-cutting initiatives and package volume growth.",
-                "The deepening fiscal deficit of the national postal carrier threatens long-term stability for e-commerce last-mile delivery networks. Shippers relying on USPS for high-volume parcel distribution should evaluate secondary carrier backups to protect against potential service reductions or further rate hikes."
+                "The Federal Maritime Commission has announced an upcoming research symposium focused on demurrage and detention billing practices scheduled for March 2027. This regulatory initiative builds on prior federal rulings designed to ensure penalty fees actively promote freight fluidity rather than revenue generation.",
+                "Importers and exporters burdened by terminal storage fees should prepare detailed billing audits to participate in upcoming federal compliance reviews. Shippers can leverage these regulatory frameworks to contest unfair port charges and recover disputed container detention costs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/usps_reports_2.5_billion_fy_2026_loss",
-                "Published: 2026-11-11T08:45:00Z",
+                "Source: https://www.fmc.gov/fmc-will-host-a-research-symposium-on-demurrage-and-detention/",
+                "Published: 2026-11-02T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
