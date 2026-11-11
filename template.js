@@ -1,80 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK THIRD TIME EARNINGS",
-        "titleBlue": "GUIDANCE",
-        "footerSummary": "Maersk raises guidance for the third time amid high freight rates, while NRF projects U.S. imports to remain elevated through 2026."
+        "titleWhite": "ASIA US WEST COAST RATES UP",
+        "titleBlue": "343%",
+        "footerSummary": "Asia to US West Coast ocean container spot rates surge 343% since the start of the Iran war, amplifying supply chain margin pressures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK RAISES EARNINGS GUIDANCE",
+            "heading": "MARITIME: ASIA US WEST COAST RATES UP 343%",
             "paragraphs": [
-                "A.P. Moller-Maersk has elevated its full-year earnings guidance for the third consecutive time, driven by persistent high spot rates and a robust fourth-quarter outlook. CEO Vincent Clerc indicated that the current high-rate environment successfully supports strong contract renewals heading into 2027, particularly across major Asia-Europe trade lanes.",
-                "Shippers face continued financial exposure as carrier pricing power remains firmly entrenched despite fluctuating container volumes. Logistics procurement teams must recalibrate annual transport budgets to account for sustained premium rate structures across global maritime networks."
+                "Asia to US West Coast ocean container spot rates have skyrocketed 343% since the onset of the Iran conflict, driven by severe regional vessel rerouting and heightened maritime security risks. Xeneta analysts report that carriers are successfully capturing unprecedented premiums as shippers scramble for guaranteed vessel allocations across vital transpacific trade lanes.",
+                "This extraordinary rate escalation severely compresses profit margins for enterprise importers relying on maritime transport from Asian manufacturing hubs. Logistics procurement teams must rapidly restructure annual freight budgets and evaluate alternative routing strategies to mitigate escalating ocean transport costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
+            "nextUpTease": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
             "tags": [
-                "Source: https://www.joc.com/article/maersk-raises-earnings-guidance-for-third-time-on-freight-rates-strong-q4-outlook_20261110.html",
-                "Published: 2026-11-10T11:00:00Z",
+                "Source: https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta",
+                "Published: 2026-11-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
+            "heading": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
             "paragraphs": [
-                "The National Retail Federation reports that U.S. import cargo volumes will stay elevated through the remainder of 2026 following an extended and highly active peak shipping season. Despite broader economic headwinds, major container ports continue handling robust inbound flows as retailers front-load inventory to mitigate supply chain volatility.",
-                "Supply chain planners must maintain flexible distribution networks and warehouse capacity to absorb sustained cargo surges without incurring excessive detention fees. This prolonged volume plateau challenges traditional seasonal lull expectations and requires proactive terminal management."
+                "UPS has initiated formal legal action against US Customs and Border Protection at the US Court of International Trade to recover tariff payments collected under contested administrative frameworks. The litigation targets systemic overreach in how customs duties are assessed and processed through automated entry systems.",
+                "Corporate supply chain legal teams should closely monitor this landmark proceeding to determine potential eligibility for duty refunds on historical import entries. Successful challenges against CBP collection practices could unlock substantial capital recovery opportunities for high-volume international importers."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: C.H. ROBINSON ACQUIRES RXO",
+            "nextUpTease": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
             "tags": [
-                "Source: https://www.freightwaves.com/news/retailers-forecast-u-s-imports-to-stay-elevated-through-2026-after-breakout-peak-season",
-                "Published: 2026-11-10T09:15:00Z",
+                "Source: https://theloadstar.com/ups-in-court-bid-to-recover-tariff-payments-ruled-unlawful/",
+                "Published: 2026-11-10T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: C.H. ROBINSON ACQUIRES RXO",
+            "heading": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
             "paragraphs": [
-                "C.H. Robinson has entered into a definitive agreement to acquire RXO in a massive $5.8B cash-and-stock transaction designed to reshape third-party logistics market share. The strategic combination significantly expands C.H. Robinson's footprint in expedited transportation and last-mile delivery services, with the transaction expected to close in the first half of 2027.",
-                "Shippers utilizing these provider networks should evaluate how upcoming corporate integration efforts might impact service level agreements and brokerage pricing models. Industry consolidation continues to concentrate market power, leaving fewer independent enterprise brokers to manage complex multimodal freight requirements."
+                "An elaborate cargo heist in California resulted in the theft of 6 pallets of high-value Nvidia hardware valued at $11.4M while in transit from Oakland to Fort Worth. Law enforcement agencies have confirmed that a fraudulent trucker collected the sensitive electronics shipment on August 29, and local authorities have yet to execute an arrest.",
+                "This high-profile cargo theft exposes severe vulnerabilities in domestic transport security protocols for high-tech microchip shipments moving across long-haul routes. Shippers of premium technology assets must enforce rigorous carrier vetting procedures and mandate real-time GPS tracking to prevent catastrophic cargo losses."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: FMC HOSTS DEMURRAGE SYMPOSIUM",
+            "nextUpTease": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
-                "Published: 2026-11-10T08:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-11-10T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: FMC HOSTS DEMURRAGE SYMPOSIUM",
+            "heading": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
             "paragraphs": [
-                "The Federal Maritime Commission has formally announced a comprehensive research symposium scheduled for March 31, 2027, focusing specifically on demurrage and detention billing practices. The initiative builds upon ongoing regulatory efforts to ensure container terminal fees genuinely promote freight fluidity rather than serving as punitive revenue generators for carriers.",
-                "Import and export managers must document terminal delays meticulously to leverage upcoming FMC compliance frameworks and dispute unwarranted detention charges. Active participation in regulatory proceedings provides beneficial leverage for enterprises seeking relief from mounting port congestion costs."
+                "International belly-cargo operations at Shenzhen Bao'an Airport face immediate suspension during security protocols implemented for the regional APEC summit. The temporary grounding eliminates hundreds of tons of weekly export capacity from South China during a critical peak shipping window.",
+                "Freight forwarders are actively redirecting time-sensitive electronics and retail goods to alternative gateways in Hong Kong and Guangzhou, triggering localized spot rate spikes. Enterprise supply chain managers must secure dedicated air charter capacity early to avoid severe transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
-            "tags": [
-                "Source: https://www.fmc.gov/fmc-will-host-a-research-symposium-on-demurrage-and-detention/",
-                "Published: 2026-11-02T10:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
-            "paragraphs": [
-                "International belly-cargo operations at Shenzhen Bao'an Airport face immediate suspension due to heightened security protocols implemented ahead of the upcoming APEC summit. The temporary prohibition removes hundreds of tons of weekly cargo capacity from the South China export market during a critical peak shipping window.",
-                "Freight forwarders are aggressively redirecting time-sensitive electronics shipments to alternative hubs in Hong Kong and Guangzhou, driving up regional air bridge spot rates. Logistics operators must secure dedicated freighter allocations promptly to prevent critical supply chain bottlenecks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
+            "nextUpTease": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
             "tags": [
                 "Source: https://theloadstar.com/shenzhen-belly-cargo-ban-threatens-peak-season-squeeze-at-other-gateways/",
                 "Published: 2026-11-10T08:20:00Z",
@@ -82,14 +67,14 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
+            "id": 5,
+            "heading": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
             "paragraphs": [
-                "Autonomous trucking developer Kodiak AI has announced plans to integrate retrofitted autonomous tractors from three major commercial truck manufacturers in the second half of 2027. The expansion encompasses vehicle platforms from International Motors, Peterbilt, and Western Star, broadening commercial deployment options for fleet operators.",
-                "Carriers evaluating autonomous linehaul integration must assess safety compliance frameworks and capital expenditure requirements against persistent driver recruitment shortages. Adopting autonomous freight technologies early provides a distinct competitive advantage in long-haul cost reduction."
+                "Autonomous vehicle developer Kodiak AI has announced plans to integrate retrofitted autonomous tractors from International Motors, Peterbilt, and Western Star in the second half of 2027. This multi-platform expansion significantly broadens commercial deployment opportunities for nationwide freight carriers seeking scalable automated linehaul solutions.",
+                "Fleet operators evaluating autonomous freight integration must balance capital expenditure requirements against persistent commercial driver recruitment shortages and rising labor expenses. Early adoption of autonomous trucking technology offers a clear pathway to long-term operating cost reduction."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CETUS SECURES $175M FINANCING",
+            "nextUpTease": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
             "tags": [
                 "Source: https://www.ttnews.com/articles/kodiak-to-add-international-tractors-to-autonomous-options",
                 "Published: 2026-11-10T08:00:00Z",
@@ -97,17 +82,32 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "MARITIME: CETUS SECURES $175M FINANCING",
+            "id": 6,
+            "heading": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
             "paragraphs": [
-                "Hong Kong-based dry bulk owner Cetus Maritime has successfully secured $175M in private placement funding backed by prominent shipping investment heavyweights. The capital injection prepares the enterprise for a planned public listing on the Oslo stock exchange later this month, highlighting continued institutional interest in dry bulk assets.",
-                "Fleet expansion by major operators signals strategic confidence in long-term global commodity trade demand despite ongoing geopolitical and supply chain disruptions. Maritime charterers should monitor vessel supply dynamics closely as well-capitalized owners consolidate market share across major trade corridors."
+                "A Maersk-operated container vessel struck and brought down a ship-to-shore crane while berthing at China's Yantian port, causing immediate terminal disruptions. The structural collapse has temporarily disabled a key berth at one of the world's busiest container terminals during peak seasonal throughput.",
+                "Supply chain planners must anticipate cascading vessel turnaround delays and container dwell time increases across South China maritime export gateways. Shippers with cargo routed through Yantian should coordinate with ocean carriers regarding rescheduled vessel strings and terminal diversions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ENERGY: DIESEL AND GASOLINE FORECASTS",
+            "tags": [
+                "Source: https://splash247.com/maersk-boxship-knockdown-crane-at-yantian/",
+                "Published: 2026-11-10T07:45:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ENERGY: DIESEL AND GASOLINE FORECASTS",
+            "paragraphs": [
+                "The US Energy Information Administration has officially raised price forecasts for diesel and gasoline heading into 2027 following persistent Middle East supply disruptions. International benchmark crude oil prices recently dipped 3.1% to $89.67 a barrel, yet refined retail fuel remains elevated due to tight global processing capacity.",
+                "Fleet operators face sustained fuel surcharge volatility that directly impacts linehaul operating margins across both motor carrier and intermodal networks. Logistics procurement teams must incorporate dynamic fuel indexing into carrier contract negotiations to maintain budgetary control."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/shipping-heavyweights-back-cetus-175m-oslo-listing/",
-                "Published: 2026-11-10T07:30:00Z",
+                "Source: https://www.ttnews.com/articles/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+                "Published: 2026-11-10T07:15:00Z",
                 "Status: Audited & True"
             ]
         }

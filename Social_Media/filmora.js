@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK RAISES EARNINGS GUIDANCE",
-                "teaserTitle": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
-                "visual_caption": "Maersk raises annual earnings guidance for the third time on persistent spot rate strength. Favorable contract renewals support carriers heading into 2027."
+                "headline": "MARITIME: ASIA US WEST COAST RATES UP 343%",
+                "teaserTitle": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
+                "visual_caption": "Asia to US West Coast ocean container spot rates have surged 343% since the start of the Iran conflict. Carriers are capturing record premiums as shippers scramble for vessel allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: NRF FORECASTS ELEVATED U.S. IMPORTS",
-                "teaserTitle": "LOGISTICS: C.H. ROBINSON ACQUIRES RXO",
-                "visual_caption": "NRF forecasts U.S. import cargo volumes to stay elevated through the end of 2026. Retailers continue front-loading inventory to mitigate supply chain volatility."
+                "headline": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
+                "teaserTitle": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "visual_caption": "UPS has launched legal action against US Customs and Border Protection over unlawful tariff collections. The lawsuit challenges automated entry processes and opens potential duty refund pathways for importers."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: C.H. ROBINSON ACQUIRES RXO",
-                "teaserTitle": "REGULATION: FMC HOSTS DEMURRAGE SYMPOSIUM",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock merger. The deal expands expedited transport networks with closing set for H1 2027."
+                "headline": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "teaserTitle": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
+                "visual_caption": "An $11.4M Nvidia hardware shipment was stolen en route from Oakland to Fort Worth. The theft exposes critical security vulnerabilities in long-haul domestic electronics transport."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: FMC HOSTS DEMURRAGE SYMPOSIUM",
-                "teaserTitle": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
-                "visual_caption": "FMC announces a research symposium on demurrage and detention billing practices. The regulatory initiative targets container shipping transparency and port fluidity."
+                "headline": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
+                "teaserTitle": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
+                "visual_caption": "Shenzhen Bao'an Airport has suspended international belly-cargo operations ahead of the APEC summit. Freight forwarders are redirecting time-sensitive shipments to alternative hubs in Hong Kong."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: SHENZHEN APEC CAPACITY SQUEEZE",
-                "teaserTitle": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
-                "visual_caption": "Shenzhen airport suspends belly-cargo operations during the upcoming APEC summit. Shippers divert high-value electronics freight to alternative regional gateways."
+                "headline": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
+                "teaserTitle": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
+                "visual_caption": "Kodiak AI will integrate retrofitted autonomous tractors from 3 major commercial truck manufacturers next year. Fleet operators are adopting autonomous tech to combat persistent driver shortages."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: KODIAK EXPANDS AUTONOMOUS FLEET",
-                "teaserTitle": "MARITIME: CETUS SECURES $175M FINANCING",
-                "visual_caption": "Kodiak AI expands autonomous tractor options to include International Motors in 2027. Fleets accelerate automated linehaul adoption to counter driver shortages."
+                "headline": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
+                "teaserTitle": "ENERGY: DIESEL AND GASOLINE FORECASTS",
+                "visual_caption": "A Maersk containership struck and toppled a ship-to-shore crane at Yantian port during berthing operations. The structural collapse threatens vessel turnaround times across South China export gateways."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: CETUS SECURES $175M FINANCING",
+                "headline": "ENERGY: DIESEL AND GASOLINE FORECASTS",
                 "teaserTitle": "",
-                "visual_caption": "Cetus Maritime secures $175M in private placement funding ahead of an Oslo listing. Dry bulk operators consolidate asset strength amid growing commodity demand."
+                "visual_caption": "The US government has raised benchmark price forecasts for diesel and gasoline through the coming year. Fleet operators face ongoing fuel cost volatility across major transport networks."
             },
             {
                 "slide_index": 8,
