@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA US WEST COAST RATES UP 343%",
-                "teaserTitle": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
-                "visual_caption": "Asia to US West Coast ocean container spot rates have surged 343% since the start of the Iran conflict. Carriers are capturing record premiums as shippers scramble for vessel allocations."
+                "headline": "ENERGY: UST-LUGA PORT STRIKE",
+                "teaserTitle": "HORMUZ TANKER ATTACK ESCALATION",
+                "visual_caption": "Drone strikes at Russia's Ust-Luga port have sparked fires at key oil terminals. Shippers face force majeure risks and rising insurance premiums in the Baltic."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
-                "teaserTitle": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
-                "visual_caption": "UPS has launched legal action against US Customs and Border Protection over unlawful tariff collections. The lawsuit challenges automated entry processes and opens potential duty refund pathways for importers."
+                "headline": "SECURITY: HORMUZ TANKER ATTACK ESCALATION",
+                "teaserTitle": "EVERGREEN SUEZ CANAL TRANSITS",
+                "visual_caption": "Two tankers were attacked in the Strait of Hormuz amid rising regional tensions. Carriers are re-evaluating war risk surcharges for the world's most vital chokepoint."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
-                "teaserTitle": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
-                "visual_caption": "An $11.4M Nvidia hardware shipment was stolen en route from Oakland to Fort Worth. The theft exposes critical security vulnerabilities in long-haul domestic electronics transport."
+                "headline": "MARITIME: EVERGREEN SUEZ CANAL TRANSITS",
+                "teaserTitle": "SPAIN NATIONWIDE GENERAL STRIKE",
+                "visual_caption": "Evergreen initiates 8 ad hoc Suez transits to mitigate regional equipment shortages. Logistics teams must weigh reduced transit times against extreme vessel safety risks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
-                "teaserTitle": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
-                "visual_caption": "Shenzhen Bao'an Airport has suspended international belly-cargo operations ahead of the APEC summit. Freight forwarders are redirecting time-sensitive shipments to alternative hubs in Hong Kong."
+                "headline": "LABOR: SPAIN NATIONWIDE GENERAL STRIKE",
+                "teaserTitle": "CBP FOREIGN IMPORTER SCRUTINY",
+                "visual_caption": "A general strike in Spain has paralyzed logistics and inland freight corridors. Shippers must redirect Mediterranean cargo to avoid cascading dwell times at Spanish ports."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
-                "teaserTitle": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
-                "visual_caption": "Kodiak AI will integrate retrofitted autonomous tractors from 3 major commercial truck manufacturers next year. Fleet operators are adopting autonomous tech to combat persistent driver shortages."
+                "headline": "COMPLIANCE: CBP FOREIGN IMPORTER SCRUTINY",
+                "teaserTitle": "I-80 TUNNEL CAPACITY UPGRADES",
+                "visual_caption": "CBP interim rules heighten scrutiny for foreign importers to prevent duty evasion. Importers must audit compliance data to prevent rejections or extended cargo exams."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
-                "teaserTitle": "ENERGY: DIESEL AND GASOLINE FORECASTS",
-                "visual_caption": "A Maersk containership struck and toppled a ship-to-shore crane at Yantian port during berthing operations. The structural collapse threatens vessel turnaround times across South China export gateways."
+                "headline": "INFRASTRUCTURE: I-80 TUNNEL CAPACITY UPGRADES",
+                "teaserTitle": "USPS $2.5B FISCAL LOSS",
+                "visual_caption": "Wyoming begins I-80 tunnel upgrades to support modern transcontinental freight volumes. Expect lane restrictions and congestion on this primary West Coast-to-Midwest artery."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: DIESEL AND GASOLINE FORECASTS",
-                "teaserTitle": "",
-                "visual_caption": "The US government has raised benchmark price forecasts for diesel and gasoline through the coming year. Fleet operators face ongoing fuel cost volatility across major transport networks."
+                "headline": "FINANCE: USPS $2.5B FISCAL LOSS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "USPS reports a $2.5B fiscal loss despite a 3% revenue increase to $82.9B. Shippers must diversify last-mile carriers to protect against potential service reductions."
             },
             {
                 "slide_index": 8,

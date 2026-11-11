@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ASIA US WEST COAST RATES UP THREE HUNDRED FORTY THREE PERCENT",
+        "hookTitle": "UST-LUGA PORT STRIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA US WEST COAST RATES UP 343%",
-                "teaserTitle": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
+                "headline": "ENERGY: UST-LUGA PORT STRIKE",
+                "teaserTitle": "HORMUZ TANKER ATTACK ESCALATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Asia to US West Coast ocean container spot rates have surged three hundred forty three percent since the start of the Iran conflict. Carriers are capturing record premiums as shippers scramble for vessel allocations."
+                "narration_line": "Ukrainian drone strikes hit Russia's Ust-Luga port, causing large fires at critical oil terminals. This escalation threatens energy stability and increases insurance premiums for Baltic Sea transit."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: UPS SUES CBP OVER UNLAWFUL TARIFFS",
-                "teaserTitle": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
+                "headline": "SECURITY: HORMUZ TANKER ATTACK ESCALATION",
+                "teaserTitle": "EVERGREEN SUEZ CANAL TRANSITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "UPS has launched legal action against US Customs and Border Protection over unlawful tariff collections. The lawsuit challenges automated entry processes and opens potential duty refund pathways for importers."
+                "narration_line": "Maritime security in the Strait of Hormuz has collapsed as two tankers were attacked mid-channel. Carriers are now re-evaluating war risk surcharges and routing through this vital global oil chokepoint."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: $11.4M NVIDIA HARDWARE THEFT",
-                "teaserTitle": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
+                "headline": "MARITIME: EVERGREEN SUEZ CANAL TRANSITS",
+                "teaserTitle": "SPAIN NATIONWIDE GENERAL STRIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "An eleven point four million dollar Nvidia hardware shipment was stolen en route from Oakland to Fort Worth. The theft exposes critical security vulnerabilities in long-haul domestic electronics transport."
+                "narration_line": "Evergreen is planning eight ad hoc Suez Canal transits despite regional conflict. This shift targets equipment shortages but exposes vessels to severe safety risks in the Red Sea."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN BELLY CARGO BAN",
-                "teaserTitle": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
+                "headline": "LABOR: SPAIN NATIONWIDE GENERAL STRIKE",
+                "teaserTitle": "CBP FOREIGN IMPORTER SCRUTINY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Shenzhen Baoan Airport has suspended international belly-cargo operations ahead of the APEC summit. Freight forwarders are redirecting time-sensitive shipments to alternative hubs in Hong Kong."
+                "narration_line": "A general strike in Spain has paralyzed inland freight and boarded up retail hubs. Logistics leaders must redirect cargo to alternative Mediterranean ports to avoid massive dwell time increases."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: KODIAK EXPANDS TRACTOR OPTIONS",
-                "teaserTitle": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
+                "headline": "COMPLIANCE: CBP FOREIGN IMPORTER SCRUTINY",
+                "teaserTitle": "I-80 TUNNEL CAPACITY UPGRADES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Kodiak AI will integrate retrofitted autonomous tractors from three major commercial truck manufacturers next year. Fleet operators are adopting autonomous tech to combat persistent driver shortages."
+                "narration_line": "U. S. Customs has issued new rules for foreign importers to prevent duty evasion. Shippers must audit documentation immediately to avoid cargo examinations and administrative delays at the border."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: YANTIAN CRANE COLLISION INCIDENT",
-                "teaserTitle": "ENERGY: DIESEL AND GASOLINE FORECASTS",
+                "headline": "INFRASTRUCTURE: I-80 TUNNEL CAPACITY UPGRADES",
+                "teaserTitle": "USPS $2.5B FISCAL LOSS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A Maersk containership struck and toppled a ship-to-shore crane at Yantian port during berthing operations. The structural collapse threatens vessel turnaround times across South China export gateways."
+                "narration_line": "Wyoming is upgrading sixty-year-old tunnels on Interstate eighty to handle modern freight volumes. Shippers should expect significant lane restrictions and congestion on this vital transcontinental artery."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: DIESEL AND GASOLINE FORECASTS",
-                "teaserTitle": "",
+                "headline": "FINANCE: USPS $2.5B FISCAL LOSS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The US government has raised benchmark price forecasts for diesel and gasoline through the coming year. Fleet operators face ongoing fuel cost volatility across major transport networks."
+                "narration_line": "The Postal Service reported a two point five billion dollar loss for fiscal year twenty-twenty-six. High labor costs threaten the stability of last-mile networks, requiring shippers to find secondary carrier backups."
             },
             {
                 "slide_index": 8,
