@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CYBERSECURITY: MAERSK SYSTEM BREACH",
-                "teaserTitle": "MARITIME: CHINA SHIP TAX DELAY",
-                "visual_caption": "Danish carrier AP Moller-Maersk confirmed a cybersecurity breach after hackers infiltrated legacy systems and extracted internal data. Shippers must immediately audit API keys and EDI connections to prevent downstream trade data leakage."
+                "headline": "TRADE POLICY: MEXICO TARIFF THREAT",
+                "teaserTitle": "MARITIME: HORMUZ CRISIS LETHALITY",
+                "visual_caption": "Trump threatens 100% tariffs on Mexico citing migrant influx concerns. Potential hike targets critical manufacturing corridors and USMCA trade stability."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CHINA SHIP TAX DELAY",
-                "teaserTitle": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
-                "visual_caption": "The US government has delayed the proposed $1M tax on China-built vessels until January 2027. Ocean freight buyers gain a 60-day operational buffer to secure Q4 transpacific container volumes without penalty fees."
+                "headline": "MARITIME: HORMUZ CRISIS LETHALITY",
+                "teaserTitle": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
+                "visual_caption": "Conflict in the Strait of Hormuz has caused 25 seafarer deaths since Feb. Daily attacks trigger extreme security surcharges and vessel rerouting."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
-                "teaserTitle": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
-                "visual_caption": "Maritime authorities issued an urgent warning after armed pirates boarded 3 merchant vessels in the Singapore Strait over 9 days. Carriers are enforcing 24/7 security watches and tactical transit speeds, triggering localized scheduling friction."
+                "headline": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
+                "teaserTitle": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
+                "visual_caption": "General strike in Spain causes cargo backlogs at Algeciras and Barcelona. Mediterranean transit times are extending by 72 hours as terminals normalize."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
-                "teaserTitle": "CARGO THEFT: NVIDIA SILICON HIJACKING",
-                "visual_caption": "Cyber syndicate Whitearmor breached major freight brokerages including J.B. Hunt, Ryder, and Echo Global Logistics. Logistics teams must enforce multi-factor carrier verification to protect load booking portals from systemic fraud."
+                "headline": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
+                "teaserTitle": "ROAD FREIGHT: TRUCK RATE RECOVERY",
+                "visual_caption": "GXO to deploy 1,000 Apptronik humanoid robots for picking and sorting. Strategy aims to stabilize labor costs in global high-volume fulfillment hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "CARGO THEFT: NVIDIA SILICON HIJACKING",
-                "teaserTitle": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
-                "visual_caption": "Cargo thieves hijacked an $11.4M shipment containing 6 pallets of Nvidia computing equipment between Oakland and Fort Worth. Shippers of high-value electronics must deploy active GPS tracking and dedicated security escorts on vulnerable corridors."
+                "headline": "ROAD FREIGHT: TRUCK RATE RECOVERY",
+                "teaserTitle": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
+                "visual_caption": "US truckers leverage rising costs to drive freight rate recovery in Q3. Capacity constraints shift pricing power as low-cost capacity becomes scarce."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
-                "teaserTitle": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
-                "visual_caption": "CN Railway and Strathcona Resources announced a dedicated crude-by-rail logistics network connecting Western Canada to Gulf Coast refineries. The joint infrastructure project secures critical energy capacity while tightening mainline rail availability for manifest carloads."
+                "headline": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
+                "teaserTitle": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
+                "visual_caption": "Seanergy commits $855M to expand Capesize fleet for bulk commodity routes. Move signals long-term confidence in global iron ore and coal demand."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+                "headline": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Hapag-Lloyd unveiled its standalone Asia-Mexico AMX container string to support accelerating nearshoring trade demand. The dedicated direct service bypasses alliance transshipment hubs, providing reliable transit schedules for automotive and manufacturing supply chains."
+                "visual_caption": "US midterm shift adds uncertainty to trans-Pacific trade and tariff policies. Forwarders advise agile routing as new legislative focuses impact port funding."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK SYSTEM",
-        "titleBlue": "BREACH",
-        "footerSummary": "Maersk reports system breach as US delays China ship tax and Whitearmor hackers hit major freight brokerages."
+        "titleWhite": "MEXICO TARIFF",
+        "titleBlue": "THREAT",
+        "footerSummary": "Trump threatens 100% Mexico tariffs as seafarer deaths hit 25 in Hormuz and Spain strike causes Mediterranean backlog."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CYBERSECURITY: MAERSK SYSTEM BREACH",
+            "heading": "TRADE POLICY: MEXICO TARIFF THREAT",
             "paragraphs": [
-                "Danish container shipping line AP Moller-Maersk confirmed an unauthorized cybersecurity breach after threat actors accessed legacy IT systems and extracted data. The intrusion comes as digital supply chain infrastructure faces renewed probing from persistent criminal syndicates targeting global logistics data pipelines. Maersk reported that core commercial booking engines, ocean vessel operations, and marine container terminals remain active and unaffected.",
-                "While immediate booking and container movements proceed normally, risk management directors face heightened audit exposure across connected trade platforms. Cargo owners must immediately inspect EDI integrations, API security tokens, and forwarder portals to safeguard commercial shipping manifests from downstream exploitation."
+                "Donald Trump has issued a formal threat to double existing tariffs on Mexican imports, citing concerns over migrant influx across the southern border. This potential 100% duty hike targets one of the most critical cross-border manufacturing corridors in North America, threatening the stability of the USMCA trade framework.",
+                "Logistics directors must prepare for immediate cost volatility as nearshoring hubs face significant fiscal barriers. Strategic sourcing teams should evaluate secondary transshipment options or expedited customs bonded storage to mitigate sudden tax-driven margin erosion across automotive and electronics sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CHINA SHIP TAX DELAY",
+            "nextUpTease": "MARITIME: HORMUZ CRISIS LETHALITY",
             "tags": [
-                "Source: https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
-                "Published: 2026-11-12T08:30:00Z",
+                "Source: https://www.ttnews.com/articles/trump-mexico-tariffs-migrants",
+                "Published: 2026-11-12T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: CHINA SHIP TAX DELAY",
+            "heading": "MARITIME: HORMUZ CRISIS LETHALITY",
             "paragraphs": [
-                "Federal trade authorities have officially postponed the proposed $1M docking tax targeting Chinese-built commercial vessels until January 2027. The administrative deferral follows intense lobbying from maritime shipping groups warning that unilateral assessment fees would immediately inflate ocean spot rates and destabilize container flow across West Coast hubs. The temporary reprieve pauses an imminent cost shock across major transpacific maritime trade lanes.",
-                "Importers and BCOs gain a 60-day strategic window to process pre-holiday inventory and lock in Q4 ocean contracts without sudden port fee surcharges. Logistics procurement teams should optimize routing schedules now while structuring alternative transshipment contingencies to protect 2027 landed cost margins."
+                "The International Maritime Organization issued an urgent safety reminder as the US-Iran conflict in the Strait of Hormuz has resulted in at least 25 seafarer fatalities since February. Daily attacks on foreign-flag vessels have reached a lethal threshold, compromising one of the world's primary energy chokepoints.",
+                "Ocean carriers are rerouting tonnage and implementing extreme security surcharges to account for heightened marine insurance premiums. Shippers utilizing Persian Gulf lanes must account for unpredictable transit delays and potential force majeure declarations by major vessel operators due to active kinetic risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
+            "nextUpTease": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
-                "Published: 2026-11-11T16:45:00Z",
+                "Source: https://maritime-executive.com/article/imo-calls-for-all-parties-in-hormuz-crisis-to-respect-seafarer-safety",
+                "Published: 2026-11-12T16:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
+            "heading": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
             "paragraphs": [
-                "Regional maritime security bureaus issued an urgent navigational alert after armed perpetrators boarded 3 merchant vessels in the Singapore Strait within a 9-day span, injuring 1 seafarer. The rapid escalation of boarding incidents signals compromised transit security along one of the world's most congested maritime chokepoints. Commercial carriers are implementing intensified anti-boarding protocols across eastbound and westbound sea corridors.",
-                "Ocean carriers transiting regional straits face operational friction from mandatory convoy formation, tactical speed adjustments, and elevated marine insurance surcharges. Cargo owners must anticipate secondary transit delays and coordinate with vessel operators to account for lengthened transit schedules across Southeast Asian maritime lanes."
+                "Container terminals across Spain are grappling with massive cargo backlogs following a nationwide general strike that halted operations at Algeciras, Barcelona, and Valencia. Box ships are currently holding at anchor as terminal operators struggle to restore gate fluidness and vessel berthing schedules following the total stoppage.",
+                "The sudden operational pause is disrupting Mediterranean feeder networks and extending trans-Atlantic transit times by up to 72 hours. Logistics managers should prioritize high-value containers for first-out processing while coordinating with ground haulage to clear inland terminal congestion once labor resumes full capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
+            "nextUpTease": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
             "tags": [
-                "Source: https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
-                "Published: 2026-11-12T09:15:00Z",
+                "Source: https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/",
+                "Published: 2026-11-12T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
+            "heading": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
             "paragraphs": [
-                "A cybercrime syndicate operating under the moniker Whitearmor breached multiple major freight brokerages, targeting enterprise networks at J.B. Hunt, Ryder, and Echo Global Logistics. The coordinated digital assault compromised freight platform credentials and prompted federal class action filings by affected personnel. Law enforcement agencies are tracking sophisticated credential-stuffing campaigns aimed at automated freight-matching interfaces.",
-                "Shippers and intermediary brokers must overhaul load tendering verification protocols to prevent carrier impersonation and unauthorized load reassignments. Enterprise freight procurement teams must mandate multi-factor carrier authentication and real-time bank account validation to insulate freight settlement pipelines from systemic payment redirection fraud."
+                "GXO Logistics has announced a strategic plan to deploy up to 1,000 Apptronik humanoid robots across its global warehouse network over the next 4 years. This large-scale integration focuses on automating repetitive picking and sorting tasks to stabilize labor costs in high-volume fulfillment centers.",
+                "The deployment signals a shift toward deep robotic autonomy in tertiary logistics, reducing reliance on seasonal labor markets. Supply chain architects must evaluate the capital expenditure of humanoid automation against long-term operational savings and improved throughput consistency in automated facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO THEFT: NVIDIA SILICON HIJACKING",
+            "nextUpTease": "ROAD FREIGHT: TRUCK RATE RECOVERY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/new-cyber-thief-gang-targets-transports-hunt-ryder-and-echo-hit",
-                "Published: 2026-11-11T18:20:00Z",
+                "Source: https://www.dcvelocity.com/articles/robotics-gxo-could-deploy-1000-apptronik-humanoid-robots",
+                "Published: 2026-11-12T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CARGO THEFT: NVIDIA SILICON HIJACKING",
+            "heading": "ROAD FREIGHT: TRUCK RATE RECOVERY",
             "paragraphs": [
-                "Freight theft investigators launched an inquiry into the coordinated transit heist of 6 pallets containing $11.4M in high-performance Nvidia computing equipment moving from Oakland to Fort Worth. The high-value semiconductor shipment vanished along the interstate corridor without recovery, highlighting targeted criminal intelligence penetration of premium freight networks. Authorities have made zero arrests as organized cargo theft rings increasingly target artificial intelligence hardware.",
-                "High-tech manufacturers and specialized carriers face steep escalations in risk mitigation costs, including mandatory dual-driver teams and covert tracking telemetry. Supply chain executives must evaluate transit risk premiums against enhanced security requirements to prevent unrecoverable inventory losses across domestic linehaul networks."
+                "US trucking carriers are successfully leveraging rising operational costs to drive a recovery in freight rates despite soft overall demand in Q3 2026. Capacity constraints driven by carrier exits and elevated maintenance expenses are providing providers with renewed pricing power in contract negotiations.",
+                "Shippers face a transition from a buyer-dominated market to a more balanced rate environment where low-cost capacity is becoming scarce. Procurement teams must focus on carrier relationship management and load consistency to secure reliable capacity as spot market volatility begins to trend upward into Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
+            "nextUpTease": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/nvidia-cargo-theft-11-4m-load-stolen-on-its-way-from-oakland-to-fort-worth/",
-                "Published: 2026-11-11T14:10:00Z",
+                "Source: https://www.ttnews.com/articles/truckers-leverage-cost-pressures-rate-recovery",
+                "Published: 2026-11-12T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
+            "heading": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
             "paragraphs": [
-                "Canadian National Railway and Strathcona Resources announced a long-term commercial partnership to construct a dedicated crude-by-rail transport network linking Western Canada directly to US Gulf Coast refining hubs. The intermodal rail venture establishes heavy volume capacity to circumvent saturated regional pipeline infrastructure. The development creates sustained, scheduled bulk rail capacity for heavy industrial energy shippers across central transcontinental routes.",
-                "Industrial bulk shippers gain dedicated transport alternatives to stabilize export throughput, yet increased unit-train frequency threatens mainline network velocity. Rail logistics directors must evaluate track capacity utilization and transit dwell times across shared corridors to buffer against potential carload scheduling bottlenecks."
+                "Greek capesize specialist Seanergy Maritime has committed $264M to acquire four additional bulkers, bringing its total fleet investment program to $855M. The expansion targets high-capacity dry bulk tonnage as global demand for iron ore and coal transport remains resilient across Atlantic and Pacific routes.",
+                "This aggressive fleet scaling indicates long-term confidence in bulk commodity demand despite broader macroeconomic fluctuations. Industrial shippers should monitor capesize availability and bulk spot rates, as large-scale fleet consolidation among Greek owners may impact regional chartering flexibility for 2027 contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+            "nextUpTease": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/strathcona-cn-railway-crude-by-rail",
-                "Published: 2026-11-10T19:30:00Z",
+                "Source: https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/",
+                "Published: 2026-11-13T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+            "heading": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
             "paragraphs": [
-                "German ocean carrier Hapag-Lloyd introduced its standalone Asia-Mexico AMX container string, deploying independent liner capacity to bypass multi-carrier Gemini cooperation alliance operations. The dedicated maritime service directly targets expanding transpacific nearshoring volumes moving between Asian manufacturing origins and Mexican industrial ports. The carrier operates dedicated vessel tonnage to maintain strict port turnarounds and dedicated schedule integrity.",
-                "Automotive, electronics, and tier-one manufacturing shippers gain dedicated transpacific loops insulated from multi-carrier consortium port omissions and transshipment delays. Importers must weigh premium pricing on dedicated standalone strings against lower-cost alliance slot charters to maximize inventory velocity across cross-border North American trade."
+                "Democratic victories in both chambers of the US Congress following the midterm elections have introduced fresh uncertainty into trans-Pacific trade policies and ocean freight regulations. While ocean imports remain near peak, shifts in legislative focus may impact environmental mandates and future tariff structures.",
+                "Freight forwarders are advising clients to brace for potential regulatory pivots that could affect port funding and trade enforcement priorities. Supply chain planners should maintain agile routing strategies to pivot in response to any sudden legislative changes impacting trans-Pacific carrier alliances."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/hapags-standalone-asia-mexico-string-adds-another-spoke-to-gemini-hub-network/",
-                "Published: 2026-11-11T11:00:00Z",
+                "Source: https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty",
+                "Published: 2026-11-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         }

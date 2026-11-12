@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK SYSTEM BREACH",
+        "hookTitle": "MEXICO TARIFF THREAT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CYBERSECURITY: MAERSK SYSTEM BREACH",
-                "teaserTitle": "MARITIME: CHINA SHIP TAX DELAY",
+                "headline": "TRADE POLICY: MEXICO TARIFF THREAT",
+                "teaserTitle": "MARITIME: HORMUZ CRISIS LETHALITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Danish shipping giant Maersk confirmed a network breach after unauthorized actors infiltrated legacy systems and extracted data. Shippers must audit application programming interface keys and electronic data interchange links to prevent supply chain data leaks."
+                "narration_line": "Donald Trump has threatened a one hundred percent tariff on Mexican imports due to border concerns. This potential duty hike targets the primary cross-border corridor for North American manufacturing."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CHINA SHIP TAX DELAY",
-                "teaserTitle": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
+                "headline": "MARITIME: HORMUZ CRISIS LETHALITY",
+                "teaserTitle": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "United States officials have postponed the proposed million-dollar import tax on Chinese built commercial vessels until January. Shippers now have a two-month operational window to lock in fourth quarter transpacific container volumes."
+                "narration_line": "Conflict in the Strait of Hormuz has resulted in twenty five seafarer deaths since February. Daily attacks are forcing ocean carriers to implement extreme security surcharges and reroute global tonnage."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
-                "teaserTitle": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
+                "headline": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
+                "teaserTitle": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Maritime authorities issued an urgent warning after armed pirates boarded three commercial vessels in the Singapore Strait within nine days. Ocean carriers are adjusting convoy speeds and posting twenty-four-hour watches, creating localized transit friction."
+                "narration_line": "A general strike in Spain has created a massive cargo backlog at Algeciras and Barcelona. Shippers must anticipate Mediterranean transit delays of up to seventy two hours as terminals recover."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
-                "teaserTitle": "CARGO THEFT: NVIDIA SILICON HIJACKING",
+                "headline": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
+                "teaserTitle": "ROAD FREIGHT: TRUCK RATE RECOVERY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Whitearmor cyber syndicate breached multiple major freight brokers, disrupting systems at J B Hunt, Ryder, and Echo. Transportation teams must strengthen automated load validation to protect carrier tenders and financial settlement portals."
+                "narration_line": "G X O Logistics plans to deploy one thousand humanoid robots to automate global warehouse tasks. This integration aims to stabilize labor costs and improve consistency across high volume fulfillment centers."
             },
             {
                 "slide_index": 5,
-                "headline": "CARGO THEFT: NVIDIA SILICON HIJACKING",
-                "teaserTitle": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
+                "headline": "ROAD FREIGHT: TRUCK RATE RECOVERY",
+                "teaserTitle": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cargo thieves hijacked an eleven point four million dollar shipment of Nvidia processing hardware moving between Oakland and Texas. High-value technology shippers must mandate armed transit escorts and active telemetry to counter sophisticated road freight theft."
+                "narration_line": "US trucking companies are leveraging rising costs to drive a recovery in freight rates. Capacity constraints from carrier exits are shifting pricing power back to providers as contract negotiations begin."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
-                "teaserTitle": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+                "headline": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
+                "teaserTitle": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Canadian National Railway and Strathcona Resources announced a crude-by-rail network linking Western Canada to Gulf Coast refineries. This expansion secures long-haul energy transport while tightening mainline track availability for industrial manifest freight."
+                "narration_line": "Seanergy Maritime is investing eight hundred fifty five million dollars to expand its Capesize fleet. This move indicates strong confidence in long term dry bulk demand for coal and iron ore."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+                "headline": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd launched a dedicated Asia to Mexico standalone ocean string to serve accelerating nearshoring manufacturing demand. Importers gain direct manufacturing transit loops that bypass complex multi-carrier alliance hubs across transpacific corridors."
+                "narration_line": "US midterm election results are adding uncertainty to trans-Pacific trade regulations and tariff structures. Logistics planners should prepare for legislative pivots affecting port funding and maritime environmental mandates."
             },
             {
                 "slide_index": 8,
