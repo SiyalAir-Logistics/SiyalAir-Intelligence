@@ -1,26 +1,27 @@
-🌐 SUEZ TRANSIT RESTART
+🌐 MAERSK SYSTEM BREACH
+
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / SUEZ TRANSIT RESTART
-Evergreen plans ad hoc Suez transits to test security while importers assess war risk surcharges and transit times.
+01 / CYBERSECURITY: MAERSK SYSTEM BREACH
+AP Moller-Maersk discloses a targeted legacy network cybersecurity breach, forcing shippers to audit external API and EDI integration boundaries.
 
-02 / HAULIER PRESSURES
-European road freight rates mask a dire financial reality for hauliers as soaring operating costs outstrip earnings.
+02 / MARITIME: CHINA SHIP TAX DELAY
+The US administration defers the proposed $1M docking tax on Chinese-built commercial vessels until January 2027, granting immediate margin relief to transpacific shippers.
 
-03 / CAPACITY TIGHTENING
-Supply chain setbacks and unreliable ocean schedules are driving shippers to utilize costly airfreight fixes.
+03 / SECURITY: SINGAPORE STRAIT PIRACY SPIKE
+Armed boardings on 3 commercial ships across 9 days trigger urgent security alerts and operational speed controls in the Singapore Strait.
 
-04 / KODIAK EXPANSION
-Kodiak AI integrates retrofitted autonomous tractors from major truck makers to scale driverless linehaul operations.
+04 / CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD
+Cyber gang Whitearmor compromises key brokerage platforms at J.B. Hunt, Ryder, and Echo, exposing critical carrier onboarding vulnerabilities.
 
-05 / PRICE SLIDE
-U.S. gasoline benchmarks drop below $4 per gallon as crude oil touches 3-month lows and diesel margins ease.
+05 / CARGO THEFT: NVIDIA SILICON HIJACKING
+An organized overland heist claims $11.4M in Nvidia processing equipment on the Oakland to Fort Worth corridor, prompting calls for armed security escorts.
 
-06 / REEF HABITAT STUDY
-Research shows commercial shipping can avoid endangered species habitats with minimal fuel consumption penalties.
+06 / RAIL FREIGHT: STRATHCONA CRUDE EXPANSION
+Canadian National Railway and Strathcona Resources establish a major crude-by-rail transport corridor linking Western Canada to the US Gulf Coast.
 
-07 / C.H. ROBINSON ACQUISITION
-C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock deal to consolidate brokerage services.
+07 / CARRIER STRATEGY: HAPAG AMX STANDALONE
+Hapag-Lloyd deploys a standalone Asia-Mexico direct loop to capitalize on accelerated nearshoring manufacturing demand without alliance transshipment constraints.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: SUEZ TRANSIT RESTART",
-                "teaserTitle": "ROAD FREIGHT: HAULIER PRESSURES",
-                "visual_caption": "Evergreen plans 12 ad hoc Suez transits to bypass cape routes. Importers must evaluate war risk surcharges against schedule reliability."
+                "headline": "CYBERSECURITY: MAERSK SYSTEM BREACH",
+                "teaserTitle": "MARITIME: CHINA SHIP TAX DELAY",
+                "visual_caption": "Danish carrier AP Moller-Maersk confirmed a cybersecurity breach after hackers infiltrated legacy systems and extracted internal data. Shippers must immediately audit API keys and EDI connections to prevent downstream trade data leakage."
             },
             {
                 "slide_index": 2,
-                "headline": "SURFACE: HAULIER PRESSURES",
-                "teaserTitle": "AIR CARGO: CAPACITY TIGHTENING",
-                "visual_caption": "European road freight rates mask a dire situation for hauliers as costs outstrip earnings. Shippers must diversify carrier networks."
+                "headline": "MARITIME: CHINA SHIP TAX DELAY",
+                "teaserTitle": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
+                "visual_caption": "The US government has delayed the proposed $1M tax on China-built vessels until January 2027. Ocean freight buyers gain a 60-day operational buffer to secure Q4 transpacific container volumes without penalty fees."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: CAPACITY TIGHTENING",
-                "teaserTitle": "AUTONOMOUS: KODIAK EXPANSION",
-                "visual_caption": "Production setbacks and unreliable ocean schedules force costly airfreight fixes. Logistics teams must weigh premiums against factory delays."
+                "headline": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
+                "teaserTitle": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
+                "visual_caption": "Maritime authorities issued an urgent warning after armed pirates boarded 3 merchant vessels in the Singapore Strait over 9 days. Carriers are enforcing 24/7 security watches and tactical transit speeds, triggering localized scheduling friction."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS: KODIAK EXPANSION",
-                "teaserTitle": "FUEL: PRICE SLIDE",
-                "visual_caption": "Kodiak AI will integrate retrofitted autonomous tractors from 3 major truck makers by H2 2027. Fleet operators anticipate major labor savings."
+                "headline": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
+                "teaserTitle": "CARGO THEFT: NVIDIA SILICON HIJACKING",
+                "visual_caption": "Cyber syndicate Whitearmor breached major freight brokerages including J.B. Hunt, Ryder, and Echo Global Logistics. Logistics teams must enforce multi-factor carrier verification to protect load booking portals from systemic fraud."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: PRICE SLIDE",
-                "teaserTitle": "MARITIME: REEF HABITAT STUDY",
-                "visual_caption": "U.S. gasoline prices dropped below $4 for the first time since July as crude oil fell 3.1%. Fleet managers should deploy hedging strategies."
+                "headline": "CARGO THEFT: NVIDIA SILICON HIJACKING",
+                "teaserTitle": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
+                "visual_caption": "Cargo thieves hijacked an $11.4M shipment containing 6 pallets of Nvidia computing equipment between Oakland and Fort Worth. Shippers of high-value electronics must deploy active GPS tracking and dedicated security escorts on vulnerable corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: REEF HABITAT STUDY",
-                "teaserTitle": "FINANCE: C.H. ROBINSON ACQUISITION",
-                "visual_caption": "Studies show shipping can avoid endangered habitats with <1% fuel penalties. Operators can balance ecological goals with voyage economics."
+                "headline": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
+                "teaserTitle": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+                "visual_caption": "CN Railway and Strathcona Resources announced a dedicated crude-by-rail logistics network connecting Western Canada to Gulf Coast refineries. The joint infrastructure project secures critical energy capacity while tightening mainline rail availability for manifest carloads."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: C.H. ROBINSON ACQUISITION",
-                "teaserTitle": "",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B deal closing in H1 2027. Enterprise shippers must monitor market concentration trends."
+                "headline": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Hapag-Lloyd unveiled its standalone Asia-Mexico AMX container string to support accelerating nearshoring trade demand. The dedicated direct service bypasses alliance transshipment hubs, providing reliable transit schedules for automotive and manufacturing supply chains."
             },
             {
                 "slide_index": 8,

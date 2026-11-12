@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUEZ TRANSIT",
-        "titleBlue": "RESTART",
-        "footerSummary": "Evergreen resumes Suez transits as road freight rates hit European hauliers and air cargo capacity tightens across trades."
+        "titleWhite": "MAERSK SYSTEM",
+        "titleBlue": "BREACH",
+        "footerSummary": "Maersk reports system breach as US delays China ship tax and Whitearmor hackers hit major freight brokerages."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SUEZ TRANSIT RESTART",
+            "heading": "CYBERSECURITY: MAERSK SYSTEM BREACH",
             "paragraphs": [
-                "Evergreen Marine is planning eight ad hoc transits through the Suez Canal and Bab el Mandeb Strait for its Far East to Europe services alongside four dedicated Red Sea sailings. This strategic routing shift aims to bypass prolonged African cape diversions as carriers test operational security in regional chokepoints.",
-                "Supply chain planners must evaluate potential schedule reliability gains against elevated war risk surcharges and insurance premiums across maritime lanes. Importers should coordinate closely with carrier partners to assess transit time reductions and manage inventory staging."
+                "Danish container shipping line AP Moller-Maersk confirmed an unauthorized cybersecurity breach after threat actors accessed legacy IT systems and extracted data. The intrusion comes as digital supply chain infrastructure faces renewed probing from persistent criminal syndicates targeting global logistics data pipelines. Maersk reported that core commercial booking engines, ocean vessel operations, and marine container terminals remain active and unaffected.",
+                "While immediate booking and container movements proceed normally, risk management directors face heightened audit exposure across connected trade platforms. Cargo owners must immediately inspect EDI integrations, API security tokens, and forwarder portals to safeguard commercial shipping manifests from downstream exploitation."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROAD FREIGHT: HAULIER PRESSURES",
+            "nextUpTease": "MARITIME: CHINA SHIP TAX DELAY",
             "tags": [
-                "Source: https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
-                "Published: 2026-11-11T00:00:00Z",
+                "Source: https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
+                "Published: 2026-11-12T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SURFACE: HAULIER PRESSURES",
+            "heading": "MARITIME: CHINA SHIP TAX DELAY",
             "paragraphs": [
-                "Record European road freight benchmark rates are masking a dire operational reality for motor carriers as surging operating costs outstrip corporate earnings. Upward pressure on diesel pricing, maintenance outlays, and driver wages continues to squeeze regional transport margins across key European corridors.",
-                "Shippers relying on road transport must prepare for potential capacity constraints and carrier rate adjustments as smaller operators face severe financial distress. Logistics executives should diversify carrier networks and secure long-term service agreements to protect inland distribution budgets."
+                "Federal trade authorities have officially postponed the proposed $1M docking tax targeting Chinese-built commercial vessels until January 2027. The administrative deferral follows intense lobbying from maritime shipping groups warning that unilateral assessment fees would immediately inflate ocean spot rates and destabilize container flow across West Coast hubs. The temporary reprieve pauses an imminent cost shock across major transpacific maritime trade lanes.",
+                "Importers and BCOs gain a 60-day strategic window to process pre-holiday inventory and lock in Q4 ocean contracts without sudden port fee surcharges. Logistics procurement teams should optimize routing schedules now while structuring alternative transshipment contingencies to protect 2027 landed cost margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CAPACITY TIGHTENING",
+            "nextUpTease": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
             "tags": [
-                "Source: https://theloadstar.com/record-rates-mask-dire-situation-for-hauliers-as-costs-outstrip-earnings/",
-                "Published: 2026-11-11T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+                "Published: 2026-11-11T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: CAPACITY TIGHTENING",
+            "heading": "SECURITY: SINGAPORE STRAIT PIRACY SPIKE",
             "paragraphs": [
-                "Shippers are absorbing higher logistics costs through urgent airfreight fixes as persistent supply chain bottlenecks and unreliable ocean schedules disrupt manufacturing timelines. Production setbacks across key origin hubs are forcing cargo owners to utilize premium air charters to maintain assembly line continuity.",
-                "Logistics procurement teams must weigh the steep financial premiums of emergency air transport against the cost of factory downtime and delayed retail delivery. Strategic capacity allocation and enhanced modal visibility are essential to mitigate unexpected modal shifts during peak demand windows."
+                "Regional maritime security bureaus issued an urgent navigational alert after armed perpetrators boarded 3 merchant vessels in the Singapore Strait within a 9-day span, injuring 1 seafarer. The rapid escalation of boarding incidents signals compromised transit security along one of the world's most congested maritime chokepoints. Commercial carriers are implementing intensified anti-boarding protocols across eastbound and westbound sea corridors.",
+                "Ocean carriers transiting regional straits face operational friction from mandatory convoy formation, tactical speed adjustments, and elevated marine insurance surcharges. Cargo owners must anticipate secondary transit delays and coordinate with vessel operators to account for lengthened transit schedules across Southeast Asian maritime lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS: KODIAK EXPANSION",
+            "nextUpTease": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
             "tags": [
-                "Source: https://theloadstar.com/shippers-pay-the-price-as-supply-problems-trigger-costly-airfreight-fixes/",
-                "Published: 2026-11-11T00:00:00Z",
+                "Source: https://splash247.com/singapore-strait-robbery-spike-sparks-fresh-security-warning/",
+                "Published: 2026-11-12T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AUTONOMOUS: KODIAK EXPANSION",
+            "heading": "CYBERSECURITY: WHITEARMOR TRANSPORT FRAUD",
             "paragraphs": [
-                "Kodiak AI has announced plans to integrate retrofitted autonomous tractors from three major manufacturers including International Motors, Peterbilt, and Western Star by the second half of 2027. This multi-platform hardware strategy accelerates commercial scalability for driverless freight operations across long-haul highway corridors.",
-                "Fleet operators investing in autonomous readiness can anticipate significant labor cost reductions and improved asset utilization on repetitive interstate routes. Motor carriers must evaluate integration pathways for retrofit kits to maintain competitive linehaul efficiency."
+                "A cybercrime syndicate operating under the moniker Whitearmor breached multiple major freight brokerages, targeting enterprise networks at J.B. Hunt, Ryder, and Echo Global Logistics. The coordinated digital assault compromised freight platform credentials and prompted federal class action filings by affected personnel. Law enforcement agencies are tracking sophisticated credential-stuffing campaigns aimed at automated freight-matching interfaces.",
+                "Shippers and intermediary brokers must overhaul load tendering verification protocols to prevent carrier impersonation and unauthorized load reassignments. Enterprise freight procurement teams must mandate multi-factor carrier authentication and real-time bank account validation to insulate freight settlement pipelines from systemic payment redirection fraud."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: PRICE SLIDE",
+            "nextUpTease": "CARGO THEFT: NVIDIA SILICON HIJACKING",
             "tags": [
-                "Source: https://www.ttnews.com/articles/kodiak-international-tractors-autonomous",
-                "Published: 2026-11-10T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/new-cyber-thief-gang-targets-transports-hunt-ryder-and-echo-hit",
+                "Published: 2026-11-11T18:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FUEL: PRICE SLIDE",
+            "heading": "CARGO THEFT: NVIDIA SILICON HIJACKING",
             "paragraphs": [
-                "National retail gasoline benchmarks have dropped below $4 per gallon for the first time since July following post-election market stabilization and easing supply pressures. Brent crude fell 3.1% to $89.67 a barrel, providing immediate relief to motor carrier operating margins across regional networks.",
-                "While lower fuel surcharges reduce immediate linehaul expenses for shippers, fluctuating global energy forecasts require dynamic carrier contract adjustments. Fleet managers should lock in fuel hedging strategies to protect against winter heating oil demand spikes."
+                "Freight theft investigators launched an inquiry into the coordinated transit heist of 6 pallets containing $11.4M in high-performance Nvidia computing equipment moving from Oakland to Fort Worth. The high-value semiconductor shipment vanished along the interstate corridor without recovery, highlighting targeted criminal intelligence penetration of premium freight networks. Authorities have made zero arrests as organized cargo theft rings increasingly target artificial intelligence hardware.",
+                "High-tech manufacturers and specialized carriers face steep escalations in risk mitigation costs, including mandatory dual-driver teams and covert tracking telemetry. Supply chain executives must evaluate transit risk premiums against enhanced security requirements to prevent unrecoverable inventory losses across domestic linehaul networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: REEF HABITAT STUDY",
+            "nextUpTease": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-touch-lowest-level-3-months",
-                "Published: 2026-11-10T00:00:00Z",
+                "Source: https://www.inboundlogistics.com/articles/nvidia-cargo-theft-11-4m-load-stolen-on-its-way-from-oakland-to-fort-worth/",
+                "Published: 2026-11-11T14:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: REEF HABITAT STUDY",
+            "heading": "RAIL FREIGHT: STRATHCONA CRUDE EXPANSION",
             "paragraphs": [
-                "A recent UK study indicates that commercial shipping can successfully avoid endangered marine species habitats at minimal financial cost on major ocean routes. Researchers found that rerouting vessels around whale shark aggregation sites added at most 1% to fuel consumption on voyages exceeding six days.",
-                "Maritime operators can implement environmental compliance measures without severely impacting transit times or voyage economics across long-haul trades. Fleet managers should integrate ecological routing data into vessel voyage optimization software to balance sustainability goals with operational efficiency."
+                "Canadian National Railway and Strathcona Resources announced a long-term commercial partnership to construct a dedicated crude-by-rail transport network linking Western Canada directly to US Gulf Coast refining hubs. The intermodal rail venture establishes heavy volume capacity to circumvent saturated regional pipeline infrastructure. The development creates sustained, scheduled bulk rail capacity for heavy industrial energy shippers across central transcontinental routes.",
+                "Industrial bulk shippers gain dedicated transport alternatives to stabilize export throughput, yet increased unit-train frequency threatens mainline network velocity. Rail logistics directors must evaluate track capacity utilization and transit dwell times across shared corridors to buffer against potential carload scheduling bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: C.H. ROBINSON ACQUISITION",
+            "nextUpTease": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
             "tags": [
-                "Source: https://maritime-executive.com/article/study-shipping-can-avoid-endangered-species-habitat-at-minimal-cost",
-                "Published: 2026-11-11T12:10:00Z",
+                "Source: https://www.ttnews.com/articles/strathcona-cn-railway-crude-by-rail",
+                "Published: 2026-11-10T19:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCE: C.H. ROBINSON ACQUISITION",
+            "heading": "CARRIER STRATEGY: HAPAG AMX STANDALONE",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a major $5.8B cash and stock transaction designed to consolidate brokerage operations and expand service capabilities. The combined entity will integrate extensive truckload, LTL, and last-mile networks, with transaction closure anticipated in the first half of 2027.",
-                "This multi-billion-dollar consolidation alters the competitive landscape for third-party logistics providers and reshapes broker shipper relationship dynamics. Enterprise supply chain leaders must monitor market concentration trends and evaluate their 3PL partner portfolios for service stability."
+                "German ocean carrier Hapag-Lloyd introduced its standalone Asia-Mexico AMX container string, deploying independent liner capacity to bypass multi-carrier Gemini cooperation alliance operations. The dedicated maritime service directly targets expanding transpacific nearshoring volumes moving between Asian manufacturing origins and Mexican industrial ports. The carrier operates dedicated vessel tonnage to maintain strict port turnarounds and dedicated schedule integrity.",
+                "Automotive, electronics, and tier-one manufacturing shippers gain dedicated transpacific loops insulated from multi-carrier consortium port omissions and transshipment delays. Importers must weigh premium pricing on dedicated standalone strings against lower-cost alliance slot charters to maximize inventory velocity across cross-border North American trade."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
-                "Published: 2026-11-11T00:00:00Z",
+                "Source: https://theloadstar.com/hapags-standalone-asia-mexico-string-adds-another-spoke-to-gemini-hub-network/",
+                "Published: 2026-11-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
