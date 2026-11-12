@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CHINA SHIP",
-        "titleBlue": "TAX",
-        "footerSummary": "US postpones China ship tax as Maersk reports cyber breach and imports surge, reshaping Q4 freight strategy."
+        "titleWhite": "SUEZ TRANSIT",
+        "titleBlue": "RESTART",
+        "footerSummary": "Evergreen resumes Suez transits as road freight rates hit European hauliers and air cargo capacity tightens across trades."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: CHINA SHIP TAX",
+            "heading": "MARITIME: SUEZ TRANSIT RESTART",
             "paragraphs": [
-                "The United States has officially suspended punitive fees on China-linked shipping for another two months, providing temporary relief to transpacific carriers. This tactical delay averts immediate operational cost spikes for importers navigating peak season volume constraints across major trade lanes.",
-                "Logistics planners must utilize this 60-day window to reassess ocean contract exposures and model alternative routing strategies before penalty structures take effect. Supply chain executives should engage carrier partners immediately to secure favorable long-term rates ahead of upcoming negotiations."
+                "Evergreen Marine is planning eight ad hoc transits through the Suez Canal and Bab el Mandeb Strait for its Far East to Europe services alongside four dedicated Red Sea sailings. This strategic routing shift aims to bypass prolonged African cape diversions as carriers test operational security in regional chokepoints.",
+                "Supply chain planners must evaluate potential schedule reliability gains against elevated war risk surcharges and insurance premiums across maritime lanes. Importers should coordinate closely with carrier partners to assess transit time reductions and manage inventory staging."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: MAERSK IT BREACH",
+            "nextUpTease": "ROAD FREIGHT: HAULIER PRESSURES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
-                "Published: 2026-11-12T08:00:00Z",
+                "Source: https://theloadstar.com/return-to-suez-transits-raises-congestion-fears-at-red-sea-ports/",
+                "Published: 2026-11-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: MAERSK IT BREACH",
+            "heading": "SURFACE: HAULIER PRESSURES",
             "paragraphs": [
-                "Danish shipping giant AP Moller-Maersk has confirmed a fresh cybersecurity breach after hackers gained unauthorized access to an older IT system. While core operational platforms remain secure, the incident recalls the severe financial exposure of past disruptions that cost the company up to $300M.",
-                "This security vulnerability underscores the critical need for enterprise logistics providers to accelerate legacy system deprecation and harden digital infrastructure. Shippers must audit vendor IT resilience to prevent cascading data compromises across global freight networks."
+                "Record European road freight benchmark rates are masking a dire operational reality for motor carriers as surging operating costs outstrip corporate earnings. Upward pressure on diesel pricing, maintenance outlays, and driver wages continues to squeeze regional transport margins across key European corridors.",
+                "Shippers relying on road transport must prepare for potential capacity constraints and carrier rate adjustments as smaller operators face severe financial distress. Logistics executives should diversify carrier networks and secure long-term service agreements to protect inland distribution budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: RECORD US IMPORTS",
+            "nextUpTease": "AIR CARGO: CAPACITY TIGHTENING",
             "tags": [
-                "Source: https://splash247.com/maersk-hit-by-fresh-cyber-breach/",
-                "Published: 2026-11-12T07:30:00Z",
+                "Source: https://theloadstar.com/record-rates-mask-dire-situation-for-hauliers-as-costs-outstrip-earnings/",
+                "Published: 2026-11-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINERS: RECORD US IMPORTS",
+            "heading": "AIR CARGO: CAPACITY TIGHTENING",
             "paragraphs": [
-                "U.S. containerized import volumes reached record levels in October as retailers and manufacturers accelerated precautionary stockpiling ahead of holiday deadlines. This sustained volume surge has kept summer-level import traffic elevated across major gateway ports well into Q4.",
-                "The prolonged peak season activity strains intermodal rail and drayage capacity, driving up dwell times and spot market container rates. Enterprise supply chain managers must coordinate closely with 3PL partners to mitigate terminal congestion and secure priority chassis availability."
+                "Shippers are absorbing higher logistics costs through urgent airfreight fixes as persistent supply chain bottlenecks and unreliable ocean schedules disrupt manufacturing timelines. Production setbacks across key origin hubs are forcing cargo owners to utilize premium air charters to maintain assembly line continuity.",
+                "Logistics procurement teams must weigh the steep financial premiums of emergency air transport against the cost of factory downtime and delayed retail delivery. Strategic capacity allocation and enhanced modal visibility are essential to mitigate unexpected modal shifts during peak demand windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: MAERSK EARNINGS GUIDANCE",
+            "nextUpTease": "AUTONOMOUS: KODIAK EXPANSION",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/72834-u-s-container-imports-hit-record-volume-in-october",
-                "Published: 2026-11-11T12:00:00Z",
+                "Source: https://theloadstar.com/shippers-pay-the-price-as-supply-problems-trigger-costly-airfreight-fixes/",
+                "Published: 2026-11-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCE: MAERSK EARNINGS GUIDANCE",
+            "heading": "AUTONOMOUS: KODIAK EXPANSION",
             "paragraphs": [
-                "Maersk has raised its full-year earnings guidance for the third consecutive time, driven by resilient freight rates and a robust fourth-quarter outlook. CEO Vincent Clerc highlighted that the current high-rate environment strengthens carrier positions heading into upcoming 2027 contract renewals.",
-                "This sustained profitability among ocean carriers limits shipper leverage in upcoming annual service contract negotiations on key trade lanes. Logistics procurement teams must deploy data-driven rate benchmarking and flexible volume commitments to protect freight budgets."
+                "Kodiak AI has announced plans to integrate retrofitted autonomous tractors from three major manufacturers including International Motors, Peterbilt, and Western Star by the second half of 2027. This multi-platform hardware strategy accelerates commercial scalability for driverless freight operations across long-haul highway corridors.",
+                "Fleet operators investing in autonomous readiness can anticipate significant labor cost reductions and improved asset utilization on repetitive interstate routes. Motor carriers must evaluate integration pathways for retrofit kits to maintain competitive linehaul efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
+            "nextUpTease": "FUEL: PRICE SLIDE",
             "tags": [
-                "Source: https://www.joc.com/article/maersk-raises-earnings-guidance-third-time-freight-rates-strong-q4-outlook",
-                "Published: 2026-11-11T10:00:00Z",
+                "Source: https://www.ttnews.com/articles/kodiak-international-tractors-autonomous",
+                "Published: 2026-11-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
+            "heading": "FUEL: PRICE SLIDE",
             "paragraphs": [
-                "Kodiak AI has announced plans to integrate retrofitted autonomous tractors from three major manufacturers including International Motors and Peterbilt by the second half of 2027. This multi-platform hardware strategy accelerates commercial scalability for driverless freight operations across long-haul highway corridors.",
-                "Fleet operators investing in autonomous readiness can anticipate significant labor cost reductions and improved asset utilization on repetitive interstate routes. Motor carriers must evaluate integration pathways for retrofit kits to maintain competitive linehaul efficiency."
+                "National retail gasoline benchmarks have dropped below $4 per gallon for the first time since July following post-election market stabilization and easing supply pressures. Brent crude fell 3.1% to $89.67 a barrel, providing immediate relief to motor carrier operating margins across regional networks.",
+                "While lower fuel surcharges reduce immediate linehaul expenses for shippers, fluctuating global energy forecasts require dynamic carrier contract adjustments. Fleet managers should lock in fuel hedging strategies to protect against winter heating oil demand spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: DIESEL PRICE SLIDE",
+            "nextUpTease": "MARITIME: REEF HABITAT STUDY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/kodiak-international-tractors-autonomous",
-                "Published: 2026-11-10T09:15:00Z",
+                "Source: https://www.ttnews.com/articles/oil-prices-touch-lowest-level-3-months",
+                "Published: 2026-11-10T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FUEL: DIESEL PRICE SLIDE",
+            "heading": "MARITIME: REEF HABITAT STUDY",
             "paragraphs": [
-                "National diesel fuel benchmarks and crude oil prices have touched three-month lows following post-election market stabilization and easing supply pressures. Brent crude fell 3.1% to $89.67 a barrel, providing immediate relief to motor carrier operating margins.",
-                "While lower fuel surcharges reduce immediate linehaul expenses for shippers, fluctuating global energy forecasts require dynamic carrier contract adjustments. Fleet managers should lock in fuel hedging strategies to protect against winter heating oil demand spikes."
+                "A recent UK study indicates that commercial shipping can successfully avoid endangered marine species habitats at minimal financial cost on major ocean routes. Researchers found that rerouting vessels around whale shark aggregation sites added at most 1% to fuel consumption on voyages exceeding six days.",
+                "Maritime operators can implement environmental compliance measures without severely impacting transit times or voyage economics across long-haul trades. Fleet managers should integrate ecological routing data into vessel voyage optimization software to balance sustainability goals with operational efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
+            "nextUpTease": "FINANCE: C.H. ROBINSON ACQUISITION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-touch-lowest-level-3-months",
-                "Published: 2026-11-10T14:30:00Z",
+                "Source: https://maritime-executive.com/article/study-shipping-can-avoid-endangered-species-habitat-at-minimal-cost",
+                "Published: 2026-11-11T12:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
+            "heading": "FINANCE: C.H. ROBINSON ACQUISITION",
             "paragraphs": [
-                "The Federal Maritime Commission has announced an upcoming research symposium focused on demurrage and detention billing practices scheduled for March 2027. This regulatory initiative builds on prior federal rulings designed to ensure penalty fees actively promote freight fluidity rather than revenue generation.",
-                "Importers and exporters burdened by terminal storage fees should prepare detailed billing audits to participate in upcoming federal compliance reviews. Shippers can leverage these regulatory frameworks to contest unfair port charges and recover disputed container detention costs."
+                "C.H. Robinson has agreed to acquire RXO in a major $5.8B cash and stock transaction designed to consolidate brokerage operations and expand service capabilities. The combined entity will integrate extensive truckload, LTL, and last-mile networks, with transaction closure anticipated in the first half of 2027.",
+                "This multi-billion-dollar consolidation alters the competitive landscape for third-party logistics providers and reshapes broker shipper relationship dynamics. Enterprise supply chain leaders must monitor market concentration trends and evaluate their 3PL partner portfolios for service stability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.fmc.gov/fmc-will-host-a-research-symposium-on-demurrage-and-detention/",
-                "Published: 2026-11-02T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
+                "Published: 2026-11-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CHINA SHIP TAX",
-                "teaserTitle": "CYBERSECURITY: MAERSK IT BREACH",
-                "visual_caption": "The US suspended punitive fees on China-linked shipping for 60 days. This tactical delay averts immediate cost spikes for importers during peak season."
+                "headline": "MARITIME: SUEZ TRANSIT RESTART",
+                "teaserTitle": "ROAD FREIGHT: HAULIER PRESSURES",
+                "visual_caption": "Evergreen plans 12 ad hoc Suez transits to bypass cape routes. Importers must evaluate war risk surcharges against schedule reliability."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: MAERSK IT BREACH",
-                "teaserTitle": "CONTAINERS: RECORD US IMPORTS",
-                "visual_caption": "Maersk confirmed a fresh cybersecurity breach in an older IT system. The incident highlights the urgent need for enterprises to harden digital infrastructure."
+                "headline": "SURFACE: HAULIER PRESSURES",
+                "teaserTitle": "AIR CARGO: CAPACITY TIGHTENING",
+                "visual_caption": "European road freight rates mask a dire situation for hauliers as costs outstrip earnings. Shippers must diversify carrier networks."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: RECORD US IMPORTS",
-                "teaserTitle": "FINANCE: MAERSK EARNINGS GUIDANCE",
-                "visual_caption": "US container import volumes hit record highs in October as retailers stockpiled early. This sustained surge continues to strain intermodal rail and drayage capacity."
+                "headline": "AIR CARGO: CAPACITY TIGHTENING",
+                "teaserTitle": "AUTONOMOUS: KODIAK EXPANSION",
+                "visual_caption": "Production setbacks and unreliable ocean schedules force costly airfreight fixes. Logistics teams must weigh premiums against factory delays."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCE: MAERSK EARNINGS GUIDANCE",
-                "teaserTitle": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
-                "visual_caption": "Maersk raised its earnings guidance for the 3rd time on strong freight rates. This carrier profitability limits shipper leverage in upcoming annual contract renewals."
+                "headline": "AUTONOMOUS: KODIAK EXPANSION",
+                "teaserTitle": "FUEL: PRICE SLIDE",
+                "visual_caption": "Kodiak AI will integrate retrofitted autonomous tractors from 3 major truck makers by H2 2027. Fleet operators anticipate major labor savings."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
-                "teaserTitle": "FUEL: DIESEL PRICE SLIDE",
-                "visual_caption": "Kodiak AI will integrate retrofitted autonomous tractors by H2 2027. Fleet operators adopting autonomous tech expect major long-term labor cost savings."
+                "headline": "FUEL: PRICE SLIDE",
+                "teaserTitle": "MARITIME: REEF HABITAT STUDY",
+                "visual_caption": "U.S. gasoline prices dropped below $4 for the first time since July as crude oil fell 3.1%. Fleet managers should deploy hedging strategies."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: DIESEL PRICE SLIDE",
-                "teaserTitle": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
-                "visual_caption": "National diesel benchmarks and crude oil prices dropped to 3-month lows. Lower fuel costs provide immediate margin relief for motor carrier operations."
+                "headline": "MARITIME: REEF HABITAT STUDY",
+                "teaserTitle": "FINANCE: C.H. ROBINSON ACQUISITION",
+                "visual_caption": "Studies show shipping can avoid endangered habitats with <1% fuel penalties. Operators can balance ecological goals with voyage economics."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
+                "headline": "FINANCE: C.H. ROBINSON ACQUISITION",
                 "teaserTitle": "",
-                "visual_caption": "The FMC announced a major demurrage research symposium for March 2027. Shippers can use federal reviews to contest unfair terminal storage fees."
+                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B deal closing in H1 2027. Enterprise shippers must monitor market concentration trends."
             },
             {
                 "slide_index": 8,

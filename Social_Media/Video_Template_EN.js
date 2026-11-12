@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CHINA SHIP TAX",
+        "hookTitle": "SUEZ TRANSIT RESTART",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CHINA SHIP TAX",
-                "teaserTitle": "CYBERSECURITY: MAERSK IT BREACH",
+                "headline": "MARITIME: SUEZ TRANSIT RESTART",
+                "teaserTitle": "ROAD FREIGHT: HAULIER PRESSURES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States suspended punitive fees on China-linked shipping for sixty days. This delay averts immediate cost spikes for importers navigating peak season volume constraints."
+                "narration_line": "Evergreen is planning twelve ad hoc Suez Canal transits to bypass cape routes. Importers must evaluate war risk surcharges against schedule reliability gains."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: MAERSK IT BREACH",
-                "teaserTitle": "CONTAINERS: RECORD US IMPORTS",
+                "headline": "SURFACE: HAULIER PRESSURES",
+                "teaserTitle": "AIR CARGO: CAPACITY TIGHTENING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Danish shipping giant Maersk confirmed a fresh cybersecurity breach in an older IT system. The incident highlights the urgent need for enterprise supply chains to harden digital infrastructure."
+                "narration_line": "European road freight rates mask a dire financial situation for hauliers as costs outstrip earnings. Shippers must diversify carrier networks to secure capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: RECORD US IMPORTS",
-                "teaserTitle": "FINANCE: MAERSK EARNINGS GUIDANCE",
+                "headline": "AIR CARGO: CAPACITY TIGHTENING",
+                "teaserTitle": "AUTONOMOUS: KODIAK EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US container import volumes reached record levels in October as retailers accelerated holiday stockpiling. This sustained volume surge strains intermodal rail and drayage capacity."
+                "narration_line": "Production setbacks and unreliable ocean schedules are forcing shippers to use costly airfreight fixes. Logistics teams must weigh air premiums against factory delays."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCE: MAERSK EARNINGS GUIDANCE",
-                "teaserTitle": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
+                "headline": "AUTONOMOUS: KODIAK EXPANSION",
+                "teaserTitle": "FUEL: PRICE SLIDE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Maersk raised its full-year earnings guidance on strong freight rates and robust Q4 forecasts. This profitability limits shipper leverage in upcoming annual service contract renewals."
+                "narration_line": "Kodiak AI will integrate retrofitted autonomous tractors from three major truck makers by late twenty twenty seven. Fleet operators anticipate significant labor cost reductions."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS: KODIAK TRACTOR EXPANSION",
-                "teaserTitle": "FUEL: DIESEL PRICE SLIDE",
+                "headline": "FUEL: PRICE SLIDE",
+                "teaserTitle": "MARITIME: REEF HABITAT STUDY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Kodiak AI announced plans to integrate retrofitted autonomous tractors by late twenty twenty seven. Fleet operators investing in autonomous readiness can anticipate significant labor cost reductions."
+                "narration_line": "U.S. gasoline prices dropped below four dollars for the first time since July as crude oil fell. Fleet managers should deploy hedging strategies for winter energy spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: DIESEL PRICE SLIDE",
-                "teaserTitle": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
+                "headline": "MARITIME: REEF HABITAT STUDY",
+                "teaserTitle": "FINANCE: C.H. ROBINSON ACQUISITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "National diesel fuel benchmarks and crude oil prices touched three month lows. Lower fuel surcharges reduce immediate linehaul expenses for motor carriers and shippers."
+                "narration_line": "A new study shows shipping can avoid endangered species habitats by adding minimal fuel consumption. Operators can integrate ecological data without harming voyage economics."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: FMC DEMURRAGE SYMPOSIUM",
+                "headline": "FINANCE: C.H. ROBINSON ACQUISITION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Federal Maritime Commission announced a research symposium on demurrage and detention fees. Importers can leverage these regulatory reviews to contest unfair port charges."
+                "narration_line": "C.H. Robinson has agreed to acquire RXO in a five point eight billion dollar deal closing in twenty twenty seven. Enterprise shippers must monitor market concentration trends."
             },
             {
                 "slide_index": 8,
