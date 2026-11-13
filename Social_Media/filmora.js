@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: BUDGET DEFICIT SPIKES",
-                "teaserTitle": "EQUIPMENT: CLASS 8 ORDERS",
-                "visual_caption": "US budget deficit surged 42% in October to reach $404B. Federal tariff revenue dropped 39%, impacting fiscal policies."
+                "headline": "MARITIME: HAPAG-LLOYD PROFIT SURGES",
+                "teaserTitle": "CROSS-BORDER: MEXICO EXPORTS",
+                "visual_caption": "Hapag-Lloyd reported a 480% profit surge in Q3 as spot freight rates climbed. Strong pricing power offset flat global shipping volumes."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: CLASS 8 ORDERS",
-                "teaserTitle": "MERGERS: ROBINSON ACQUIRES RXO",
-                "visual_caption": "Class 8 truck orders fell amid regulatory uncertainty. Fleets are deferring equipment purchases pending cost clarity."
+                "headline": "CROSS-BORDER: MEXICO EXPORTS",
+                "teaserTitle": "EQUIPMENT: CLASS 8 ORDERS",
+                "visual_caption": "Mexican truck exports soared 159% in October as nearshoring production jumped 130%. Border traffic congestion continues to strain equipment pools."
             },
             {
                 "slide_index": 3,
-                "headline": "MERGERS: ROBINSON ACQUIRES RXO",
-                "teaserTitle": "MARITIME: HAPAG-LLOYD SURGE",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B deal. The merger consolidates brokerage and expedited transport."
+                "headline": "EQUIPMENT: CLASS 8 ORDERS",
+                "teaserTitle": "GOVERNMENT: BUDGET DEFICIT",
+                "visual_caption": "Class 8 truck orders contracted in October amid cloudy 2027 regulatory costs. Fleets defer equipment purchases awaiting pricing clarity."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: HAPAG-LLOYD SURGE",
-                "teaserTitle": "CROSS-BORDER: MEXICO EXPORTS",
-                "visual_caption": "Hapag-Lloyd reported soaring Q3 profit as freight rates remained strong. Shippers face tight capacity during contract renewals."
+                "headline": "GOVERNMENT: BUDGET DEFICIT",
+                "teaserTitle": "AIR CARGO: LATAM INVESTMENT",
+                "visual_caption": "US federal budget deficit surged 42% in October to reach $404B. Federal tariff revenue recorded a sharp 39% decline."
             },
             {
                 "slide_index": 5,
-                "headline": "CROSS-BORDER: MEXICO EXPORTS",
-                "teaserTitle": "AIR CARGO: LATAM INVESTMENT",
-                "visual_caption": "Mexican truck exports soared 159% in October as production jumped 130%. Cross-border traffic is driving severe border congestion."
+                "headline": "AIR CARGO: LATAM INVESTMENT",
+                "teaserTitle": "ROBOTICS: GXO DEPLOYMENT",
+                "visual_caption": "LATAM Cargo deploys advanced airport automation to prevent missed flights. Technology upgrades improve belly cargo handling efficiency."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: LATAM INVESTMENT",
-                "teaserTitle": "RETAIL: FAMILY DOLLAR SETTLEMENT",
-                "visual_caption": "LATAM Cargo is deploying airport tech to cut capacity waste. Digital upgrades improve transit predictability across hubs."
+                "headline": "ROBOTICS: GXO DEPLOYMENT",
+                "teaserTitle": "MARITIME: SPAIN STRIKE",
+                "visual_caption": "GXO plans to deploy 1,000 humanoid robots over 4 years. Automation rollout targets warehouse labor shortages and fulfillment speed."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: FAMILY DOLLAR SETTLEMENT",
+                "headline": "MARITIME: SPAIN STRIKE",
                 "teaserTitle": "",
-                "visual_caption": "Family Dollar reached a $63M settlement over pricing overcharges. Retailers must enforce strict inventory auditing controls."
+                "visual_caption": "Spanish ports face severe cargo backlogs following a national general strike. Vessel delays will cascade across European maritime trade."
             },
             {
                 "slide_index": 8,
