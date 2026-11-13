@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MEXICO TARIFF",
-        "titleBlue": "THREAT",
-        "footerSummary": "Trump threatens 100% Mexico tariffs as seafarer deaths hit 25 in Hormuz and Spain strike causes Mediterranean backlog."
+        "titleWhite": "BUDGET DEFICIT",
+        "titleBlue": "SPIKES",
+        "footerSummary": "US budget deficit climbs 42% in October as tariff revenue dips 39%, reshaping federal fiscal policies and freight operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: MEXICO TARIFF THREAT",
+            "heading": "GOVERNMENT: BUDGET DEFICIT SPIKES",
             "paragraphs": [
-                "Donald Trump has issued a formal threat to double existing tariffs on Mexican imports, citing concerns over migrant influx across the southern border. This potential 100% duty hike targets one of the most critical cross-border manufacturing corridors in North America, threatening the stability of the USMCA trade framework.",
-                "Logistics directors must prepare for immediate cost volatility as nearshoring hubs face significant fiscal barriers. Strategic sourcing teams should evaluate secondary transshipment options or expedited customs bonded storage to mitigate sudden tax-driven margin erosion across automotive and electronics sectors."
+                "The United States federal budget deficit surged 42% in October, reaching a record $404B for the start of the fiscal year. Concurrently, federal tariff revenue experienced a steep 39% decline, reflecting shifting trade volumes and altered import patterns across major domestic entry points.",
+                "This widening fiscal gap places renewed pressure on government agencies and threatens potential adjustments to customs enforcement budgets and trade processing fees. Supply chain executives must monitor federal policy shifts that could alter operational compliance costs and border clearance timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ CRISIS LETHALITY",
+            "nextUpTease": "EQUIPMENT: CLASS 8 ORDERS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/trump-mexico-tariffs-migrants",
-                "Published: 2026-11-12T14:30:00Z",
+                "Source: https://www.ttnews.com/articles/us-budget-deficit-up-october-tariff-revenue-dips",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ CRISIS LETHALITY",
+            "heading": "EQUIPMENT: CLASS 8 ORDERS",
             "paragraphs": [
-                "The International Maritime Organization issued an urgent safety reminder as the US-Iran conflict in the Strait of Hormuz has resulted in at least 25 seafarer fatalities since February. Daily attacks on foreign-flag vessels have reached a lethal threshold, compromising one of the world's primary energy chokepoints.",
-                "Ocean carriers are rerouting tonnage and implementing extreme security surcharges to account for heightened marine insurance premiums. Shippers utilizing Persian Gulf lanes must account for unpredictable transit delays and potential force majeure declarations by major vessel operators due to active kinetic risks."
+                "Class 8 truck orders contracted in October amid a cloudy regulatory picture and ongoing uncertainty regarding model-year 2027 compliance costs. Fleet operators continue to defer capital equipment investments while truck manufacturers struggle to establish definitive pricing models ahead of upcoming emissions and safety mandates.",
+                "The temporary cooling in equipment procurement allows carriers to manage near-term liquidity but introduces long-term fleet aging risks across major freight networks. Logistics operators must balance equipment replacement schedules against potential cost spikes when regulatory clarity finally drives deferred purchasing decisions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
+            "nextUpTease": "MERGERS: ROBINSON ACQUIRES RXO",
             "tags": [
-                "Source: https://maritime-executive.com/article/imo-calls-for-all-parties-in-hormuz-crisis-to-respect-seafarer-safety",
-                "Published: 2026-11-12T16:15:00Z",
+                "Source: https://www.ttnews.com/articles/class-8-orders-fall-regulatory-picture",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
+            "heading": "MERGERS: ROBINSON ACQUIRES RXO",
             "paragraphs": [
-                "Container terminals across Spain are grappling with massive cargo backlogs following a nationwide general strike that halted operations at Algeciras, Barcelona, and Valencia. Box ships are currently holding at anchor as terminal operators struggle to restore gate fluidness and vessel berthing schedules following the total stoppage.",
-                "The sudden operational pause is disrupting Mediterranean feeder networks and extending trans-Atlantic transit times by up to 72 hours. Logistics managers should prioritize high-value containers for first-out processing while coordinating with ground haulage to clear inland terminal congestion once labor resumes full capacity."
+                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction designed to consolidate market share across brokerage and expedited transport sectors. The combined entity will integrate extensive last-mile and specialized logistics capabilities with closing anticipated during the first half of 2027.",
+                "This mega-deal signals a continuing wave of consolidation among top-tier freight intermediaries seeking scale to offset prolonged market softness. Shippers relying on these providers must evaluate how corporate integration impacts contracted service levels, routing guides, and long-term pricing stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
+            "nextUpTease": "MARITIME: HAPAG-LLOYD SURGE",
             "tags": [
-                "Source: https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/",
-                "Published: 2026-11-12T09:45:00Z",
+                "Source: https://www.logisticsmgmt.com/news/ch-robinson-agrees-to-acquire-rxo-in-5.8-billion-cash-and-stock-deal",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
+            "heading": "MARITIME: HAPAG-LLOYD SURGE",
             "paragraphs": [
-                "GXO Logistics has announced a strategic plan to deploy up to 1,000 Apptronik humanoid robots across its global warehouse network over the next 4 years. This large-scale integration focuses on automating repetitive picking and sorting tasks to stabilize labor costs in high-volume fulfillment centers.",
-                "The deployment signals a shift toward deep robotic autonomy in tertiary logistics, reducing reliance on seasonal labor markets. Supply chain architects must evaluate the capital expenditure of humanoid automation against long-term operational savings and improved throughput consistency in automated facilities."
+                "Hapag-Lloyd reported a dramatic surge in Q3 profit and raised its full-year earnings forecast as resilient freight rates offset broadly flat global shipping volumes. The carrier's strong financial performance highlights the ongoing strength of ocean spot rates despite persistent geopolitical friction across key maritime trade lanes.",
+                "The widening disconnect between flat cargo volumes and soaring carrier profits underscores the high cost of capacity management for international shippers. Procurement teams entering upcoming contract negotiations must prepare for carrier resistance to rate concessions and prioritize volume commitments to secure space."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROAD FREIGHT: TRUCK RATE RECOVERY",
+            "nextUpTease": "CROSS-BORDER: MEXICO EXPORTS",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/robotics-gxo-could-deploy-1000-apptronik-humanoid-robots",
-                "Published: 2026-11-12T11:20:00Z",
+                "Source: https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ROAD FREIGHT: TRUCK RATE RECOVERY",
+            "heading": "CROSS-BORDER: MEXICO EXPORTS",
             "paragraphs": [
-                "US trucking carriers are successfully leveraging rising operational costs to drive a recovery in freight rates despite soft overall demand in Q3 2026. Capacity constraints driven by carrier exits and elevated maintenance expenses are providing providers with renewed pricing power in contract negotiations.",
-                "Shippers face a transition from a buyer-dominated market to a more balanced rate environment where low-cost capacity is becoming scarce. Procurement teams must focus on carrier relationship management and load consistency to secure reliable capacity as spot market volatility begins to trend upward into Q4."
+                "Mexican truck exports surged 159% in October as cross-border manufacturing production jumped 130% amid aggressive nearshoring deployment. Manufacturing hubs south of the border are operating at peak capacity to supply US distribution networks ahead of anticipated trade policy shifts.",
+                "The exponential increase in southbound freight traffic has intensified border crossing congestion and strained available cross-border equipment pools. Logistics directors must secure dedicated drayage capacity early and optimize customs pre-clearance protocols to prevent costly border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
+            "nextUpTease": "AIR CARGO: LATAM INVESTMENT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/truckers-leverage-cost-pressures-rate-recovery",
-                "Published: 2026-11-12T10:30:00Z",
+                "Source: https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
+            "heading": "AIR CARGO: LATAM INVESTMENT",
             "paragraphs": [
-                "Greek capesize specialist Seanergy Maritime has committed $264M to acquire four additional bulkers, bringing its total fleet investment program to $855M. The expansion targets high-capacity dry bulk tonnage as global demand for iron ore and coal transport remains resilient across Atlantic and Pacific routes.",
-                "This aggressive fleet scaling indicates long-term confidence in bulk commodity demand despite broader macroeconomic fluctuations. Industrial shippers should monitor capesize availability and bulk spot rates, as large-scale fleet consolidation among Greek owners may impact regional chartering flexibility for 2027 contracts."
+                "LATAM Cargo is executing its largest strategic investment outside of pure freighter aircraft acquisition by deploying advanced technology across airports to mitigate missed flights and capacity waste. The carrier initiative applies automation and data analytics to streamline belly cargo handling and optimize transit throughput.",
+                "This technological upgrade addresses chronic bottlenecks in cargo terminals where manual processes often delay time-sensitive shipments. Air freight forwarders and shippers can expect improved predictability and better asset utilization across key Latin American export corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
+            "nextUpTease": "RETAIL: FAMILY DOLLAR SETTLEMENT",
             "tags": [
-                "Source: https://splash247.com/seanergy-lines-up-four-more-bulkers-in-855m-fleet-push/",
-                "Published: 2026-11-13T08:15:00Z",
+                "Source: https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
+            "heading": "RETAIL: FAMILY DOLLAR SETTLEMENT",
             "paragraphs": [
-                "Democratic victories in both chambers of the US Congress following the midterm elections have introduced fresh uncertainty into trans-Pacific trade policies and ocean freight regulations. While ocean imports remain near peak, shifts in legislative focus may impact environmental mandates and future tariff structures.",
-                "Freight forwarders are advising clients to brace for potential regulatory pivots that could affect port funding and trade enforcement priorities. Supply chain planners should maintain agile routing strategies to pivot in response to any sudden legislative changes impacting trans-Pacific carrier alliances."
+                "Family Dollar has reached a $63M settlement with the US Federal Trade Commission and multiple state attorneys general following extensive investigations into systemic customer overcharges. The penalty resolves allegations regarding pricing discrepancies and inventory management failures across retail distribution channels.",
+                "The substantial financial settlement emphasizes the critical regulatory risk tied to retail pricing accuracy and store-level inventory auditing. Supply chain and retail operations leaders must enforce rigorous point-of-sale data verification and inventory tracking controls to mitigate catastrophic compliance liabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty",
-                "Published: 2026-11-12T15:00:00Z",
+                "Source: https://www.reuters.com/business/family-dollar-reaches-63-million-settlement-with-us-ftc-states-over-customer-overcharges",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

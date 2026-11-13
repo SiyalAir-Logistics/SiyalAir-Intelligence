@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: MEXICO TARIFF THREAT",
-                "teaserTitle": "MARITIME: HORMUZ CRISIS LETHALITY",
-                "visual_caption": "Trump threatens 100% tariffs on Mexico citing migrant influx concerns. Potential hike targets critical manufacturing corridors and USMCA trade stability."
+                "headline": "GOVERNMENT: BUDGET DEFICIT SPIKES",
+                "teaserTitle": "EQUIPMENT: CLASS 8 ORDERS",
+                "visual_caption": "US budget deficit surged 42% in October to reach $404B. Federal tariff revenue dropped 39%, impacting fiscal policies."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ CRISIS LETHALITY",
-                "teaserTitle": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
-                "visual_caption": "Conflict in the Strait of Hormuz has caused 25 seafarer deaths since Feb. Daily attacks trigger extreme security surcharges and vessel rerouting."
+                "headline": "EQUIPMENT: CLASS 8 ORDERS",
+                "teaserTitle": "MERGERS: ROBINSON ACQUIRES RXO",
+                "visual_caption": "Class 8 truck orders fell amid regulatory uncertainty. Fleets are deferring equipment purchases pending cost clarity."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT OPERATIONS: SPANISH TERMINAL BACKLOG",
-                "teaserTitle": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
-                "visual_caption": "General strike in Spain causes cargo backlogs at Algeciras and Barcelona. Mediterranean transit times are extending by 72 hours as terminals normalize."
+                "headline": "MERGERS: ROBINSON ACQUIRES RXO",
+                "teaserTitle": "MARITIME: HAPAG-LLOYD SURGE",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B deal. The merger consolidates brokerage and expedited transport."
             },
             {
                 "slide_index": 4,
-                "headline": "ROBOTICS: HUMANOID FLEET DEPLOYMENT",
-                "teaserTitle": "ROAD FREIGHT: TRUCK RATE RECOVERY",
-                "visual_caption": "GXO to deploy 1,000 Apptronik humanoid robots for picking and sorting. Strategy aims to stabilize labor costs in global high-volume fulfillment hubs."
+                "headline": "MARITIME: HAPAG-LLOYD SURGE",
+                "teaserTitle": "CROSS-BORDER: MEXICO EXPORTS",
+                "visual_caption": "Hapag-Lloyd reported soaring Q3 profit as freight rates remained strong. Shippers face tight capacity during contract renewals."
             },
             {
                 "slide_index": 5,
-                "headline": "ROAD FREIGHT: TRUCK RATE RECOVERY",
-                "teaserTitle": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
-                "visual_caption": "US truckers leverage rising costs to drive freight rate recovery in Q3. Capacity constraints shift pricing power as low-cost capacity becomes scarce."
+                "headline": "CROSS-BORDER: MEXICO EXPORTS",
+                "teaserTitle": "AIR CARGO: LATAM INVESTMENT",
+                "visual_caption": "Mexican truck exports soared 159% in October as production jumped 130%. Cross-border traffic is driving severe border congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET STRATEGY: SEANERGY CAPESIZE EXPANSION",
-                "teaserTitle": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
-                "visual_caption": "Seanergy commits $855M to expand Capesize fleet for bulk commodity routes. Move signals long-term confidence in global iron ore and coal demand."
+                "headline": "AIR CARGO: LATAM INVESTMENT",
+                "teaserTitle": "RETAIL: FAMILY DOLLAR SETTLEMENT",
+                "visual_caption": "LATAM Cargo is deploying airport tech to cut capacity waste. Digital upgrades improve transit predictability across hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL LOGISTICS: MIDTERM TRADE UNCERTAINTY",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "US midterm shift adds uncertainty to trans-Pacific trade and tariff policies. Forwarders advise agile routing as new legislative focuses impact port funding."
+                "headline": "RETAIL: FAMILY DOLLAR SETTLEMENT",
+                "teaserTitle": "",
+                "visual_caption": "Family Dollar reached a $63M settlement over pricing overcharges. Retailers must enforce strict inventory auditing controls."
             },
             {
                 "slide_index": 8,
