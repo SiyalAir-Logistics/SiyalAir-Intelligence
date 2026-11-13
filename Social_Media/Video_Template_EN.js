@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT OF LOS ANGELES TOPS ONE MILLION TEUS FOR OCTOBER",
+        "hookTitle": "FAA NATIONWIDE GROUND STOP",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT: LOS ANGELES TOPS 1M TEUS",
-                "teaserTitle": "CONTRACTS: PROJECT FORWARDERS",
+                "headline": "AVIATION: FAA NATIONWIDE GROUND STOP",
+                "teaserTitle": "SAFETY: FMCSA REVOKES 133 ELDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Port of Los Angeles handled over one million twenty-foot equivalent units in October. This record volume reflects strong retail import demand ahead of peak shipping schedules."
+                "narration_line": "The Federal Aviation Administration halted all domestic departures following a critical air traffic control communications outage. The unexpected network breakdown creates severe flight disruptions and delays high-priority belly-hold airfreight across major hubs."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTRACTS: PROJECT FORWARDERS",
-                "teaserTitle": "SANCTIONS: UK VESSEL BLACKLIST",
+                "headline": "SAFETY: FMCSA REVOKES 133 ELDS",
+                "teaserTitle": "POLICY: JONES ACT WAIVER EXTENSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Project cargo operators face increased legal exposure due to unsuitable transport contracts. Shippers must tighten liability clauses to mitigate financial risks."
+                "narration_line": "Federal regulators purged one hundred thirty-three electronic logging devices due to widespread non-compliance and hours-of-service data falsification. Motor carriers face a strict sixty-day deadline to replace decertified units or risk immediate fleet out-of-service orders."
             },
             {
                 "slide_index": 3,
-                "headline": "SANCTIONS: UK VESSEL BLACKLIST",
-                "teaserTitle": "M&A: RXO ACQUISITION",
+                "headline": "POLICY: JONES ACT WAIVER EXTENSION",
+                "teaserTitle": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Britain has placed eleven vessels under trade sanctions to disrupt Russian energy exports. Importers must verify vessel ownership to prevent cargo seizures."
+                "narration_line": "The White House extended the Jones Act shipping waiver for ninety days into twenty twenty-seven to facilitate coastal fuel and fertilizer transit. The temporary cabotage relief eases domestic tanker deficits and lowers coastal commodity shipping costs."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: RXO ACQUISITION",
-                "teaserTitle": "INFLATION: WHOLESALE PACE",
+                "headline": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
+                "teaserTitle": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "C.H. Robinson has agreed to acquire RXO in a multi-billion dollar transaction. This consolidation reshapes competitive third-party logistics pricing dynamics."
+                "narration_line": "Flash floods across New Mexico damaged key BNSF Southern Transcon trackage, worsening container rail dwell at West Coast ports. Intermodal operators must reroute critical retail shipments onto highway corridors to prevent costly production halts."
             },
             {
                 "slide_index": 5,
-                "headline": "INFLATION: WHOLESALE PACE",
-                "teaserTitle": "ROBOTICS: GXO DEPLOYMENT",
+                "headline": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
+                "teaserTitle": "MARITIME: NEW ORLEANS RIVER ALLISION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Wholesale inflation accelerated to six point five percent annually in October. Rising producer prices threaten to increase outsourced transport service costs."
+                "narration_line": "Spanish container gateways are tackling heavy cargo backlogs following a nationwide dockworker strike at Algeciras, Valencia, and Barcelona. Vessel diversions and mounting terminal congestion threaten European supply chain transit reliability across southern corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: GXO DEPLOYMENT",
-                "teaserTitle": "INFRASTRUCTURE: BUDGET PROPOSAL",
+                "headline": "MARITIME: NEW ORLEANS RIVER ALLISION",
+                "teaserTitle": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GXO Logistics plans to deploy up to one thousand humanoid robots across its network. Advanced warehouse automation aims to alleviate severe labor shortages."
+                "narration_line": "An asphalt tanker struck a moored riverboat along the New Orleans waterfront, triggering emergency river safety transit restrictions. Slower navigational speeds along the Mississippi River slow regional bulk exports and disrupt coastal chemical barge schedules."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: BUDGET PROPOSAL",
+                "headline": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port Authority of New York and New Jersey proposed a ten point three billion dollar budget. Capital investments focus on modernizing regional freight infrastructure."
+                "narration_line": "The Postal Service filed plans to make commercial fuel surcharges permanent while introducing broad parcel price increases. High-volume shippers must recalibrate fulfillment budgets to protect retail operating margins against indexed transport cost increases."
             },
             {
                 "slide_index": 8,

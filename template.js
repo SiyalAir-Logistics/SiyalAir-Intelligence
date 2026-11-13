@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LOS ANGELES TOPS 1M TEUS FOR",
-        "titleBlue": "OCTOBER",
-        "footerSummary": "Port of Los Angeles handles 1.026M TEUs in October, setting an all-time record and lifting import forecasts."
+        "titleWhite": "FAA NATIONWIDE GROUND",
+        "titleBlue": "STOP",
+        "footerSummary": "Critical ATC communication failures trigger nationwide air ground stop while FMCSA purges 133 non-compliant ELD platforms."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT: LOS ANGELES TOPS 1M TEUS",
+            "heading": "AVIATION: FAA NATIONWIDE GROUND STOP",
             "paragraphs": [
-                "The Port of Los Angeles handled 1,026,872 TEUs in October, registering a 21.3% annual increase and marking the second consecutive month exceeding the 1M threshold. This record throughput reflects robust inventory staging by major retail shippers ahead of traditional peak shipping schedules.",
-                "Surging volumes at major gateway ports create downstream yard congestion and stretch intermodal equipment availability across domestic rail ramps. Logistics directors must factor extended container dwell times into terminal routing plans to avoid demurrage penalties."
+                "The Federal Aviation Administration issued an emergency nationwide ground stop for all domestic departures on Nov. 13, 2026, citing widespread air traffic control communications outages across multiple critical radar facilities. The sudden network failure severed primary coordination channels, halting thousands of passenger and cargo flights during peak afternoon departures. Air freight integrators and belly-hold cargo operators immediately reported cascading transit delays across major regional hubs.",
+                "Ground halts instantly cascade into severe airfreight sorting delays, late airport-to-hub transfers, and breached priority SLAs for high-value cargo. Forwarders must actively divert time-critical parcels toward dedicated road feeder networks to mitigate multi-day sorting center backlogs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACTS: PROJECT FORWARDERS",
+            "nextUpTease": "SAFETY: FMCSA REVOKES 133 ELDS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://www.reuters.com",
+                "Published: 2026-11-13T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTRACTS: PROJECT FORWARDERS",
+            "heading": "SAFETY: FMCSA REVOKES 133 ELDS",
             "paragraphs": [
-                "Project cargo operators face mounting operational risks due to unsuitable contract terms, inadequate insurance provisions, and complex claims management frameworks. Industry experts at a recent conference warned that growing supply chain complexity requires tighter legal safeguards.",
-                "Flawed contractual structures expose shippers to severe financial liabilities when unexpected transport delays or equipment failures occur. Procurement teams must audit existing service agreements and tighten liability clauses before entering upcoming contract negotiations."
+                "The FMCSA officially purged 133 electronic logging devices from its registered registry after uncovering widespread non-compliance and systemic hours-of-service data falsification. Motor carriers utilizing revoked hardware are subject to a mandatory 60-day remediation window to transition to authorized tracking platforms or face immediate out-of-service orders. Federal inspectors have updated roadside enforcement databases to flag non-compliant hardware during routine highway safety checks.",
+                "Operating decertified logging platforms creates imminent fleet immobilization, voided cargo insurance claims, and severe roadside safety penalties. Fleets must rapidly source replacement units to avoid capacity freezes and costly shipper rate contract cancellations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS: UK VESSEL BLACKLIST",
+            "nextUpTease": "POLICY: JONES ACT WAIVER EXTENSION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SANCTIONS: UK VESSEL BLACKLIST",
+            "heading": "POLICY: JONES ACT WAIVER EXTENSION",
             "paragraphs": [
-                "Britain has imposed fresh trade sanctions on 11 maritime vessels tied to Russian energy exports, targeting five LNG carriers, five oil tankers, and a floating storage unit. This regulatory escalation aims to severely disrupt Moscow seaborne oil and gas logistics networks.",
-                "The removal of compliant tonnage from global charter pools tightens vessel availability and drives up operating costs across international energy shipping lanes. Importers must rigorously vet vessel ownership structures and compliance histories to prevent cargo seizures."
+                "The White House approved a 90-day extension of the emergency Jones Act waiver into 2027, permitting foreign-flagged tankers and bulk vessels to transport domestic oil, refined petroleum, and fertilizer between U.S. coastal ports. The executive determination aims to alleviate regional distribution bottlenecks caused by persistent domestic vessel shortages and elevated coastal barge charter tariffs. Federal energy regulators highlighted critical agricultural supply lines and regional fuel reserves as primary drivers for the intervention.",
+                "Permitting international tonnage along domestic waterways provides immediate short-term freight rate relief for energy and commodity traders while dampening demand for U.S.-flagged cabotage vessels. Fleet managers must evaluate short-term maritime contracts against potential policy shifts once emergency extensions expire."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: RXO ACQUISITION",
+            "nextUpTease": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-13T13:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "M&A: RXO ACQUISITION",
+            "heading": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
             "paragraphs": [
-                "C.H. Robinson has entered into an agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, with final closing projected for H1 2027. This major consolidation move adds specialized expedited and last-mile freight services to the buyer platform.",
-                "Industry consolidation alters competitive dynamics among third-party logistics providers and reshapes broker carrier selection criteria. Supply chain executives must review logistics partner portfolios to ensure service continuity and stable pricing structures."
+                "Severe localized storms and flash flooding damaged critical track segments along BNSF Railway's Southern Transcon route in New Mexico, causing severe mainline intermodal train bottlenecks. The infrastructure damage coincided with record import surges moving inland from Southern California container docks, compounding container yard dwell times across Los Angeles and Long Beach. Maintenance teams are conducting emergency track repairs while diverting select intermodal trains across alternative northern corridors.",
+                "Prolonged rail mainline shutdowns stretch average railcar turn times, strand West Coast inland cargo, and drive up intermodal container dwell surcharges. Shippers face steep demurrage fees and must divert critical retail stock toward transloading and expedited cross-country over-the-road trucking."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFLATION: WHOLESALE PACE",
+            "nextUpTease": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFLATION: WHOLESALE PACE",
+            "heading": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
             "paragraphs": [
-                "Wholesale inflation accelerated to its fastest pace since 2022, with producer prices rising 0.3% in October to push the annual rate to 6.5%. Broadening inflationary pressures across industrial sectors reflect persistent input cost increases and rising operational overhead.",
-                "Rising wholesale price indices threaten to compress carrier operating margins and increase the cost of outsourced transport services. Logistics financial planners must build flexible rate escalation models into upcoming shipper-carrier agreements."
+                "Major maritime gateways across Spain, including Algeciras, Valencia, and Barcelona, launched emergency recovery operations following a nationwide general strike that halted terminal crane moves and gate operations. Vessel berthing line-ups expanded across Mediterranean anchorages as incoming deep-sea container services were forced to drift or omit scheduled port calls. Terminal operators report landside drayage queues stretching several miles as export drop-offs and import pickups resumed under strict queue restrictions.",
+                "Interrupted port operations trigger vessel bypasses, misplaced transshipment boxes, and downstream vessel turnaround delays across southern European industrial feeder networks. Shippers must secure alternative Mediterranean relay options to prevent prolonged cargo dwell and export production line shutdowns."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: GXO DEPLOYMENT",
+            "nextUpTease": "MARITIME: NEW ORLEANS RIVER ALLISION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-13T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ROBOTICS: GXO DEPLOYMENT",
+            "heading": "MARITIME: NEW ORLEANS RIVER ALLISION",
             "paragraphs": [
-                "GXO Logistics announced a multi-year deployment plan for up to 1,000 Apptronik humanoid robots across its global warehouse network. The strategic initiative targets persistent labor shortages and aims to optimize pick-and-pack fulfillment efficiency.",
-                "Advanced warehouse automation requires significant capital investment but delivers long-term labor cost stability and higher throughput capacity. Enterprise supply chain leaders must evaluate how robotic fulfillment integration impacts warehouse pricing SLAs."
+                "The asphalt tanker Atlantic Asphalt struck a moored passenger riverboat along the downtown New Orleans waterfront on the Mississippi River, prompting maritime search operations and immediate navigation channel restrictions. The collision caused structural hull flooding on the riverboat and prompted the U.S. Coast Guard to establish safety zones along adjacent commercial river transit lanes. Marine inspectors are evaluating riverbed damage and structural integrity while commercial tug and barge traffic operates under strict transit slowdown mandates.",
+                "Navigational curbs along the Lower Mississippi River delay crucial bulk agricultural exports and slow inbound chemical tanker movements toward Gulf Coast storage terminals. Logistics planners must adjust tow vessel schedules and factor river transit delays into coastal bulk loading commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: BUDGET PROPOSAL",
+            "nextUpTease": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-13T12:18:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: BUDGET PROPOSAL",
+            "heading": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
             "paragraphs": [
-                "The Port Authority of New York and New Jersey has proposed a capital budget of $10.3B aimed at modernizing regional transport infrastructure. The funding allocation focuses on expanding cargo handling capacity and improving intermodal rail connections.",
-                "Investment in regional freight infrastructure helps mitigate long-term terminal bottlenecks and supports higher throughput demands. Regional shippers should monitor construction timelines to adjust local drayage routing schedules proactively."
+                "The U.S. Postal Service filed official regulatory notices to make its emergency fuel surcharge permanent across commercial parcel tiers while implementing broad price increases across shipping services. The postal authority stated that rising surface diesel averages and persistent line-haul contractor operating expenses necessitated institutionalizing dynamic fuel recovery metrics. The permanent mechanism introduces monthly index adjustments aligned directly with federal on-highway diesel pricing benchmarks.",
+                "Institutionalized fuel formulas raise parcel transport baselines and diminish predictable budgeting margins for high-volume enterprise e-commerce merchants. Shippers must audit multi-carrier contract structures and negotiate protective index caps to insulate retail fulfillment margins."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Published: 2026-11-12T22:00:00Z",
                 "Status: Audited & True"
             ]
         }
