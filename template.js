@@ -1,83 +1,83 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HAPAG-LLOYD PROFIT",
-        "titleBlue": "SURGES",
-        "footerSummary": "Hapag-Lloyd Q3 profit surges 480% year-on-year as container spot rates climb despite flat global volumes."
+        "titleWhite": "LOS ANGELES TOPS 1M TEUS FOR",
+        "titleBlue": "OCTOBER",
+        "footerSummary": "Port of Los Angeles handles 1.026M TEUs in October, setting an all-time record and lifting import forecasts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HAPAG-LLOYD PROFIT SURGES",
+            "heading": "PORT: LOS ANGELES TOPS 1M TEUS",
             "paragraphs": [
-                "Hapag-Lloyd reported a dramatic 480% year-on-year surge in Q3 profit, driven by persistently strong container spot freight rates across major trade lanes. The carrier successfully lifted its full-year earnings guidance as strong pricing power offset broadly flat global shipping volumes.",
-                "This widening disconnect between stagnant cargo volumes and soaring carrier profits underscores the high cost of capacity management for international shippers. Procurement teams entering upcoming contract negotiations must prepare for carrier resistance to rate concessions and prioritize volume commitments to secure space."
+                "The Port of Los Angeles handled 1,026,872 TEUs in October, registering a 21.3% annual increase and marking the second consecutive month exceeding the 1M threshold. This record throughput reflects robust inventory staging by major retail shippers ahead of traditional peak shipping schedules.",
+                "Surging volumes at major gateway ports create downstream yard congestion and stretch intermodal equipment availability across domestic rail ramps. Logistics directors must factor extended container dwell times into terminal routing plans to avoid demurrage penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER: MEXICO EXPORTS",
+            "nextUpTease": "CONTRACTS: PROJECT FORWARDERS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/hapag-lloyd-profit-jumps-as-stronger-freight-rates-drive-guidance-upgrade",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CROSS-BORDER: MEXICO EXPORTS",
+            "heading": "CONTRACTS: PROJECT FORWARDERS",
             "paragraphs": [
-                "Mexican truck exports surged 159% in October as cross-border manufacturing production jumped 130% amid aggressive nearshoring deployment by North American enterprises. Manufacturing hubs situated south of the border are operating at peak capacity to supply US distribution networks ahead of anticipated trade policy shifts.",
-                "The exponential increase in southbound freight traffic has intensified border crossing congestion and strained available cross-border equipment pools. Logistics directors must secure dedicated drayage capacity early and optimize customs pre-clearance protocols to prevent costly border delays."
+                "Project cargo operators face mounting operational risks due to unsuitable contract terms, inadequate insurance provisions, and complex claims management frameworks. Industry experts at a recent conference warned that growing supply chain complexity requires tighter legal safeguards.",
+                "Flawed contractual structures expose shippers to severe financial liabilities when unexpected transport delays or equipment failures occur. Procurement teams must audit existing service agreements and tighten liability clauses before entering upcoming contract negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: CLASS 8 ORDERS",
+            "nextUpTease": "SANCTIONS: UK VESSEL BLACKLIST",
             "tags": [
-                "Source: https://www.freightwaves.com/news/mexico-truck-exports-soar-159-as-production-jumps-130-in-october",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: CLASS 8 ORDERS",
+            "heading": "SANCTIONS: UK VESSEL BLACKLIST",
             "paragraphs": [
-                "Class 8 truck orders contracted in October amid a cloudy regulatory picture and ongoing uncertainty regarding model-year 2027 compliance costs. Fleet operators continue to defer capital equipment investments while truck manufacturers struggle to establish definitive pricing models ahead of upcoming emissions and safety mandates.",
-                "The temporary cooling in equipment procurement allows carriers to manage near-term liquidity but introduces long-term fleet aging risks across major freight networks. Logistics operators must balance equipment replacement schedules against potential cost spikes when regulatory clarity finally drives deferred purchasing decisions."
+                "Britain has imposed fresh trade sanctions on 11 maritime vessels tied to Russian energy exports, targeting five LNG carriers, five oil tankers, and a floating storage unit. This regulatory escalation aims to severely disrupt Moscow seaborne oil and gas logistics networks.",
+                "The removal of compliant tonnage from global charter pools tightens vessel availability and drives up operating costs across international energy shipping lanes. Importers must rigorously vet vessel ownership structures and compliance histories to prevent cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: BUDGET DEFICIT",
+            "nextUpTease": "M&A: RXO ACQUISITION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/class-8-orders-fall-regulatory-picture",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOVERNMENT: BUDGET DEFICIT",
+            "heading": "M&A: RXO ACQUISITION",
             "paragraphs": [
-                "The United States federal budget deficit surged 42% in October, reaching a record $404B for the start of the fiscal year. Concurrently, federal tariff revenue experienced a steep 39% decline, reflecting shifting trade volumes and altered import patterns across major domestic entry points.",
-                "This widening fiscal gap places renewed pressure on government agencies and threatens potential adjustments to customs enforcement budgets and trade processing fees. Supply chain executives must monitor federal policy shifts that could alter operational compliance costs and border clearance timelines."
+                "C.H. Robinson has entered into an agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, with final closing projected for H1 2027. This major consolidation move adds specialized expedited and last-mile freight services to the buyer platform.",
+                "Industry consolidation alters competitive dynamics among third-party logistics providers and reshapes broker carrier selection criteria. Supply chain executives must review logistics partner portfolios to ensure service continuity and stable pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LATAM INVESTMENT",
+            "nextUpTease": "INFLATION: WHOLESALE PACE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-budget-deficit-up-october-tariff-revenue-dips",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: LATAM INVESTMENT",
+            "heading": "INFLATION: WHOLESALE PACE",
             "paragraphs": [
-                "LATAM Cargo is executing its largest strategic investment outside of pure freighter aircraft acquisition by deploying advanced technology across airports to mitigate missed flights and capacity waste. The carrier initiative applies automation and data analytics to streamline belly cargo handling and optimize transit throughput.",
-                "This technological upgrade addresses chronic bottlenecks in cargo terminals where manual processes often delay time-sensitive shipments. Air freight forwarders and shippers can expect improved predictability and better asset utilization across key Latin American export corridors."
+                "Wholesale inflation accelerated to its fastest pace since 2022, with producer prices rising 0.3% in October to push the annual rate to 6.5%. Broadening inflationary pressures across industrial sectors reflect persistent input cost increases and rising operational overhead.",
+                "Rising wholesale price indices threaten to compress carrier operating margins and increase the cost of outsourced transport services. Logistics financial planners must build flexible rate escalation models into upcoming shipper-carrier agreements."
             ],
             "imageUrl": "",
             "nextUpTease": "ROBOTICS: GXO DEPLOYMENT",
             "tags": [
-                "Source: https://theloadstar.com/air-cargo-puts-tech-to-work-on-missed-flights-delays-and-wasted-capacity/",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -85,11 +85,11 @@ const dailyData = {
             "id": 6,
             "heading": "ROBOTICS: GXO DEPLOYMENT",
             "paragraphs": [
-                "GXO Logistics announced plans to potentially deploy up to 1,000 Apptronik humanoid robots over a four-year period across its global warehouse network. This major automation rollout aims to alleviate severe warehouse labor shortages and drastically improve pick-and-pack throughput efficiency.",
-                "The integration of humanoid robotics represents a capital-intensive shift in third-party logistics fulfillment strategies aimed at lowering long-term operating costs. Supply chain leaders must evaluate how such advanced automation infrastructure impacts contract pricing and fulfillment SLAs."
+                "GXO Logistics announced a multi-year deployment plan for up to 1,000 Apptronik humanoid robots across its global warehouse network. The strategic initiative targets persistent labor shortages and aims to optimize pick-and-pack fulfillment efficiency.",
+                "Advanced warehouse automation requires significant capital investment but delivers long-term labor cost stability and higher throughput capacity. Enterprise supply chain leaders must evaluate how robotic fulfillment integration impacts warehouse pricing SLAs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SPAIN STRIKE",
+            "nextUpTease": "INFRASTRUCTURE: BUDGET PROPOSAL",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: 2026-11-12T00:00:00Z",
@@ -98,16 +98,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "MARITIME: SPAIN STRIKE",
+            "heading": "INFRASTRUCTURE: BUDGET PROPOSAL",
             "paragraphs": [
-                "Spanish container terminals are facing severe cargo backlogs following a national general strike that left box ships waiting at anchor after sudden port closures. Major facilities including Algeciras, Valencia, and Barcelona experienced complete operational halts during the labor action.",
-                "The resulting vessel bunching and yard congestion will cascade across European maritime corridors, extending transit delays for importers. Supply chain managers must incorporate schedule buffers to absorb lingering berth congestion across Mediterranean shipping lanes."
+                "The Port Authority of New York and New Jersey has proposed a capital budget of $10.3B aimed at modernizing regional transport infrastructure. The funding allocation focuses on expanding cargo handling capacity and improving intermodal rail connections.",
+                "Investment in regional freight infrastructure helps mitigate long-term terminal bottlenecks and supports higher throughput demands. Regional shippers should monitor construction timelines to adjust local drayage routing schedules proactively."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/spanish-box-terminals-face-cargo-backlog-after-general-strike/",
-                "Published: 2026-11-12T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
