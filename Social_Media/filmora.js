@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AVIATION: FAA NATIONWIDE GROUND STOP",
-                "teaserTitle": "SAFETY: FMCSA REVOKES 133 ELDS",
-                "visual_caption": "The FAA halted all domestic departures following a critical air traffic control communications outage. The unexpected network breakdown creates severe flight disruptions and delays high-priority belly-hold airfreight across major hubs."
+                "headline": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+                "visual_caption": "C.H. Robinson agrees to acquire RXO in a landmark $5.8B mega-brokerage buyout. The deal consolidates North American 3PL freight capacity under a single massive network."
             },
             {
                 "slide_index": 2,
-                "headline": "SAFETY: FMCSA REVOKES 133 ELDS",
-                "teaserTitle": "POLICY: JONES ACT WAIVER EXTENSION",
-                "visual_caption": "Federal regulators purged 133 electronic logging devices due to widespread non-compliance and hours-of-service data falsification. Motor carriers face a strict 60-day deadline to replace decertified units or risk immediate fleet out-of-service orders."
+                "headline": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+                "teaserTitle": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+                "visual_caption": "A cargo ship struck a major interstate highway bridge spanning the Delaware River. Maritime navigation channels were immediately halted as structural engineers evaluate bridge stability."
             },
             {
                 "slide_index": 3,
-                "headline": "POLICY: JONES ACT WAIVER EXTENSION",
-                "teaserTitle": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
-                "visual_caption": "The White House extended the Jones Act shipping waiver for 90 days into 2027 to facilitate coastal fuel and fertilizer transit. The temporary cabotage relief eases domestic tanker deficits and lowers coastal commodity shipping costs."
+                "headline": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+                "teaserTitle": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+                "visual_caption": "The FMC declared firm opposition to the IMO Net Zero Framework carbon tax. US regulators stated the levy unfairly inflates carrier costs without ensuring operational emissions cuts."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
-                "teaserTitle": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
-                "visual_caption": "Flash floods across New Mexico damaged key BNSF Southern Transcon trackage, worsening container rail dwell at West Coast ports. Intermodal operators must reroute critical retail shipments onto highway corridors to prevent costly production halts."
+                "headline": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+                "teaserTitle": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+                "visual_caption": "Port of Los Angeles cargo jumped 21.3% annually to top 1,026,872 TEUs in October. Peak import flows continue to test inland container rail capacity across Southern California."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
-                "teaserTitle": "MARITIME: NEW ORLEANS RIVER ALLISION",
-                "visual_caption": "Spanish container gateways are tackling heavy cargo backlogs following a nationwide dockworker strike at Algeciras, Valencia, and Barcelona. Vessel diversions and mounting terminal congestion threaten European supply chain transit reliability across southern corridors."
+                "headline": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "visual_caption": "Airlines warn that surging Q4 airfreight rates are pricing out perishable export cargo. E-commerce demand has monopolized main-deck capacity across major international transshipment gateways."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: NEW ORLEANS RIVER ALLISION",
-                "teaserTitle": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
-                "visual_caption": "An asphalt tanker struck a moored riverboat along the New Orleans waterfront, triggering emergency river safety transit restrictions. Slower navigational speeds along the Mississippi River slow regional bulk exports and disrupt coastal chemical barge schedules."
+                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "teaserTitle": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+                "visual_caption": "The UK slapped sanctions on 11 ships, targeting 5 LNG carriers and 5 oil tankers. London insurers canceled P&I protection immediately, freezing target vessels out of allied ports."
             },
             {
                 "slide_index": 7,
-                "headline": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
+                "headline": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
                 "teaserTitle": "",
-                "visual_caption": "The Postal Service filed plans to make commercial fuel surcharges permanent while introducing broad parcel price increases. High-volume shippers must recalibrate fulfillment budgets to protect retail operating margins against indexed transport cost increases."
+                "visual_caption": "The Second Circuit Court of Appeals upheld New York's non-domiciled CDL issuance standards. The unanimous decision prevents federal funding blocks and secures regional cross-border driver labor."
             },
             {
                 "slide_index": 8,

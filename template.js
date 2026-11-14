@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FAA NATIONWIDE GROUND",
-        "titleBlue": "STOP",
-        "footerSummary": "Critical ATC communication failures trigger nationwide air ground stop while FMCSA purges 133 non-compliant ELD platforms."
+        "titleWhite": "CH ROBINSON BUYS RXO FOR",
+        "titleBlue": "$5.8B",
+        "footerSummary": "C.H. Robinson absorbs RXO in $5.8B mega-brokerage buyout while Delaware River vessel collision halts critical Northeast maritime freight lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AVIATION: FAA NATIONWIDE GROUND STOP",
+            "heading": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
             "paragraphs": [
-                "The Federal Aviation Administration issued an emergency nationwide ground stop for all domestic departures on Nov. 13, 2026, citing widespread air traffic control communications outages across multiple critical radar facilities. The sudden network failure severed primary coordination channels, halting thousands of passenger and cargo flights during peak afternoon departures. Air freight integrators and belly-hold cargo operators immediately reported cascading transit delays across major regional hubs.",
-                "Ground halts instantly cascade into severe airfreight sorting delays, late airport-to-hub transfers, and breached priority SLAs for high-value cargo. Forwarders must actively divert time-critical parcels toward dedicated road feeder networks to mitigate multi-day sorting center backlogs."
+                "C.H. Robinson has entered into an agreement to acquire freight brokerage competitor RXO in an all-cash and stock transaction valued at $5.8B. The transaction consolidates two of North America's largest third-party logistics networks, uniting extensive digital brokerage platforms and last-mile operations under a single corporate umbrella. Federal antitrust regulators are scheduled to review carrier capacity concentration metrics ahead of the projected Q2 2027 closing date.",
+                "This consolidation significantly reduces spot market liquidity options, giving enterprise shippers fewer independent 3PL mega-platforms to leverage during annual procurement cycles. Enterprise procurement teams must immediately audit contracted routing guides and reassess asset-light vendor reliance to prevent localized pricing surges across truckload corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: FMCSA REVOKES 133 ELDS",
+            "nextUpTease": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
             "tags": [
-                "Source: https://www.reuters.com",
-                "Published: 2026-11-13T16:45:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-13T17:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SAFETY: FMCSA REVOKES 133 ELDS",
+            "heading": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
             "paragraphs": [
-                "The FMCSA officially purged 133 electronic logging devices from its registered registry after uncovering widespread non-compliance and systemic hours-of-service data falsification. Motor carriers utilizing revoked hardware are subject to a mandatory 60-day remediation window to transition to authorized tracking platforms or face immediate out-of-service orders. Federal inspectors have updated roadside enforcement databases to flag non-compliant hardware during routine highway safety checks.",
-                "Operating decertified logging platforms creates imminent fleet immobilization, voided cargo insurance claims, and severe roadside safety penalties. Fleets must rapidly source replacement units to avoid capacity freezes and costly shipper rate contract cancellations."
+                "A commercial cargo vessel struck a major interstate highway bridge spanning the Delaware River between New Jersey and Philadelphia early Friday morning. The maritime impact forced emergency structural safety inspections, precipitating temporary navigation channel shutdowns and vehicle lane closures along essential cross-river logistics corridors. Regional maritime pilots and port authorities instituted emergency vessel queuing along anchorages south of the bridge span.",
+                "Navigation halts along the Delaware River halt dry bulk movements, container transits, and liquid petroleum barge flows into mid-Atlantic terminals. Freight forwarders must reroute regional container drayage toward secondary highway crossings and budget for extended turnaround delays across Philadelphia docks."
             ],
             "imageUrl": "",
-            "nextUpTease": "POLICY: JONES ACT WAIVER EXTENSION",
+            "nextUpTease": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T14:15:00Z",
+                "Published: 2026-11-13T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "POLICY: JONES ACT WAIVER EXTENSION",
+            "heading": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
             "paragraphs": [
-                "The White House approved a 90-day extension of the emergency Jones Act waiver into 2027, permitting foreign-flagged tankers and bulk vessels to transport domestic oil, refined petroleum, and fertilizer between U.S. coastal ports. The executive determination aims to alleviate regional distribution bottlenecks caused by persistent domestic vessel shortages and elevated coastal barge charter tariffs. Federal energy regulators highlighted critical agricultural supply lines and regional fuel reserves as primary drivers for the intervention.",
-                "Permitting international tonnage along domestic waterways provides immediate short-term freight rate relief for energy and commodity traders while dampening demand for U.S.-flagged cabotage vessels. Fleet managers must evaluate short-term maritime contracts against potential policy shifts once emergency extensions expire."
+                "Federal Maritime Commission Chairman Laura DiBella formally announced that the United States firmly opposes the International Maritime Organization's Net Zero Framework ahead of global summit negotiations. U.S. regulatory authorities labeled the mandatory decarbonization mechanism an illegal global tax on commercial ocean shipping that unfairly penalizes trade without guaranteeing emission reductions. The Commission stated it will deploy regulatory countermeasures against any international levies imposed on U.S. export cargo.",
+                "A diplomatic split between Washington and European maritime regulators creates volatile dual-compliance standards for major container lines operating Transatlantic loops. Cargo owners must prepare for uneven greenhouse gas surcharges and potential reciprocal tariff disputes between ocean regulatory agencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
+            "nextUpTease": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-13T13:30:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-13T16:11:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
+            "heading": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
             "paragraphs": [
-                "Severe localized storms and flash flooding damaged critical track segments along BNSF Railway's Southern Transcon route in New Mexico, causing severe mainline intermodal train bottlenecks. The infrastructure damage coincided with record import surges moving inland from Southern California container docks, compounding container yard dwell times across Los Angeles and Long Beach. Maintenance teams are conducting emergency track repairs while diverting select intermodal trains across alternative northern corridors.",
-                "Prolonged rail mainline shutdowns stretch average railcar turn times, strand West Coast inland cargo, and drive up intermodal container dwell surcharges. Shippers face steep demurrage fees and must divert critical retail stock toward transloading and expedited cross-country over-the-road trucking."
+                "The Port of Los Angeles processed 1,026,872 TEUs in October, marking an annual throughput increase of 21.3% and exceeding the 1M TEU mark for the second consecutive month. Inbound loaded imports drove the record performance as retailers pulled inventories forward to insulate domestic supply chains against tariff shifts. Terminal operators reported sustained gate fluidity despite peak container volumes stressing on-dock rail car inventory.",
+                "Elevated container dwell rates along Southern California marine docks threaten to exacerbate outbound intermodal rail bottlenecks across inland gateways. Shippers relying on Transpacific supply lines must coordinate transloading options in the Inland Empire to avoid rising rail demurrage fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
+            "nextUpTease": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-13T11:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-13T15:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
+            "heading": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
             "paragraphs": [
-                "Major maritime gateways across Spain, including Algeciras, Valencia, and Barcelona, launched emergency recovery operations following a nationwide general strike that halted terminal crane moves and gate operations. Vessel berthing line-ups expanded across Mediterranean anchorages as incoming deep-sea container services were forced to drift or omit scheduled port calls. Terminal operators report landside drayage queues stretching several miles as export drop-offs and import pickups resumed under strict queue restrictions.",
-                "Interrupted port operations trigger vessel bypasses, misplaced transshipment boxes, and downstream vessel turnaround delays across southern European industrial feeder networks. Shippers must secure alternative Mediterranean relay options to prevent prolonged cargo dwell and export production line shutdowns."
+                "International air carriers have issued operational advisories warning that spot rate spikes and tight widebody belly capacity are pricing out agricultural and pharmaceutical perishables. The ongoing fourth-quarter e-commerce surge has absorbed scheduled main-deck freighter space across East Asian and South American export hubs, driving ad-hoc charter pricing beyond sustainable thresholds. Export handlers report severe refrigeration storage congestion at major European and North American gateway airports.",
+                "Skyrocketing air cargo spot rates threaten cold chain spoilage losses for high-value agricultural producers unable to pass freight rate surcharges to consumer markets. Exporters must lock in scheduled block space agreements or evaluate expedited refrigerated ocean services to preserve operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: NEW ORLEANS RIVER ALLISION",
+            "nextUpTease": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-13T09:45:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-13T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: NEW ORLEANS RIVER ALLISION",
+            "heading": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
             "paragraphs": [
-                "The asphalt tanker Atlantic Asphalt struck a moored passenger riverboat along the downtown New Orleans waterfront on the Mississippi River, prompting maritime search operations and immediate navigation channel restrictions. The collision caused structural hull flooding on the riverboat and prompted the U.S. Coast Guard to establish safety zones along adjacent commercial river transit lanes. Marine inspectors are evaluating riverbed damage and structural integrity while commercial tug and barge traffic operates under strict transit slowdown mandates.",
-                "Navigational curbs along the Lower Mississippi River delay crucial bulk agricultural exports and slow inbound chemical tanker movements toward Gulf Coast storage terminals. Logistics planners must adjust tow vessel schedules and factor river transit delays into coastal bulk loading commitments."
+                "The British government designated 11 commercial maritime vessels under its updated energy sanctions regime, directly blacklisting 5 LNG tankers and 5 crude carriers linked to shadow fleet operations. The sanctions mandate an immediate freeze on maritime insurance coverage, classification society certifications, and bunkering access across international jurisdictions complying with UK directives. Marine insurers based in London have revoked protection and indemnity coverage for all named hulls.",
+                "Targeted blacklisting removes crucial maritime tanker capacity from secondary charter routes, increasing freight volatility across global energy and petrochemical supply lines. International traders must verify vessel ownership and insurance chains to eliminate secondary sanctions liability."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
+            "nextUpTease": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-13T12:18:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-13T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
+            "heading": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
             "paragraphs": [
-                "The U.S. Postal Service filed official regulatory notices to make its emergency fuel surcharge permanent across commercial parcel tiers while implementing broad price increases across shipping services. The postal authority stated that rising surface diesel averages and persistent line-haul contractor operating expenses necessitated institutionalizing dynamic fuel recovery metrics. The permanent mechanism introduces monthly index adjustments aligned directly with federal on-highway diesel pricing benchmarks.",
-                "Institutionalized fuel formulas raise parcel transport baselines and diminish predictable budgeting margins for high-volume enterprise e-commerce merchants. Shippers must audit multi-carrier contract structures and negotiate protective index caps to insulate retail fulfillment margins."
+                "The U.S. Court of Appeals for the Second Circuit ruled unanimously in favor of New York State, overturning federal funding cuts tied to non-domiciled Commercial Driver's Licenses. The federal appellate panel determined that the state holds statutory authority to determine license duration standards for foreign commercial operators legally employed within interstate commerce. The decision protects thousands of commercial cross-border driver credentials from immediate administrative cancellation.",
+                "The legal decision safeguards regional driver capacity across cross-border freight lanes connecting Canadian manufacturing centers with Northeast consumer distribution nodes. Motor carriers operating cross-border relays gain immediate workforce stability, shielding regional line-haul contracts from acute driver deficits."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-12T22:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

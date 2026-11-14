@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FAA NATIONWIDE GROUND STOP",
+        "hookTitle": "C.H. ROBINSON ACQUIRES RXO FOR 5.8 BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AVIATION: FAA NATIONWIDE GROUND STOP",
-                "teaserTitle": "SAFETY: FMCSA REVOKES 133 ELDS",
+                "headline": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Federal Aviation Administration halted all domestic departures following a critical air traffic control communications outage. The unexpected network breakdown creates severe flight disruptions and delays high-priority belly-hold airfreight across major hubs."
+                "narration_line": "C.H. Robinson has agreed to purchase RXO in a landmark five point eight billion dollar acquisition deal. The consolidation unites two massive brokerage platforms and reshapes freight purchasing power."
             },
             {
                 "slide_index": 2,
-                "headline": "SAFETY: FMCSA REVOKES 133 ELDS",
-                "teaserTitle": "POLICY: JONES ACT WAIVER EXTENSION",
+                "headline": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+                "teaserTitle": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal regulators purged one hundred thirty-three electronic logging devices due to widespread non-compliance and hours-of-service data falsification. Motor carriers face a strict sixty-day deadline to replace decertified units or risk immediate fleet out-of-service orders."
+                "narration_line": "A cargo ship struck a major interstate highway bridge over the Delaware River. Commercial navigation channels were halted immediately as port inspectors assessed the structural damage."
             },
             {
                 "slide_index": 3,
-                "headline": "POLICY: JONES ACT WAIVER EXTENSION",
-                "teaserTitle": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
+                "headline": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+                "teaserTitle": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The White House extended the Jones Act shipping waiver for ninety days into twenty twenty-seven to facilitate coastal fuel and fertilizer transit. The temporary cabotage relief eases domestic tanker deficits and lowers coastal commodity shipping costs."
+                "narration_line": "The Federal Maritime Commission declared firm opposition to the proposed global shipping carbon tax. Agency officials warned that unilateral environmental fees threaten trade and American fleet competitiveness."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: BNSF TRANSCON FLOOD DISRUPTIONS",
-                "teaserTitle": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
+                "headline": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+                "teaserTitle": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Flash floods across New Mexico damaged key BNSF Southern Transcon trackage, worsening container rail dwell at West Coast ports. Intermodal operators must reroute critical retail shipments onto highway corridors to prevent costly production halts."
+                "narration_line": "The Port of Los Angeles processed over one million container units in October alone. Strong import volumes surged twenty-one percent, straining rail connections across the Southern California corridor."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: SPANISH TERMINAL STRIKE BACKLOG",
-                "teaserTitle": "MARITIME: NEW ORLEANS RIVER ALLISION",
+                "headline": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Spanish container gateways are tackling heavy cargo backlogs following a nationwide dockworker strike at Algeciras, Valencia, and Barcelona. Vessel diversions and mounting terminal congestion threaten European supply chain transit reliability across southern corridors."
+                "narration_line": "Airlines warn that soaring fourth quarter cargo rates are pricing out time-sensitive perishable shipments. Peak e-commerce volumes have absorbed main-deck capacity, stranding temperature-controlled freight at major international gateways."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: NEW ORLEANS RIVER ALLISION",
-                "teaserTitle": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
+                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "teaserTitle": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An asphalt tanker struck a moored riverboat along the New Orleans waterfront, triggering emergency river safety transit restrictions. Slower navigational speeds along the Mississippi River slow regional bulk exports and disrupt coastal chemical barge schedules."
+                "narration_line": "Britain imposed direct maritime sanctions on eleven energy vessels, targeting five gas carriers and five oil tankers. Bunkering access and marine insurance coverage were revoked immediately across participating hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "POSTAL: USPS PERMANENT FUEL SURCHARGE",
+                "headline": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Postal Service filed plans to make commercial fuel surcharges permanent while introducing broad parcel price increases. High-volume shippers must recalibrate fulfillment budgets to protect retail operating margins against indexed transport cost increases."
+                "narration_line": "A federal appeals court upheld New York's rules for non-domiciled commercial truck driver licenses. The unanimous ruling halts proposed federal funding penalties and preserves vital cross-border fleet capacity."
             },
             {
                 "slide_index": 8,
