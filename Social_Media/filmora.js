@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
-                "teaserTitle": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
-                "visual_caption": "FMCSA removed 133 noncompliant ELDs from its registered devices list after extensive audits. Motor carriers must replace decertified hardware immediately to avoid strict out-of-service penalties."
+                "headline": "MARITIME: LOS ANGELES PORTS TOP 1M TEUS",
+                "teaserTitle": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+                "visual_caption": "The Port of Los Angeles handled 1.02M TEUs in October, marking a 21.3% annual increase. Record import volumes create acute pressure on marine terminals and drayage networks."
             },
             {
                 "slide_index": 2,
-                "headline": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
-                "teaserTitle": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
-                "visual_caption": "An unprecedented communication failure forced the FAA to issue a nationwide ground stop. Logistics directors must deploy contingency trucking relays to bypass stranded air freight lanes."
+                "headline": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+                "teaserTitle": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
+                "visual_caption": "Severe autumn storms triggered track washouts along BSNF rail networks in New Mexico. Intermodal service interruptions compel cargo owners to divert shipments to trucking."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
-                "visual_caption": "The White House extended the Jones Act waiver for foreign-crewed petroleum tankers through 2027. Coastal energy traders gain routing options despite severe pushback from domestic shipbuilders."
+                "headline": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
+                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+                "visual_caption": "C.H. Robinson finalized a $5.8B cash-and-stock deal to absorb RXO. This consolidation alters competitive dynamics across the third-party logistics sector."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
-                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "visual_caption": "A commercial tanker struck and sank a luxury river cruise ship in New Orleans. Emergency responders hospitalized 32 passengers while port authorities restricted river navigation."
+                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+                "teaserTitle": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
+                "visual_caption": "The White House authorized a multi-month extension of the Jones Act waiver for foreign tankers. The policy aims to stabilize domestic energy inventories amid refining bottlenecks."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "teaserTitle": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
-                "visual_caption": "PANYNJ proposed a $10.3B budget focused on intermodal rail and terminal modernization. Regional shippers should anticipate incremental facility tariffs over the upcoming fiscal cycle."
+                "headline": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
+                "teaserTitle": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+                "visual_caption": "A commercial tanker collided with a river cruise vessel in New Orleans, causing 32 hospitalizations. Navigational restrictions threaten commercial barge fleeting operations."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
-                "teaserTitle": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
-                "visual_caption": "AI-driven cargo phishing and broker spoofing have surpassed $150M in total losses. Supply chains must enforce strict digital credential verification to prevent freight theft."
+                "headline": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "visual_caption": "Perishables shippers face an airfreight cost squeeze as airlines restrict capacity. Carriers implemented steep surcharges to offset mounting operational bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
+                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "teaserTitle": "",
-                "visual_caption": "Severe storms washed out BNSF tracks along the Southern Transcon in New Mexico. Intermodal shippers face severe container dwell spikes and rising spot drayage costs."
+                "visual_caption": "The Port Authority of NY and NJ proposed a $10.3B budget focused on infrastructure. Funding prioritizes automated container terminal upgrades and intermodal rail expansion."
             },
             {
                 "slide_index": 8,

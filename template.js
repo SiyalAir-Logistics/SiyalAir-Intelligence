@@ -1,50 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FMCSA REMOVES 133 ELDS FROM",
-        "titleBlue": "LIST",
-        "footerSummary": "FMCSA purges 133 ELDs over widespread compliance failures while the FAA grounds nationwide flights following critical air traffic control system outages."
+        "titleWhite": "LOS ANGELES PORTS TOP 1M",
+        "titleBlue": "TEUS",
+        "footerSummary": "Southern California ports handle over 1M TEUs for a second consecutive month while BSNF network delays worsen inland transit times."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
+            "heading": "MARITIME: LOS ANGELES PORTS TOP 1M TEUS",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration removed 133 electronic logging devices from its registered devices list following extensive nationwide audits that revealed widespread noncompliance. Regulatory investigators uncovered systemic software vulnerabilities and widespread evidence of falsified hours-of-service records across multiple low-tier hardware vendors. Motor carriers utilizing the decertified devices face a strict operating window to transition compliant equipment before facing administrative penalties.",
-                "This sudden decertification forces fleet operators to absorb unexpected hardware replacement costs and immediate compliance verification overhead during peak shipping cycles. Motor carriers failing to audit their onboard logging technology face severe out-of-service orders and heightened safety intervention scores across federal databases."
+                "The Port of Los Angeles handled 1,026,872 TEUs in October, marking a 21.3% annual increase and setting a new monthly record for the gateway. This surge represents the second straight month that container volumes surpassed the 1M TEU threshold during an extended peak shipping season. Import surges continue to flow heavily through major West Coast terminals despite broader macro volatility.",
+                "Record import volumes create acute pressure on marine terminals and drayage networks, amplifying congestion across regional distribution nodes. Shippers must anticipate prolonged container dwell times and increased container yard storage fees as terminal gates absorb incoming boxes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+            "nextUpTease": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+            "heading": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
             "paragraphs": [
-                "The Federal Aviation Administration issued an emergency nationwide ground stop across all U.S. commercial airports following a catastrophic communications failure at primary air traffic control centers. The unprecedented technology outage forced the longest domestic flight suspension since 2001, leaving hundreds of thousands of passengers stranded and disrupting critical cargo schedules. Aviation authorities worked through the night to restore secondary network redundancies while implementing phased flight resumptions.",
-                "Extended airport ground stops severely disrupt integrated air cargo networks and time-sensitive forwarder operations across major domestic hubs. Logistics directors must immediately activate contingency trucking relays to bypass stranded regional air freight lanes and mitigate downstream supply chain delays."
+                "Record import volumes moving inland from the ports of Los Angeles and Long Beach faced severe bottlenecks following back-to-back autumn storms. The severe weather triggered extensive flash flooding and track washouts along BSNF railway networks across New Mexico. These infrastructure disruptions heavily impacted the Southern Transcon intermodal corridor and drove up dwell times across major rail ramps.",
+                "Intermodal service interruptions compel cargo owners to divert urgent container shipments toward premium over-the-road trucking alternatives. Supply chain managers must absorb elevated spot market drayage rates while navigating prolonged rail transit delays heading into peak windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+            "nextUpTease": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
             "tags": [
-                "Source: https://www.reuters.com",
-                "Published: 2026-11-13T18:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+            "heading": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
             "paragraphs": [
-                "The White House officially authorized a multi-month extension of the Jones Act waiver, allowing foreign-crewed tankers to continue transporting energy products and petroleum derivatives in domestic U.S. coastal trade. The policy continuation aims to stabilize regional fuel inventories and maintain fluid transport options for domestic energy traders facing persistent refining bottlenecks. Domestic maritime unions strongly condemned the decision, arguing that prolonged foreign exemptions permanently weaken the U.S. shipbuilding industrial base.",
-                "While the waiver extension provides short-term relief for regional petroleum distribution costs, it intensifies long-term friction between energy shippers and domestic maritime carriers. Coastal logistics buyers must evaluate foreign-flagged spot availability against rising regulatory scrutiny during upcoming vessel charter negotiations."
+                "C.H. Robinson finalized a major $5.8B cash-and-stock acquisition agreement to absorb RXO, significantly expanding its brokerage scale and service capabilities. The strategic buyout adds comprehensive expedited and last-mile delivery operations to the combined entity's national freight network. Industry analysts note the transaction is expected to close during the first half of 2027 pending regulatory clearances.",
+                "This consolidation alters competitive dynamics across the third-party logistics sector, reducing fragmented mid-tier broker options for enterprise shippers. Logistics buyers must re-evaluate counterparty exposure and contract terms to maintain service continuity across expedited freight lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
+            "nextUpTease": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-14T08:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+            "paragraphs": [
+                "The White House officially authorized a multi-month extension of the Jones Act waiver to allow foreign-crewed tankers to continue coastal domestic energy transport. The policy continuation aims to stabilize regional petroleum inventories and maintain fluid transport options for domestic energy traders. Domestic maritime unions strongly criticized the decision, arguing that prolonged foreign exemptions undermine the domestic shipbuilding base.",
+                "While the waiver extension provides short-term relief for regional petroleum distribution costs, it intensifies long-term friction between energy shippers and domestic carriers. Coastal logistics buyers must evaluate foreign-flagged spot availability against rising regulatory scrutiny during vessel charter negotiations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-11-13T16:13:00Z",
@@ -52,62 +67,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
-            "paragraphs": [
-                "A commercial bitumen tanker collided with a docked luxury river cruise vessel along the Mississippi River waterfront in New Orleans, causing the passenger ship to roll over and sink. The high-impact collision hurled dozens of individuals into the shipping channel and resulted in 32 hospitalizations, prompting an immediate multi-agency emergency rescue operation. River traffic was restricted to single-lane transits while salvage teams assessed hull obstructions near major port terminals.",
-                "Navigational delays along the Lower Mississippi River threaten commercial barge fleeting operations and bulk commodity transit schedules heading toward Gulf export elevators. Grain and petrochemical shippers must factor in localized vessel queue times and potential towboat wait surcharges across regional locks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+            "heading": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
             "paragraphs": [
-                "The Port Authority of New York and New Jersey formally proposed a massive $10.3B annual capital and operating budget focused heavily on regional infrastructure hardening and intermodal rail expansion. The funding allocation prioritizes automated container terminal upgrades, harbor deepening projects, and cross-harbor freight tunnel planning to handle anticipated volume growth. Commissioners emphasized that strategic capital investments are vital to maintaining fluidity across Northeast distribution gateways.",
-                "Substantial capital expenditures signal higher terminal usage fees and facility maintenance tariffs for ocean carriers and drayage operators over the coming fiscal cycle. Supply chain planners must account for incremental port handling fee adjustments when budgeting for Northeast import distribution costs."
+                "A commercial bitumen tanker collided with a docked river cruise vessel along the Mississippi River waterfront in New Orleans, causing the passenger ship to partially sink. The high-impact collision resulted in 32 hospitalizations and prompted an immediate multi-agency emergency rescue response. River traffic was heavily restricted while salvage teams assessed hull obstructions near major port export facilities.",
+                "Navigational delays along the Lower Mississippi River threaten commercial barge fleeting operations and bulk commodity transit schedules. Grain and petrochemical shippers must factor in localized vessel queue times and potential towboat wait surcharges across regional locks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
+            "nextUpTease": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T14:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
-            "paragraphs": [
-                "Specialized supply chain security reports revealed that organized cargo thefts orchestrated through sophisticated artificial intelligence phishing and digital broker spoofing have surpassed $150M in losses. Criminal syndicates are increasingly deploying generative tools to forge carrier credentials, hijack load board profiles, and intercept high-value electronics shipments mid-transit. Logistics security teams report a sharp rise in complex strategic identity frauds targeting third-party brokerage dispatchers.",
-                "Escalating digital freight fraud forces enterprise shippers and 3PLs to implement stringent carrier vetting protocols and mandatory multi-factor authentication for load assignments. Failure to adopt advanced verification technology exposes logistics operations to severe uninsured cargo losses and reputational damage."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
-            "tags": [
-                "Source: https://www.freightwaves.com",
                 "Published: 2026-11-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
+            "id": 6,
+            "heading": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
             "paragraphs": [
-                "Severe back-to-back autumn storms triggered severe flash flooding and track washouts along BSNF railway networks across New Mexico, heavily disrupting the vital Southern Transcon intermodal corridor. Transcontinental freight moving inland from the ports of Los Angeles and Long Beach experienced severe dwell time spikes as engineering crews labored to repair damaged signaling systems. Railroad operators issued service advisories warning of multi-day transit delays for westbound and eastbound freight trains.",
-                "Intermodal service interruptions across the Southwest compel cargo owners to divert urgent container shipments toward premium over-the-road trucking alternatives. Shippers must absorb elevated spot market drayage rates while navigating prolonged rail transit delays heading into the peak holiday shipping window."
+                "Perishables shippers face an acute airfreight cost squeeze as major airlines restrict capacity to manage seasonal cargo surges and agricultural backlogs. Carriers have implemented steep surcharges across key Asian export gateways to offset mounting operational bottlenecks and equipment imbalances. Shippers moving temperature-sensitive goods report limited room to absorb rising transportation expenses.",
+                "Escalating airfreight rates force perishable supply chain operators to reassess inventory distribution models and evaluate alternate routing strategies. Shippers failing to secure long-term capacity block space agreements face severe spot market exposure during peak export windows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-13T08:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+            "paragraphs": [
+                "The Port Authority of New York and New Jersey formally proposed a massive $10.3B annual capital and operating budget focused on regional infrastructure hardening. The funding allocation prioritizes automated container terminal upgrades, harbor deepening projects, and intermodal rail expansion. Commissioners emphasized that strategic capital investments are vital to maintaining fluidity across Northeast distribution gateways.",
+                "Substantial capital expenditures signal higher terminal usage fees and facility maintenance tariffs for ocean carriers and drayage operators over the coming fiscal cycle. Supply chain planners must account for incremental port handling fee adjustments when budgeting for Northeast import distribution costs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-13T09:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T14:00:00Z",
                 "Status: Audited & True"
             ]
         }

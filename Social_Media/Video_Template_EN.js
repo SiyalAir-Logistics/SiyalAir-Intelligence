@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FMCSA REMOVES ONE HUNDRED THIRTY THREE ELDS FROM LIST",
+        "hookTitle": "LOS ANGELES PORTS TOP ONE MILLION TEUS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
-                "teaserTitle": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+                "headline": "MARITIME: LOS ANGELES PORTS TOP 1M TEUS",
+                "teaserTitle": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal regulators removed one hundred thirty-three electronic logging devices following audits exposing widespread noncompliance. Motor carriers must immediately replace decertified hardware to avoid severe out-of-service safety penalties."
+                "narration_line": "The Port of Los Angeles handled over one million teus in October, setting a new monthly record. Import surges continue to strain marine terminals and increase container dwell times."
             },
             {
                 "slide_index": 2,
-                "headline": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
-                "teaserTitle": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "headline": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+                "teaserTitle": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An emergency communication failure forced the federal aviation administration to ground domestic flights nationwide. Logistics planners must activate contingency trucking lanes to bypass crippled air cargo networks."
+                "narration_line": "Severe autumn storms triggered track washouts along BSNF rail networks in New Mexico. Intermodal delays compel cargo owners to divert containers to over-the-road trucking."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
+                "headline": "LOGISTICS: CH ROBINSON ACQUIRES RXO",
+                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The White House authorized an extended Jones Act waiver for foreign-crewed petroleum tankers. Coastal energy shippers gain short-term transport flexibility despite strong opposition from domestic maritime unions."
+                "narration_line": "C.H. Robinson finalized a five point eight billion dollar acquisition agreement to absorb RXO. This major consolidation alters competitive dynamics across the third-party brokerage sector."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
-                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+                "teaserTitle": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A commercial bitumen tanker collided with a docked riverboat on the Mississippi River. The tragic accident sank the vessel and triggered single-lane navigation restrictions across New Orleans port terminals."
+                "narration_line": "The White House authorized an extension of the Jones Act waiver for foreign tankers. The policy aims to stabilize domestic energy inventories while drawing union criticism."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "teaserTitle": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
+                "headline": "SAFETY: TANKER STRIKES NEW ORLEANS BOAT",
+                "teaserTitle": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port Authority of New York and New Jersey proposed a ten billion dollar capital budget. The massive funding package targets vital terminal automation and regional intermodal rail enhancements."
+                "narration_line": "A commercial tanker collided with a river cruise vessel in New Orleans, resulting in hospitalizations. Navigational restrictions threaten commercial barge fleeting operations."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
-                "teaserTitle": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
+                "headline": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Sophisticated artificial intelligence cargo frauds have surpassed one hundred fifty million dollars in losses. Supply chain security teams are mandating advanced broker verification protocols to prevent interception."
+                "narration_line": "Perishables shippers face higher airfreight costs as airlines restrict capacity for seasonal cargo. Shippers must absorb rising transportation expenses during peak export windows."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
+                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Severe autumn storms washed out critical rail tracks across New Mexico intermodal corridors. Transcontinental freight shippers must navigate extended train delays and rising spot drayage rates."
+                "narration_line": "The Port Authority of New York and New Jersey proposed a ten point three billion dollar budget. Funding prioritizes automated terminal upgrades and intermodal rail expansion."
             },
             {
                 "slide_index": 8,
