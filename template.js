@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CH ROBINSON BUYS RXO FOR",
-        "titleBlue": "$5.8B",
-        "footerSummary": "C.H. Robinson absorbs RXO in $5.8B mega-brokerage buyout while Delaware River vessel collision halts critical Northeast maritime freight lanes."
+        "titleWhite": "FMCSA REMOVES 133 ELDS FROM",
+        "titleBlue": "LIST",
+        "footerSummary": "FMCSA purges 133 ELDs over widespread compliance failures while the FAA grounds nationwide flights following critical air traffic control system outages."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
+            "heading": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
             "paragraphs": [
-                "C.H. Robinson has entered into an agreement to acquire freight brokerage competitor RXO in an all-cash and stock transaction valued at $5.8B. The transaction consolidates two of North America's largest third-party logistics networks, uniting extensive digital brokerage platforms and last-mile operations under a single corporate umbrella. Federal antitrust regulators are scheduled to review carrier capacity concentration metrics ahead of the projected Q2 2027 closing date.",
-                "This consolidation significantly reduces spot market liquidity options, giving enterprise shippers fewer independent 3PL mega-platforms to leverage during annual procurement cycles. Enterprise procurement teams must immediately audit contracted routing guides and reassess asset-light vendor reliance to prevent localized pricing surges across truckload corridors."
+                "The Federal Motor Carrier Safety Administration removed 133 electronic logging devices from its registered devices list following extensive nationwide audits that revealed widespread noncompliance. Regulatory investigators uncovered systemic software vulnerabilities and widespread evidence of falsified hours-of-service records across multiple low-tier hardware vendors. Motor carriers utilizing the decertified devices face a strict operating window to transition compliant equipment before facing administrative penalties.",
+                "This sudden decertification forces fleet operators to absorb unexpected hardware replacement costs and immediate compliance verification overhead during peak shipping cycles. Motor carriers failing to audit their onboard logging technology face severe out-of-service orders and heightened safety intervention scores across federal databases."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+            "nextUpTease": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-13T17:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+            "heading": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
             "paragraphs": [
-                "A commercial cargo vessel struck a major interstate highway bridge spanning the Delaware River between New Jersey and Philadelphia early Friday morning. The maritime impact forced emergency structural safety inspections, precipitating temporary navigation channel shutdowns and vehicle lane closures along essential cross-river logistics corridors. Regional maritime pilots and port authorities instituted emergency vessel queuing along anchorages south of the bridge span.",
-                "Navigation halts along the Delaware River halt dry bulk movements, container transits, and liquid petroleum barge flows into mid-Atlantic terminals. Freight forwarders must reroute regional container drayage toward secondary highway crossings and budget for extended turnaround delays across Philadelphia docks."
+                "The Federal Aviation Administration issued an emergency nationwide ground stop across all U.S. commercial airports following a catastrophic communications failure at primary air traffic control centers. The unprecedented technology outage forced the longest domestic flight suspension since 2001, leaving hundreds of thousands of passengers stranded and disrupting critical cargo schedules. Aviation authorities worked through the night to restore secondary network redundancies while implementing phased flight resumptions.",
+                "Extended airport ground stops severely disrupt integrated air cargo networks and time-sensitive forwarder operations across major domestic hubs. Logistics directors must immediately activate contingency trucking relays to bypass stranded regional air freight lanes and mitigate downstream supply chain delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+            "nextUpTease": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-13T16:20:00Z",
+                "Source: https://www.reuters.com",
+                "Published: 2026-11-13T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+            "heading": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
             "paragraphs": [
-                "Federal Maritime Commission Chairman Laura DiBella formally announced that the United States firmly opposes the International Maritime Organization's Net Zero Framework ahead of global summit negotiations. U.S. regulatory authorities labeled the mandatory decarbonization mechanism an illegal global tax on commercial ocean shipping that unfairly penalizes trade without guaranteeing emission reductions. The Commission stated it will deploy regulatory countermeasures against any international levies imposed on U.S. export cargo.",
-                "A diplomatic split between Washington and European maritime regulators creates volatile dual-compliance standards for major container lines operating Transatlantic loops. Cargo owners must prepare for uneven greenhouse gas surcharges and potential reciprocal tariff disputes between ocean regulatory agencies."
+                "The White House officially authorized a multi-month extension of the Jones Act waiver, allowing foreign-crewed tankers to continue transporting energy products and petroleum derivatives in domestic U.S. coastal trade. The policy continuation aims to stabilize regional fuel inventories and maintain fluid transport options for domestic energy traders facing persistent refining bottlenecks. Domestic maritime unions strongly condemned the decision, arguing that prolonged foreign exemptions permanently weaken the U.S. shipbuilding industrial base.",
+                "While the waiver extension provides short-term relief for regional petroleum distribution costs, it intensifies long-term friction between energy shippers and domestic maritime carriers. Coastal logistics buyers must evaluate foreign-flagged spot availability against rising regulatory scrutiny during upcoming vessel charter negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+            "nextUpTease": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
             "tags": [
                 "Source: https://maritime-executive.com",
-                "Published: 2026-11-13T16:11:00Z",
+                "Published: 2026-11-13T16:13:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+            "heading": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
             "paragraphs": [
-                "The Port of Los Angeles processed 1,026,872 TEUs in October, marking an annual throughput increase of 21.3% and exceeding the 1M TEU mark for the second consecutive month. Inbound loaded imports drove the record performance as retailers pulled inventories forward to insulate domestic supply chains against tariff shifts. Terminal operators reported sustained gate fluidity despite peak container volumes stressing on-dock rail car inventory.",
-                "Elevated container dwell rates along Southern California marine docks threaten to exacerbate outbound intermodal rail bottlenecks across inland gateways. Shippers relying on Transpacific supply lines must coordinate transloading options in the Inland Empire to avoid rising rail demurrage fees."
+                "A commercial bitumen tanker collided with a docked luxury river cruise vessel along the Mississippi River waterfront in New Orleans, causing the passenger ship to roll over and sink. The high-impact collision hurled dozens of individuals into the shipping channel and resulted in 32 hospitalizations, prompting an immediate multi-agency emergency rescue operation. River traffic was restricted to single-lane transits while salvage teams assessed hull obstructions near major port terminals.",
+                "Navigational delays along the Lower Mississippi River threaten commercial barge fleeting operations and bulk commodity transit schedules heading toward Gulf export elevators. Grain and petrochemical shippers must factor in localized vessel queue times and potential towboat wait surcharges across regional locks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+            "nextUpTease": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-13T15:45:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+            "heading": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
             "paragraphs": [
-                "International air carriers have issued operational advisories warning that spot rate spikes and tight widebody belly capacity are pricing out agricultural and pharmaceutical perishables. The ongoing fourth-quarter e-commerce surge has absorbed scheduled main-deck freighter space across East Asian and South American export hubs, driving ad-hoc charter pricing beyond sustainable thresholds. Export handlers report severe refrigeration storage congestion at major European and North American gateway airports.",
-                "Skyrocketing air cargo spot rates threaten cold chain spoilage losses for high-value agricultural producers unable to pass freight rate surcharges to consumer markets. Exporters must lock in scheduled block space agreements or evaluate expedited refrigerated ocean services to preserve operating margins."
+                "The Port Authority of New York and New Jersey formally proposed a massive $10.3B annual capital and operating budget focused heavily on regional infrastructure hardening and intermodal rail expansion. The funding allocation prioritizes automated container terminal upgrades, harbor deepening projects, and cross-harbor freight tunnel planning to handle anticipated volume growth. Commissioners emphasized that strategic capital investments are vital to maintaining fluidity across Northeast distribution gateways.",
+                "Substantial capital expenditures signal higher terminal usage fees and facility maintenance tariffs for ocean carriers and drayage operators over the coming fiscal cycle. Supply chain planners must account for incremental port handling fee adjustments when budgeting for Northeast import distribution costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+            "nextUpTease": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-13T14:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-13T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+            "heading": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
             "paragraphs": [
-                "The British government designated 11 commercial maritime vessels under its updated energy sanctions regime, directly blacklisting 5 LNG tankers and 5 crude carriers linked to shadow fleet operations. The sanctions mandate an immediate freeze on maritime insurance coverage, classification society certifications, and bunkering access across international jurisdictions complying with UK directives. Marine insurers based in London have revoked protection and indemnity coverage for all named hulls.",
-                "Targeted blacklisting removes crucial maritime tanker capacity from secondary charter routes, increasing freight volatility across global energy and petrochemical supply lines. International traders must verify vessel ownership and insurance chains to eliminate secondary sanctions liability."
+                "Specialized supply chain security reports revealed that organized cargo thefts orchestrated through sophisticated artificial intelligence phishing and digital broker spoofing have surpassed $150M in losses. Criminal syndicates are increasingly deploying generative tools to forge carrier credentials, hijack load board profiles, and intercept high-value electronics shipments mid-transit. Logistics security teams report a sharp rise in complex strategic identity frauds targeting third-party brokerage dispatchers.",
+                "Escalating digital freight fraud forces enterprise shippers and 3PLs to implement stringent carrier vetting protocols and mandatory multi-factor authentication for load assignments. Failure to adopt advanced verification technology exposes logistics operations to severe uninsured cargo losses and reputational damage."
             ],
             "imageUrl": "",
-            "nextUpTease": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+            "nextUpTease": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-13T13:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+            "heading": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
             "paragraphs": [
-                "The U.S. Court of Appeals for the Second Circuit ruled unanimously in favor of New York State, overturning federal funding cuts tied to non-domiciled Commercial Driver's Licenses. The federal appellate panel determined that the state holds statutory authority to determine license duration standards for foreign commercial operators legally employed within interstate commerce. The decision protects thousands of commercial cross-border driver credentials from immediate administrative cancellation.",
-                "The legal decision safeguards regional driver capacity across cross-border freight lanes connecting Canadian manufacturing centers with Northeast consumer distribution nodes. Motor carriers operating cross-border relays gain immediate workforce stability, shielding regional line-haul contracts from acute driver deficits."
+                "Severe back-to-back autumn storms triggered severe flash flooding and track washouts along BSNF railway networks across New Mexico, heavily disrupting the vital Southern Transcon intermodal corridor. Transcontinental freight moving inland from the ports of Los Angeles and Long Beach experienced severe dwell time spikes as engineering crews labored to repair damaged signaling systems. Railroad operators issued service advisories warning of multi-day transit delays for westbound and eastbound freight trains.",
+                "Intermodal service interruptions across the Southwest compel cargo owners to divert urgent container shipments toward premium over-the-road trucking alternatives. Shippers must absorb elevated spot market drayage rates while navigating prolonged rail transit delays heading into the peak holiday shipping window."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-13T12:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         }

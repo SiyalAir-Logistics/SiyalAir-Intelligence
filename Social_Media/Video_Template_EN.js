@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "C.H. ROBINSON ACQUIRES RXO FOR 5.8 BILLION DOLLARS",
+        "hookTitle": "FMCSA REMOVES ONE HUNDRED THIRTY THREE ELDS FROM LIST",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
+                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
+                "teaserTitle": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson has agreed to purchase RXO in a landmark five point eight billion dollar acquisition deal. The consolidation unites two massive brokerage platforms and reshapes freight purchasing power."
+                "narration_line": "Federal regulators removed one hundred thirty-three electronic logging devices following audits exposing widespread noncompliance. Motor carriers must immediately replace decertified hardware to avoid severe out-of-service safety penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
-                "teaserTitle": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
+                "headline": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+                "teaserTitle": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A cargo ship struck a major interstate highway bridge over the Delaware River. Commercial navigation channels were halted immediately as port inspectors assessed the structural damage."
+                "narration_line": "An emergency communication failure forced the federal aviation administration to ground domestic flights nationwide. Logistics planners must activate contingency trucking lanes to bypass crippled air cargo networks."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
-                "teaserTitle": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
+                "headline": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Federal Maritime Commission declared firm opposition to the proposed global shipping carbon tax. Agency officials warned that unilateral environmental fees threaten trade and American fleet competitiveness."
+                "narration_line": "The White House authorized an extended Jones Act waiver for foreign-crewed petroleum tankers. Coastal energy shippers gain short-term transport flexibility despite strong opposition from domestic maritime unions."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
-                "teaserTitle": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
+                "headline": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
+                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles processed over one million container units in October alone. Strong import volumes surged twenty-one percent, straining rail connections across the Southern California corridor."
+                "narration_line": "A commercial bitumen tanker collided with a docked riverboat on the Mississippi River. The tragic accident sank the vessel and triggered single-lane navigation restrictions across New Orleans port terminals."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
-                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "teaserTitle": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Airlines warn that soaring fourth quarter cargo rates are pricing out time-sensitive perishable shipments. Peak e-commerce volumes have absorbed main-deck capacity, stranding temperature-controlled freight at major international gateways."
+                "narration_line": "The Port Authority of New York and New Jersey proposed a ten billion dollar capital budget. The massive funding package targets vital terminal automation and regional intermodal rail enhancements."
             },
             {
                 "slide_index": 6,
-                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "teaserTitle": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+                "headline": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
+                "teaserTitle": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Britain imposed direct maritime sanctions on eleven energy vessels, targeting five gas carriers and five oil tankers. Bunkering access and marine insurance coverage were revoked immediately across participating hubs."
+                "narration_line": "Sophisticated artificial intelligence cargo frauds have surpassed one hundred fifty million dollars in losses. Supply chain security teams are mandating advanced broker verification protocols to prevent interception."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+                "headline": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A federal appeals court upheld New York's rules for non-domiciled commercial truck driver licenses. The unanimous ruling halts proposed federal funding penalties and preserves vital cross-border fleet capacity."
+                "narration_line": "Severe autumn storms washed out critical rail tracks across New Mexico intermodal corridors. Transcontinental freight shippers must navigate extended train delays and rising spot drayage rates."
             },
             {
                 "slide_index": 8,

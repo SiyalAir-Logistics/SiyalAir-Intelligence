@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BROKERAGE: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a landmark $5.8B mega-brokerage buyout. The deal consolidates North American 3PL freight capacity under a single massive network."
+                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS FROM LIST",
+                "teaserTitle": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+                "visual_caption": "FMCSA removed 133 noncompliant ELDs from its registered devices list after extensive audits. Motor carriers must replace decertified hardware immediately to avoid strict out-of-service penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: SHIP STRIKES DELAWARE BRIDGE",
-                "teaserTitle": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
-                "visual_caption": "A cargo ship struck a major interstate highway bridge spanning the Delaware River. Maritime navigation channels were immediately halted as structural engineers evaluate bridge stability."
+                "headline": "AVIATION: FAA GROUNDS FLIGHTS NATIONWIDE",
+                "teaserTitle": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "visual_caption": "An unprecedented communication failure forced the FAA to issue a nationwide ground stop. Logistics directors must deploy contingency trucking relays to bypass stranded air freight lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: US FMC BLOCKS IMO CARBON TAX",
-                "teaserTitle": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
-                "visual_caption": "The FMC declared firm opposition to the IMO Net Zero Framework carbon tax. US regulators stated the levy unfairly inflates carrier costs without ensuring operational emissions cuts."
+                "headline": "REGULATION: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
+                "visual_caption": "The White House extended the Jones Act waiver for foreign-crewed petroleum tankers through 2027. Coastal energy traders gain routing options despite severe pushback from domestic shipbuilders."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: LA HARBOR TOPS 1M TEUS IN OCTOBER",
-                "teaserTitle": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
-                "visual_caption": "Port of Los Angeles cargo jumped 21.3% annually to top 1,026,872 TEUs in October. Peak import flows continue to test inland container rail capacity across Southern California."
+                "headline": "MARITIME: TANKER STRIKES NEW ORLEANS RIVERBOAT",
+                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "visual_caption": "A commercial tanker struck and sank a luxury river cruise ship in New Orleans. Emergency responders hospitalized 32 passengers while port authorities restricted river navigation."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK RATES SQUEEZE PERISHABLES",
-                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "visual_caption": "Airlines warn that surging Q4 airfreight rates are pricing out perishable export cargo. E-commerce demand has monopolized main-deck capacity across major international transshipment gateways."
+                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "teaserTitle": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
+                "visual_caption": "PANYNJ proposed a $10.3B budget focused on intermodal rail and terminal modernization. Regional shippers should anticipate incremental facility tariffs over the upcoming fiscal cycle."
             },
             {
                 "slide_index": 6,
-                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "teaserTitle": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
-                "visual_caption": "The UK slapped sanctions on 11 ships, targeting 5 LNG carriers and 5 oil tankers. London insurers canceled P&I protection immediately, freezing target vessels out of allied ports."
+                "headline": "TECHNOLOGY: AI CARGO THEFTS EXCEED 150M",
+                "teaserTitle": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
+                "visual_caption": "AI-driven cargo phishing and broker spoofing have surpassed $150M in total losses. Supply chains must enforce strict digital credential verification to prevent freight theft."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFORCE: COURT BACKS NY NON-DOMICILED CDLS",
+                "headline": "RAILWAY: STORMS DISRUPT SOUTHERN TRANSCON",
                 "teaserTitle": "",
-                "visual_caption": "The Second Circuit Court of Appeals upheld New York's non-domiciled CDL issuance standards. The unanimous decision prevents federal funding blocks and secures regional cross-border driver labor."
+                "visual_caption": "Severe storms washed out BNSF tracks along the Southern Transcon in New Mexico. Intermodal shippers face severe container dwell spikes and rising spot drayage costs."
             },
             {
                 "slide_index": 8,
