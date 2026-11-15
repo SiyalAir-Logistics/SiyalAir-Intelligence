@@ -1,26 +1,27 @@
-🌐 STRICTER DDP IMPORT RULES
+🌐 FMCSA REVOKES 133 ELD DEVICES
+
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / CUSTOMS: STRICTER DDP IMPORT RULES
-U.S. Customs tightens audits on Delivery Duty Paid freight and foreign importers of record, escalating clearance delays and bond forfeiture risks.
+01 / REGULATION: FMCSA REVOKES 133 ELD DEVICES
+FMCSA decertifies 133 electronic logging devices, forcing carriers into an urgent 60-day hardware replacement mandate.
 
-02 / ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B
-C.H. Robinson agrees to acquire RXO in a $5.8B mega-deal to consolidate North American truckload brokerage and last-mile operations.
+02 / MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH
+A federal court orders the arrest of a commercial tanker following a collision that damaged New Orleans port infrastructure.
 
-03 / PORTS: LOS ANGELES TOPS 1M TEUS
-The Port of Los Angeles handles over 1M TEUs in October, surging 21.3% annually and driving up rail dwell times.
+03 / CABOTAGE: US EXTENDS JONES ACT WAIVER
+DHS extends foreign-flagged shipping waivers for 90 days to ease coastal fuel distribution constraints.
 
-04 / AIR CARGO: SHENZHEN BANS BELLY FREIGHT
-Shenzhen restricts passenger aircraft belly cargo on international flights, triggering capacity pinches and rate spikes out of South China.
+04 / AVIATION: FAA GROUND STOP HITS AIR FREIGHT
+A nationwide communications failure disrupts over 5.2K flights, creating significant belly cargo backlogs at regional hubs.
 
-05 / SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS
-The UK imposes immediate sanctions on 11 maritime tankers and LNG carriers linked to shadow fleet energy exports.
+05 / CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS
+A weekend cross-border pilot expands processing capacity by 400 trucks daily as US-Mexico monthly trade reaches $75.4B.
 
-06 / SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST
-Cargo thieves intercept an $11.4M shipment of high-end Nvidia hardware between Oakland and Fort Worth, raising high-value transport security alerts.
+06 / SHIPPING: INDIA EASES NATIONAL FLAG RULES
+India loosens ship registration restrictions to attract foreign investment and build domestic fleet capacity.
 
-07 / MARITIME: BULKER STRIKES DELAWARE BRIDGE
-A foreign-flagged bulk carrier hits the Tacony-Palmyra Bridge near Philadelphia, forcing bridge closures and regional trucking detours.
+07 / PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT
+USPS cements its floating fuel surcharge as a permanent pricing mechanism, squeezing peak season parcel margins.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -31,4 +32,4 @@ For inquiries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#CustomsCompliance #FreightForwarding #GlobalTrade #SupplyChain #LogisticsManagement #OceanFreight #AirCargo #MomentumPoint
+#FreightTech #LogisticsManagement #SupplyChain #GlobalTrade #FleetSafety #AirCargo #MaritimeShipping #MomentumPoint

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "STRICTER DDP IMPORT RULES",
+        "hookTitle": "FMCSA REVOKES 133 ELD DEVICES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: STRICTER DDP IMPORT RULES",
-                "teaserTitle": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
+                "headline": "REGULATION: FMCSA REVOKES 133 ELD DEVICES",
+                "teaserTitle": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States Customs has enforced stricter compliance audits on delivery duty paid ocean freight. Shippers face immediate clearance holds and heavy bond penalties if documentation lacks foreign entity verification."
+                "narration_line": "The safety agency revoked one hundred thirty-three electronic logging devices due to falsification findings. Carriers face a strict sixty-day replacement window before trucks are ordered out of service."
             },
             {
                 "slide_index": 2,
-                "headline": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
-                "teaserTitle": "PORTS: LOS ANGELES TOPS 1M TEUS",
+                "headline": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
+                "teaserTitle": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C H Robinson announced a five point eight billion dollar acquisition of RXO to consolidate freight brokerage. The transaction unites massive spot volume while raising contract rate negotiations for enterprise shippers."
+                "narration_line": "A federal court ordered the arrest of a tanker following a major collision in New Orleans. The incident triggered regional navigation restrictions alongside a one-million-dollar preliminary damage claim."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: LOS ANGELES TOPS 1M TEUS",
-                "teaserTitle": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
+                "headline": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Los Angeles processed over one million containers in October, jumping twenty-one percent year over year. Inbound rail dwell times and inland drayage rates are rising as terminal yards reach capacity."
+                "narration_line": "Washington extended the Jones Act waiver for ninety days to ease coastwise fuel shortages. Foreign-flagged tankers can now transport domestic energy cargoes through February."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
-                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "headline": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
+                "teaserTitle": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Shenzhen aviation authorities banned passenger belly cargo across international flights to enforce safety checks. Exporters face tighter air cargo capacity and double-digit spot rate spikes across Southeast Asian hubs."
+                "narration_line": "A severe communication outage caused a nationwide aviation ground stop affecting over five thousand flights. Air cargo terminals now face multiday freight staging backlogs across central hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "teaserTitle": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
+                "headline": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
+                "teaserTitle": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United Kingdom blacklisted eleven energy transport vessels to halt shadow fleet petroleum shipments. Marine insurers and cargo owners must immediately terminate charter contracts to avoid severe international sanctions."
+                "narration_line": "A weekend border initiative in Texas cleared four hundred additional commercial trucks per day. The pilot expanded crossing capacity as bilateral monthly trade reached seventy-five billion dollars."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
-                "teaserTitle": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
+                "headline": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
+                "teaserTitle": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cargo thieves intercepted eleven point four million dollars worth of advanced semiconductor chips en route to Texas. Shippers are upgrading transit tracking protocols and high-security freight escorts across vulnerable highway corridors."
+                "narration_line": "India revised ship registration rules to permit foreign minority ownership under its domestic flag. The reform opens coastal shipping routes to international joint ventures."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A bulk carrier struck the Tacony-Palmyra Bridge near Philadelphia, shutting down vehicle traffic for urgent structural inspections. Supply chain managers are rerouting regional truck freight and absorbing higher transit delay costs."
+                "narration_line": "The postal service finalized plans to establish its fuel surcharge as a permanent pricing component. Shippers must prepare for higher contract parcel costs across all shipping tiers."
             },
             {
                 "slide_index": 8,

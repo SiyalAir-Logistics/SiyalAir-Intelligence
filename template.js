@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "STRICTER DDP IMPORT",
-        "titleBlue": "RULES",
-        "footerSummary": "US Customs tightens DDP import audits as C.H. Robinson seals $5.8B RXO buyout and LA port tops 1M TEUs."
+        "titleWhite": "FMCSA REVOKES 133 ELD",
+        "titleBlue": "DEVICES",
+        "footerSummary": "FMCSA decertifies 133 logging devices as US extends Jones Act waiver and FAA network outages halt cargo flights."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: STRICTER DDP IMPORT RULES",
+            "heading": "REGULATION: FMCSA REVOKES 133 ELD DEVICES",
             "paragraphs": [
-                "U.S. Customs and Border Protection has intensified compliance examinations targeting Delivery Duty Paid shipments and non-resident foreign importers of record. Regulatory audits are flagging widespread customs valuation mismatches and improper tariff classifications across high-volume container channels, triggering immediate freight holds at major entry points.",
-                "Importers relying on foreign suppliers to manage cross-border customs obligations now face direct financial liability and cargo seizures. Supply chain executives must audit their international commercial terms and establish verified domestic surety bonds to prevent costly clearance delays."
+                "The Federal Motor Carrier Safety Administration revoked 133 electronic logging devices from its registered list following widespread technical noncompliance and log falsification audits. Motor carriers utilizing decertified models face an immediate 60-day replacement mandate before law enforcement places vehicles out of service at roadside inspection stations.",
+                "Fleet operators face sudden capital hardware replacement costs exceeding $1.2M across large fleets alongside imminent routing disruptions. Logistics managers must audit carrier telematics compliance immediately to prevent freight impoundment and non-negotiable transit cancellations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
+            "nextUpTease": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
             "tags": [
-                "Source: https://theloadstar.com/tougher-rules-for-us-imports-on-ddp-put-pressure-on-buyers-and-suppliers",
-                "Published: 2026-11-15T08:30:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-removes-133-elds-registered-devices-list",
+                "Published: 2026-11-13T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
+            "heading": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
             "paragraphs": [
-                "C.H. Robinson has entered into a definitive agreement to acquire freight broker RXO in a cash-and-stock transaction valued at $5.8B. The mega-deal combines two of North America's largest freight brokerage networks, creating unprecedented consolidation across truckload brokerage, expedited shipping, and last-mile distribution.",
-                "This consolidation significantly reduces carrier competition within the middle-mile brokerage sector, shifting pricing leverage toward large asset-light operators. Shippers must evaluate their 2027 transportation routing guides and contract allocations to hedge against concentrated freight rate pressures."
+                "A federal district court ordered the maritime arrest of the bitumen tanker Atlantic Asphalt following a high-impact collision on the Mississippi River in New Orleans. The vessel struck and partially sank a docked passenger riverboat, prompting immediate navigation corridor restrictions and a $1M preliminary damage claim by port authorities.",
+                "The arrest freezes vessel operations and constrains commercial tanker navigation along lower Mississippi berths during emergency salvage efforts. Bulk liquid shippers must budget for berth congestion surcharges and re-route export parcels to secondary Gulf Coast marine terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LOS ANGELES TOPS 1M TEUS",
+            "nextUpTease": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
             "tags": [
-                "Source: https://logisticsmgmt.com/article/ch_robinson_rxo_deal",
-                "Published: 2026-11-14T14:15:00Z",
+                "Source: https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision",
+                "Published: 2026-11-15T18:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: LOS ANGELES TOPS 1M TEUS",
+            "heading": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
             "paragraphs": [
-                "The Port of Los Angeles handled 1,026,872 TEUs in October, marking an annual surge of 21.3% and the second-highest monthly volume in port history. Surging retail inventory restocking and front-loaded holiday shipments have pushed marine terminal yard utilization above critical operational thresholds.",
-                "Elevated container dwell times are straining off-dock chassis availability and triggering localized rail car shortages across Southern California corridors. Enterprise logistics planners must budget for rising drayage demurrage fees and explore secondary inland rail gateways to bypass gateway bottlenecks."
+                "The Department of Homeland Security issued a 90-day extension of its Jones Act maritime waiver, permitting foreign-flagged vessels to move energy commodities and fertilizer between domestic ports through February. The federal directive aims to alleviate critical coastwise tanker shortfalls and prevent regional distribution bottlenecks.",
+                "Domestic coastwise carriers face increased rate pressure from foreign operators commanding lower vessel daily operating expenditures. Shippers must evaluate short-term voyage charter rates against long-term domestic contract commitments to optimize winter supply continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
+            "nextUpTease": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
             "tags": [
-                "Source: https://logisticsmgmt.com/article/port_of_los_angeles_october_record",
-                "Published: 2026-11-14T11:00:00Z",
+                "Source: https://splash247.com/us-extends-jones-act-waiver-into-february",
+                "Published: 2026-11-16T04:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
+            "heading": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
             "paragraphs": [
-                "Aviation safety regulators in Shenzhen enacted an immediate restriction on passenger aircraft belly cargo across multiple international long-haul routes. The sudden policy intervention curtails hundreds of tons of daily air cargo capacity out of the Pearl River Delta industrial manufacturing zone.",
-                "Shippers face an immediate capacity shortfall ahead of end-of-year e-commerce peaks, driving double-digit spot freight rate surges across alternative Hong Kong and Guangzhou hubs. Forwarders must quickly secure dedicated freighter charters to guarantee transit deadlines for time-sensitive electronics."
+                "A critical telecommunications router failure triggered an unprecedented nationwide Federal Aviation Administration ground stop, disrupting over 5.2K flights and grounding belly cargo networks. While passenger services resumed slowly, high-density air cargo gateways accumulated three-day freight staging backlogs across Midwest and Southern hubs.",
+                "Time-critical automotive components and pharmaceutical consignments experienced severe transit delays, forcing freight forwarders into premium truck expedites. Shippers face higher premium airfreight surcharges and must build redundant overland contingency corridors for just-in-time inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+            "nextUpTease": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
             "tags": [
-                "Source: https://theloadstar.com/shenzhen-belly-cargo-ban-threatens-peak-season-squeeze",
-                "Published: 2026-11-14T09:45:00Z",
+                "Source: https://www.reuters.com/business/autos-transportation/us-air-travel-disruptions-continue-third-day",
+                "Published: 2026-11-15T22:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+            "heading": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
             "paragraphs": [
-                "The United Kingdom expanded maritime sanctions by blacklisting 11 vessels, including 5 LNG carriers and 5 crude tankers linked to illicit Russian energy export operations. The directive imposes immediate port entry prohibitions, asset freezes, and mandatory maritime service boycotts on all targeted hull identifiers.",
-                "Maritime insurers, bunker suppliers, and global commodity traders must instantly cross-reference fleet rosters to avoid secondary sanctions and catastrophic operational liabilities. Charterers face mounting compliance overhead as vetting procedures tighten across international energy transport routes."
+                "A targeted weekend border pilot program in Texas expanded processing capacity by 400 commercial trucks per day across primary commercial entry ports. The efficiency gain coincides with bilateral cross-border trade reaching $75.4B in recent monthly tallies as nearshoring manufacturing shifts accelerate.",
+                "Increased processing bandwidth reduces border bridge wait times by up to 35% during peak Friday-Saturday shipping cycles. Cross-border supply chain directors must realign drayage transfer windows in Nuevo Laredo to secure priority customs transit."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
+            "nextUpTease": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
             "tags": [
-                "Source: https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep",
-                "Published: 2026-11-13T15:20:00Z",
+                "Source: https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises",
+                "Published: 2026-11-15T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
+            "heading": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
             "paragraphs": [
-                "Organized freight theft rings intercepted a commercial trucking shipment carrying $11.4M worth of high-density Nvidia hardware moving from Oakland to Fort Worth. Six complete pallets of advanced semiconductor equipment vanished along the transit corridor without recovered cargo or suspect arrests.",
-                "The brazen multi-million dollar theft underscores intensifying cargo vulnerability for high-value tech freight transiting domestic interstates. Shippers of high-consequence cargo must implement real-time covert sensor tracking, strict driver identity verification, and multi-layered escort security protocols."
+                "The Indian Ministry of Ports, Shipping and Waterways relaxed commercial ship registration regulations, permitting vessels with foreign minority equity to operate under the national flag. The maritime regulatory overhaul is engineered to expand domestic tonnage and reduce reliance on foreign-registered commercial fleets.",
+                "Global vessel operators gain immediate access to cabotage-protected Indian coastal trade routes and maritime subsidies. Enterprise cargo owners can leverage emerging domestic coastal shipping alternatives to bypass congested landside intermodal rail corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
+            "nextUpTease": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
             "tags": [
-                "Source: https://inboundlogistics.com/articles/nvidia-cargo-theft-oakland-to-fort-worth",
-                "Published: 2026-11-14T16:00:00Z",
+                "Source: https://splash247.com/india-eases-flag-rules-in-push-for-more-tonnage",
+                "Published: 2026-11-16T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
+            "heading": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
             "paragraphs": [
-                "The foreign-flagged bulk carrier Strategic Alliance made direct impact with the Tacony-Palmyra Bridge on the Delaware River near Philadelphia while traveling upriver at 8 knots. The collision damaged pedestrian walkways and structural masonry, forcing immediate rush-hour bridge closures and safety inspections.",
-                "The incident highlights continuing navigational infrastructure hazards on high-density inland commercial waterways. Shippers and regional drayage fleets moving cargo between New Jersey and Pennsylvania face highway detours and scheduling disruptions while structural marine engineering assessments conclude."
+                "The United States Postal Service announced formal plans to establish its floating fuel surcharge as a permanent tariff mechanism across all commercial parcel tiers. The policy shift indexes shipping fees permanently against fluctuating wholesale diesel prices, eliminating temporary relief windows.",
+                "High-volume e-commerce shippers face persistent parcel fulfillment margin erosion ahead of peak holiday fulfillment cycles. Retail logistics executives must renegotiate contractual baseline rate discounts or diversify parcel volume into regional delivery networks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/bulker-hits-bridge-near-philadelphia",
-                "Published: 2026-11-13T17:00:00Z",
+                "Source: https://www.ttnews.com/articles/usps-increase-prices-permanent-fuel-surcharge",
+                "Published: 2026-11-13T19:15:00Z",
                 "Status: Audited & True"
             ]
         }

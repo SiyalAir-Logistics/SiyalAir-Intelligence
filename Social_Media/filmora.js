@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: STRICTER DDP IMPORT RULES",
-                "teaserTitle": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
-                "visual_caption": "US Customs has enforced stricter compliance audits on DDP ocean freight. Shippers face immediate clearance holds and heavy bond penalties if documentation lacks foreign entity verification."
+                "headline": "REGULATION: FMCSA REVOKES 133 ELD DEVICES",
+                "teaserTitle": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
+                "visual_caption": "FMCSA revoked 133 ELD devices following compliance audits and falsification findings. Fleets must replace unapproved units within 60 days to prevent out-of-service orders."
             },
             {
                 "slide_index": 2,
-                "headline": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
-                "teaserTitle": "PORTS: LOS ANGELES TOPS 1M TEUS",
-                "visual_caption": "C.H. Robinson announced a $5.8B acquisition of RXO to consolidate freight brokerage. The transaction unites massive spot volume while raising contract rate negotiations for enterprise shippers."
+                "headline": "MARITIME: TANKER ARRESTED IN MISSISSIPPI CRASH",
+                "teaserTitle": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
+                "visual_caption": "A federal court ordered the arrest of a tanker after a collision in New Orleans. The legal action followed river navigation delays and a $1M initial damage claim."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: LOS ANGELES TOPS 1M TEUS",
-                "teaserTitle": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
-                "visual_caption": "The Port of Los Angeles processed over 1M TEUs in October, jumping 21.3% YoY. Inbound rail dwell times and inland drayage rates are rising as terminal yards reach capacity."
+                "headline": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
+                "visual_caption": "Washington extended the Jones Act waiver for 90 days to avert winter fuel bottlenecks. Foreign-flagged tankers may move domestic energy cargo through February."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
-                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "visual_caption": "Shenzhen aviation authorities banned passenger belly cargo across international flights to enforce safety checks. Exporters face tighter air cargo capacity and double-digit spot rate spikes across Southeast Asian hubs."
+                "headline": "AVIATION: FAA GROUND STOP HITS AIR FREIGHT",
+                "teaserTitle": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
+                "visual_caption": "A nationwide ground stop delayed over 5.2K flights due to router equipment failure. Air freight hubs now face multi-day cargo backlogs across major transit gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
-                "teaserTitle": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
-                "visual_caption": "The UK blacklisted 11 energy transport vessels to halt shadow fleet petroleum shipments. Marine insurers and cargo owners must immediately terminate charter contracts to avoid severe international sanctions."
+                "headline": "CROSS-BORDER: TEXAS PILOT ADDS 400 TRUCKS",
+                "teaserTitle": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
+                "visual_caption": "A Texas weekend customs pilot added capacity for 400 trucks per day. The initiative expanded freight flow as monthly bilateral trade reached $75.4B."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
-                "teaserTitle": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
-                "visual_caption": "Cargo thieves intercepted $11.4M worth of advanced semiconductor chips en route to Texas. Shippers are upgrading transit tracking protocols and high-security freight escorts across vulnerable highway corridors."
+                "headline": "SHIPPING: INDIA EASES NATIONAL FLAG RULES",
+                "teaserTitle": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
+                "visual_caption": "India relaxed vessel registration rules to permit minority foreign ownership under its flag. The regulatory update unlocks cabotage-protected coastal trade for new tonnage."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "A bulk carrier struck the Tacony-Palmyra Bridge near Philadelphia, shutting down vehicle traffic for urgent structural inspections. Supply chain managers are rerouting regional truck freight and absorbing higher transit delay costs."
+                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
+                "teaserTitle": "",
+                "visual_caption": "USPS is converting its floating fuel surcharge into a permanent tariff fixture. The policy locks in higher baseline parcel fulfillment costs for enterprise retailers."
             },
             {
                 "slide_index": 8,
