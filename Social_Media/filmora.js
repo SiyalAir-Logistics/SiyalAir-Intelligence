@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FMCSA REMOVES 133 ELDS",
-                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
-                "visual_caption": "FMCSA removed 133 electronic logging devices due to falsified records. Fleet operators must audit compliance stacks immediately to avoid out-of-service orders."
+                "headline": "CUSTOMS: STRICTER DDP IMPORT RULES",
+                "teaserTitle": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
+                "visual_caption": "US Customs has enforced stricter compliance audits on DDP ocean freight. Shippers face immediate clearance holds and heavy bond penalties if documentation lacks foreign entity verification."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "MARITIME: TANKER STRIKES RIVERBOAT IN NEW ORLEANS",
-                "visual_caption": "The White House extended the Jones Act waiver into 2027 for foreign tankers. This policy stabilizes regional energy inventories while drawing domestic union pushback."
+                "headline": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR 5.8B",
+                "teaserTitle": "PORTS: LOS ANGELES TOPS 1M TEUS",
+                "visual_caption": "C.H. Robinson announced a $5.8B acquisition of RXO to consolidate freight brokerage. The transaction unites massive spot volume while raising contract rate negotiations for enterprise shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: TANKER STRIKES RIVERBOAT IN NEW ORLEANS",
-                "teaserTitle": "TECHNOLOGY: FAA GROUNDS FLIGHTS NATIONWIDE",
-                "visual_caption": "An asphalt tanker struck a New Orleans riverboat, injuring 32 people and capsizing the vessel. Emergency rescue operations triggered immediate waterway investigations."
+                "headline": "PORTS: LOS ANGELES TOPS 1M TEUS",
+                "teaserTitle": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
+                "visual_caption": "The Port of Los Angeles processed over 1M TEUs in October, jumping 21.3% YoY. Inbound rail dwell times and inland drayage rates are rising as terminal yards reach capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: FAA GROUNDS FLIGHTS NATIONWIDE",
-                "teaserTitle": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
-                "visual_caption": "The FAA grounded flights nationwide following critical communication outages at air traffic control centers. Logistics managers must pivot to ground transport to avoid delays."
+                "headline": "AIR CARGO: SHENZHEN BANS BELLY FREIGHT",
+                "teaserTitle": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "visual_caption": "Shenzhen aviation authorities banned passenger belly cargo across international flights to enforce safety checks. Exporters face tighter air cargo capacity and double-digit spot rate spikes across Southeast Asian hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
-                "teaserTitle": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "visual_caption": "Severe autumn storms washed out BSNF railway tracks across New Mexico. Cargo owners must navigate elevated spot drayage rates and prolonged intermodal delays."
+                "headline": "SANCTIONS: UK BLACKLISTS 11 ENERGY SHIPS",
+                "teaserTitle": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
+                "visual_caption": "The UK blacklisted 11 energy transport vessels to halt shadow fleet petroleum shipments. Marine insurers and cargo owners must immediately terminate charter contracts to avoid severe international sanctions."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "teaserTitle": "FUEL: OIL PRICES INCREASE ON MIDDLE EAST DISRUPTION",
-                "visual_caption": "The Port Authority proposed a $10.3B budget focused on terminal automation and rail expansion. Supply chain planners should anticipate higher facility maintenance tariffs."
+                "headline": "SECURITY: NVIDIA GEAR STOLEN IN 11.4M HEIST",
+                "teaserTitle": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
+                "visual_caption": "Cargo thieves intercepted $11.4M worth of advanced semiconductor chips en route to Texas. Shippers are upgrading transit tracking protocols and high-security freight escorts across vulnerable highway corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL: OIL PRICES INCREASE ON MIDDLE EAST DISRUPTION",
-                "teaserTitle": "",
-                "visual_caption": "Brent crude rose 0.7% to $96.47/barrel amid ongoing Middle Eastern supply disruptions. Fleets face mounting fuel surcharges that directly erode freight operating margins."
+                "headline": "MARITIME: BULKER STRIKES DELAWARE BRIDGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "A bulk carrier struck the Tacony-Palmyra Bridge near Philadelphia, shutting down vehicle traffic for urgent structural inspections. Supply chain managers are rerouting regional truck freight and absorbing higher transit delay costs."
             },
             {
                 "slide_index": 8,
