@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SAFETY: TANKER COLLISION SINKS MISSISSIPPI BOAT",
-                "teaserTitle": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
-                "visual_caption": "A bitumen tanker collision on the Mississippi River left 32 hospitalized. The severe accident triggered emergency river closures and barge transit delays."
+                "headline": "PORT: LOS ANGELES TOPS 1M TEUS IN OCTOBER",
+                "teaserTitle": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "visual_caption": "The Port of Los Angeles processed 1,026,872 TEUs in October for the 2nd straight month. Total volume surged 21.3% annually, driven by strong seasonal import demand."
             },
             {
                 "slide_index": 2,
-                "headline": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
-                "teaserTitle": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
-                "visual_caption": "The FAA grounded all flights nationwide following critical telecommunication failures. Network router upgrades at a remote facility caused the widespread disruption."
+                "headline": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "teaserTitle": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock transaction. The major deal expands expedited transportation and last-mile service capabilities ahead of closing in H1 2027."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
-                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
-                "visual_caption": "Federal regulators removed 133 electronic logging devices due to record falsification. Motor carriers must audit their technology stacks immediately to avoid penalties."
+                "headline": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
+                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "visual_caption": "The FMCSA removed 133 electronic logging devices from its registered list due to widespread fraud. Motor carriers using revoked hardware face immediate compliance risks and severe roadside penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
-                "teaserTitle": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
-                "visual_caption": "The White House authorized an extension of the Jones Act waiver for foreign tankers. The policy maintains domestic energy transport while drawing criticism from unions."
+                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
+                "visual_caption": "The White House authorized a multi-month extension of the Jones Act waiver for foreign-crewed tankers. The policy continuation maintains fluid domestic petroleum transport options for regional energy traders."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
-                "teaserTitle": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
-                "visual_caption": "Severe weather washouts disrupted BSNF railway networks across New Mexico. The resulting intermodal bottlenecks increased container dwell times across Southern California."
+                "headline": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
+                "teaserTitle": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
+                "visual_caption": "Perishables shippers face a severe airfreight cost squeeze as airlines restrict capacity to manage seasonal cargo surges. Carriers implemented steep surcharges across key export gateways to offset operational bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
-                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
-                "visual_caption": "Perishables shippers face an acute airfreight cost squeeze as airlines restrict capacity. Carriers implemented steep surcharges across key Asian export gateways."
+                "headline": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
+                "teaserTitle": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "visual_caption": "Severe autumn storms triggered flash flooding and track washouts along BSNF railway networks in New Mexico. Intermodal service interruptions drove up container dwell times and pushed shippers toward trucking alternatives."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "headline": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "teaserTitle": "",
-                "visual_caption": "The Port Authority of New York and New Jersey proposed a $10.3B budget. Funding targets automated terminal upgrades and intermodal rail expansion."
+                "visual_caption": "The Port Authority of New York and New Jersey proposed a $10.3B capital budget. Funding prioritizes automated terminal upgrades and intermodal rail expansion across the Northeast."
             },
             {
                 "slide_index": 8,

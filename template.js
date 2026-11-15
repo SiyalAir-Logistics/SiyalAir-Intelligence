@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TANKER COLLISION SINKS MISSISSIPPI",
-        "titleBlue": "BOAT",
-        "footerSummary": "A bitumen tanker collision on the Mississippi River leaves 32 hospitalized, triggering emergency closures and severe barge transit delays."
+        "titleWhite": "LOS ANGELES TOPS 1M TEUS IN",
+        "titleBlue": "OCTOBER",
+        "footerSummary": "Port of Los Angeles handles 1M TEUs for the second straight month in October, surging 21.3% annually amid strong seasonal import volumes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SAFETY: TANKER COLLISION SINKS MISSISSIPPI BOAT",
+            "heading": "PORT: LOS ANGELES TOPS 1M TEUS IN OCTOBER",
             "paragraphs": [
-                "The 17,764 dwt bitumen tanker Atlantic Asphalt struck and partially sank a river cruise ship on the Mississippi River in New Orleans, resulting in 32 hospitalizations. The high-impact collision triggered an immediate multi-agency emergency response and prompted severe vessel traffic restrictions along the vital trade artery.",
-                "Navigational constraints across the Lower Mississippi River threaten commercial barge fleeting operations and bulk export schedules. Agricultural and petrochemical shippers must factor in localized vessel queue times and potential towboat wait surcharges across regional locks."
+                "The Port of Los Angeles achieved a historic milestone by processing 1,026,872 TEUs in October, marking its second consecutive month exceeding the 1M threshold. Total volume surged by 21.3% annually, driven by persistent retailer inventory replenishment and early holiday shipping demand.",
+                "Unprecedented cargo surges test terminal capacity and rail velocity across vital Southern California gateways. Supply chain managers must navigate extended container dwell times and potential gate congestion as marine terminals process record throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
+            "nextUpTease": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
+            "heading": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
             "paragraphs": [
-                "The Federal Aviation Administration grounded all flights nationwide following severe communication and telecommunication failures at regional air traffic control centers. Transportation Secretary Sean Duffy confirmed that an installation of at least one new router by contractor L3Harris at a remote facility triggered the disruption.",
-                "The nationwide ground stop severely disrupted commercial passenger and cargo schedules, leaving thousands of travelers and priority airfreight shipments stranded. Supply chain managers moving time-sensitive cargo must absorb cascading delays and secure backup charter options."
+                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction slated to close in the first half of 2027. The strategic combination significantly expands C.H. Robinson's footprint across expedited transportation, brokerage scale, and dedicated last-mile delivery services.",
+                "This landmark consolidation reshapes the third-party logistics competitive landscape by concentrating market share among top-tier providers. Shippers must evaluate how platform integration and post-merger network changes could impact carrier contract terms and service level agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
+            "nextUpTease": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
+            "heading": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration removed 133 electronic logging devices from its registered devices list after uncovering widespread noncompliance and evidence of falsified hours-of-service records. Motor carriers utilizing these revoked devices face immediate compliance risks and potential operational shutdowns if hardware is not replaced.",
-                "Fleet operators must rapidly audit their onboard technology stack to eliminate noncompliant units and avoid severe roadside penalties. This regulatory crackdown increases administrative overhead for trucking firms while tightening enforcement across interstate corridors."
+                "The Federal Motor Carrier Safety Administration removed 133 electronic logging devices from its registered devices list after uncovering widespread noncompliance and falsified hours-of-service records. Motor carriers utilizing these revoked hardware units face immediate operational risks and potential roadside out-of-service orders.",
+                "Fleet operators must rapidly audit their compliance technology stacks to prevent regulatory penalties and costly vehicle impoundments. This aggressive enforcement action tightens interstate compliance standards and increases administrative overhead for regional trucking fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+            "nextUpTease": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-11-13T00:00:00Z",
@@ -53,13 +53,13 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+            "heading": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
             "paragraphs": [
-                "The White House authorized a multi-month extension of the Jones Act waiver to allow foreign-crewed tankers to continue coastal domestic energy transport. The policy continuation aims to stabilize regional petroleum inventories and maintain fluid transport options for domestic energy traders heading into winter.",
-                "While the waiver provides short-term relief for regional petroleum distribution costs, it intensifies friction between energy shippers and domestic maritime unions. Coastal logistics buyers must evaluate foreign-flagged spot availability against rising regulatory scrutiny during vessel charter negotiations."
+                "President Donald Trump authorized a multi-month extension of the Jones Act waiver, allowing foreign-crewed tankers to continue transporting energy products in U.S. domestic trade. The policy renewal aims to stabilize regional petroleum inventories and maintain fluid transport options for domestic energy traders.",
+                "While the waiver offers short-term relief for coastal petroleum distribution costs, it intensifies friction between energy shippers and domestic maritime unions. Coastal logistics buyers must weigh foreign-flagged spot availability against rising regulatory scrutiny during vessel charter negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+            "nextUpTease": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-11-13T16:13:00Z",
@@ -68,37 +68,37 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+            "heading": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
             "paragraphs": [
-                "Record import volumes moving inland from the ports of Los Angeles and Long Beach faced severe bottlenecks following back-to-back autumn storms. The severe weather triggered extensive flash flooding and track washouts along BSNF railway networks across New Mexico, driving up dwell times across major intermodal ramps.",
-                "Intermodal service interruptions compel cargo owners to divert urgent container shipments toward premium over-the-road trucking alternatives. Supply chain managers must absorb elevated spot market drayage rates while navigating prolonged rail transit delays heading into peak windows."
+                "Perishables shippers face an acute airfreight cost squeeze as major airlines restrict capacity to manage seasonal cargo surges and regional agricultural backlogs. Carriers have implemented steep surcharges across key export gateways to offset mounting operational bottlenecks and equipment imbalances.",
+                "Escalating airfreight rates force perishable supply chain operators to reassess inventory distribution models and evaluate alternate routing strategies. Shippers failing to secure long-term capacity block space agreements face severe spot market exposure during peak export windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+            "nextUpTease": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-13T09:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+            "heading": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
             "paragraphs": [
-                "Perishables shippers face an acute airfreight cost squeeze as major airlines restrict capacity to manage seasonal cargo surges and agricultural backlogs. Carriers have implemented steep surcharges across key Asian export gateways to offset mounting operational bottlenecks and equipment imbalances.",
-                "Escalating airfreight rates force perishable supply chain operators to reassess inventory distribution models and evaluate alternate routing strategies. Shippers failing to secure long-term capacity block space agreements face severe spot market exposure during peak export windows."
+                "Record import volumes moving inland from Southern California ports faced severe operational friction following back-to-back autumn storms. The severe weather triggered extensive flash flooding and track washouts along BSNF railway networks across New Mexico, driving up dwell times across major intermodal ramps.",
+                "Intermodal service interruptions compel cargo owners to divert urgent container shipments toward premium over-the-road trucking alternatives. Supply chain managers must absorb elevated spot market drayage rates while navigating prolonged rail transit delays heading into peak windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+            "nextUpTease": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-13T08:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+            "heading": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
             "paragraphs": [
                 "The Port Authority of New York and New Jersey formally proposed a massive $10.3B annual capital and operating budget focused on regional infrastructure hardening. The funding allocation prioritizes automated container terminal upgrades, harbor deepening projects, and intermodal rail expansion.",
                 "Substantial capital expenditures signal higher terminal usage fees and facility maintenance tariffs for ocean carriers and drayage operators over the coming fiscal cycle. Supply chain planners must account for incremental port handling fee adjustments when budgeting for Northeast import distribution costs."

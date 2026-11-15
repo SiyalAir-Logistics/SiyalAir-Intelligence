@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TANKER COLLISION SINKS MISSISSIPPI BOAT",
+        "hookTitle": "LOS ANGELES TOPS 1M TEUS IN OCTOBER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SAFETY: TANKER COLLISION SINKS MISSISSIPPI BOAT",
-                "teaserTitle": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
+                "headline": "PORT: LOS ANGELES TOPS 1M TEUS IN OCTOBER",
+                "teaserTitle": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A bitumen tanker collision on the Mississippi River left thirty-two people hospitalized. The severe accident triggered emergency river closures and barge transit delays."
+                "narration_line": "The Port of Los Angeles processed over one million twenty foot equivalent units in October for the second consecutive month. Total volume surged twenty-one point three percent annually, driven by strong seasonal import demand."
             },
             {
                 "slide_index": 2,
-                "headline": "AVIATION: FAA GROUNDS NATIONWIDE FLIGHTS",
-                "teaserTitle": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
+                "headline": "ACQUISITION: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "teaserTitle": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Federal Aviation Administration grounded all flights nationwide following critical telecommunication failures. Network router upgrades at a remote facility caused the widespread disruption."
+                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar cash and stock transaction. The major deal expands expedited transportation and last-mile service capabilities ahead of closing in early twenty twenty-seven."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: FMCSA REMOVES 133 ELDS",
-                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+                "headline": "REGULATION: FMCSA REVOKES 133 FRAUDULENT ELDS",
+                "teaserTitle": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal regulators removed one hundred thirty-three electronic logging devices due to widespread record falsification. Motor carriers must audit their technology stacks immediately to avoid penalties."
+                "narration_line": "The Federal Motor Carrier Safety Administration removed one hundred thirty-three electronic logging devices due to widespread fraud. Motor carriers using revoked hardware face immediate compliance risks and severe roadside penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
-                "teaserTitle": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
+                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The White House authorized an extension of the Jones Act waiver for foreign tankers. The policy maintains domestic energy transport while drawing criticism from maritime unions."
+                "narration_line": "The White House authorized a multi-month extension of the Jones Act waiver for foreign-crewed tankers. The policy continuation maintains fluid domestic petroleum transport options for regional energy traders."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: SOUTHERN CALIFORNIA RAIL DWELLS",
-                "teaserTitle": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
+                "headline": "AIR CARGO: AIRLINES WARN OF PERISHABLES SQUEEZE",
+                "teaserTitle": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Severe weather washouts disrupted BSNF railway networks across New Mexico. The resulting intermodal bottlenecks increased container dwell times across Southern California."
+                "narration_line": "Perishables shippers face a severe airfreight cost squeeze as airlines restrict capacity to manage seasonal cargo surges. Carriers implemented steep surcharges across key export gateways to offset operational bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PERISHABLES AVOID AIR SQUEEZE",
-                "teaserTitle": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "headline": "RAILWAY: BSNF WEATHER WOES WORSEN DWELLS",
+                "teaserTitle": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Perishables shippers face an acute airfreight cost squeeze as airlines restrict capacity. Carriers implemented steep surcharges across key Asian export gateways."
+                "narration_line": "Severe autumn storms triggered flash flooding and track washouts along BSNF railway networks in New Mexico. Intermodal service interruptions drove up container dwell times and pushed shippers toward trucking alternatives."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: PORT AUTHORITY PROPOSES 10.3B BUDGET",
+                "headline": "INFRASTRUCTURE: PORT AUTHORITY PROPOSES 10.3B BUDGET",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port Authority of New York and New Jersey proposed a ten point three billion dollar budget. Funding targets automated terminal upgrades and intermodal rail expansion."
+                "narration_line": "The Port Authority of New York and New Jersey proposed a ten point three billion dollar capital budget. Funding prioritizes automated terminal upgrades and intermodal rail expansion across the Northeast."
             },
             {
                 "slide_index": 8,
