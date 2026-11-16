@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "JONES ACT WAIVER",
-        "titleBlue": "EXTENDED",
-        "footerSummary": "US DHS extends foreign vessel access through Feb 2027 as $30B tanker market surge and $150M AI-driven cargo theft risks reshape 2026 logistics."
+        "titleWhite": "PORT AUTHORITY APPROVES 10.3B",
+        "titleBlue": "INFRASTRUCTURE",
+        "footerSummary": "Port Authority advances $10.3B infrastructure plan as US container imports hit 2.67M TEUs and carriers navigate surging freight volumes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: JONES ACT WAIVER EXTENDED",
+            "heading": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
             "paragraphs": [
-                "The US Department of Homeland Security extended the Jones Act waiver for 90 days, allowing foreign-flagged vessels to move domestic cargo through Feb 2027. This emergency extension aims to alleviate acute maritime capacity constraints and stabilize energy transit during ongoing regional hostilities in the Middle East.",
-                "Shippers gain temporary access to global fleet capacity, potentially lowering domestic coastal transit costs for petroleum and fertilizer movements. Procurement teams must prepare for a possible Feb 2027 expiration by evaluating rail or drayage contingencies to avoid sudden rate spikes."
+                "The Port Authority of New York and New Jersey approved a sweeping $10.3B capital budget focused heavily on critical seaport road and waterfront terminal upgrades. This massive funding initiative aims to expand landside container handling capacity and eliminate severe truck bottlenecks across regional distribution hubs.",
+                "Logistics operators must prepare for temporary construction disruptions while factoring long-term terminal fluidity improvements into their regional facility deployment and routing strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "RISK: BLACK SEA DRONE ATTACKS",
+            "nextUpTease": "IMPORTS: US CONTAINER IMPORTS HIT 2.67M TEUS",
             "tags": [
-                "Source: https://splash247.com/us-extends-jones-act-waiver-into-february",
-                "Published: 2026-11-16T09:00:00Z",
+                "Source: https://www.freightwaves.com/news/track-access-and-wharf-upgrades-part-of-10-3b-infrastructure-plan-at-port-of-new-york-and-new-jersey",
+                "Published: 2026-11-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RISK: BLACK SEA DRONE ATTACKS",
+            "heading": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
             "paragraphs": [
-                "Three commercial vessels were struck by drones near Romania\u2019s Black Sea coast, triggering NATO fighter jet scrambles and high-level maritime security alerts. The proximity of the strikes to NATO territory marks a severe escalation in the risk profile for commercial shipping transiting regional grain and fuel corridors.",
-                "War risk insurance premiums for Black Sea transits are expected to increase significantly, forcing carriers to re-evaluate scheduled port calls in the region. Logistics planners should anticipate vessel diversions to Mediterranean hubs and the immediate implementation of war-risk surcharges."
+                "U.S. containerized imports surged to an unprecedented 2.67M TEUs in October, driven by heavy peak-season inventory replenishment and retail stock-piling. This record volume surge has triggered mounting terminal dwell times and localized chassis shortages across major coastal gateways.",
+                "Shippers face elevated demurrage risks and tightening carrier space allocation as port congestion threatens to compound overland transit delays heading into the winter shipping cycle."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: AI CARGO THEFTS HIT $150M",
+            "nextUpTease": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
             "tags": [
-                "Source: https://splash247.com/black-sea-drone-attacks-trigger-romanian-fighter-jet-scramble",
-                "Published: 2026-11-16T10:15:00Z",
+                "Source: https://www.freightwaves.com/news/us-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise",
+                "Published: 2026-11-16T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: AI CARGO THEFTS HIT $150M",
+            "heading": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
             "paragraphs": [
-                "AI-driven cargo theft losses reached $150M between June 2025 and June 2026 as sophisticated syndicates utilize predictive modeling to intercept high-value electronics. Recent high-profile heists, including an $11.4M shipment of Nvidia hardware, highlight the growing vulnerability of over-the-road transit for advanced technology components.",
-                "Insurance providers are responding by mandating AI-enhanced tracking technology and stricter secondary carrier vetting protocols for all electronics freight. Shippers must evaluate internal security protocols and consider covert sensor deployment to mitigate rising deductible exposures and transit risks."
+                "The American Trucking Associations submitted a formal six-step framework to the FMCSA aimed at eradicating electronic logging device fraud across commercial fleets. Key recommendations include mandating a verified US-based presence for all ELD vendors and establishing an independent hardware certification program.",
+                "Fleet operators must audit their current telematics providers to ensure compliance with upcoming regulatory validation standards and avoid sudden roadside out-of-service penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
+            "nextUpTease": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
             "tags": [
-                "Source: https://www.freightwaves.com/news/ai-cargo-thefts-top-150-million",
-                "Published: 2026-11-15T14:45:00Z",
+                "Source: https://www.ttnews.com/articles/ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud",
+                "Published: 2026-11-16T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
+            "heading": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
             "paragraphs": [
-                "The FMCSA removed 133 electronic logging devices from the federal registry due to widespread noncompliance and evidence of falsified hours-of-service records. Carriers utilizing these specific hardware units must transition to authorized logging systems within a strict 60-day window to maintain legal operating status.",
-                "Any vehicle using de-certified hardware after the grace period will receive immediate out-of-service orders during roadside inspections, threatening network reliability. Logistics managers must audit their carrier pools immediately to identify and replace fleets relying on these compromised tracking systems."
+                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction designed to consolidate third-party logistics market share. The strategic merger integrates comprehensive expedited transport and last-mile delivery capabilities, with the transaction closing targeted for H1 2027.",
+                "Shippers should evaluate their 3PL vendor concentration and contract terms as major logistics consolidation alters service offerings and brokerage pricing leverage across North America."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
+            "nextUpTease": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-removes-133-elds",
-                "Published: 2026-11-13T16:20:00Z",
+                "Source: https://www.logisticsmgmt.com/news/ch-robinson-agrees-to-acquire-rxo-in-5.8-billion-cash-and-stock-deal",
+                "Published: 2026-11-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
+            "heading": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
             "paragraphs": [
-                "US Customs and Border Protection has intensified enforcement of regulations governing foreign Importers of Record under Delivery Duty Paid (DDP) trade terms. This regulatory shift places increased documentation burdens on US buyers to ensure that foreign suppliers are meeting precise valuation and compliance standards.",
-                "Importers using DDP terms face elevated audit risks and potential seizure of goods if paperwork fails to meet the updated transparency requirements. Supply chain leaders should consider transitioning to DAP or EXW terms to regain control over duty payments and customs visibility."
+                "CMA CGM reported a threefold surge in third-quarter net income, propelled by robust global freight rates and expanding intermodal cargo volumes. The carrier's diversified logistics investments and robust ocean yield management successfully offset persistent macroeconomic headwinds.",
+                "Benefiting carriers are aggressively deploying capital into fleet modernization and dedicated air cargo capacity, forcing shippers to lock in multi-year service contracts to secure predictable rate structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: $30B TANKER SALE SURGE",
+            "nextUpTease": "PARCEL: USPS SETS 5.9% PRICE HIKE",
             "tags": [
-                "Source: https://theloadstar.com/tougher-rules-for-us-imports-on-ddp-put-pressure-on-buyers-and-suppliers",
-                "Published: 2026-11-15T08:30:00Z",
+                "Source: https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
+                "Published: 2026-11-16T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: $30B TANKER SALE SURGE",
+            "heading": "PARCEL: USPS SETS 5.9% PRICE HIKE",
             "paragraphs": [
-                "Secondhand tanker sales reached a record $30B in the first ten months of 2026 as global energy routes reorganize following the Iran war outbreak. Tonnage values have climbed to unprecedented levels as both shadow fleet operators and legitimate carriers compete for available maritime assets.",
-                "Rising vessel acquisition costs are expected to translate into higher long-term charter rates and fuel surcharges for bulk liquid transport. Energy supply chain architects must secure multi-year freight contracts now to hedge against further asset appreciation and capacity shortages."
+                "The United States Postal Service announced a permanent fuel surcharge structure alongside a planned 5.9% parcel rate increase scheduled for 2027. This permanent pricing adjustment reflects ongoing diesel price volatility and structural cost pressures across last-mile delivery networks.",
+                "E-commerce merchants must immediately recalibrate their shipping margin models and diversify carrier partnerships to mitigate the compounding financial impact of permanent parcel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
+            "nextUpTease": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
             "tags": [
-                "Source: https://splash247.com/tanker-secondhand-sales-smash-records-with-30bn-changing-hands",
-                "Published: 2026-11-16T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com/news/usps-is-set-to-make-fuel-surcharge-permanent-raise-parcel-prices-5.9-in-2027",
+                "Published: 2026-11-16T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
+            "heading": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
             "paragraphs": [
-                "The US Postal Service is establishing a permanent fuel surcharge for all parcel services to address persistent energy price volatility. This structural shift follows record diesel prices that have remained above $6.23 per gallon throughout the current fiscal quarter.",
-                "E-commerce shippers must recalibrate last-mile budget projections as these fixed surcharges will erode margins on low-weight, high-frequency deliveries. Consolidating smaller shipments into LTL loads or utilizing regional final-mile carriers may provide a necessary buffer against these recurring costs."
+                "Hapag-Lloyd executive leadership has publicly urged container shippers to abandon traditional fixed-rate annual contracts in favor of flexible pricing mechanisms. Industry executives argue that rigid one-year agreements fail to accurately reflect modern maritime market volatility and geopolitical disruptions.",
+                "Procurement teams preparing for upcoming annual rate negotiations must adopt dynamic index-linked pricing models or risk facing severe capacity allocation restrictions from ocean carriers."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/usps-increase-prices-fuel-surcharge",
-                "Published: 2026-11-12T17:45:00Z",
+                "Source: https://www.joc.com/article/hapag-lloyd-ceo-calls-for-new-approach-to-shipping-contracts_20261116.html",
+                "Published: 2026-11-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

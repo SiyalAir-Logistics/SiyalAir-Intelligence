@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: JONES ACT WAIVER EXTENDED",
-                "teaserTitle": "BLACK SEA DRONE ATTACKS",
-                "visual_caption": "US DHS extended the Jones Act waiver for 90 days, allowing foreign vessels to carry domestic cargo through Feb 2027. This move aims to stabilize capacity during current maritime disruptions."
+                "headline": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
+                "teaserTitle": "US CONTAINER IMPORTS HIT 2.67M TEUS",
+                "visual_caption": "The Port Authority approved a $10.3B capital plan for terminal upgrades. This funding aims to eliminate regional truck bottlenecks and expand intermodal capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "RISK: BLACK SEA DRONE ATTACKS",
-                "teaserTitle": "AI CARGO THEFTS HIT $150M",
-                "visual_caption": "3 commercial vessels were struck by drones near Romania's coast, triggering NATO fighter jet scrambles and high-level alerts. Expect war risk insurance premiums for Black Sea transits to increase significantly this week."
+                "headline": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
+                "teaserTitle": "ATA PROPOSES 6 STEPS FOR ELDS",
+                "visual_caption": "U.S. container imports hit a record 2.67M TEUs in October. This volume surge has triggered severe terminal dwell times and chassis shortages."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: AI CARGO THEFTS HIT $150M",
-                "teaserTitle": "FMCSA REVOKES 133 ELDS",
-                "visual_caption": "Sophisticated syndicates using AI predictive modeling have stolen over $150M in cargo over the past year. Shippers of electronics must implement stricter vetting and covert tracking sensor protocols immediately."
+                "headline": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
+                "teaserTitle": "C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "visual_caption": "The ATA submitted a 6-step framework to combat electronic logging fraud. Fleets must audit hardware providers to avoid upcoming roadside penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
-                "teaserTitle": "DDP IMPORT RULES TIGHTEN",
-                "visual_caption": "Federal regulators have removed 133 electronic logging devices from the national registry due to noncompliance and falsified records. Carriers must transition to authorized hardware within 60 days to avoid out-of-service orders."
+                "headline": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "teaserTitle": "CMA CGM TRIPLES Q3 PROFIT",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock transaction. The merger significantly expands brokerage scale ahead of the 2027 bid season."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
-                "teaserTitle": "$30B TANKER SALE SURGE",
-                "visual_caption": "CBP is enforcing tougher rules for foreign importers of record under DDP terms. US buyers face increased audit risks and potential cargo seizures if valuation documents are not precise."
+                "headline": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
+                "teaserTitle": "USPS SETS 5.9% PRICE HIKE",
+                "visual_caption": "CMA CGM reported a threefold increase in Q3 net income driven by strong freight rates. Carriers are reinvesting profits into fleet modernization and dedicated capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: $30B TANKER SALE SURGE",
-                "teaserTitle": "USPS MAKES FUEL SURCHARGE PERMANENT",
-                "visual_caption": "Secondhand tanker sales reached $30B this year as global energy routes reorganize. Rising acquisition costs will likely translate into higher long-term charter rates and surcharges for bulk liquid transport."
+                "headline": "PARCEL: USPS SETS 5.9% PRICE HIKE",
+                "teaserTitle": "HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "visual_caption": "The USPS established a permanent fuel surcharge alongside a 5.9% rate hike. E-commerce merchants must recalibrate delivery budgets immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "The USPS is establishing a permanent fuel surcharge for all parcel services as diesel remains above $6.23/gal. E-commerce shippers must recalibrate last-mile budgets to offset these recurring costs."
+                "headline": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "teaserTitle": "",
+                "visual_caption": "Hapag-Lloyd leadership urged shippers to abandon fixed annual contracts in favor of flexible pricing models. Procurement teams must adapt to ongoing maritime market volatility."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "JONES ACT WAIVER EXTENDED",
+        "hookTitle": "PORT AUTHORITY APPROVES TEN POINT THREE BILLION INFRASTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: JONES ACT WAIVER EXTENDED",
-                "teaserTitle": "BLACK SEA DRONE ATTACKS",
+                "headline": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
+                "teaserTitle": "US CONTAINER IMPORTS HIT 2.67M TEUS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US Department of Homeland Security extended the Jones Act waiver for ninety days, allowing foreign vessels to carry domestic cargo through February twenty twenty-seven. This move aims to stabilize capacity during current maritime disruptions."
+                "narration_line": "The Port Authority of New York and New Jersey approved a ten point three billion dollar capital plan for terminal upgrades. This funding aims to eliminate regional truck bottlenecks and expand intermodal capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "RISK: BLACK SEA DRONE ATTACKS",
-                "teaserTitle": "AI CARGO THEFTS HIT $150M",
+                "headline": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
+                "teaserTitle": "ATA PROPOSES 6 STEPS FOR ELDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Three commercial vessels were struck by drones near Romania\u2019s coast, triggering NATO fighter jet scrambles and high-level alerts. Expect war risk insurance premiums for Black Sea transits to increase significantly this week."
+                "narration_line": "United States container imports hit a record two point six seven million TEUs in October. This volume surge has triggered severe terminal dwell times and chassis shortages."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: AI CARGO THEFTS HIT $150M",
-                "teaserTitle": "FMCSA REVOKES 133 ELDS",
+                "headline": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
+                "teaserTitle": "C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Sophisticated syndicates using AI predictive modeling have stolen over one hundred and fifty million dollars in cargo over the past year. Shippers of electronics must implement stricter vetting and covert tracking sensor protocols immediately."
+                "narration_line": "The American Trucking Associations submitted a six-step framework to combat electronic logging fraud. Fleets must audit hardware providers to avoid upcoming roadside penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
-                "teaserTitle": "DDP IMPORT RULES TIGHTEN",
+                "headline": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "teaserTitle": "CMA CGM TRIPLES Q3 PROFIT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal regulators have removed one hundred and thirty-three electronic logging devices from the national registry due to noncompliance and falsified records. Carriers must transition to authorized hardware within sixty days to avoid out-of-service orders."
+                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar cash and stock transaction. The merger significantly expands brokerage scale ahead of the twenty twenty-seven bid season."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
-                "teaserTitle": "$30B TANKER SALE SURGE",
+                "headline": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
+                "teaserTitle": "USPS SETS 5.9% PRICE HIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Customs and Border Protection is enforcing tougher rules for foreign importers of record under delivery duty paid terms. US buyers face increased audit risks and potential cargo seizures if valuation documents are not precise."
+                "narration_line": "CMA CGM reported a threefold increase in third-quarter net income driven by strong freight rates. Carriers are reinvesting profits into fleet modernization and dedicated capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: $30B TANKER SALE SURGE",
-                "teaserTitle": "USPS MAKES FUEL SURCHARGE PERMANENT",
+                "headline": "PARCEL: USPS SETS 5.9% PRICE HIKE",
+                "teaserTitle": "HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Secondhand tanker sales reached thirty billion dollars this year as global energy routes reorganize. Rising acquisition costs will likely translate into higher long-term charter rates and surcharges for bulk liquid transport."
+                "narration_line": "The United States Postal Service established a permanent fuel surcharge alongside a five point nine percent rate hike. E-commerce merchants must recalibrate delivery budgets immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The United States Postal Service is establishing a permanent fuel surcharge for all parcel services as diesel remains above six dollars per gallon. E-commerce shippers must recalibrate last-mile budgets to offset these recurring costs."
+                "narration_line": "Hapag-Lloyd leadership urged shippers to abandon fixed annual contracts in favor of flexible pricing models. Procurement teams must adapt to ongoing maritime market volatility."
             },
             {
                 "slide_index": 8,
