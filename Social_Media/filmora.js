@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CONTAINER SHIPPING: LA PORT TOPS 1M TEUS",
-                "teaserTitle": "MARITIME: BULKER HITS DELAWARE RIVER BRIDGE",
-                "visual_caption": "Port of Los Angeles moved 1,026,872 TEUs in October, rising 21.3% annually. Record container throughput is elevating dwell times across Southern California terminals."
+                "headline": "MARITIME: JONES ACT WAIVER EXTENDED",
+                "teaserTitle": "BLACK SEA DRONE ATTACKS",
+                "visual_caption": "US DHS extended the Jones Act waiver for 90 days, allowing foreign vessels to carry domestic cargo through Feb 2027. This move aims to stabilize capacity during current maritime disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: BULKER HITS DELAWARE RIVER BRIDGE",
-                "teaserTitle": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
-                "visual_caption": "Bulker Strategic Alliance struck the Tacony-Palmyra Bridge on the Delaware River. Structural assessments forced emergency bridge closures and delayed regional maritime traffic."
+                "headline": "RISK: BLACK SEA DRONE ATTACKS",
+                "teaserTitle": "AI CARGO THEFTS HIT $150M",
+                "visual_caption": "3 commercial vessels were struck by drones near Romania's coast, triggering NATO fighter jet scrambles and high-level alerts. Expect war risk insurance premiums for Black Sea transits to increase significantly this week."
             },
             {
                 "slide_index": 3,
-                "headline": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "INTERMODAL: BNSF STORMS SNARL TRANSCON RAIL",
-                "visual_caption": "C.H. Robinson reached a deal to acquire RXO for $5.8B. The acquisition consolidates surface brokerage operations, expedited transport, and last-mile services."
+                "headline": "SECURITY: AI CARGO THEFTS HIT $150M",
+                "teaserTitle": "FMCSA REVOKES 133 ELDS",
+                "visual_caption": "Sophisticated syndicates using AI predictive modeling have stolen over $150M in cargo over the past year. Shippers of electronics must implement stricter vetting and covert tracking sensor protocols immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: BNSF STORMS SNARL TRANSCON RAIL",
-                "teaserTitle": "INFRASTRUCTURE: NYNJ PORT EYES $10.3B BUDGET",
-                "visual_caption": "Floodwaters damaged BNSF Southern Transcon rail routes in New Mexico. The disruption triggered surging container dwell times across West Coast railheads."
+                "headline": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
+                "teaserTitle": "DDP IMPORT RULES TIGHTEN",
+                "visual_caption": "Federal regulators have removed 133 electronic logging devices from the national registry due to noncompliance and falsified records. Carriers must transition to authorized hardware within 60 days to avoid out-of-service orders."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: NYNJ PORT EYES $10.3B BUDGET",
-                "teaserTitle": "CONGESTION: DURBAN BOX DELAYS REACH 20 DAYS",
-                "visual_caption": "Port Authority of NY-NJ announced a proposed $10.3B capital program. Capital investments focus on deepening navigation channels and expanding container yard capacity."
+                "headline": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
+                "teaserTitle": "$30B TANKER SALE SURGE",
+                "visual_caption": "CBP is enforcing tougher rules for foreign importers of record under DDP terms. US buyers face increased audit risks and potential cargo seizures if valuation documents are not precise."
             },
             {
                 "slide_index": 6,
-                "headline": "CONGESTION: DURBAN BOX DELAYS REACH 20 DAYS",
-                "teaserTitle": "SECURITY: SPAIN SEIZES 2.6T COCAINE AT PORT",
-                "visual_caption": "Vessel anchorage wait times at Durban harbor extended to nearly 20 days. Equipment outages and bad weather have led carriers to omit South African port calls."
+                "headline": "MARITIME: $30B TANKER SALE SURGE",
+                "teaserTitle": "USPS MAKES FUEL SURCHARGE PERMANENT",
+                "visual_caption": "Secondhand tanker sales reached $30B this year as global energy routes reorganize. Rising acquisition costs will likely translate into higher long-term charter rates and surcharges for bulk liquid transport."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SPAIN SEIZES 2.6T COCAINE AT PORT",
+                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Spanish customs agents seized 2.6T of cocaine hidden inside containerized cargo. European ports are stepping up physical container inspections on African trade lanes."
+                "visual_caption": "The USPS is establishing a permanent fuel surcharge for all parcel services as diesel remains above $6.23/gal. E-commerce shippers must recalibrate last-mile budgets to offset these recurring costs."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LA PORT TOPS 1M TEUS",
+        "hookTitle": "JONES ACT WAIVER EXTENDED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CONTAINER SHIPPING: LA PORT TOPS 1M TEUS",
-                "teaserTitle": "MARITIME: BULKER HITS DELAWARE RIVER BRIDGE",
+                "headline": "MARITIME: JONES ACT WAIVER EXTENDED",
+                "teaserTitle": "BLACK SEA DRONE ATTACKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Port of Los Angeles surpassed one million TEUs in October, jumping over twenty-one percent year over year. Soaring cargo volumes are increasing terminal dwell times and testing Southern California intermodal rail capacity."
+                "narration_line": "The US Department of Homeland Security extended the Jones Act waiver for ninety days, allowing foreign vessels to carry domestic cargo through February twenty twenty-seven. This move aims to stabilize capacity during current maritime disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: BULKER HITS DELAWARE RIVER BRIDGE",
-                "teaserTitle": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
+                "headline": "RISK: BLACK SEA DRONE ATTACKS",
+                "teaserTitle": "AI CARGO THEFTS HIT $150M",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A bulk carrier struck the Tacony-Palmyra Bridge on the Delaware River, shutting down vehicular traffic for emergency inspections. Marine authorities implemented navigation controls while structural teams examined the impacted drawbridge span."
+                "narration_line": "Three commercial vessels were struck by drones near Romania\u2019s coast, triggering NATO fighter jet scrambles and high-level alerts. Expect war risk insurance premiums for Black Sea transits to increase significantly this week."
             },
             {
                 "slide_index": 3,
-                "headline": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "INTERMODAL: BNSF STORMS SNARL TRANSCON RAIL",
+                "headline": "SECURITY: AI CARGO THEFTS HIT $150M",
+                "teaserTitle": "FMCSA REVOKES 133 ELDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar freight transaction. The acquisition merges two major brokerage networks to consolidate nationwide expedited and last-mile logistics operations."
+                "narration_line": "Sophisticated syndicates using AI predictive modeling have stolen over one hundred and fifty million dollars in cargo over the past year. Shippers of electronics must implement stricter vetting and covert tracking sensor protocols immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: BNSF STORMS SNARL TRANSCON RAIL",
-                "teaserTitle": "INFRASTRUCTURE: NYNJ PORT EYES $10.3B BUDGET",
+                "headline": "COMPLIANCE: FMCSA REVOKES 133 ELDS",
+                "teaserTitle": "DDP IMPORT RULES TIGHTEN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Flooding in New Mexico severely disrupted BNSF Railway operations along its Southern Transcon network. West Coast intermodal dwell times climbed sharply, delaying thousands of transpacific containers destined for the Midwest."
+                "narration_line": "Federal regulators have removed one hundred and thirty-three electronic logging devices from the national registry due to noncompliance and falsified records. Carriers must transition to authorized hardware within sixty days to avoid out-of-service orders."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: NYNJ PORT EYES $10.3B BUDGET",
-                "teaserTitle": "CONGESTION: DURBAN BOX DELAYS REACH 20 DAYS",
+                "headline": "CUSTOMS: DDP IMPORT RULES TIGHTEN",
+                "teaserTitle": "$30B TANKER SALE SURGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port Authority of New York and New Jersey unveiled a proposed ten point three billion dollar capital budget. The funds will target marine terminal modernization and channel enhancements to expand regional container throughput."
+                "narration_line": "Customs and Border Protection is enforcing tougher rules for foreign importers of record under delivery duty paid terms. US buyers face increased audit risks and potential cargo seizures if valuation documents are not precise."
             },
             {
                 "slide_index": 6,
-                "headline": "CONGESTION: DURBAN BOX DELAYS REACH 20 DAYS",
-                "teaserTitle": "SECURITY: SPAIN SEIZES 2.6T COCAINE AT PORT",
+                "headline": "MARITIME: $30B TANKER SALE SURGE",
+                "teaserTitle": "USPS MAKES FUEL SURCHARGE PERMANENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Container ship anchorage delays at South Africa's port of Durban climbed to twenty days due to equipment failures. Ocean carriers are skipping regional port calls to protect global vessel sailing schedules."
+                "narration_line": "Secondhand tanker sales reached thirty billion dollars this year as global energy routes reorganize. Rising acquisition costs will likely translate into higher long-term charter rates and surcharges for bulk liquid transport."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SPAIN SEIZES 2.6T COCAINE AT PORT",
+                "headline": "PARCEL: USPS MAKES FUEL SURCHARGE PERMANENT",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Spanish authorities seized two point six metric tons of contraband concealed in containerized agricultural cargo. European border officials are implementing rigorous physical inspections that will expand import clearance delays."
+                "narration_line": "The United States Postal Service is establishing a permanent fuel surcharge for all parcel services as diesel remains above six dollars per gallon. E-commerce shippers must recalibrate last-mile budgets to offset these recurring costs."
             },
             {
                 "slide_index": 8,
