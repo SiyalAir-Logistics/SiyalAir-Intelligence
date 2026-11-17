@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT AUTHORITY APPROVES 10.3B",
-        "titleBlue": "INFRASTRUCTURE",
-        "footerSummary": "Port Authority advances $10.3B infrastructure plan as US container imports hit 2.67M TEUs and carriers navigate surging freight volumes."
+        "titleWhite": "FMCSA REMOVES 133 MORE",
+        "titleBlue": "ELDS",
+        "footerSummary": "FMCSA removes 133 non-compliant ELDs in a massive compliance sweep as carriers face stricter enforcement and severe roadside operational risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
+            "heading": "GOVERNMENT: FMCSA REMOVES 133 ELDS",
             "paragraphs": [
-                "The Port Authority of New York and New Jersey approved a sweeping $10.3B capital budget focused heavily on critical seaport road and waterfront terminal upgrades. This massive funding initiative aims to expand landside container handling capacity and eliminate severe truck bottlenecks across regional distribution hubs.",
-                "Logistics operators must prepare for temporary construction disruptions while factoring long-term terminal fluidity improvements into their regional facility deployment and routing strategies."
+                "The Federal Motor Carrier Safety Administration has removed 133 additional electronic logging devices from its approved list as part of an aggressive nationwide crackdown on fraudulent HOS entries. This sweeping regulatory action brings total removals to nearly 230 devices in almost a year, targeting systemic compliance vulnerabilities across commercial motor fleets.",
+                "Fleet operators utilizing flagged telematics hardware face immediate roadside out-of-service orders and severe penalties, forcing urgent hardware audits and vendor replacements across regional and long-haul networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "IMPORTS: US CONTAINER IMPORTS HIT 2.67M TEUS",
+            "nextUpTease": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
             "tags": [
-                "Source: https://www.freightwaves.com/news/track-access-and-wharf-upgrades-part-of-10-3b-infrastructure-plan-at-port-of-new-york-and-new-jersey",
+                "Source: https://www.ttnews.com/articles/fmcsa-removes-133-more-elds-in-fraud-crackdown",
                 "Published: 2026-11-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
+            "heading": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
             "paragraphs": [
-                "U.S. containerized imports surged to an unprecedented 2.67M TEUs in October, driven by heavy peak-season inventory replenishment and retail stock-piling. This record volume surge has triggered mounting terminal dwell times and localized chassis shortages across major coastal gateways.",
-                "Shippers face elevated demurrage risks and tightening carrier space allocation as port congestion threatens to compound overland transit delays heading into the winter shipping cycle."
+                "Ocean Network Express has officially restored its first containership voyages through the Suez Canal after a nearly 3-year hiatus driven by Middle East security risks. Despite ongoing instability in Yemen and Houthi threats along the coastal corridor, carriers are aggressively redeploying assets to match competitor schedules.",
+                "This strategic route resumption shaves transit times down significantly but exposes operators to elevated insurance premiums and regional security contingencies that require continuous maritime risk evaluation."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
+            "nextUpTease": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise",
-                "Published: 2026-11-16T09:30:00Z",
+                "Source: https://maritime-executive.com/article/one-joins-maersk-hapag-and-others-in-return-to-suez-canal",
+                "Published: 2026-11-16T17:37:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
+            "heading": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
             "paragraphs": [
-                "The American Trucking Associations submitted a formal six-step framework to the FMCSA aimed at eradicating electronic logging device fraud across commercial fleets. Key recommendations include mandating a verified US-based presence for all ELD vendors and establishing an independent hardware certification program.",
-                "Fleet operators must audit their current telematics providers to ensure compliance with upcoming regulatory validation standards and avoid sudden roadside out-of-service penalties."
+                "At least 2 commercial tankers have sustained projectile strikes near the Strait of Hormuz over a 48-hour window, resulting in significant steering gear damage to the crude oil carrier Al Dhannah. The disabled vessel was forced to reverse its eastbound transit in the Arabian Gulf and abort its voyage back to port.",
+                "Navigational threats through this critical energy chokepoint are intensifying cargo insurance costs and compelling logistics planners to re-route vulnerable tonnage away from high-risk combat zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+            "nextUpTease": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-proposes-6-steps-to-help-fmcsa-combat-eld-fraud",
-                "Published: 2026-11-16T07:15:00Z",
+                "Source: https://maritime-executive.com/article/two-tankers-hit-near-strait-of-hormuz-one-disabled",
+                "Published: 2026-11-16T18:39:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+            "heading": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction designed to consolidate third-party logistics market share. The strategic merger integrates comprehensive expedited transport and last-mile delivery capabilities, with the transaction closing targeted for H1 2027.",
-                "Shippers should evaluate their 3PL vendor concentration and contract terms as major logistics consolidation alters service offerings and brokerage pricing leverage across North America."
+                "Japanese engineering leader JFE Engineering and local partner Akita Maritime Service have finalized a lucrative 5-year maintenance contract for the 315MW Oga-Katagami-Akita offshore wind farm. The joint venture will oversee comprehensive inspection and balance-of-plant maintenance across 21 massive wind turbine installations.",
+                "This long-term service agreement underscores the rapid expansion of specialized maritime logistics and heavy engineering support required for complex Asian renewable energy infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
+            "nextUpTease": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/ch-robinson-agrees-to-acquire-rxo-in-5.8-billion-cash-and-stock-deal",
-                "Published: 2026-11-16T10:00:00Z",
+                "Source: https://splash247.com/jfe-engineering-wins-offshore-wind-maintenance-contract/",
+                "Published: 2026-11-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
+            "heading": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
             "paragraphs": [
-                "CMA CGM reported a threefold surge in third-quarter net income, propelled by robust global freight rates and expanding intermodal cargo volumes. The carrier's diversified logistics investments and robust ocean yield management successfully offset persistent macroeconomic headwinds.",
-                "Benefiting carriers are aggressively deploying capital into fleet modernization and dedicated air cargo capacity, forcing shippers to lock in multi-year service contracts to secure predictable rate structures."
+                "Tor Olav Tr\u00f8im-backed Himalaya Shipping has aggressively restructured its vessel employment strategy by switching two newcastlemax bulkers from volatile index-linked structures to fixed-rate charters averaging $41,550 daily through 2027. This decisive pivot locks in guaranteed revenue streams amidst fluctuating global bulk shipping demand.",
+                "Dry bulk operators are increasingly prioritizing predictable cash flows over spot market exposure to hedge against macroeconomic headwinds and unpredictable commodity trade flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS SETS 5.9% PRICE HIKE",
+            "nextUpTease": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
-                "Published: 2026-11-16T06:45:00Z",
+                "Source: https://splash247.com/himalaya-secures-fresh-2027-charter-cover-for-newcastlemax-pair/",
+                "Published: 2026-11-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PARCEL: USPS SETS 5.9% PRICE HIKE",
+            "heading": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
             "paragraphs": [
-                "The United States Postal Service announced a permanent fuel surcharge structure alongside a planned 5.9% parcel rate increase scheduled for 2027. This permanent pricing adjustment reflects ongoing diesel price volatility and structural cost pressures across last-mile delivery networks.",
-                "E-commerce merchants must immediately recalibrate their shipping margin models and diversify carrier partnerships to mitigate the compounding financial impact of permanent parcel surcharges."
+                "North American motor carriers successfully leveraged persistent capacity constraints and rising operational overhead to drive meaningful freight rate recoveries throughout the third quarter. Despite soft overall retail demand, ongoing small-fleet exits and tighter compliance standards gave operators greater pricing power.",
+                "Shippers must factor higher contract baseline rates and tightening truckload availability into their upcoming procurement budgets as over-the-road carrier capacity continues to contract."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+            "nextUpTease": "LOGISTICS: BMW OPENS BATTERY PLANT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/usps-is-set-to-make-fuel-surcharge-permanent-raise-parcel-prices-5.9-in-2027",
-                "Published: 2026-11-16T11:20:00Z",
+                "Source: https://www.ttnews.com/articles/truckers-leverage-cost-pressures-to-drive-rate-recovery",
+                "Published: 2026-11-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+            "heading": "LOGISTICS: BMW OPENS BATTERY PLANT",
             "paragraphs": [
-                "Hapag-Lloyd executive leadership has publicly urged container shippers to abandon traditional fixed-rate annual contracts in favor of flexible pricing mechanisms. Industry executives argue that rigid one-year agreements fail to accurately reflect modern maritime market volatility and geopolitical disruptions.",
-                "Procurement teams preparing for upcoming annual rate negotiations must adopt dynamic index-linked pricing models or risk facing severe capacity allocation restrictions from ocean carriers."
+                "BMW has officially inaugurated a state-of-the-art high-voltage battery assembly plant in South Carolina, highlighting a strategic industry shift toward localized regional supply chains. The facility is engineered to supply regional vehicle assembly plants directly, minimizing cross-border transit risks and component lead times.",
+                "Automotive manufacturers are accelerating localized sourcing models to insulate their production lines from international trade friction, tariff volatility, and maritime shipping bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/hapag-lloyd-ceo-calls-for-new-approach-to-shipping-contracts_20261116.html",
-                "Published: 2026-11-16T12:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/7594-bmw-opens-south-carolina-battery-plant-highlights-local-for-local-supply-chain-strategy",
+                "Published: 2026-11-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

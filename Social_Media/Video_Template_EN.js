@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT AUTHORITY APPROVES TEN POINT THREE BILLION INFRASTRUCTURE",
+        "hookTitle": "FMCSA REMOVES 133 MORE ELDS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
-                "teaserTitle": "US CONTAINER IMPORTS HIT 2.67M TEUS",
+                "headline": "GOVERNMENT: FMCSA REMOVES 133 ELDS",
+                "teaserTitle": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Port Authority of New York and New Jersey approved a ten point three billion dollar capital plan for terminal upgrades. This funding aims to eliminate regional truck bottlenecks and expand intermodal capacity."
+                "narration_line": "Federal regulators have removed one hundred thirty-three non-compliant electronic logging devices in an aggressive fraud crackdown. Fleet operators face immediate roadside risks and must conduct urgent hardware compliance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
-                "teaserTitle": "ATA PROPOSES 6 STEPS FOR ELDS",
+                "headline": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
+                "teaserTitle": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "United States container imports hit a record two point six seven million TEUs in October. This volume surge has triggered severe terminal dwell times and chassis shortages."
+                "narration_line": "Ocean Network Express has restored containership voyages through the Suez Canal after nearly three years. Carriers are aggressively redeploying assets despite ongoing regional security instability."
             },
             {
                 "slide_index": 3,
-                "headline": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
-                "teaserTitle": "C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+                "headline": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
+                "teaserTitle": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The American Trucking Associations submitted a six-step framework to combat electronic logging fraud. Fleets must audit hardware providers to avoid upcoming roadside penalties."
+                "narration_line": "At least two commercial tankers sustained projectile strikes near the Strait of Hormuz over forty-eight hours. Navigational threats are driving up marine insurance costs and forcing route adjustments."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
-                "teaserTitle": "CMA CGM TRIPLES Q3 PROFIT",
+                "headline": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
+                "teaserTitle": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar cash and stock transaction. The merger significantly expands brokerage scale ahead of the twenty twenty-seven bid season."
+                "narration_line": "JFE Engineering secured a five-year maintenance contract for Japan's offshore wind infrastructure. This deal highlights the growing demand for specialized heavy engineering support."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
-                "teaserTitle": "USPS SETS 5.9% PRICE HIKE",
+                "headline": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
+                "teaserTitle": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CMA CGM reported a threefold increase in third-quarter net income driven by strong freight rates. Carriers are reinvesting profits into fleet modernization and dedicated capacity."
+                "narration_line": "Himalaya Shipping switched two newcastlemax bulkers to fixed-rate charters averaging forty-one thousand five hundred dollars daily. Operators are locking in guaranteed revenue to hedge market volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS SETS 5.9% PRICE HIKE",
-                "teaserTitle": "HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "headline": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
+                "teaserTitle": "LOGISTICS: BMW OPENS BATTERY PLANT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United States Postal Service established a permanent fuel surcharge alongside a five point nine percent rate hike. E-commerce merchants must recalibrate delivery budgets immediately."
+                "narration_line": "North American motor carriers leveraged tight capacity constraints to drive freight rate recoveries. Shippers must factor higher baseline shipping costs into upcoming procurement budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "headline": "LOGISTICS: BMW OPENS BATTERY PLANT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd leadership urged shippers to abandon fixed annual contracts in favor of flexible pricing models. Procurement teams must adapt to ongoing maritime market volatility."
+                "narration_line": "BMW inaugurated a high-voltage battery plant in South Carolina to support regional assembly lines. Manufacturers are accelerating local sourcing to insulate production from trade friction."
             },
             {
                 "slide_index": 8,

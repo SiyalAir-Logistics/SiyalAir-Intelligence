@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT AUTHORITY APPROVES 10.3B INFRASTRUCTURE",
-                "teaserTitle": "US CONTAINER IMPORTS HIT 2.67M TEUS",
-                "visual_caption": "The Port Authority approved a $10.3B capital plan for terminal upgrades. This funding aims to eliminate regional truck bottlenecks and expand intermodal capacity."
+                "headline": "GOVERNMENT: FMCSA REMOVES 133 ELDS",
+                "teaserTitle": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
+                "visual_caption": "FMCSA removes 133 non-compliant ELDs in an aggressive fraud crackdown. Fleet operators face immediate roadside risks and urgent hardware audits."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: US CONTAINER IMPORTS HIT 2.67M TEUS",
-                "teaserTitle": "ATA PROPOSES 6 STEPS FOR ELDS",
-                "visual_caption": "U.S. container imports hit a record 2.67M TEUs in October. This volume surge has triggered severe terminal dwell times and chassis shortages."
+                "headline": "MARITIME: ONE JOINS MAERSK IN SUEZ RETURN",
+                "teaserTitle": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
+                "visual_caption": "ONE restores containership voyages through the Suez Canal after 3 years. Carriers are aggressively redeploying assets despite security instability."
             },
             {
                 "slide_index": 3,
-                "headline": "SAFETY: ATA PROPOSES 6 STEPS FOR ELDS",
-                "teaserTitle": "C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
-                "visual_caption": "The ATA submitted a 6-step framework to combat electronic logging fraud. Fleets must audit hardware providers to avoid upcoming roadside penalties."
+                "headline": "SAFETY: TANKER HIT NEAR STRAIT OF HORMUZ",
+                "teaserTitle": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
+                "visual_caption": "At least 2 commercial tankers sustained projectile strikes near the Strait of Hormuz in 48 hours. Navigational threats are driving up marine costs."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: C.H. ROBINSON ACQUIRES RXO IN 5.8B DEAL",
-                "teaserTitle": "CMA CGM TRIPLES Q3 PROFIT",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock transaction. The merger significantly expands brokerage scale ahead of the 2027 bid season."
+                "headline": "RENEWABLES: JFE SECURES 5-YEAR WINDS",
+                "teaserTitle": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
+                "visual_caption": "JFE Engineering secured a 5-year maintenance contract for 315MW wind assets. This deal highlights strong demand for specialized offshore logistics."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: CMA CGM TRIPLES Q3 PROFIT",
-                "teaserTitle": "USPS SETS 5.9% PRICE HIKE",
-                "visual_caption": "CMA CGM reported a threefold increase in Q3 net income driven by strong freight rates. Carriers are reinvesting profits into fleet modernization and dedicated capacity."
+                "headline": "DRY CARGO: HIMALAYA SWITCHES TO FIXED",
+                "teaserTitle": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
+                "visual_caption": "Himalaya Shipping secured fixed-rate charters averaging $41,550 daily for 2027. Operators are locking in guaranteed cash flows to hedge volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS SETS 5.9% PRICE HIKE",
-                "teaserTitle": "HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
-                "visual_caption": "The USPS established a permanent fuel surcharge alongside a 5.9% rate hike. E-commerce merchants must recalibrate delivery budgets immediately."
+                "headline": "SURFACE: TRUCKERS DRIVE RATE RECOVERY",
+                "teaserTitle": "LOGISTICS: BMW OPENS BATTERY PLANT",
+                "visual_caption": "Motor carriers leveraged tight capacity constraints to drive freight rate recoveries. Shippers must factor higher baseline rates into 2027 budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: HAPAG-LLOYD CALLS FOR CONTRACT OVERHAUL",
+                "headline": "LOGISTICS: BMW OPENS BATTERY PLANT",
                 "teaserTitle": "",
-                "visual_caption": "Hapag-Lloyd leadership urged shippers to abandon fixed annual contracts in favor of flexible pricing models. Procurement teams must adapt to ongoing maritime market volatility."
+                "visual_caption": "BMW opened a South Carolina battery plant to support local manufacturing lines. Automotive brands are accelerating regional sourcing strategies."
             },
             {
                 "slide_index": 8,
