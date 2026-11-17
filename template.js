@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TANKER STRIKES",
-        "titleBlue": "INTENSIFY",
-        "footerSummary": "Tanker strikes in the Strait of Hormuz and $11.4M in cargo theft highlight surging operational risk for global freight networks."
+        "titleWhite": "GEMINI CARRIERS RESTORE SUEZ",
+        "titleBlue": "TRANSITS",
+        "footerSummary": "Gemini carriers restore Suez transits while 19 crew are airlifted off Bulgaria, signaling profound shifts for maritime risk and capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECURITY: TANKER STRIKES INTENSIFY",
+            "heading": "MARITIME: GEMINI CARRIERS RESTORE SUEZ",
             "paragraphs": [
-                "At least 2 commercial tankers sustained projectile strikes near the Strait of Hormuz over a 48-hour window, resulting in significant steering gear damage to the crude carrier Al Dhannah. The disabled vessel was forced to reverse its eastbound transit and abort its voyage to return to Dubai for emergency repairs.",
-                "Navigational threats through this critical energy chokepoint are driving cargo insurance premiums higher and compelling logistics planners to re-evaluate transit risks. Carriers must balance Suez Canal routing savings against the rising threat of asset disabling strikes in volatile corridors."
+                "Gemini Cooperation partners Maersk and Hapag-Lloyd have announced a complete planned return of their major ship services to Suez Canal transits by mid-January. This strategic network adjustment comes as ocean carriers seek to optimize transit times and mitigate persistent capacity strains on Asia-Europe trade lanes.",
+                "Shippers must monitor potential port congestion and schedule reliability fluctuations as vessels shift away from longer African cape routes back through the Red Sea chokepoint. Navigational adjustments will require supply chain planners to recalibrate inventory buffers and European arrival windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "EMISSIONS: AFRICA CARBON CHARGE PUSH",
+            "nextUpTease": "SECURITY: CREW RESCUED OFF BULGARIA",
             "tags": [
-                "Source: https://maritime-executive.com/article/two-tankers-hit-near-strait-of-hormuz-one-disabled",
-                "Published: 2026-11-16T18:39:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "EMISSIONS: AFRICA CARBON CHARGE PUSH",
-            "paragraphs": [
-                "A growing coalition of African nations, including Guinea, Ivory Coast, and Mauritania, is advancing plans to introduce regional carbon charges on international shipping. This move follows the precedent set by European environmental legislation, creating a new layer of regulatory costs for global maritime operators.",
-                "Shipowners must now prepare for a fragmented global carbon tax landscape that impacts bunker adjustment factors and port call pricing. Shippers should anticipate margin compression as these regional compliance fees are passed through the supply chain."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: AI CARGO PEAK PRESSURE",
-            "tags": [
-                "Source: https://splash247.com/african-nations-join-forces-to-impose-carbon-charges-on-shipping/",
+                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/",
                 "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "AIR FREIGHT: AI CARGO PEAK PRESSURE",
+            "id": 2,
+            "heading": "SECURITY: CREW RESCUED OFF BULGARIA",
             "paragraphs": [
-                "Korean Air is aggressively maximizing its Asia-Americas cargo capacity to accommodate surging demand for AI infrastructure hardware during the peak shipping season. The overlap of traditional retail peaks with sustained tech infrastructure growth has pushed air freight load factors to critical levels.",
-                "Logistics managers facing tight capacity must evaluate premium air options or transition to deferred schedules to manage rising transportation costs. High-value tech shipments are currently competing for limited belly and freighter space across the Pacific."
+                "All 19 crewmembers of a StealthGas LPG carrier were successfully airlifted after the vessel sustained a suspected drone strike off the coast of Bulgaria. This incident marks the second serious merchant shipping attack in the western Black Sea within a compressed 24-hour window.",
+                "Escalating security threats across regional trade corridors are driving marine insurance rates higher and forcing vessel operators to implement stringent evasive routing protocols. Asset owners face heightened operational liabilities as conflict zones increasingly intersect with commercial shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: ATA ELD FRAUD MANDATES",
+            "nextUpTease": "REGULATION: FMC EXPORT POLICY FILINGS",
             "tags": [
-                "Source: https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
-                "Published: 2026-11-17T09:00:00Z",
+                "Source: https://splash247.com/stealthGas-crew-airlifted-from-stricken-lpg-carrier-off-bulgaria/",
+                "Published: 2026-11-17T12:24:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "REGULATION: FMC EXPORT POLICY FILINGS",
+            "paragraphs": [
+                "The Federal Maritime Commission has issued a formal industry advisory mandating that ocean common carriers file their documented export policies by Mar 1 each year. This regulatory requirement is designed to ensure the timely and efficient movement of export cargo across U.S. marine terminals.",
+                "Carriers and terminal operators must streamline compliance documentation workflows to avoid regulatory penalties and potential service disruptions. Shippers can expect enhanced accountability regarding export handling transparency and baseline service execution standards."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "M&A: ROBINSON ACQUIRES RXO",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: ATA ELD FRAUD MANDATES",
+            "heading": "M&A: ROBINSON ACQUIRES RXO",
             "paragraphs": [
-                "The American Trucking Associations has proposed a 6-step framework to help the FMCSA combat widespread fraud in electronic logging devices. The proposal includes a mandate for U.S.-based vendor presence and an independent certification program to verify device integrity and HOS accuracy.",
-                "Fleet operators should anticipate stricter hardware vetting processes and potential decertification of non-compliant telematics providers. This regulatory shift aims to stabilize the competitive landscape by removing carriers utilizing fraudulent time-management technology."
+                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction slated to close in the first half of 2027. The strategic merger significantly expands the combined entity's footprint in expedited transportation and specialized last-mile delivery services.",
+                "Market participants are evaluating how this consolidation will reshape brokerage pricing power and carrier relationship dynamics across North American freight networks. Shippers should review third-party logistics contracts to anticipate shifts in service levels and platform capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: KERCH STRAIT BRIDGE COLLAPSE",
+            "nextUpTease": "FLEET: DIESEL DIPS BELOW $6 MARK",
             "tags": [
-                "Source: https://www.ttnews.com/articles/ata-fmcsa-eld-fraud",
-                "Published: 2026-11-16T15:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: KERCH STRAIT BRIDGE COLLAPSE",
+            "heading": "FLEET: DIESEL DIPS BELOW $6 MARK",
             "paragraphs": [
-                "A series of drone strikes has destroyed the navigation span of the Kerch Strait Bridge, dropping debris into the primary maritime channel and severing the road link between Crimea and Russia. This total disruption of the navigation channel halts commercial vessel movements through the critical Azov Sea gateway.",
-                "Regional logistics networks face immediate cargo bottlenecks as transit routes for grain and heavy equipment are severed. Shippers must seek alternative, more costly rail or overland circuits as the waterway remains impassable for the foreseeable future."
+                "National retail diesel prices have retreated below the $6 per gallon threshold for the first time since mid-September, averaging $5.937 per gallon. This downward price movement provides a welcome operational cost relief for motor carriers grappling with compressed margins.",
+                "While fuel surcharges moderate slightly, trucking fleets must still navigate rising equipment maintenance and insurance expenses heading into the 2027 bid season. Shippers should leverage this short-term fuel cost stabilization to negotiate balanced rate structures with core carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO: $11.4M NVIDIA GEAR THEFT",
+            "nextUpTease": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
             "tags": [
-                "Source: https://maritime-executive.com/article/ukraine-destroys-navigation-span-of-kerch-strait-bridge",
-                "Published: 2026-11-16T18:49:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CARGO: $11.4M NVIDIA GEAR THEFT",
+            "heading": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
             "paragraphs": [
-                "Security investigators are probing the theft of $11.4M in Nvidia high-performance hardware that was intercepted while in transit from Oakland to Fort Worth. Six pallets of high-value gear vanished between the points of origin and destination, highlighting severe vulnerabilities in secure cargo handoffs.",
-                "This incident underscores the critical need for advanced real-time tracking and enhanced physical security for high-value tech components. Shippers of high-value electronics must review carrier vetting processes and insurance coverage to mitigate escalating theft risks."
+                "The Port of New York and New Jersey has unveiled a comprehensive $10.3B infrastructure master plan centered on advanced truck gate access and extensive wharf upgrades. The capital investment aims to eliminate landside bottlenecks and expand container handling capacity over the next decade.",
+                "Terminal efficiency upgrades will significantly reduce gate turn times for drayage operators and improve container velocity for regional importers. Logistics managers must align their distribution center networks with these upcoming terminal structural enhancements."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRY CARGO: CHINA EXPORT POWERHOUSE",
+            "nextUpTease": "SECURITY: STOLEN VEHICLES RECOVERED",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/nvidia-cargo-theft-11-4m-load-stolen/",
-                "Published: 2026-11-16T12:00:00Z",
+                "Source: https://www.freightwaves.com/news/police-recover-4-5m-in-stolen-vehicles-bound-for-west-africa-arrest-12",
+                "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DRY CARGO: CHINA EXPORT POWERHOUSE",
+            "heading": "SECURITY: STOLEN VEHICLES RECOVERED",
             "paragraphs": [
-                "China is rapidly transforming into a dry bulk export powerhouse as outbound cargo volumes for industrial commodities continue to gain pace. This shift marks a significant departure from China's traditional role as a primary importer, reshaping global bulk trade flows and vessel demand cycles.",
-                "Dry cargo operators must reposition tonnage to capture emerging export lanes as traditional trade patterns shift. Global freight buyers should monitor these outbound volumes for potential impact on spot market bulk rates and carrier availability."
+                "Law enforcement agencies have successfully recovered $4.5M in high-end stolen vehicles bound for West Africa, arresting 12 suspects in a major cargo theft ring takedown. The operation exposed sophisticated diversion tactics targeting export staging yards and rail intermodal hubs.",
+                "Supply chain security teams must implement rigorous yard audits and enhanced seal verification protocols to prevent organized cargo diversion. Shippers moving high-value automotive assets should invest in tamper-evident tracking solutions and vetted terminal partners."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com/china-emerges-as-dry-bulk-export-powerhouse/",
+                "Source: https://www.freightwaves.com/news/police-recover-4-5m-in-stolen-vehicles-bound-for-west-africa-arrest-12",
                 "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]

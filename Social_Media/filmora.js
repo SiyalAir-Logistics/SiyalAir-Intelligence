@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: TANKER STRIKES INTENSIFY",
-                "teaserTitle": "AFRICA CARBON CHARGE PUSH",
-                "visual_caption": "Two tankers sustained projectile strikes near the Strait of Hormuz, disabling one vessel. Navigational threats are driving cargo insurance costs higher as carriers re-evaluate transit risks."
+                "headline": "MARITIME: GEMINI CARRIERS RESTORE SUEZ",
+                "teaserTitle": "SECURITY: CREW RESCUED OFF BULGARIA",
+                "visual_caption": "Gemini partners Maersk and Hapag-Lloyd plan to resume Suez transits by mid-Jan. This route shift optimizes schedules across Asia and Europe."
             },
             {
                 "slide_index": 2,
-                "headline": "EMISSIONS: AFRICA CARBON CHARGE PUSH",
-                "teaserTitle": "AI CARGO PEAK PRESSURE",
-                "visual_caption": "African nations are advancing a regional carbon charge on international shipping. Shipowners must prepare for new compliance costs that will likely impact global freight rates."
+                "headline": "SECURITY: CREW RESCUED OFF BULGARIA",
+                "teaserTitle": "REGULATION: FMC EXPORT POLICY FILINGS",
+                "visual_caption": "All 19 crew were airlifted after a drone strike struck an LPG carrier off Bulgaria. Regional security threats continue to drive up marine insurance."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: AI CARGO PEAK PRESSURE",
-                "teaserTitle": "ATA ELD FRAUD MANDATES",
-                "visual_caption": "Korean Air is maximizing Pacific capacity to handle surging AI infrastructure demand. High-value tech shipments are currently competing for limited freighter and belly space."
+                "headline": "REGULATION: FMC EXPORT POLICY FILINGS",
+                "teaserTitle": "M&A: ROBINSON ACQUIRES RXO",
+                "visual_caption": "The FMC mandates that ocean common carriers file export policies by Mar 1. Carriers must streamline compliance to avoid regulatory penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: ATA ELD FRAUD MANDATES",
-                "teaserTitle": "KERCH STRAIT BRIDGE COLLAPSE",
-                "visual_caption": "The ATA is proposing 6 steps to help federal regulators combat fraud in ELDs. Stricter hardware vetting will likely lead to the decertification of non-compliant vendors."
+                "headline": "M&A: ROBINSON ACQUIRES RXO",
+                "teaserTitle": "FLEET: DIESEL DIPS BELOW $6 MARK",
+                "visual_caption": "C.H. Robinson will acquire RXO in a $5.8B deal closing in H1 2027. The mega deal expands expedited and last-mile brokerage capabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: KERCH STRAIT BRIDGE COLLAPSE",
-                "teaserTitle": "$11.4M NVIDIA GEAR THEFT",
-                "visual_caption": "Drone strikes destroyed the navigation span of the Kerch Strait Bridge, blocking the Azov Sea gateway. Shippers must now seek alternative and more expensive rail or overland routes."
+                "headline": "FLEET: DIESEL DIPS BELOW $6 MARK",
+                "teaserTitle": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
+                "visual_caption": "U.S. retail diesel prices fell below $6 per gallon, averaging $5.937. Fleets are using this cost relief to offset rising maintenance expenses."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $11.4M NVIDIA GEAR THEFT",
-                "teaserTitle": "CHINA EXPORT POWERHOUSE",
-                "visual_caption": "Investigators are probing the theft of $11.4M in tech hardware during transit. Shippers should review carrier vetting and insurance to mitigate rising security risks."
+                "headline": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
+                "teaserTitle": "SECURITY: STOLEN VEHICLES RECOVERED",
+                "visual_caption": "The Port of NYNJ unveiled a $10.3B infrastructure master plan. Upgrades target gate access and expanded container handling capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "DRY CARGO: CHINA EXPORT POWERHOUSE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "China is emerging as a significant dry bulk exporter, shifting global vessel demand cycles. Operators must reposition tonnage to capture these emerging outbound commodity trade lanes."
+                "headline": "SECURITY: STOLEN VEHICLES RECOVERED",
+                "teaserTitle": "",
+                "visual_caption": "Police recovered $4.5M in stolen vehicles and arrested 12 suspects. Shippers must enhance yard security to combat sophisticated diversion rings."
             },
             {
                 "slide_index": 8,
