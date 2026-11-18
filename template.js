@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRIPLING AYSAPORT",
-        "titleBlue": "CAPACITY",
-        "footerSummary": "MSC triples Aysaport capacity to 6M TEU while EU ecommerce imports crash 63% ahead of peak season peak pressure."
+        "titleWhite": "STRONG Q4 RATES DRIVE ZIM",
+        "titleBlue": "EARNINGS",
+        "footerSummary": "Zim upgrades full year earnings guidance on robust Q4 freight rates while carriers face upcoming annual contract negotiations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT: TRIPLING AYSAPORT CAPACITY",
+            "heading": "MARITIME: STRONG Q4 RATES DRIVE ZIM EARNINGS",
             "paragraphs": [
-                "MSC is tripling its annual capacity at the Aysaport transhipment hub in Tekirdag to 6M TEU to accommodate surging East Mediterranean demand. This massive infrastructure expansion targets increased vessel size handling and streamlined feeder connectivity for European and Asian trade routes.",
-                "Logistics architects must re-evaluate hub-and-spoke routing as this facility becomes a primary node for Mediterranean cargo consolidation. The increased scale is expected to lower transhipment friction while forcing regional competitors to upgrade terminal automation to maintain market share."
+                "Zim has joined the growing parade of major ocean carriers raising their full year earnings guidance, propelled by resilient freight rates and strong third quarter financial performance. This sustained market strength stems from persistent Red Sea diversions and disciplined capacity management across primary global trade lanes.",
+                "Shippers must factor these elevated pricing baselines into upcoming annual contract negotiations as carriers leverage current profitability to secure firmer multi-month commitments. The widening margin gap between spot and contract rates demands tighter transportation budgeting to protect bottom line shipping efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
+            "nextUpTease": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
             "tags": [
-                "Source: https://theloadstar.com/msc-plans-to-triple-capacity-at-its-aysaport-transhipment-hub/",
-                "Published: 2026-11-18T09:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-18T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
+            "heading": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
             "paragraphs": [
-                "EU imports of low-value ecommerce goods crashed 63% year-over-year this quarter as new parcel charges and de minimis regulatory shifts take effect. These rising cross-border costs are significantly eroding retail margins for Black Friday bundles and high-volume small-parcel shippers.",
-                "Enterprise retailers must urgently pivot toward localized fulfillment centers within the EU to bypass escalating individual parcel duties and processing fees. Supply chain costs for direct-to-consumer models from Asia are reaching a critical threshold where air freight transit speed no longer offsets the fiscal burden."
+                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash and stock transaction designed to integrate expanded expedited and last mile delivery capabilities. The transaction is projected to close in the first half of 2027, creating a dominant consolidated force across the North American brokerage landscape.",
+                "Enterprise shippers should monitor potential vendor service restructuring and network integration hurdles as the combined entity harmonizes operations. This massive consolidation will alter competitive pricing dynamics, requiring logistics managers to diversify carrier portfolios to maintain service redundancy."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: NEO NEXT+ $960M ACQUISITION",
+            "nextUpTease": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
             "tags": [
-                "Source: https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/",
-                "Published: 2026-11-18T10:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-11-18T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "M&A: NEO NEXT+ $960M ACQUISITION",
+            "heading": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
             "paragraphs": [
-                "UK offshore producer Neo Next+ Energy has secured a $960M deal to acquire EnQuest's entire North Sea upstream business. This transaction consolidates a dominant position on the UK Continental Shelf, focusing on aging infrastructure optimization and production efficiency in a volatile energy market.",
-                "Logistics providers supporting North Sea operations must prepare for vendor consolidation as Neo Next+ streamlines its newly expanded asset portfolio. Financial exposure for service partners will shift as the group prioritizes long-term capital structure optimization over immediate exploration projects."
+                "The Federal Maritime Commission has issued an industry advisory requiring ocean common carriers to file documented export policies with the commission by March 1 each year. This regulatory mandate aims to ensure the timely and efficient movement of export cargo while enhancing transparency across U.S. port operations.",
+                "Exporters must audit their current carrier booking workflows and compliance documentation to align with the new annual filing requirements and prevent administrative delays. Failure by carriers to properly file could result in port bottlenecks, increasing compliance friction for outbound international shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
+            "nextUpTease": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
             "tags": [
-                "Source: https://splash247.com/neo-next-snaps-up-enquests-north-sea-business-in-960m-deal/",
-                "Published: 2026-11-18T08:45:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-11-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
+            "heading": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
             "paragraphs": [
-                "Nine leading global shipping associations have united to warn governments against a patchwork of regional carbon regulations that risk double-charging shipowners for emissions. The coalition is pushing for a singular, global International Maritime Organization mechanism to prevent regulatory fragmentation across diverse trade jurisdictions.",
-                "Shippers must account for rising administrative complexity and cost volatility as regional carbon taxes like the EU ETS clash with emerging national schemes. Failure to secure a global agreement could result in multiple tax layers per transit, significantly inflating total landed costs for heavy industrial cargo."
+                "The threat of potential labor disruptions at the ports of Los Angeles and Long Beach has escalated as contract talks between the PMA and security unions stall. Recent bargaining sessions concluded with little to no movement on key proposals, raising alarms for stakeholders heading into the peak holiday shipping window.",
+                "Supply chain planners must establish contingency routing strategies through alternative regional gateways to insulate supply chains against sudden terminal shutdowns. Prolonged labor friction at these vital West Coast hubs would immediately ripple across domestic intermodal and trucking networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
+            "nextUpTease": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
             "tags": [
-                "Source: https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
-                "Published: 2026-11-18T11:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-18T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
+            "heading": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
             "paragraphs": [
-                "UPS has announced the acquisition of Australian healthcare logistics specialist Smartway Logistics to deepen its specialized cold chain network across the Asia-Pacific region. This move enhances UPS's ability to handle high-value pharmaceuticals and complex medical equipment in Australia and New Zealand.",
-                "Forwarders and medical manufacturers should anticipate a tightening of the competitive landscape for temperature-controlled logistics in the Southern Hemisphere. The acquisition provides UPS with essential last-mile healthcare infrastructure, pressuring independent providers to accelerate their own technology and compliance investments."
+                "Transatlantic airfreight rates have surged to their highest level since December 2022 as compressed capacity and surging peak season demand collide. This pricing pressure is further amplified by ongoing aviation disruptions and heavy cross-border ecommerce volumes competing for limited aircraft pallet space.",
+                "High-value shippers must evaluate expedited air versus ocean transit trade-offs as spot pricing escalates across North Atlantic trade lanes. Budget allocations must be adjusted immediately to absorb these premium air transport costs without destabilizing quarterly fulfillment targets."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
+            "nextUpTease": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
             "tags": [
-                "Source: https://www.freightwaves.com/news/ups-to-acquire-australian-healthcare-specialist-smartway-logistics",
-                "Published: 2026-11-18T13:20:00Z",
+                "Source: https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
+                "Published: 2026-11-18T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
+            "heading": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
             "paragraphs": [
-                "The Gemini Cooperation partners, Maersk and Hapag-Lloyd, have announced a scheduled return to full Suez Canal transits by mid-January 2027. This tactical pivot marks a significant shift from the prolonged Cape of Good Hope diversions that have dominated Asia-Europe schedules for over a year.",
-                "Capacity planners must prepare for a sudden influx of vessel tonnage as transit times shorten by nearly 14 days for westbound trade lanes. While this resumption lowers fuel burns and operational costs, shippers should monitor potential schedule bunching and port congestion during the network transition phase."
+                "A major cargo heist resulted in the theft of $11.4M worth of Nvidia hardware from a truck transporting six pallets from Oakland to Fort Worth. Local law enforcement has reported no arrests to date, highlighting persistent vulnerabilities in high-value electronics transit security across interstate corridors.",
+                "Logistics security managers must mandate enhanced tracking, driver verification, and secure staging protocols for high-value tech shipments to mitigate rising cargo theft syndicates. Insurance premiums and risk mitigation overhead will likely rise for shippers moving sensitive microelectronics and semiconductors."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: TANKER SHORTAGE THREATENS GULF",
+            "nextUpTease": "REGULATION: ATA PRESSES FOR ELD FRAUD CRCRACKDOWN",
             "tags": [
-                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/",
-                "Published: 2026-11-17T16:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-11-18T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: TANKER SHORTAGE THREATENS GULF",
+            "heading": "REGULATION: ATA PRESSES FOR ELD FRAUD CRACKDOWN",
             "paragraphs": [
-                "A critical shortage of empty crude tankers in the Middle East Gulf is placing global oil flow at risk as vessel availability hits multi-month lows. High demand for long-haul voyages and ongoing vessel attacks near the Strait of Hormuz have trapped specialized tonnage in extended transit cycles.",
-                "Energy traders must evaluate immediate chartering premiums as spot market availability for VLCC vessels disappears during the peak heating season. The resulting capacity constraint is expected to drive extreme volatility in energy freight rates and disrupt refined product delivery schedules worldwide."
+                "The American Trucking Associations has urged the Federal Motor Carrier Safety Administration to establish a strict certification program to eliminate widespread electronic logging device fraud. This initiative targets unscrupulous operators who manipulate ELD compliance data to bypass federal hours-of-service safety mandates.",
+                "Motor carriers should prepare for more rigorous enforcement actions and auditing standards as regulators tighten oversight on commercial vehicle compliance technology. Eliminating fraudulent operators will help normalize market capacity but may introduce short-term driver availability constraints."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
-                "Published: 2026-11-17T19:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-18T08:30:00Z",
                 "Status: Audited & True"
             ]
         }
