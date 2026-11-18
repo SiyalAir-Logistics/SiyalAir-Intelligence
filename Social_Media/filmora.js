@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: GEMINI CARRIERS RESTORE SUEZ",
-                "teaserTitle": "SECURITY: CREW RESCUED OFF BULGARIA",
-                "visual_caption": "Gemini partners Maersk and Hapag-Lloyd plan to resume Suez transits by mid-Jan. This route shift optimizes schedules across Asia and Europe."
+                "headline": "REGULATION: FMC EXPORT POLICY MANDATE",
+                "teaserTitle": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
+                "visual_caption": "The Federal Maritime Commission mandates ocean common carriers to file export policies by Mar 1. Shippers must streamline compliance workflows to avoid regulatory penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: CREW RESCUED OFF BULGARIA",
-                "teaserTitle": "REGULATION: FMC EXPORT POLICY FILINGS",
-                "visual_caption": "All 19 crew were airlifted after a drone strike struck an LPG carrier off Bulgaria. Regional security threats continue to drive up marine insurance."
+                "headline": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
+                "teaserTitle": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+                "visual_caption": "Hanwha Philly Shipyard cut steel for 49.5K dwt tankers, marking the first U.S. MR tanker build in a decade. This initiative expands domestic merchant marine capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: FMC EXPORT POLICY FILINGS",
-                "teaserTitle": "M&A: ROBINSON ACQUIRES RXO",
-                "visual_caption": "The FMC mandates that ocean common carriers file export policies by Mar 1. Carriers must streamline compliance to avoid regulatory penalties."
+                "headline": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+                "teaserTitle": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
+                "visual_caption": "Russia routed record oil volumes to Asia via the Northern Sea Route in 2026. Exporters bypassed NATO boardings while navigating severe seasonal ice constraints."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: ROBINSON ACQUIRES RXO",
-                "teaserTitle": "FLEET: DIESEL DIPS BELOW $6 MARK",
-                "visual_caption": "C.H. Robinson will acquire RXO in a $5.8B deal closing in H1 2027. The mega deal expands expedited and last-mile brokerage capabilities."
+                "headline": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
+                "teaserTitle": "EQUIPMENT: MEXICAN CLASS 8 REBOUND",
+                "visual_caption": "Korean Air is maximizing transpacific capacity to handle surging AI infrastructure cargo. Freight forwarders must secure block-space agreements to mitigate rising spot rates."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET: DIESEL DIPS BELOW $6 MARK",
-                "teaserTitle": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
-                "visual_caption": "U.S. retail diesel prices fell below $6 per gallon, averaging $5.937. Fleets are using this cost relief to offset rising maintenance expenses."
+                "headline": "EQUIPMENT: MEXICAN CLASS 8 PRODUCTION",
+                "teaserTitle": "SAFETY: ATA PROPOSES ELD REFORMS",
+                "visual_caption": "Mexican Class 8 truck production rebounded in October to fulfill equipment backlogs. Fleets can utilize improved truck supply to modernize assets for 2027."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
-                "teaserTitle": "SECURITY: STOLEN VEHICLES RECOVERED",
-                "visual_caption": "The Port of NYNJ unveiled a $10.3B infrastructure master plan. Upgrades target gate access and expanded container handling capacity."
+                "headline": "SAFETY: ATA PROPOSES ELD REFORMS",
+                "teaserTitle": "RETAIL: SUMMER IMPORT SURGE FORECAST",
+                "visual_caption": "The ATA submitted 6 key recommendations to FMCSA to eliminate ELD fraud. Motor carriers must verify vendor compliance to align with upcoming federal standards."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: STOLEN VEHICLES RECOVERED",
+                "headline": "STRATEGY: SUMMER IMPORT SURGE FORECAST",
                 "teaserTitle": "",
-                "visual_caption": "Police recovered $4.5M in stolen vehicles and arrested 12 suspects. Shippers must enhance yard security to combat sophisticated diversion rings."
+                "visual_caption": "Monthly U.S. imports are forecasted to hit their highest levels since 2022. Supply chain managers must coordinate terminal drayage to maintain high container velocity."
             },
             {
                 "slide_index": 8,

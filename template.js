@@ -1,50 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEMINI CARRIERS RESTORE SUEZ",
-        "titleBlue": "TRANSITS",
-        "footerSummary": "Gemini carriers restore Suez transits while 19 crew are airlifted off Bulgaria, signaling profound shifts for maritime risk and capacity."
+        "titleWhite": "FMC MANDATES DOCUMENTED EXPORT",
+        "titleBlue": "POLICIES",
+        "footerSummary": "FMC mandates export policy filings by Mar 1 as maritime operators navigate shifting regulatory compliance standards and capacity pressures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: GEMINI CARRIERS RESTORE SUEZ",
+            "heading": "REGULATION: FMC EXPORT POLICY MANDATE",
             "paragraphs": [
-                "Gemini Cooperation partners Maersk and Hapag-Lloyd have announced a complete planned return of their major ship services to Suez Canal transits by mid-January. This strategic network adjustment comes as ocean carriers seek to optimize transit times and mitigate persistent capacity strains on Asia-Europe trade lanes.",
-                "Shippers must monitor potential port congestion and schedule reliability fluctuations as vessels shift away from longer African cape routes back through the Red Sea chokepoint. Navigational adjustments will require supply chain planners to recalibrate inventory buffers and European arrival windows."
+                "The Federal Maritime Commission has issued a formal industry advisory requiring ocean common carriers to file their documented export policies by Mar 1 each year. This regulatory enforcement measure is designed to ensure the timely and efficient movement of outbound cargo across major U.S. marine terminals.",
+                "Carriers and terminal operators must immediately streamline their compliance documentation workflows to avoid regulatory penalties and potential operational delays. Shippers can expect enhanced baseline accountability regarding export handling transparency and schedule execution standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CREW RESCUED OFF BULGARIA",
-            "tags": [
-                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/",
-                "Published: 2026-11-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "SECURITY: CREW RESCUED OFF BULGARIA",
-            "paragraphs": [
-                "All 19 crewmembers of a StealthGas LPG carrier were successfully airlifted after the vessel sustained a suspected drone strike off the coast of Bulgaria. This incident marks the second serious merchant shipping attack in the western Black Sea within a compressed 24-hour window.",
-                "Escalating security threats across regional trade corridors are driving marine insurance rates higher and forcing vessel operators to implement stringent evasive routing protocols. Asset owners face heightened operational liabilities as conflict zones increasingly intersect with commercial shipping lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC EXPORT POLICY FILINGS",
-            "tags": [
-                "Source: https://splash247.com/stealthGas-crew-airlifted-from-stricken-lpg-carrier-off-bulgaria/",
-                "Published: 2026-11-17T12:24:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "REGULATION: FMC EXPORT POLICY FILINGS",
-            "paragraphs": [
-                "The Federal Maritime Commission has issued a formal industry advisory mandating that ocean common carriers file their documented export policies by Mar 1 each year. This regulatory requirement is designed to ensure the timely and efficient movement of export cargo across U.S. marine terminals.",
-                "Carriers and terminal operators must streamline compliance documentation workflows to avoid regulatory penalties and potential service disruptions. Shippers can expect enhanced accountability regarding export handling transparency and baseline service execution standards."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "M&A: ROBINSON ACQUIRES RXO",
+            "nextUpTease": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: 2026-11-17T00:00:00Z",
@@ -52,61 +22,91 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "M&A: ROBINSON ACQUIRES RXO",
+            "id": 2,
+            "heading": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a massive $5.8B cash-and-stock transaction slated to close in the first half of 2027. The strategic merger significantly expands the combined entity's footprint in expedited transportation and specialized last-mile delivery services.",
-                "Market participants are evaluating how this consolidation will reshape brokerage pricing power and carrier relationship dynamics across North American freight networks. Shippers should review third-party logistics contracts to anticipate shifts in service levels and platform capabilities."
+                "The Hanwha Philly Shipyard has hosted a ceremonial steel cutting for the first new MR product tankers constructed in the United States in nearly a decade. These 49.5K dwt vessels are being built to comply with strict domestic maritime regulations while expanding the American merchant marine fleet.",
+                "Ship operators and asset investors are closely monitoring domestic shipyard capacity as long-term fleet renewal initiatives gain momentum across U.S. waters. The successful delivery of these vessels will provide critical tonnage alternatives for domestic energy logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: DIESEL DIPS BELOW $6 MARK",
+            "nextUpTease": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-17T17:41:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+            "paragraphs": [
+                "Russia shipped record volumes of crude oil to Asian markets via the Northern Sea Route during 2026, driven by warmer weather and a lengthening navigational season. Exporters utilized this Arctic corridor to maintain consistent cargo flow while avoiding regulatory friction and boardings by NATO member states.",
+                "Energy traders and maritime operators must evaluate the geopolitical and navigational trade-offs of utilizing Arctic shipping lanes for global crude distribution. While transit distances to Asian buyers are shortened, severe environmental constraints and ice class vessel requirements demand rigorous risk planning."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: KOREAN AIR MAXIMIZES CAPACITY",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-17T16:56:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
+            "paragraphs": [
+                "Korean Air is actively maximizing its transpacific cargo capacity between Asia and the Americas to accommodate surging year-round demand for AI infrastructure hardware. Specialized tech shipments and high-density components are creating intense yield pressure across primary air trade lanes during the peak shipping season.",
+                "Freight forwarders and enterprise shippers must secure block-space agreements early to mitigate tightening air cargo capacity and rising spot rates. Supply chain planners should anticipate continued competition for premium uplift as technology manufacturing output accelerates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMOTIVE: MEXICAN CLASS 8 REBOUND",
+            "tags": [
+                "Source: https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
                 "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET: DIESEL DIPS BELOW $6 MARK",
+            "heading": "EQUIPMENT: MEXICAN CLASS 8 PRODUCTION",
             "paragraphs": [
-                "National retail diesel prices have retreated below the $6 per gallon threshold for the first time since mid-September, averaging $5.937 per gallon. This downward price movement provides a welcome operational cost relief for motor carriers grappling with compressed margins.",
-                "While fuel surcharges moderate slightly, trucking fleets must still navigate rising equipment maintenance and insurance expenses heading into the 2027 bid season. Shippers should leverage this short-term fuel cost stabilization to negotiate balanced rate structures with core carriers."
+                "Class 8 truck production facilities across Mexico posted a robust rebound in October, signaling steady manufacturing recovery for heavy-duty commercial equipment. Original equipment manufacturers are ramping up output to fulfill lingering backlogs and replace aging carrier fleets across North America.",
+                "Fleet operators should evaluate delivery timelines and capital expenditure strategies as equipment availability normalizes heading into the 2027 operational cycle. Improved truck supply offers motor carriers an essential opportunity to modernize assets and lower long-term maintenance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
+            "nextUpTease": "SAFETY: ATA PROPOSES ELD REFORMS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-16T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INFRASTRUCTURE: PORT OF NYNJ PLAN",
-            "paragraphs": [
-                "The Port of New York and New Jersey has unveiled a comprehensive $10.3B infrastructure master plan centered on advanced truck gate access and extensive wharf upgrades. The capital investment aims to eliminate landside bottlenecks and expand container handling capacity over the next decade.",
-                "Terminal efficiency upgrades will significantly reduce gate turn times for drayage operators and improve container velocity for regional importers. Logistics managers must align their distribution center networks with these upcoming terminal structural enhancements."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: STOLEN VEHICLES RECOVERED",
-            "tags": [
-                "Source: https://www.freightwaves.com/news/police-recover-4-5m-in-stolen-vehicles-bound-for-west-africa-arrest-12",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "SECURITY: STOLEN VEHICLES RECOVERED",
+            "id": 6,
+            "heading": "SAFETY: ATA PROPOSES ELD REFORMS",
             "paragraphs": [
-                "Law enforcement agencies have successfully recovered $4.5M in high-end stolen vehicles bound for West Africa, arresting 12 suspects in a major cargo theft ring takedown. The operation exposed sophisticated diversion tactics targeting export staging yards and rail intermodal hubs.",
-                "Supply chain security teams must implement rigorous yard audits and enhanced seal verification protocols to prevent organized cargo diversion. Shippers moving high-value automotive assets should invest in tamper-evident tracking solutions and vetted terminal partners."
+                "The American Trucking Associations has formally submitted six critical recommendations to the Federal Motor Carrier Safety Administration to combat electronic logging device fraud. Proposed measures include mandating a verified U.S.-based presence for ELD vendors and launching an independent device certification program.",
+                "Enforcement agencies and motor carriers are uniting to eliminate non-compliant hardware that undermines hours-of-service safety standards on highways. Industry stakeholders should audit their telematics vendor compliance to ensure full alignment with upcoming regulatory validation standards."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL: SUMMER IMPORT SURGE FORECAST",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-16T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "STRATEGY: SUMMER IMPORT SURGE FORECAST",
+            "paragraphs": [
+                "Monthly ocean import volumes are projected to reach their highest sustained levels since 2022 as retailers front-load inventory to insulate against potential supply chain disruptions. Logistics executives are realigning distribution networks to handle heavy container inflows without triggering port gate congestion.",
+                "Supply chain managers must coordinate closely with drayage partners and warehouse operators to maintain high container velocity and prevent detention bottlenecks. Proactive inventory orchestration remains essential for protecting operational margins during periods of elevated cargo influx."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/police-recover-4-5m-in-stolen-vehicles-bound-for-west-africa-arrest-12",
+                "Source: https://www.dcvelocity.com",
                 "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
