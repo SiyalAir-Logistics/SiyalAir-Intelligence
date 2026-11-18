@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FMC EXPORT POLICY MANDATE",
-                "teaserTitle": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
-                "visual_caption": "The Federal Maritime Commission mandates ocean common carriers to file export policies by Mar 1. Shippers must streamline compliance workflows to avoid regulatory penalties."
+                "headline": "PORT: TRIPLING AYSAPORT CAPACITY",
+                "teaserTitle": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
+                "visual_caption": "MSC is expanding the Aysaport hub to 6M TEU to meet rising Mediterranean demand. This growth streamlines feeder networks for global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
-                "teaserTitle": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
-                "visual_caption": "Hanwha Philly Shipyard cut steel for 49.5K dwt tankers, marking the first U.S. MR tanker build in a decade. This initiative expands domestic merchant marine capacity."
+                "headline": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
+                "teaserTitle": "M&A: NEO NEXT+ $960M ACQUISITION",
+                "visual_caption": "European ecommerce imports dropped 63% as new parcel charges erode retail margins. Shippers must pivot toward localized fulfillment strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
-                "teaserTitle": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
-                "visual_caption": "Russia routed record oil volumes to Asia via the Northern Sea Route in 2026. Exporters bypassed NATO boardings while navigating severe seasonal ice constraints."
+                "headline": "M&A: NEO NEXT+ $960M ACQUISITION",
+                "teaserTitle": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
+                "visual_caption": "Neo Next+ Energy acquired EnQuest's North Sea assets for $960M. This deal consolidates infrastructure production in a volatile market."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
-                "teaserTitle": "EQUIPMENT: MEXICAN CLASS 8 REBOUND",
-                "visual_caption": "Korean Air is maximizing transpacific capacity to handle surging AI infrastructure cargo. Freight forwarders must secure block-space agreements to mitigate rising spot rates."
+                "headline": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
+                "teaserTitle": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
+                "visual_caption": "Shipping associations warn against fragmented regional carbon taxes causing double charges. A global mechanism is required to stabilize landed costs."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: MEXICAN CLASS 8 PRODUCTION",
-                "teaserTitle": "SAFETY: ATA PROPOSES ELD REFORMS",
-                "visual_caption": "Mexican Class 8 truck production rebounded in October to fulfill equipment backlogs. Fleets can utilize improved truck supply to modernize assets for 2027."
+                "headline": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
+                "teaserTitle": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
+                "visual_caption": "UPS acquired Smartway Logistics to expand its healthcare cold chain in Australia and NZ. This move secures critical last-mile medical infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: ATA PROPOSES ELD REFORMS",
-                "teaserTitle": "RETAIL: SUMMER IMPORT SURGE FORECAST",
-                "visual_caption": "The ATA submitted 6 key recommendations to FMCSA to eliminate ELD fraud. Motor carriers must verify vendor compliance to align with upcoming federal standards."
+                "headline": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
+                "teaserTitle": "ENERGY: TANKER SHORTAGE THREATENS GULF",
+                "visual_caption": "Maersk and Hapag-Lloyd will resume full Suez transits by mid-Jan 2027. Shortened transit times will significantly shift global capacity and costs."
             },
             {
                 "slide_index": 7,
-                "headline": "STRATEGY: SUMMER IMPORT SURGE FORECAST",
-                "teaserTitle": "",
-                "visual_caption": "Monthly U.S. imports are forecasted to hit their highest levels since 2022. Supply chain managers must coordinate terminal drayage to maintain high container velocity."
+                "headline": "ENERGY: TANKER SHORTAGE THREATENS GULF",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "A critical shortage of empty tankers in the Gulf threatens global oil distribution. Charter premiums are rising as vessel availability hits record lows."
             },
             {
                 "slide_index": 8,

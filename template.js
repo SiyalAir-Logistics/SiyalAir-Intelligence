@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FMC MANDATES DOCUMENTED EXPORT",
-        "titleBlue": "POLICIES",
-        "footerSummary": "FMC mandates export policy filings by Mar 1 as maritime operators navigate shifting regulatory compliance standards and capacity pressures."
+        "titleWhite": "TRIPLING AYSAPORT",
+        "titleBlue": "CAPACITY",
+        "footerSummary": "MSC triples Aysaport capacity to 6M TEU while EU ecommerce imports crash 63% ahead of peak season peak pressure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: FMC EXPORT POLICY MANDATE",
+            "heading": "PORT: TRIPLING AYSAPORT CAPACITY",
             "paragraphs": [
-                "The Federal Maritime Commission has issued a formal industry advisory requiring ocean common carriers to file their documented export policies by Mar 1 each year. This regulatory enforcement measure is designed to ensure the timely and efficient movement of outbound cargo across major U.S. marine terminals.",
-                "Carriers and terminal operators must immediately streamline their compliance documentation workflows to avoid regulatory penalties and potential operational delays. Shippers can expect enhanced baseline accountability regarding export handling transparency and schedule execution standards."
+                "MSC is tripling its annual capacity at the Aysaport transhipment hub in Tekirdag to 6M TEU to accommodate surging East Mediterranean demand. This massive infrastructure expansion targets increased vessel size handling and streamlined feeder connectivity for European and Asian trade routes.",
+                "Logistics architects must re-evaluate hub-and-spoke routing as this facility becomes a primary node for Mediterranean cargo consolidation. The increased scale is expected to lower transhipment friction while forcing regional competitors to upgrade terminal automation to maintain market share."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
+            "nextUpTease": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://theloadstar.com/msc-plans-to-triple-capacity-at-its-aysaport-transhipment-hub/",
+                "Published: 2026-11-18T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
+            "heading": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
             "paragraphs": [
-                "The Hanwha Philly Shipyard has hosted a ceremonial steel cutting for the first new MR product tankers constructed in the United States in nearly a decade. These 49.5K dwt vessels are being built to comply with strict domestic maritime regulations while expanding the American merchant marine fleet.",
-                "Ship operators and asset investors are closely monitoring domestic shipyard capacity as long-term fleet renewal initiatives gain momentum across U.S. waters. The successful delivery of these vessels will provide critical tonnage alternatives for domestic energy logistics."
+                "EU imports of low-value ecommerce goods crashed 63% year-over-year this quarter as new parcel charges and de minimis regulatory shifts take effect. These rising cross-border costs are significantly eroding retail margins for Black Friday bundles and high-volume small-parcel shippers.",
+                "Enterprise retailers must urgently pivot toward localized fulfillment centers within the EU to bypass escalating individual parcel duties and processing fees. Supply chain costs for direct-to-consumer models from Asia are reaching a critical threshold where air freight transit speed no longer offsets the fiscal burden."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+            "nextUpTease": "M&A: NEO NEXT+ $960M ACQUISITION",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-17T17:41:00Z",
+                "Source: https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/",
+                "Published: 2026-11-18T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+            "heading": "M&A: NEO NEXT+ $960M ACQUISITION",
             "paragraphs": [
-                "Russia shipped record volumes of crude oil to Asian markets via the Northern Sea Route during 2026, driven by warmer weather and a lengthening navigational season. Exporters utilized this Arctic corridor to maintain consistent cargo flow while avoiding regulatory friction and boardings by NATO member states.",
-                "Energy traders and maritime operators must evaluate the geopolitical and navigational trade-offs of utilizing Arctic shipping lanes for global crude distribution. While transit distances to Asian buyers are shortened, severe environmental constraints and ice class vessel requirements demand rigorous risk planning."
+                "UK offshore producer Neo Next+ Energy has secured a $960M deal to acquire EnQuest's entire North Sea upstream business. This transaction consolidates a dominant position on the UK Continental Shelf, focusing on aging infrastructure optimization and production efficiency in a volatile energy market.",
+                "Logistics providers supporting North Sea operations must prepare for vendor consolidation as Neo Next+ streamlines its newly expanded asset portfolio. Financial exposure for service partners will shift as the group prioritizes long-term capital structure optimization over immediate exploration projects."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: KOREAN AIR MAXIMIZES CAPACITY",
+            "nextUpTease": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-17T16:56:00Z",
+                "Source: https://splash247.com/neo-next-snaps-up-enquests-north-sea-business-in-960m-deal/",
+                "Published: 2026-11-18T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
+            "heading": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
             "paragraphs": [
-                "Korean Air is actively maximizing its transpacific cargo capacity between Asia and the Americas to accommodate surging year-round demand for AI infrastructure hardware. Specialized tech shipments and high-density components are creating intense yield pressure across primary air trade lanes during the peak shipping season.",
-                "Freight forwarders and enterprise shippers must secure block-space agreements early to mitigate tightening air cargo capacity and rising spot rates. Supply chain planners should anticipate continued competition for premium uplift as technology manufacturing output accelerates."
+                "Nine leading global shipping associations have united to warn governments against a patchwork of regional carbon regulations that risk double-charging shipowners for emissions. The coalition is pushing for a singular, global International Maritime Organization mechanism to prevent regulatory fragmentation across diverse trade jurisdictions.",
+                "Shippers must account for rising administrative complexity and cost volatility as regional carbon taxes like the EU ETS clash with emerging national schemes. Failure to secure a global agreement could result in multiple tax layers per transit, significantly inflating total landed costs for heavy industrial cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: MEXICAN CLASS 8 REBOUND",
+            "nextUpTease": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
             "tags": [
-                "Source: https://theloadstar.com/korean-air-maximises-americas-capacity-as-ai-cargo-adds-to-peak-pressure/",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://splash247.com/shipping-heavyweights-warn-against-double-carbon-charges/",
+                "Published: 2026-11-18T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: MEXICAN CLASS 8 PRODUCTION",
+            "heading": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
             "paragraphs": [
-                "Class 8 truck production facilities across Mexico posted a robust rebound in October, signaling steady manufacturing recovery for heavy-duty commercial equipment. Original equipment manufacturers are ramping up output to fulfill lingering backlogs and replace aging carrier fleets across North America.",
-                "Fleet operators should evaluate delivery timelines and capital expenditure strategies as equipment availability normalizes heading into the 2027 operational cycle. Improved truck supply offers motor carriers an essential opportunity to modernize assets and lower long-term maintenance costs."
+                "UPS has announced the acquisition of Australian healthcare logistics specialist Smartway Logistics to deepen its specialized cold chain network across the Asia-Pacific region. This move enhances UPS's ability to handle high-value pharmaceuticals and complex medical equipment in Australia and New Zealand.",
+                "Forwarders and medical manufacturers should anticipate a tightening of the competitive landscape for temperature-controlled logistics in the Southern Hemisphere. The acquisition provides UPS with essential last-mile healthcare infrastructure, pressuring independent providers to accelerate their own technology and compliance investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: ATA PROPOSES ELD REFORMS",
+            "nextUpTease": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/ups-to-acquire-australian-healthcare-specialist-smartway-logistics",
+                "Published: 2026-11-18T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAFETY: ATA PROPOSES ELD REFORMS",
+            "heading": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
             "paragraphs": [
-                "The American Trucking Associations has formally submitted six critical recommendations to the Federal Motor Carrier Safety Administration to combat electronic logging device fraud. Proposed measures include mandating a verified U.S.-based presence for ELD vendors and launching an independent device certification program.",
-                "Enforcement agencies and motor carriers are uniting to eliminate non-compliant hardware that undermines hours-of-service safety standards on highways. Industry stakeholders should audit their telematics vendor compliance to ensure full alignment with upcoming regulatory validation standards."
+                "The Gemini Cooperation partners, Maersk and Hapag-Lloyd, have announced a scheduled return to full Suez Canal transits by mid-January 2027. This tactical pivot marks a significant shift from the prolonged Cape of Good Hope diversions that have dominated Asia-Europe schedules for over a year.",
+                "Capacity planners must prepare for a sudden influx of vessel tonnage as transit times shorten by nearly 14 days for westbound trade lanes. While this resumption lowers fuel burns and operational costs, shippers should monitor potential schedule bunching and port congestion during the network transition phase."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: SUMMER IMPORT SURGE FORECAST",
+            "nextUpTease": "ENERGY: TANKER SHORTAGE THREATENS GULF",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-16T00:00:00Z",
+                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits-by-mid-january/",
+                "Published: 2026-11-17T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STRATEGY: SUMMER IMPORT SURGE FORECAST",
+            "heading": "ENERGY: TANKER SHORTAGE THREATENS GULF",
             "paragraphs": [
-                "Monthly ocean import volumes are projected to reach their highest sustained levels since 2022 as retailers front-load inventory to insulate against potential supply chain disruptions. Logistics executives are realigning distribution networks to handle heavy container inflows without triggering port gate congestion.",
-                "Supply chain managers must coordinate closely with drayage partners and warehouse operators to maintain high container velocity and prevent detention bottlenecks. Proactive inventory orchestration remains essential for protecting operational margins during periods of elevated cargo influx."
+                "A critical shortage of empty crude tankers in the Middle East Gulf is placing global oil flow at risk as vessel availability hits multi-month lows. High demand for long-haul voyages and ongoing vessel attacks near the Strait of Hormuz have trapped specialized tonnage in extended transit cycles.",
+                "Energy traders must evaluate immediate chartering premiums as spot market availability for VLCC vessels disappears during the peak heating season. The resulting capacity constraint is expected to drive extreme volatility in energy freight rates and disrupt refined product delivery schedules worldwide."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/lack-empty-tankers-gulf-oil",
+                "Published: 2026-11-17T19:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FMC MANDATES DOCUMENTED EXPORT POLICIES",
+        "hookTitle": "TRIPLING AYSAPORT CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FMC EXPORT POLICY MANDATE",
-                "teaserTitle": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
+                "headline": "PORT: TRIPLING AYSAPORT CAPACITY",
+                "teaserTitle": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Federal Maritime Commission now requires ocean carriers to file export policies by March first. Shippers must streamline compliance workflows to avoid costly terminal delays."
+                "narration_line": "MSC is expanding the Aysaport hub to six million TEUs to meet rising Mediterranean demand. This growth streamlines feeder networks for global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HANWHA CUTS STEEL FOR TANKERS",
-                "teaserTitle": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
+                "headline": "RETAIL: EU ECOMMERCE IMPORTS PLUMMET",
+                "teaserTitle": "M&A: NEO NEXT+ $960M ACQUISITION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Hanwha Philly Shipyard cut steel for the first new MR tankers built in the US in a decade. This milestone expands domestic fleet capacity for energy logistics."
+                "narration_line": "European ecommerce imports dropped sixty-three percent as new parcel charges erode retail margins. Shippers must now pivot toward localized fulfillment strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: NORTHERN SEA ROUTE OIL SURGE",
-                "teaserTitle": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
+                "headline": "M&A: NEO NEXT+ $960M ACQUISITION",
+                "teaserTitle": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Russia shipped record oil volumes to Asia via the Northern Sea Route to avoid NATO boardings. Exporters balanced shorter maritime distances against severe ice constraints."
+                "narration_line": "Neo Next Plus Energy acquired EnQuest's North Sea assets for nine hundred sixty million dollars. This deal consolidates infrastructure production in a volatile market."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: KOREAN AIR MAXIMIZES CAPACITY",
-                "teaserTitle": "EQUIPMENT: MEXICAN CLASS 8 REBOUND",
+                "headline": "REGULATION: EMISSIONS DOUBLE CHARGE WARNING",
+                "teaserTitle": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Korean Air is maximizing transpacific capacity to handle surging demand for artificial intelligence hardware. Forwarders should secure space early to avoid high spot rates."
+                "narration_line": "Shipping associations are warning against fragmented regional carbon taxes that cause double charges. A global mechanism is required to stabilize landed cargo costs."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: MEXICAN CLASS 8 PRODUCTION",
-                "teaserTitle": "SAFETY: ATA PROPOSES ELD REFORMS",
+                "headline": "STRATEGY: UPS SMARTWAY HEALTHCARE ACQUISITION",
+                "teaserTitle": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Mexican Class eight truck production posted a strong rebound to fulfill lingering backlogs. Fleets can leverage improved equipment availability to modernize assets."
+                "narration_line": "U P S has acquired Smartway Logistics to expand its healthcare cold chain across Australia and New Zealand. This move secures critical last-mile medical infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: ATA PROPOSES ELD REFORMS",
-                "teaserTitle": "RETAIL: SUMMER IMPORT SURGE FORECAST",
+                "headline": "MARITIME: GEMINI RESUMES SUEZ TRANSITS",
+                "teaserTitle": "ENERGY: TANKER SHORTAGE THREATENS GULF",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The American Trucking Associations proposed six reforms to combat electronic logging device fraud. Carriers must audit telematics vendors to ensure strict compliance."
+                "narration_line": "Maersk and Hapag-Lloyd will resume full Suez Canal transits by mid-January twenty-twenty-seven. Shortened transit times will significantly shift global capacity and costs."
             },
             {
                 "slide_index": 7,
-                "headline": "STRATEGY: SUMMER IMPORT SURGE FORECAST",
-                "teaserTitle": "",
+                "headline": "ENERGY: TANKER SHORTAGE THREATENS GULF",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Monthly ocean imports are projected to reach their highest levels since twenty twenty-two. Logistics executives must coordinate drayage partners to prevent port gate bottlenecks."
+                "narration_line": "A critical shortage of empty tankers in the Gulf is threatening global oil distribution. Chartering premiums are rising as vessel availability hits multi-month lows."
             },
             {
                 "slide_index": 8,
