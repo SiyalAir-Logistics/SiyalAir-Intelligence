@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSATLANTIC AIRFREIGHT RATES REACH",
-        "titleBlue": "PEAK",
-        "footerSummary": "Transatlantic airfreight spot rates hit 4-year highs as peak-season demand collides with tight aircraft capacity and cross-border ecommerce volumes."
+        "titleWhite": "EU PARCEL IMPORT VOLUMES",
+        "titleBlue": "DROP",
+        "footerSummary": "EU cross-border parcel volumes drop 63% following aggressive de minimis duty rollbacks, compressing ecommerce margins and reshaping holiday air cargo routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AIR CARGO: TRANSATLANTIC RATES REACH PEAK",
+            "heading": "ECOMMERCE: EU PARCEL IMPORT VOLUMES DROP",
             "paragraphs": [
-                "Transatlantic airfreight spot rates have surged to their highest level since December 2022 as peak-season demand and tightening cargo capacity collide across North Atlantic trade lanes. This acute pricing pressure is further amplified by heavy cross-border ecommerce volumes competing aggressively for limited aircraft pallet space.",
-                "High-value shippers must carefully evaluate expedited air versus ocean transit trade-offs as spot pricing escalates. Logistics budgets must be adjusted immediately to absorb these premium air transport costs without destabilizing quarterly fulfillment targets."
+                "European Union imports of low-value ecommerce consignments plunged 63% year-over-year following the enforcement of stringent customs documentation rules and eliminated de minimis duty exemptions. Airfreight parcel consolidators face severe processing hold-ups across primary European air hubs as customs authorities reject non-compliant clearance manifests. The sudden contraction has triggered widespread flight cancellations on dedicated cargo routes originating from East Asian distribution centers.",
+                "Retail shippers must restructure direct-to-consumer logistics models to incorporate bonded fulfillment hubs within continental Europe. Rising tariff liabilities and mandatory administrative filing surcharges threaten to erase baseline margins on sub-$150 retail orders. Enterprise cross-border merchants are forced to trade low-cost direct postal injection for consolidated multi-modal ocean and warehousing networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: LA AND LB STRIKE RISKS GROW",
+            "nextUpTease": "AVIATION: MEXICO US CARGO CHARTER DELAYS",
             "tags": [
-                "Source: https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
-                "Published: 2026-11-18T00:00:00Z",
+                "Source: https://theloadstar.com/black-friday-bundles-test-retail-margins-as-eu-parcel-charges-bite/",
+                "Published: 2026-11-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: LA AND LB STRIKE RISKS GROW",
+            "heading": "AVIATION: MEXICO US CARGO CHARTER DELAYS",
             "paragraphs": [
-                "The threat of potential labor disruptions at the ports of Los Angeles and Long Beach has escalated as contract talks between employers and security unions stall. Recent bargaining sessions concluded with little to no movement on key proposals, raising alarms for stakeholders heading into the peak shipping window.",
-                "Supply chain planners must establish contingency routing strategies through alternative regional gateways to insulate supply chains against sudden terminal shutdowns. Prolonged labor friction at these vital West Coast hubs would immediately ripple across domestic intermodal and trucking networks."
+                "Mexican all-cargo airlines are enduring protracted authorization wait times from U.S. regulatory agencies for cross-border ad-hoc charter flights. The administrative backlog is restricting critical northbound airfreight capacity during the peak automotive and nearshoring manufacturing cycle. Cargo carriers report schedule uncertainty and grounded equipment awaiting expedited bilateral operating approvals.",
+                "Automotive Tier-1 suppliers face mounting financial exposure from production halts caused by unfulfilled just-in-time cross-border air shipments. Ground expeditors are attempting to absorb excess tonnage, driving dedicated border-crossing spot rates up 18% across Laredo and Otay Mesa corridors. Shippers must secure multi-carrier cross-border surface contingencies to avoid single-point aerial transit failures."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
+            "nextUpTease": "MARITIME: MSC TRIPLES ASYAPORT CAPACITY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/feed",
-                "Published: 2026-11-18T08:00:00Z",
+                "Source: https://theloadstar.com/mexico-us-cargo-charters-still-facing-long-wait-for-approval/",
+                "Published: 2026-11-19T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
+            "heading": "MARITIME: MSC TRIPLES ASYAPORT CAPACITY",
             "paragraphs": [
-                "The Federal Maritime Commission has issued an industry advisory requiring ocean common carriers to file documented export policies with the commission by March 1 each year. This regulatory mandate aims to ensure the timely and efficient movement of export cargo while enhancing transparency across U.S. port operations.",
-                "Exporters must audit their current carrier booking workflows and compliance documentation to align with the new annual filing requirements and prevent administrative delays. Failure by carriers to properly file could result in port bottlenecks, increasing compliance friction for outbound international shipments."
+                "Mediterranean Shipping Company has initiated an extensive capital project to triple container handling throughput at its Asyaport transshipment facility in Tekirdag, Turkey. The expansion aims to position the deepwater terminal as the primary maritime clearing gateway for growing East Mediterranean and Black Sea feeder networks. Heavy civil construction is underway to accommodate ultra-large container vessels exceeding 24K TEU capacity.",
+                "Global supply chain planners routing cargo into Southern Europe and Central Asia gain critical transshipment redundancy outside congested Western Mediterranean relay hubs. Shippers can anticipate improved regional feeder connection speeds and lower port congestion surcharges over long-term contract cycles. However, transitional dock construction may induce localized berthing delays throughout upcoming seasonal rotations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: $11.4M NVIDIA CARGO THEFT",
+            "nextUpTease": "FORWARDING: EXPEDITORS OPENS DOOR TO MA",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://theloadstar.com/msc-plans-to-triple-capacity-at-its-asyaport-transhipment-hub/",
+                "Published: 2026-11-18T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: $11.4M NVIDIA CARGO THEFT",
+            "heading": "FORWARDING: EXPEDITORS OPENS DOOR TO MA",
             "paragraphs": [
-                "A major cargo heist resulted in the theft of $11.4M worth of Nvidia hardware from a truck transporting six pallets from Oakland to Fort Worth. Local law enforcement has reported no arrests to date, highlighting persistent vulnerabilities in high-value electronics transit security across interstate corridors.",
-                "Logistics security managers must mandate enhanced tracking, driver verification, and secure staging protocols for high-value tech shipments to mitigate rising cargo theft syndicates. Insurance premiums and risk mitigation overhead will likely rise for shippers moving sensitive microelectronics and semiconductors."
+                "Expeditors International has officially pivoted from its historical reliance on purely organic expansion, actively reviewing programmatic mergers and acquisitions across logistics technology and specialized freight verticals. The global freight forwarder is prioritizing proprietary digital platforms and niche customs brokerage capabilities to safeguard market share amid persistent global freight volatility. Executive leadership confirmed the strategic shift during their annual institutional investor briefing.",
+                "Enterprise cargo owners should expect consolidated forwarder service offerings but increased digital lock-in as legacy logistics providers acquire mid-market tech platforms. Strategic procurement teams must scrutinize prospective service contracts to ensure that platform acquisitions do not diminish dedicated account support. Forwarder consolidation highlights the imperative for shippers to maintain diversified, multi-provider logistics routing matrices."
             ],
             "imageUrl": "",
-            "nextUpTease": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
+            "nextUpTease": "CREWING: ITF BACKS DIGITAL SEAFARER ID",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-11-18T06:30:00Z",
+                "Source: https://theloadstar.com/expeditors-opens-door-to-ma-after-decades-of-organic-growth/",
+                "Published: 2026-11-19T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
+            "heading": "CREWING: ITF BACKS DIGITAL SEAFARER ID",
             "paragraphs": [
-                "Three Chinese contractors have secured offshore wind construction and installation contracts worth a combined $238M for two major renewable energy projects. These awards highlight the expanding footprint of Asian engineering firms in global offshore infrastructure development.",
-                "Project cargo operators must navigate complex supply chain bottlenecks and specialized vessel availability constraints when supporting large-scale renewable installations. Strategic procurement teams should lock in long-term charter agreements to insulate projects from escalating fabrication and deployment costs."
+                "The International Transport Workers Federation has formally endorsed the ISF Verify platform developed by the International Chamber of Shipping and Lloyd Register to digitally authenticate maritime crew certifications. The secure infrastructure allows flag administrations, port state control authorities, and ship operators to instantaneously validate mariner licenses and technical training credentials. The remote digital framework aims to eliminate fraudulent documentation and accelerate international vessel crew onboarding times.",
+                "Ocean vessel operators anticipate substantial decreases in costly port dwell times resulting from crew credential verification disputes and state audits. Expediting seafarer turnaround enhances fleet schedule integrity and mitigates sudden terminal dispatch delays across major trade lanes. Commercial maritime charterers will increasingly mandate verified digital crewing compliance within standard vessel vetting criteria."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
+            "nextUpTease": "COMPLIANCE: ATA TARGETS TRUCK ELD FRAUD",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-18T04:00:00Z",
+                "Source: https://maritime-executive.com/article/the-itf-endorses-a-global-seafarer-certification-network",
+                "Published: 2026-11-18T19:24:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
+            "heading": "COMPLIANCE: ATA TARGETS TRUCK ELD FRAUD",
             "paragraphs": [
-                "The proposed transcontinental merger between Union Pacific and Norfolk Southern has sharply divided rail industry leaders over potential network monopolization and service impacts. Stakeholders are heavily debating whether transcontinental consolidation will streamline intermodal handoffs or create severe operational bottlenecks.",
-                "Shippers utilizing rail intermodal services must evaluate how route integration and potential regulatory scrutiny could alter transit times and tier-one pricing structures. Diversifying intermodal and highway carrier options remains a vital defense against upcoming rail network restructuring."
+                "The American Trucking Associations has presented federal transportation regulators with a comprehensive enforcement blueprint to eliminate electronic logging device tampering and software manipulation across commercial motor carriage. Federal compliance audits have revealed an uptick in unauthorized software workarounds that falsify commercial driver hours-of-service records. The ATA initiative urges mandatory third-party software certification and instant revocation of non-compliant hardware vendors.",
+                "Motor carriers face tightening enforcement sweeps and elevated roadside out-of-service penalties as federal inspectors step up cyber audits on onboard telematics. Shippers and third-party logistics brokers must enhance carrier compliance vetting to prevent legal exposure under vicarious liability statutes. Sourcing compliant, vetted fleet capacity will carry an administrative premium across domestic full-truckload contract negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
+            "nextUpTease": "LEGAL: LOUISIANA MOVES ON STAGED CRASH FRAUD",
             "tags": [
-                "Source: https://www.freightwaves.com/news/feed",
-                "Published: 2026-11-18T07:15:00Z",
+                "Source: https://www.freightwaves.com/news/ata-spells-out-short-and-long-term-solutions-to-halt-eld-fraud",
+                "Published: 2026-11-18T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
+            "heading": "LEGAL: LOUISIANA MOVES ON STAGED CRASH FRAUD",
             "paragraphs": [
-                "Palo Alto Networks has raised its annual forecast and signed a massive $4.5B deal to acquire artificial intelligence startup Applied Compute. This high-value acquisition underscores the critical urgency for enterprise cybersecurity solutions within advanced cloud and supply chain automation networks.",
-                "Supply chain technology officers must elevate digital resilience investments to protect interconnected logistics platforms from sophisticated cyber threats and infrastructure outages. Integrating robust cybersecurity frameworks will prevent costly operational disruptions across automated warehousing and freight management systems."
+                "Louisiana motor carriers and regional logistics coalitions are aggressively lobbying state and federal lawmakers for sweeping tort reform following federal trials targeting staged truck collision syndicates. High-profile racketeering prosecutions have exposed coordinated rings manufacturing fraudulent commercial vehicle accidents to exploit commercial insurance policies. Fleet operators contend that litigation abuse and inflated phantom medical damages are driving regional motor carrier bankruptcies.",
+                "Interstate motor fleets operating through the Gulf Coast corridor are facing commercial liability insurance premium increases ranging from 20% to 35%. Shippers must anticipate higher linehaul surcharges as carriers pass through surging risk mitigation and commercial litigation defense expenses. Fleet operators are accelerating deployments of dual-facing artificial intelligence dash cameras to protect operating margins against organized staged-crash liability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.cnbc.com/supply-chain",
-                "Published: 2026-11-18T05:30:00Z",
+                "Source: https://www.ttnews.com/articles/louisiana-truckers-push-reforms-amid-staged-crash-trials",
+                "Published: 2026-11-18T17:45:00Z",
                 "Status: Audited & True"
             ]
         }
