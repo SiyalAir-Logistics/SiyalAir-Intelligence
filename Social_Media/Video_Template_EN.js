@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EU PARCEL IMPORT VOLUMES DROP",
+        "hookTitle": "LA LB PORTS FACE IMMINENT STRIKE RISK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "ECOMMERCE: EU PARCEL IMPORT VOLUMES DROP",
-                "teaserTitle": "AVIATION: MEXICO US CARGO CHARTER DELAYS",
+                "headline": "LABOR: LA LB PORTS STRIKE RISK",
+                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "European Union low-value parcel imports dropped sixty-three percent following stricter customs enforcement and duty policy shifts. Retailers must now shift from direct postal injection to localized distribution hubs."
+                "narration_line": "Contract negotiations between employers and port security workers at Los Angeles and Long Beach collapsed ahead of the November deadline. Picket lines could halt cargo operations across the nation's largest port gateway."
             },
             {
                 "slide_index": 2,
-                "headline": "AVIATION: MEXICO US CARGO CHARTER DELAYS",
-                "teaserTitle": "MARITIME: MSC TRIPLES ASYAPORT CAPACITY",
+                "headline": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
+                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexican cargo airlines face prolonged authorization backlogs for United States cross-border charter operations. Shippers are redirecting time-critical automotive freight to cross-border surface carriers to avert plant shutdowns."
+                "narration_line": "C H Robinson agreed to acquire R X O in a deal valued at five point eight billion dollars. The transaction expands dedicated last-mile operations and concentrates North American freight brokerage capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC TRIPLES ASYAPORT CAPACITY",
-                "teaserTitle": "FORWARDING: EXPEDITORS OPENS DOOR TO MA",
+                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "teaserTitle": "CARRIER: CPKC OPPOSES UP-NS MERGER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "MSC is actively tripling container capacity at its Asyaport transshipment terminal in Turkey to handle ultra-large vessels. The massive upgrade provides international shippers critical routing redundancy across Mediterranean and Black Sea trades."
+                "narration_line": "The Department of Labor finalized its revised commercial independent contractor classification rule. The framework clarifies owner-operator driver status and eases regulatory uncertainty across commercial trucking fleets."
             },
             {
                 "slide_index": 4,
-                "headline": "FORWARDING: EXPEDITORS OPENS DOOR TO MA",
-                "teaserTitle": "CREWING: ITF BACKS DIGITAL SEAFARER ID",
+                "headline": "CARRIER: CPKC OPPOSES UP-NS MERGER",
+                "teaserTitle": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Expeditors International is breaking its long-standing organic growth policy to pursue strategic logistics acquisitions. Logistics leaders must evaluate how technology consolidation will impact broker pricing and dedicated account support."
+                "narration_line": "Canadian Pacific Kansas City formally petitioned federal regulators to block the proposed Union Pacific Norfolk Southern rail merger. The filing argues that transcontinental consolidation threatens cross-border competition."
             },
             {
                 "slide_index": 5,
-                "headline": "CREWING: ITF BACKS DIGITAL SEAFARER ID",
-                "teaserTitle": "COMPLIANCE: ATA TARGETS TRUCK ELD FRAUD",
+                "headline": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
+                "teaserTitle": "FLEET: US OCTOBER TRUCK SALES UP 59%",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The International Transport Workers Federation endorsed the digital ISF Verify platform to authenticate mariner credentials remotely. Streamlined documentation checks will accelerate vessel crew changes and eliminate costly port dwell delays."
+                "narration_line": "Highway traffic congestion cost the domestic trucking industry one hundred and twenty-eight billion dollars this year. Bottlenecks at major terminal access junctions drive up carrier operational expenses and delay times."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: ATA TARGETS TRUCK ELD FRAUD",
-                "teaserTitle": "LEGAL: LOUISIANA MOVES ON STAGED CRASH FRAUD",
+                "headline": "FLEET: US OCTOBER TRUCK SALES UP 59%",
+                "teaserTitle": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The American Trucking Associations submitted formal recommendations to federal regulators to eliminate digital logbook tampering and software fraud. Motor carriers face stricter compliance audits and steeper roadside penalties during transport inspections."
+                "narration_line": "Commercial heavy truck sales increased fifty-nine percent in October compared to last year. Fleet operators accelerated capital expenditures to replace older equipment and enhance road efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: LOUISIANA MOVES ON STAGED CRASH FRAUD",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Louisiana trucking groups are demanding aggressive legislative reforms after criminal trials exposed organized staged-crash insurance syndicates. Fleet operators are adopting advanced cameras to defend against predatory litigation and soaring premium costs."
+                "narration_line": "The United States expanded naval blockade directives to target vessels receiving Iranian cargo via ship-to-ship transfers at sea. Commercial operators now face elevated vessel interception risks across Middle Eastern transit corridors."
             },
             {
                 "slide_index": 8,
