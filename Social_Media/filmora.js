@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: STRONG Q4 RATES DRIVE ZIM EARNINGS",
-                "teaserTitle": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
-                "visual_caption": "Zim raised its full-year earnings guidance on robust Q4 freight rates. Shippers must factor elevated pricing into upcoming annual contract negotiations."
+                "headline": "AIR CARGO: TRANSATLANTIC RATES REACH PEAK",
+                "teaserTitle": "MARITIME: LA AND LB STRIKE RISKS GROW",
+                "visual_caption": "Transatlantic airfreight spot rates have hit 4-year highs as peak-season demand collides with tight capacity. Shippers must adjust budgets immediately to absorb these premium transport costs."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
-                "teaserTitle": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock deal. The transaction is projected to close in H1 2027."
+                "headline": "MARITIME: LA AND LB STRIKE RISKS GROW",
+                "teaserTitle": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
+                "visual_caption": "Labor strike risks are growing at LA and LB ports as contract talks stall. Planners must establish contingency routing strategies through alternative regional gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
-                "teaserTitle": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
-                "visual_caption": "The FMC requires ocean common carriers to file export policies by Mar 1. Exporters must audit booking workflows to ensure regulatory compliance."
+                "headline": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
+                "teaserTitle": "SECURITY: $11.4M NVIDIA CARGO THEFT",
+                "visual_caption": "The FMC requires carriers to file documented export policies annually by Mar 1. Exporters must audit booking workflows to prevent administrative delays."
             },
             {
                 "slide_index": 4,
-                "headline": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
-                "teaserTitle": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
-                "visual_caption": "Strike risks grow at LA and LB ports as security union contract talks stall. Supply chain planners should establish alternative routing strategies."
+                "headline": "SECURITY: $11.4M NVIDIA CARGO THEFT",
+                "teaserTitle": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
+                "visual_caption": "A major cargo heist resulted in the theft of $11.4M in Nvidia hardware from Oakland. Security managers must mandate enhanced tracking for high-value tech shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
-                "teaserTitle": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
-                "visual_caption": "Transatlantic airfreight rates hit their highest level since Dec 2022. Peak season demand and tight capacity continue to push prices up."
+                "headline": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
+                "teaserTitle": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
+                "visual_caption": "Chinese contractors secured $238M in offshore wind construction deals. Procurement teams should lock in long-term charter agreements now."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
-                "teaserTitle": "REGULATION: ATA PRESSES FOR ELD FRAUD CRACKDOWN",
-                "visual_caption": "An $11.4M Nvidia hardware load was stolen on its way from Oakland. Logistics teams must enhance security protocols for high-value tech freight."
+                "headline": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
+                "teaserTitle": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
+                "visual_caption": "The proposed transcontinental merger between UP and NS has divided rail leaders. Shippers must evaluate how route integration alters intermodal transit times."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: ATA PRESSES FOR ELD FRAUD CRACKDOWN",
+                "headline": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
                 "teaserTitle": "",
-                "visual_caption": "The ATA is pushing the FMCSA to establish a strict ELD certification program. Fleets should prepare for stricter compliance audits ahead."
+                "visual_caption": "Palo Alto Networks inked a $4.5B deal for AI startup Applied Compute. Logistics executives must elevate digital resilience investments."
             },
             {
                 "slide_index": 8,

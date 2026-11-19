@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "STRONG FOURTH QUARTER FREIGHT RATES DRIVE ZIM EARNINGS",
+        "hookTitle": "TRANSATLANTIC AIRFREIGHT RATES REACH PEAK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: STRONG Q4 RATES DRIVE ZIM EARNINGS",
-                "teaserTitle": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
+                "headline": "AIR CARGO: TRANSATLANTIC RATES REACH PEAK",
+                "teaserTitle": "MARITIME: LA AND LB STRIKE RISKS GROW",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Zim raised its full year earnings guidance due to strong third quarter financial results and robust freight rates. Shippers must factor these elevated pricing baselines into upcoming annual contract negotiations."
+                "narration_line": "Transatlantic airfreight spot rates have surged to four year highs due to peak season demand and tight capacity. Shippers must adjust budgets immediately to absorb these premium transport costs."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: C.H. ROBINSON TO ACQUIRE RXO IN $5.8B DEAL",
-                "teaserTitle": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
+                "headline": "MARITIME: LA AND LB STRIKE RISKS GROW",
+                "teaserTitle": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar cash and stock transaction. The deal creates a consolidated logistics powerhouse expected to close in early twenty twenty seven."
+                "narration_line": "Labor strike risks are growing at Los Angeles and Long Beach ports as contract talks stall. Planners must establish contingency routing strategies through alternative regional gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: FMC MANDATES ANNUAL EXPORT POLICIES",
-                "teaserTitle": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
+                "headline": "COMPLIANCE: FMC MANDATES EXPORT POLICIES",
+                "teaserTitle": "SECURITY: $11.4M NVIDIA CARGO THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Federal Maritime Commission now requires ocean carriers to file documented export policies annually by March first. Exporters must audit their booking workflows to align with these new transparency mandates."
+                "narration_line": "The Federal Maritime Commission now requires carriers to file documented export policies annually by March first. Exporters must audit booking workflows to prevent administrative delays."
             },
             {
                 "slide_index": 4,
-                "headline": "LABOR: STRIKE RISKS GROW AT LA AND LB PORTS",
-                "teaserTitle": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
+                "headline": "SECURITY: $11.4M NVIDIA CARGO THEFT",
+                "teaserTitle": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Labor strike risks are growing at Los Angeles and Long Beach ports as security union contract talks stall. Supply chain planners should establish contingency routing strategies immediately."
+                "narration_line": "A major cargo heist resulted in the theft of eleven point four million dollars in Nvidia hardware from Oakland. Security managers must mandate enhanced tracking for high value tech shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: TRANSATLANTIC RATES HIT 4-YEAR HIGH",
-                "teaserTitle": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
+                "headline": "RENEWABLES: CHINESE WIND CONTRACTS LAND",
+                "teaserTitle": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Transatlantic airfreight rates have reached their highest level since December twenty twenty two. Peak season demand and tightening aircraft capacity are driving up transport costs."
+                "narration_line": "Chinese contractors secured two hundred thirty eight million dollars in offshore wind construction deals. Procurement teams should lock in long term charter agreements now."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $11.4M NVIDIA CARGO THEFT IN OAKLAND",
-                "teaserTitle": "REGULATION: ATA PRESSES FOR ELD FRAUD CRCRACKDOWN",
+                "headline": "RAIL: UP AND NS MERGER DIVIDES LEADERS",
+                "teaserTitle": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An eleven point four million dollar shipment of Nvidia hardware was stolen in transit from Oakland. Logistics managers must mandate enhanced tracking protocols to prevent cargo theft."
+                "narration_line": "The proposed transcontinental merger between Union Pacific and Norfolk Southern has divided rail leaders. Shippers must evaluate how route integration alters intermodal transit times."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: ATA PRESSES FOR ELD FRAUD CRACKDOWN",
+                "headline": "TECHNOLOGY: PALO ALTO ACQUIRES APPLIED",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The American Trucking Associations is pressing regulators to launch a certification program to halt ELD fraud. Motor carriers should prepare for stricter compliance audits across fleets."
+                "narration_line": "Palo Alto Networks inked a four point five billion dollar deal for artificial intelligence startup Applied Compute. Logistics executives must elevate digital resilience investments."
             },
             {
                 "slide_index": 8,
