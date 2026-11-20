@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA LB PORTS STRIKE RISK",
-                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
-                "visual_caption": "Contract negotiations between employers and port security workers at LA and Long Beach collapsed ahead of the Nov 21 deadline. Picket lines could halt cargo operations across the nation's largest port gateway."
+                "headline": "AIR CARGO: TRANSATLANTIC RATES REACH 4-YEAR HIGH",
+                "teaserTitle": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
+                "visual_caption": "Transatlantic airfreight spot rates surged to their highest level since December 2022 amid heavy peak volume. Shippers face steep linehaul premiums to bypass ocean delays ahead of peak holiday deadlines."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
-                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a deal valued at $5.8B. The transaction expands dedicated last-mile operations and concentrates North American freight brokerage capacity."
+                "headline": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
+                "teaserTitle": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
+                "visual_caption": "Arvato and Logisteed acquired Neovia and Ekol to consolidate North American and European contract logistics. Shippers must review MSAs as mid-tier warehousing capacity consolidates under international corporate ownership."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "teaserTitle": "CARRIER: CPKC OPPOSES UP-NS MERGER",
-                "visual_caption": "The Department of Labor finalized its revised commercial independent contractor classification rule. The framework clarifies owner-operator driver status and eases regulatory uncertainty across commercial trucking fleets."
+                "headline": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
+                "teaserTitle": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
+                "visual_caption": "Panama authorities filed a criminal complaint over canal port concessions operated by CK Hutchison. Carriers face severe operational uncertainty and berthing disruptions at key Atlantic-Pacific transshipment gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIER: CPKC OPPOSES UP-NS MERGER",
-                "teaserTitle": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
-                "visual_caption": "CPKC formally petitioned federal regulators to block the proposed UP-NS rail merger. The filing argues that transcontinental consolidation threatens cross-border competition."
+                "headline": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
+                "teaserTitle": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
+                "visual_caption": "UPS agreed to acquire Smartway Logistics to expand cold-chain pharma fleets across the APAC region. Healthcare shippers gain unified temperature visibility across high-value clinical trial supply lines."
             },
             {
                 "slide_index": 5,
-                "headline": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
-                "teaserTitle": "FLEET: US OCTOBER TRUCK SALES UP 59%",
-                "visual_caption": "Highway traffic congestion cost the domestic trucking industry $128B this year. Bottlenecks at major terminal access junctions drive up carrier operational expenses and delay times."
+                "headline": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
+                "teaserTitle": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
+                "visual_caption": "Delivery operators warned NYC legislation could add up to $5 in surcharges per parcel delivery. Omnichannel retailers must evaluate urban consolidation models to protect margins against rising last-mile delivery fees."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET: US OCTOBER TRUCK SALES UP 59%",
-                "teaserTitle": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
-                "visual_caption": "Commercial heavy truck sales increased 59% in October compared to last year. Fleet operators accelerated capital expenditures to replace older equipment and enhance road efficiency."
+                "headline": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
+                "teaserTitle": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
+                "visual_caption": "Rockwell Automation acquired Agilox to combine autonomous mobile robots with industrial control platforms. Warehouse operators face higher capital requirements to automate pallet transport amid labor shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+                "headline": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
                 "teaserTitle": "",
-                "visual_caption": "The US expanded naval blockade directives to target vessels receiving Iranian cargo via ship-to-ship transfers at sea. Commercial operators now face elevated vessel interception risks across Middle Eastern transit corridors."
+                "visual_caption": "Hapag-Lloyd declared fixed 12-month ocean container contracts obsolete due to volatile freight conditions. Cargo owners must prepare for index-linked rate structures or navigate volatile spot market pricing."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LA LB PORTS FACE IMMINENT STRIKE RISK",
+        "hookTitle": "TRANSATLANTIC AIRFREIGHT RATES REACH 4-YEAR HIGH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA LB PORTS STRIKE RISK",
-                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
+                "headline": "AIR CARGO: TRANSATLANTIC RATES REACH 4-YEAR HIGH",
+                "teaserTitle": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Contract negotiations between employers and port security workers at Los Angeles and Long Beach collapsed ahead of the November deadline. Picket lines could halt cargo operations across the nation's largest port gateway."
+                "narration_line": "Transatlantic air freight spot rates reached their highest level since late twenty twenty two amid heavy peak season demand. Shippers face steep emergency transportation premiums to bypass ocean delays ahead of holiday deadlines."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
-                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "headline": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
+                "teaserTitle": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C H Robinson agreed to acquire R X O in a deal valued at five point eight billion dollars. The transaction expands dedicated last-mile operations and concentrates North American freight brokerage capacity."
+                "narration_line": "Arvato and Logisteed completed acquisitions of Neovia and Ekol Logistics to consolidate North American and European contract warehousing. Shippers must review long term service agreements as mid market warehousing capacity integrates into global networks."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "teaserTitle": "CARRIER: CPKC OPPOSES UP-NS MERGER",
+                "headline": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
+                "teaserTitle": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Department of Labor finalized its revised commercial independent contractor classification rule. The framework clarifies owner-operator driver status and eases regulatory uncertainty across commercial trucking fleets."
+                "narration_line": "Panama authorities filed a criminal complaint over port concessions operated by C K Hutchison at major canal terminals. Maritime carriers face operational uncertainty and berthing disruptions at key transshipment gateways linking the Atlantic and Pacific."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIER: CPKC OPPOSES UP-NS MERGER",
-                "teaserTitle": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
+                "headline": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
+                "teaserTitle": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Canadian Pacific Kansas City formally petitioned federal regulators to block the proposed Union Pacific Norfolk Southern rail merger. The filing argues that transcontinental consolidation threatens cross-border competition."
+                "narration_line": "UPS agreed to acquire Smartway Logistics to expand specialized temperature controlled pharmaceutical transport across Australia. Enterprise healthcare shippers gain unified cold chain visibility across complex Asia Pacific medical supply lines."
             },
             {
                 "slide_index": 5,
-                "headline": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
-                "teaserTitle": "FLEET: US OCTOBER TRUCK SALES UP 59%",
+                "headline": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
+                "teaserTitle": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Highway traffic congestion cost the domestic trucking industry one hundred and twenty-eight billion dollars this year. Bottlenecks at major terminal access junctions drive up carrier operational expenses and delay times."
+                "narration_line": "E commerce carriers warned proposed New York City delivery legislation could impose surcharges of up to five dollars per order. Retail distribution teams must evaluate urban fulfillment strategies to protect margins against rising last mile fees."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET: US OCTOBER TRUCK SALES UP 59%",
-                "teaserTitle": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+                "headline": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
+                "teaserTitle": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Commercial heavy truck sales increased fifty-nine percent in October compared to last year. Fleet operators accelerated capital expenditures to replace older equipment and enhance road efficiency."
+                "narration_line": "Rockwell Automation acquired autonomous mobile robotics manufacturer Agilox to combine vehicle fleets with factory control platforms. Warehouse operators face higher capital expenditures to automate material transport amid ongoing industrial labor constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+                "headline": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The United States expanded naval blockade directives to target vessels receiving Iranian cargo via ship-to-ship transfers at sea. Commercial operators now face elevated vessel interception risks across Middle Eastern transit corridors."
+                "narration_line": "Hapag Lloyd announced fixed twelve month ocean container contracts no longer reflect severe market volatility and Red Sea diversions. Importers must now navigate index linked contracts or face direct spot market price volatility across trade lanes."
             },
             {
                 "slide_index": 8,

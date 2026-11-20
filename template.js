@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA LB PORTS STRIKE",
-        "titleBlue": "RISK",
-        "footerSummary": "Impasse with port security guards creates immediate cargo shutdown threat at LA and Long Beach terminals, risking severe West Coast freight disruption."
+        "titleWhite": "TRANSATLANTIC AIRFREIGHT RATES REACH 4-YEAR",
+        "titleBlue": "HIGH",
+        "footerSummary": "Surging transatlantic air rates and port concession conflicts escalate Q4 cargo friction, compelling freight budget reassessments across major international corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: LA LB PORTS STRIKE RISK",
+            "heading": "AIR CARGO: TRANSATLANTIC RATES REACH 4-YEAR HIGH",
             "paragraphs": [
-                "Contract talks between terminal employers and port security personnel across the ports of Los Angeles and Long Beach collapsed without an agreement ahead of the critical November 21 deadline. The impasse threatens immediate picket lines that ILWU longshore dockworkers are contractually permitted to honor, creating an imminent cargo shutdown across the nation's busiest container gateway. Operational planners warn of instant terminal gate closures and cascading vessel queues.",
-                "Shippers face severe transit delays and rising emergency diversion costs across alternative Pacific Northwest and Gulf gateways. Importers must evaluate whether to hold dwell cargo on-dock or pay premium linehaul rates for inland rail redirection. Sustained terminal gate lockouts will trigger demurrage accumulation and unbudgeted container detention penalties across transpacific import lanes."
+                "Transatlantic airfreight spot pricing surged to its highest level since December 2022, driven by sharp peak season volumes and constrained belly-hold capacity. Tightened transatlantic scheduled services have left forwarders competing aggressively for spot space across primary westbound and eastbound legs. Cargo backlogs across European air hubs have driven outbound terminal dwell times to critical levels.",
+                "Shippers face steep emergency transportation premiums to bypass ocean delays ahead of peak holiday inventory deadlines. Enterprise logistics directors must decide whether to absorb elevated air linehaul surcharges or face severe stockout penalties across high-value product lines. Forwarders are turning to secondary airports to secure lower handling charges and bypass major gateway congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
+            "nextUpTease": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
             "tags": [
-                "Source: https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/",
-                "Published: 2026-11-19T11:45:00Z",
+                "Source: https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
+                "Published: 2026-11-18T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: CH ROBINSON RXO $5.8B ACQUISITION",
+            "heading": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
             "paragraphs": [
-                "C.H. Robinson has reached a definitive agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, targeting completion in early 2027. The mega-deal consolidates two of North America's largest freight brokerages, absorbing extensive expedited transport assets and nationwide last-mile delivery networks into a singular operational footprint. Federal antitrust regulators are expected to review the competitive impact across domestic truckload brokerage capacity.",
-                "Logistics procurement teams face an increasingly concentrated 3PL brokerage landscape with diminished rate competition across full truckload sectors. Enterprise shippers must re-examine single-broker reliance and balance freight awards across independent mid-market asset-based fleets. Sourcing strategies will require deeper multi-platform integration to counter carrier pricing leverage following market consolidation."
+                "Major consolidations swept global contract logistics over the past 24 hours with the corporate acquisitions of U.S.-based Neovia Logistics and Turkey-based Ekol Logistics. European logistics powerhouses Arvato and Logisteed completed the acquisitions to secure extensive warehousing networks and cross-border transport nodes. The buyouts expand specialized spare parts, automotive, and retail fulfillment assets across North America and Europe.",
+                "Contract logistics customers face potential operational transitions and shifting vendor management structures across regional warehousing facilities. Procurement teams must audit existing master service agreements to ensure dedicated service performance levels remain intact through corporate integration. Strategic freight buyers are closely monitoring rate cards as independent mid-tier warehousing capacity consolidates under international logistics conglomerates."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+            "nextUpTease": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/c.h._robinson_agrees_to_acquire_rxo_in_5.8_billion_cash_and_stock_deal",
-                "Published: 2026-11-19T13:10:00Z",
+                "Source: https://theloadstar.com/sale-of-neovia-in-the-us-and-turkeys-ekol-marks-return-of-ma-to-logistics/",
+                "Published: 2026-11-19T14:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+            "heading": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
             "paragraphs": [
-                "The Department of Labor has officially finalized its commercial independent contractor classification rule, reinstating a streamlined two-factor economic reality framework. The regulatory standard emphasizes operational control and entrepreneurial profit opportunity, replacing previous multi-factor tests that complicated independent owner-operator engagements. Motor carrier associations have welcomed the revised standard as necessary legal clarity for drayage and over-the-road trucking operations.",
-                "Fleet operators gain reduced classification audit exposure across state and federal jurisdictions, stabilizing standard 1099 owner-operator dispatch models. However, corporate shippers must update compliance audits to ensure contracted motor carriers align documentation with federal labor parameters. Legal clarity mitigates vicarious liability exposure for freight intermediaries while establishing firm contractual boundaries across domestic carriage."
+                "The Comptroller General of Panama submitted a criminal complaint to the Public Prosecutor regarding long-standing port concessions managed by Hong Kong-based CK Hutchison. The filing follows a comprehensive national audit after local courts moved to annul long-term terminal agreements at Balboa and Cristobal. Panamanian authorities cited administrative irregularities surrounding multi-decade terminal concessions regulating access to the canal gateway.",
+                "Maritime carriers and global importers face mounting legal uncertainty at essential transshipment transfer points connecting the Atlantic and Pacific oceans. Ocean lines routing container transfers through Panama must evaluate terminal operational stability and potential cargo seizure risks under legal scrutiny. Protracted litigation threatens to disrupt berthing schedules, driving vessel diversions toward regional hubs in Colombia and Costa Rica."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER: CPKC OPPOSES UP-NS MERGER",
+            "nextUpTease": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/labor-department-independent-contractor-rule-2026",
-                "Published: 2026-11-19T15:20:00Z",
+                "Source: https://maritime-executive.com/article/panama-cites-irregularities-in-criminal-complaint-over-port-concession",
+                "Published: 2026-11-19T17:27:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARRIER: CPKC OPPOSES UP-NS MERGER",
+            "heading": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
             "paragraphs": [
-                "Canadian Pacific Kansas City has filed formal opposition with the Surface Transportation Board against the proposed transcontinental merger of Union Pacific and Norfolk Southern. CPKC cited stagnant cross-border volumes through Mexico and competitive freight foreclosure as key justifications to block the rail combination. The filing also included formal pushback against intermodal operational claims made by key domestic transport partners.",
-                "Intermodal rail shippers risk significant freight routing disruptions and service friction if major gateways undergo forced network restructuring. Industrial shippers must calculate linehaul cost risks associated with restricted Class 1 interchange options across Midwest and Southern rail corridors. Cargo owners should formulate dual-rail routing strategies to protect factory inventory velocity against prolonged regulatory reviews."
+                "UPS finalized an agreement to acquire Australian healthcare transport specialist Smartway Logistics, expanding its temperature-controlled pharmaceutical supply chain. The transaction adds critical cold-chain infrastructure, dedicated reefer fleets, and specialized clinical trial logistics capabilities across the Asia-Pacific territory. The deal builds on UPS Healthcare's rapid expansion into high-value pharmaceutical distribution.",
+                "Enterprise healthcare shippers gain expanded end-to-end cold-chain visibility and unified compliance tracking across complex transpacific pharmaceutical lanes. However, shippers operating in Australia may face tighter vendor choice as independent cold-chain carriage consolidates under global transport giants. Logistics managers must review lane-specific pricing and evaluate temperature monitoring capabilities against strict regulatory mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
+            "nextUpTease": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
             "tags": [
-                "Source: https://www.joc.com/article/cpkc-cites-its-lagging-mexico-business-as-reason-to-kill-up-ns-deal_20261119.html",
-                "Published: 2026-11-19T14:05:00Z",
+                "Source: https://www.freightwaves.com/news/ups-to-acquire-australian-healthcare-specialist-smartway-logistics",
+                "Published: 2026-11-19T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CONGESTION: ATRI PUTS TRUCK COSTS AT $128B",
+            "heading": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
             "paragraphs": [
-                "The American Transportation Research Institute released its annual congestion study, quantifying total supply chain delay expenses for U.S. trucking at $128B. Freight chokepoints along major interstate freight corridors caused severe driver detention, consuming hundreds of millions of productive driving hours. Urban terminal access roads and intermodal junction bottlenecks represent the highest density of lost operational hours.",
-                "Shippers face escalating linehaul detention surcharges and mandatory accessorial fees as motor carriers strictly penalize extended loading delays. Enterprise distribution managers must invest in dock scheduling technology and yard management automation to preserve carrier routing preference. Mitigating commercial delay is essential for procurement teams seeking to prevent contractual freight rate increases in dense metro zones."
+                "Major e-commerce platforms and delivery providers warned that proposed New York City delivery legislation could impose mandatory surcharges of up to $5 per parcel. The regulatory push aims to manage dense delivery traffic and enforce driver labor protections across urban delivery zones. Industry groups warned that the ordinance would artificially increase last-mile costs and restrict operational delivery windows.",
+                "Omnichannel retailers and logistics networks face compressed margins and sudden consumer cart abandonment in one of the world's most dense retail markets. Shippers must evaluate micro-fulfillment hub strategies and off-peak consolidation models to mitigate urban delivery surcharges. Corporate logistics teams are actively calculating whether to pass additional local delivery costs directly to urban consumers."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: US OCTOBER TRUCK SALES UP 59%",
+            "nextUpTease": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
             "tags": [
-                "Source: https://www.ttnews.com/articles/atri-congestion-cost-128-billion-trucking",
-                "Published: 2026-11-19T12:30:00Z",
+                "Source: https://www.reuters.com/business/retail-consumer/amazon-warns-nyc-delivery-bill-could-add-up-5-per-order-2026-11-19/",
+                "Published: 2026-11-19T16:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET: US OCTOBER TRUCK SALES UP 59%",
+            "heading": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
             "paragraphs": [
-                "Commercial Class 8 truck sales surged 59% year-over-year in October, driven by aggressive fleet replacement programs and strategic equipment upgrades. Motor carriers accelerated capital investments in newer, fuel-efficient tractors to offset rising diesel costs and prepare for stricter baseline emissions standards. Equipment manufacturers report backlogs stabilizing as commercial carriers refresh aging fleets across long-haul divisions.",
-                "Freight networks benefit from improved fleet reliability, reduced en-route mechanical breakdowns, and higher equipment utilization across primary shipping lanes. Shippers can negotiate dedicated carriage agreements with lower operational failure risk as fleets modernize tractor power units. However, heavy carrier equipment debt may limit aggressive spot market rate discounting throughout upcoming contractual cycles."
+                "Rockwell Automation completed the acquisition of Agilox, integrating advanced autonomous mobile robots directly into its industrial automation and warehouse control platform. The acquisition combines autonomous guided vehicle technology with plant-floor control architectures to streamline internal pallet transit. The move targets expanding enterprise demand for robotic material handling amid persistent warehouse labor shortages.",
+                "Facility operators face rising capital requirements to overhaul legacy warehouse operations and meet automated fulfillment benchmarks. Enterprise logistics leaders must weigh heavy upfront robotic integration expenses against long-term labor productivity and material flow velocity. Sourcing managers must ensure software open-architecture compatibility before committing to unified proprietary automation platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+            "nextUpTease": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/truck-sales-jump-59-october-2026",
-                "Published: 2026-11-19T10:15:00Z",
+                "Source: https://www.dcvelocity.com/articles/63214-rockwell-automation-buys-agilox-to-combine-amr-fleets",
+                "Published: 2026-11-19T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: US BLOCKADE EXPANDS OVER IRAN CARGO",
+            "heading": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
             "paragraphs": [
-                "The Joint Maritime Information Center announced updated military operating guidelines expanding the U.S. naval blockade on Iranian cargo to include ship-to-ship offshore transfers. Commercial vessels engaging in mid-ocean freight transfers involving Iranian-origin cargo now face direct naval interdiction and severe sanctions, regardless of vessel registry. Navies patrolling Middle East maritime corridors have increased inspection sweeps across the Persian Gulf and Arabian Sea.",
-                "Ocean cargo underwriters and maritime operators face surging war risk insurance premiums and stringent cargo provenance verification mandates. Energy traders and bulk shippers must enforce continuous vessel tracking and multi-tier AIS verification to prevent accidental contractual exposure. Navigating Middle East maritime routes demands robust geopolitical contingency plans to circumvent sudden commercial transit seizures."
+                "Hapag-Lloyd leadership declared that traditional fixed 12-month ocean container contracts no longer reflect extreme market volatility, urging a structural shift toward dynamic pricing frameworks. Ocean carriers cite unpredictable Red Sea diversions, port congestion, and sudden fuel fluctuations as drivers making static annual contracts commercially unviable. The ocean carrier is calling for index-linked structures with flexible capacity commitments ahead of upcoming contract cycles.",
+                "Beneficial cargo owners face unprecedented budget unpredictability and shifting freight expenditure risks under index-linked or short-term ocean contracts. Supply chain executives must decide whether to commit to index-linked rate mechanisms or accept spot market exposure across major deep-sea lanes. Procurement teams are preparing multi-tier carrier strategies to balance rate security against service delivery guarantees."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/u-s-naval-blockade-now-covers-vessels-that-load-iranian-cargo-at-sea",
-                "Published: 2026-11-18T19:52:00Z",
+                "Source: https://www.joc.com/article/hapag-lloyd-ceo-calls-for-new-approach-to-shipping-contracts_20261119.html",
+                "Published: 2026-11-19T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
