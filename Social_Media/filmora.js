@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT STRIKE: SAN PEDRO BAY STRIKE THREAT",
-                "teaserTitle": "LABOR: DOL FINALIZES CONTRACTOR RULE",
-                "visual_caption": "Contract talks between terminal employers and security workers have collapsed, threatening a strike across LA and Long Beach. Shippers face immediate cargo delays and must activate alternative routing."
+                "headline": "MARITIME: ZIM PROFIT SURGES TO 830M",
+                "teaserTitle": "RAIL: UNION PACIFIC MERGER DEBATE",
+                "visual_caption": "Zim posted an $830M profit as freight rates jumped 55%. Ocean carriers are accelerating fleet modernization ahead of contract talks."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR: DOL FINALIZES CONTRACTOR RULE",
-                "teaserTitle": "CONTRACTS: TRUCKERS ABANDON ANNUAL DEALS",
-                "visual_caption": "The Department of Labor finalized its independent contractor rule, returning to a 2-factor standard for the trucking sector. Motor carriers gain operational flexibility in engaging owner-operators."
+                "headline": "RAIL: UNION PACIFIC MERGER DEBATE",
+                "teaserTitle": "M&A: ROBINSON ACQUIRES RXO",
+                "visual_caption": "Union Pacific and Norfolk Southern merger plans drew intense shipper scrutiny. Cargo owners face potential service consolidation across rail corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTRACTS: TRUCKERS ABANDON ANNUAL DEALS",
-                "teaserTitle": "M&A: EXPEDITORS OPENS DOOR TO M&A",
-                "visual_caption": "North American shippers are abandoning 12-month freight contracts for spot agreements due to fuel volatility. Fleets are demanding dynamic index-linked pricing to protect operating margins."
+                "headline": "M&A: ROBINSON ACQUIRES RXO",
+                "teaserTitle": "EQUIPMENT: EPA NOx RULE REVIEW",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B cash-and-stock deal. The mega-deal expands combined brokerage and last-mile delivery services."
             },
             {
                 "slide_index": 4,
-                "headline": "M&A: EXPEDITORS OPENS DOOR TO M&A",
-                "teaserTitle": "MARITIME: YANGZIJIANG REVIVES SHIPYARD",
-                "visual_caption": "Expeditors International is shifting from organic growth to evaluate strategic acquisitions in logistics technology. The move aims to accelerate digital forwarding capabilities across its global network."
+                "headline": "EQUIPMENT: EPA NOx RULE REVIEW",
+                "teaserTitle": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
+                "visual_caption": "The EPA revised 2027 NOx standards entered final regulatory review. Fleets anticipate higher equipment acquisition costs ahead of compliance deadlines."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: YANGZIJIANG REVIVES SHIPYARD",
-                "teaserTitle": "REGULATION: FMC ADVISORY ON EXPORT POLICIES",
-                "visual_caption": "Chinese shipbuilder Yangzijiang revived a stalled expansion project with a $504M investment in Jiangsu. The facility will boost construction capacity for new vessel tonnage."
+                "headline": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
+                "teaserTitle": "AIR: KOREAN AIR MERGER CAPACITY",
+                "visual_caption": "Retail sales are forecasted to climb 4.2% during the holiday season. Robust inbound import volumes kept container gateways active through October."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: FMC ADVISORY ON EXPORT POLICIES",
-                "teaserTitle": "OFFSHORE: SEAWAY 7 LINES UP WIND VESSELS",
-                "visual_caption": "The Federal Maritime Commission issued an advisory requiring ocean common carriers to file documented export policies by Mar 1. Compliant operating procedures will prevent cargo rollovers."
+                "headline": "AIR: KOREAN AIR MERGER CAPACITY",
+                "teaserTitle": "LABOR: SAN PEDRO BAY STRIKE RISK",
+                "visual_caption": "Korean Air expects a 20% increase in belly cargo capacity. The Asiana integration enhances widebody throughput for tech shipments."
             },
             {
                 "slide_index": 7,
-                "headline": "OFFSHORE: SEAWAY 7 LINES UP WIND VESSELS",
+                "headline": "LABOR: SAN PEDRO BAY STRIKE RISK",
                 "teaserTitle": "",
-                "visual_caption": "Seaway 7 lined up a specialized trio of vessels to support Scotland's 1.4GW offshore wind energy development. The project highlights growing demand for heavy-lift maritime assets."
+                "visual_caption": "Strike risks grow across the ports of Los Angeles and Long Beach. Shippers must divert transpacific container traffic to avoid severe terminal delays."
             },
             {
                 "slide_index": 8,
