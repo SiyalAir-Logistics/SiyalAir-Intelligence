@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSATLANTIC AIRFREIGHT RATES REACH 4-YEAR",
-        "titleBlue": "HIGH",
-        "footerSummary": "Surging transatlantic air rates and port concession conflicts escalate Q4 cargo friction, compelling freight budget reassessments across major international corridors."
+        "titleWhite": "STRIKE THREAT LOOMS OVER SAN PEDRO",
+        "titleBlue": "BAY",
+        "footerSummary": "Pending security strikes across Los Angeles and Long Beach threaten terminal operations, driving urgent contingency planning for transpacific supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AIR CARGO: TRANSATLANTIC RATES REACH 4-YEAR HIGH",
+            "heading": "PORT STRIKE: SAN PEDRO BAY STRIKE THREAT",
             "paragraphs": [
-                "Transatlantic airfreight spot pricing surged to its highest level since December 2022, driven by sharp peak season volumes and constrained belly-hold capacity. Tightened transatlantic scheduled services have left forwarders competing aggressively for spot space across primary westbound and eastbound legs. Cargo backlogs across European air hubs have driven outbound terminal dwell times to critical levels.",
-                "Shippers face steep emergency transportation premiums to bypass ocean delays ahead of peak holiday inventory deadlines. Enterprise logistics directors must decide whether to absorb elevated air linehaul surcharges or face severe stockout penalties across high-value product lines. Forwarders are turning to secondary airports to secure lower handling charges and bypass major gateway congestion."
+                "Contract negotiations between terminal employers and port security workers broke down without an agreement, setting the stage for a potentially disruptive strike across the ports of Los Angeles and Long Beach. Auxiliary union workforces are expected to stand in solidarity with watchmen, threatening to halt gate movements and vessel handling across America's busiest container gateways. Shippers face immediate cargo discharge freezes and severe landside bottlenecks if last-minute talks fail.",
+                "Supply chain directors must immediately activate alternative routing plans toward Pacific Northwest gateways or Mexican ports to insulate holiday inventories from severe terminal paralysis. Importers should evaluate extended dwell fee exposures and prepare for sudden demurrage spikes as container velocity drops across Southern California terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
+            "nextUpTease": "LABOR: DOL FINALIZES CONTRACTOR RULE",
             "tags": [
-                "Source: https://theloadstar.com/transatlantic-airfreight-rates-at-highest-level-for-four-years/",
-                "Published: 2026-11-18T16:20:00Z",
+                "Source: https://theloadstar.com/last-ditch-bid-to-prevent-threatened-strike-at-san-pedro-bay-ports/",
+                "Published: 2026-11-19T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: NEOVIA LOGISTICS AND EKOL ACQUIRED",
+            "heading": "LABOR: DOL FINALIZES CONTRACTOR RULE",
             "paragraphs": [
-                "Major consolidations swept global contract logistics over the past 24 hours with the corporate acquisitions of U.S.-based Neovia Logistics and Turkey-based Ekol Logistics. European logistics powerhouses Arvato and Logisteed completed the acquisitions to secure extensive warehousing networks and cross-border transport nodes. The buyouts expand specialized spare parts, automotive, and retail fulfillment assets across North America and Europe.",
-                "Contract logistics customers face potential operational transitions and shifting vendor management structures across regional warehousing facilities. Procurement teams must audit existing master service agreements to ensure dedicated service performance levels remain intact through corporate integration. Strategic freight buyers are closely monitoring rate cards as independent mid-tier warehousing capacity consolidates under international logistics conglomerates."
+                "The Department of Labor released its finalized independent contractor rule, returning to a streamlined two-factor evaluation standard for workforce classification across the trucking sector. The updated standard provides motor carriers with enhanced operational flexibility in engaging owner-operators without shifting to complex multi-factor federal tests. Trucking leadership immediately applauded the regulatory clarity, which aims to stabilize capacity amidst persistent driver shortages.",
+                "Fleet operators can optimize driver network capacity and reduce legal exposure when structuring lease-purchase and independent contractor agreements. Logistics procurement managers must monitor carrier capacity adjustments as independent operators realign with preferred motor carriers under stabilized regulatory frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
+            "nextUpTease": "CONTRACTS: TRUCKERS ABANDON ANNUAL DEALS",
             "tags": [
-                "Source: https://theloadstar.com/sale-of-neovia-in-the-us-and-turkeys-ekol-marks-return-of-ma-to-logistics/",
-                "Published: 2026-11-19T14:40:00Z",
+                "Source: https://www.ttnews.com/articles/labor-department-finalizes-independent-contractor-rule",
+                "Published: 2026-11-19T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: PANAMA FILES COMPLAINT ON PORT CONCESSION",
+            "heading": "CONTRACTS: TRUCKERS ABANDON ANNUAL DEALS",
             "paragraphs": [
-                "The Comptroller General of Panama submitted a criminal complaint to the Public Prosecutor regarding long-standing port concessions managed by Hong Kong-based CK Hutchison. The filing follows a comprehensive national audit after local courts moved to annul long-term terminal agreements at Balboa and Cristobal. Panamanian authorities cited administrative irregularities surrounding multi-decade terminal concessions regulating access to the canal gateway.",
-                "Maritime carriers and global importers face mounting legal uncertainty at essential transshipment transfer points connecting the Atlantic and Pacific oceans. Ocean lines routing container transfers through Panama must evaluate terminal operational stability and potential cargo seizure risks under legal scrutiny. Protracted litigation threatens to disrupt berthing schedules, driving vessel diversions toward regional hubs in Colombia and Costa Rica."
+                "North American shippers relying on road haulage are rapidly abandoning traditional annual freight contracts in favor of short-term spot agreements as fuel price volatility outpaces rate adjustments. Persistent energy cost fluctuations and tightening carrier margins have made fixed twelve-month pricing untenable for regional motor carriers. Fleets are demanding dynamic index-linked mechanisms to protect operating margins against sudden diesel price spikes.",
+                "Shippers face heightened budget unpredictability and increased exposure to spot market rate volatility across primary domestic road corridors. Transportation procurement teams must build agile carrier networks and utilize real-time market indices to maintain stable capacity access without absorbing excessive premium costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
+            "nextUpTease": "M&A: EXPEDITORS OPENS DOOR TO M&A",
             "tags": [
-                "Source: https://maritime-executive.com/article/panama-cites-irregularities-in-criminal-complaint-over-port-concession",
-                "Published: 2026-11-19T17:27:00Z",
+                "Source: https://theloadstar.com/us-truckers-feel-the-squeeze-as-fuel-price-outpaces-freight-rates/",
+                "Published: 2026-11-19T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "M&A: UPS ACQUIRES SMARTWAY LOGISTICS",
+            "heading": "M&A: EXPEDITORS OPENS DOOR TO M&A",
             "paragraphs": [
-                "UPS finalized an agreement to acquire Australian healthcare transport specialist Smartway Logistics, expanding its temperature-controlled pharmaceutical supply chain. The transaction adds critical cold-chain infrastructure, dedicated reefer fleets, and specialized clinical trial logistics capabilities across the Asia-Pacific territory. The deal builds on UPS Healthcare's rapid expansion into high-value pharmaceutical distribution.",
-                "Enterprise healthcare shippers gain expanded end-to-end cold-chain visibility and unified compliance tracking across complex transpacific pharmaceutical lanes. However, shippers operating in Australia may face tighter vendor choice as independent cold-chain carriage consolidates under global transport giants. Logistics managers must review lane-specific pricing and evaluate temperature monitoring capabilities against strict regulatory mandates."
+                "Expeditors International is shifting away from its decades-long reliance exclusively on organic growth, actively evaluating corporate acquisition opportunities in logistics technology and specialized forwarding. The strategic pivot reflects intensifying competitive pressures and the necessity to rapidly integrate digital forwarding capabilities into legacy operations. Leadership indicated that targeted buyouts will focus on enhancing proprietary platform velocity and geographical reach.",
+                "Enterprise customers can anticipate accelerated digital capability deployments and more unified global visibility across Expeditors' expanded service network. Competitors across the forwarding sector must reassess their technology roadmaps and consolidation strategies to maintain market share against aggressive digital-first consolidators."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
+            "nextUpTease": "MARITIME: YANGZIJIANG REVIVES SHIPYARD",
             "tags": [
-                "Source: https://www.freightwaves.com/news/ups-to-acquire-australian-healthcare-specialist-smartway-logistics",
-                "Published: 2026-11-19T14:15:00Z",
+                "Source: https://theloadstar.com/expeditors-opens-door-to-ma-after-decades-of-organic-growth/",
+                "Published: 2026-11-19T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: NYC DELIVERY SURCHARGE BILL CONFLICT",
+            "heading": "MARITIME: YANGZIJIANG REVIVES SHIPYARD",
             "paragraphs": [
-                "Major e-commerce platforms and delivery providers warned that proposed New York City delivery legislation could impose mandatory surcharges of up to $5 per parcel. The regulatory push aims to manage dense delivery traffic and enforce driver labor protections across urban delivery zones. Industry groups warned that the ordinance would artificially increase last-mile costs and restrict operational delivery windows.",
-                "Omnichannel retailers and logistics networks face compressed margins and sudden consumer cart abandonment in one of the world's most dense retail markets. Shippers must evaluate micro-fulfillment hub strategies and off-peak consolidation models to mitigate urban delivery surcharges. Corporate logistics teams are actively calculating whether to pass additional local delivery costs directly to urban consumers."
+                "Chinese shipbuilding giant Yangzijiang has officially revived a previously stalled expansion project, signing a $504M investment agreement for a new facility development in Taicang, Jiangsu province. The renewed commitment highlights surging global demand for new vessel tonnage as shipowners race to modernize fleets ahead of stricter environmental mandates. The shipyard expansion will significantly boost regional construction capacity for container and bulk carrier newbuildings.",
+                "Ocean carriers facing tight orderbook slots can leverage expanding Chinese shipyard capacity to secure long-term fleet renewal schedules. Beneficial cargo owners must monitor global shipbuilding output trajectories to gauge future vessel supply additions against looming environmental compliance retirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
+            "nextUpTease": "REGULATION: FMC ADVISORY ON EXPORT POLICIES",
             "tags": [
-                "Source: https://www.reuters.com/business/retail-consumer/amazon-warns-nyc-delivery-bill-could-add-up-5-per-order-2026-11-19/",
-                "Published: 2026-11-19T16:50:00Z",
+                "Source: https://splash247.com/yangzijiang-revives-500m-chinese-shipyard-project/",
+                "Published: 2026-11-20T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET: ROCKWELL AUTOMATION ACQUIRES AGILOX",
+            "heading": "REGULATION: FMC ADVISORY ON EXPORT POLICIES",
             "paragraphs": [
-                "Rockwell Automation completed the acquisition of Agilox, integrating advanced autonomous mobile robots directly into its industrial automation and warehouse control platform. The acquisition combines autonomous guided vehicle technology with plant-floor control architectures to streamline internal pallet transit. The move targets expanding enterprise demand for robotic material handling amid persistent warehouse labor shortages.",
-                "Facility operators face rising capital requirements to overhaul legacy warehouse operations and meet automated fulfillment benchmarks. Enterprise logistics leaders must weigh heavy upfront robotic integration expenses against long-term labor productivity and material flow velocity. Sourcing managers must ensure software open-architecture compatibility before committing to unified proprietary automation platforms."
+                "The Federal Maritime Commission issued a formal industry advisory reminding ocean common carriers that documented export policies must be officially filed with the agency by March 1. The regulatory enforcement drive aims to ensure the timely and efficient movement of U.S. export cargo amidst ongoing international trade friction. Carriers failing to maintain transparent and filed export guidelines face rigorous agency audits and potential administrative penalties.",
+                "Exporters and agricultural shippers must verify that carrier partners maintain fully compliant and accessible export operating procedures to prevent cargo rollovers at major U.S. gateways. Logistics compliance officers should audit current carrier contracts against FMC filing mandates to eliminate unexpected operational friction during peak shipping windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
+            "nextUpTease": "OFFSHORE: SEAWAY 7 LINES UP WIND VESSELS",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/63214-rockwell-automation-buys-agilox-to-combine-amr-fleets",
-                "Published: 2026-11-19T16:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-11-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: HAPAG-LLOYD REJECTS ANNUAL CONTRACTS",
+            "heading": "OFFSHORE: SEAWAY 7 LINES UP WIND VESSELS",
             "paragraphs": [
-                "Hapag-Lloyd leadership declared that traditional fixed 12-month ocean container contracts no longer reflect extreme market volatility, urging a structural shift toward dynamic pricing frameworks. Ocean carriers cite unpredictable Red Sea diversions, port congestion, and sudden fuel fluctuations as drivers making static annual contracts commercially unviable. The ocean carrier is calling for index-linked structures with flexible capacity commitments ahead of upcoming contract cycles.",
-                "Beneficial cargo owners face unprecedented budget unpredictability and shifting freight expenditure risks under index-linked or short-term ocean contracts. Supply chain executives must decide whether to commit to index-linked rate mechanisms or accept spot market exposure across major deep-sea lanes. Procurement teams are preparing multi-tier carrier strategies to balance rate security against service delivery guarantees."
+                "Offshore construction contractor Seaway 7 lined up a specialized trio of heavy-lift vessels to deploy on SSE Renewables' 1.4GW Berwick Bank offshore wind project in Scotland. The planned installation fleet includes advanced heavy-lift crane vessels designed to handle massive offshore turbine components in harsh North Sea conditions. The project underscores the rapid acceleration of large-scale renewable energy infrastructure deployment across European waters.",
+                "Energy logistics providers must secure scarce heavy-lift vessel capacity well in advance to support complex offshore wind installation timelines. Project cargo shippers face heightened competition for specialized maritime assets, driving up charter rates across European coastal construction corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/hapag-lloyd-ceo-calls-for-new-approach-to-shipping-contracts_20261119.html",
-                "Published: 2026-11-19T11:00:00Z",
+                "Source: https://splash247.com/seaway-7-lines-up-vessel-thor-for-scottish-offshore-wind-project/",
+                "Published: 2026-11-20T07:15:00Z",
                 "Status: Audited & True"
             ]
         }
