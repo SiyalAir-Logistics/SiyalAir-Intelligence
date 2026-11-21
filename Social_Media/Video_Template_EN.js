@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ZIM PROFIT SURGES TO 830M AS FREIGHT RATES JUMP",
+        "hookTitle": "INDIA DROPS VESSEL AGE RESTRICTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ZIM PROFIT SURGES TO 830M",
-                "teaserTitle": "RAIL: UNION PACIFIC MERGER DEBATE",
+                "headline": "POLICY: INDIA DROPS VESSEL AGE RESTRICTIONS",
+                "teaserTitle": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Zim reported an eight hundred thirty million dollar profit as freight rates jumped fifty-five percent. Ocean carriers are accelerating fleet modernization ahead of upcoming contract negotiations."
+                "narration_line": "India has lifted vessel age restrictions to ease commercial tanker shortages across regional trade lanes. Charterers must now evaluate older tonnage risks against immediate spot freight savings."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: UNION PACIFIC MERGER DEBATE",
-                "teaserTitle": "M&A: ROBINSON ACQUIRES RXO",
+                "headline": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
+                "teaserTitle": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Union Pacific and Norfolk Southern merger plans drew intense shipper scrutiny. Beneficial cargo owners face potential service consolidation across rail corridors."
+                "narration_line": "Regulators ruled that railroads can assess demurrage fees even on private siding tracks. Industrial shippers face one billion dollars in annual accessorial charges unless dwell times drop."
             },
             {
                 "slide_index": 3,
-                "headline": "M&A: ROBINSON ACQUIRES RXO",
-                "teaserTitle": "EQUIPMENT: EPA NOx RULE REVIEW",
+                "headline": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
+                "teaserTitle": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "C.H. Robinson agreed to acquire RXO in a five point eight billion dollar transaction. The mega deal expands combined brokerage and last-mile delivery services."
+                "narration_line": "MSC restructured its Pacific Northwest network, adding dedicated loops ahead of peak demand. Shippers must review terminal cut-offs to navigate shifting inland rail connections."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: EPA NOx RULE REVIEW",
-                "teaserTitle": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
+                "headline": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
+                "teaserTitle": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The EPA revised twenty twenty-seven nitrogen oxide standards entered final review. Fleets anticipate higher equipment acquisition costs ahead of compliance deadlines."
+                "narration_line": "United States rail traffic climbed over seven percent, driven by double-digit intermodal growth. Logistics teams must manage inland ramp congestion as retail imports push through."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
-                "teaserTitle": "AIR: KOREAN AIR MERGER CAPACITY",
+                "headline": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
+                "teaserTitle": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Retail sales are forecasted to climb four point two percent during the holiday season. Robust inbound import volumes kept container gateways active through October."
+                "narration_line": "Severe congestion across Southeast Asian transshipment hubs has pushed regional container spot rates up twenty-four percent. Shippers must adjust lead times to absorb feeder delays."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR: KOREAN AIR MERGER CAPACITY",
-                "teaserTitle": "LABOR: SAN PEDRO BAY STRIKE RISK",
+                "headline": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
+                "teaserTitle": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Korean Air expects a twenty percent increase in belly cargo capacity. The integration of Asiana Airlines enhances widebody throughput for tech shipments."
+                "narration_line": "Class eight truck sales jumped fifty-nine percent as carriers accelerated fleet replacement programs before year-end. Motor fleets will seek rate support to balance heavy capital outlays."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR: SAN PEDRO BAY STRIKE RISK",
-                "teaserTitle": "",
+                "headline": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Strike risks grow across the ports of Los Angeles and Long Beach. Shippers must divert transpacific container traffic to avoid severe terminal delays."
+                "narration_line": "A federal court permitted negligent hiring claims against J.B. Hunt to proceed toward trial. Logistics brokers must tighten carrier vetting standards to mitigate mounting legal liability."
             },
             {
                 "slide_index": 8,

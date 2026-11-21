@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ZIM PROFIT SURGES TO 830M AS FREIGHT RATES",
-        "titleBlue": "JUMP",
-        "footerSummary": "Zim reported an 830M USD profit as freight rates jumped 55%, while container spot rates on transpacific routes began seasonal declines."
+        "titleWhite": "INDIA DROPS VESSEL AGE",
+        "titleBlue": "RESTRICTIONS",
+        "footerSummary": "India lifts commercial vessel age caps to ease tanker shortages, while STB upholds rail demurrage fees on private sidings."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ZIM PROFIT SURGES TO 830M",
+            "heading": "POLICY: INDIA DROPS VESSEL AGE RESTRICTIONS",
             "paragraphs": [
-                "Zim raised its annual earnings forecast and declared a 243M USD dividend after third-quarter net profit surged to 830M USD, driven by a 55% jump in average freight rates. The carrier's strong financial performance highlights continued yield resilience across ocean shipping lanes even as vessel supply expands. Meanwhile, Zim's pending Hapag-Lloyd takeover continues to wind through regulatory approval channels.",
-                "Ocean carriers are leveraging windfall earnings to accelerate fleet modernization and fund strategic corporate consolidations ahead of 2027 contract talks. Shippers must evaluate carrier profitability metrics when structuring long-term service agreements to anticipate potential rate floor defenses."
+                "India's Directorate General of Shipping rolled back strict 25-year commercial vessel age restrictions to mitigate severe tanker capacity deficits. The immediate regulatory revision enables older international bulkers and product carriers to enter Indian waters and maintain domestic trade lanes amid Red Sea and Strait of Hormuz detours. The policy change counters soaring spot tanker rates that increased regional transport costs by over 18% in Q4.",
+                "Charterers must re-evaluate marine asset screening and cargo insurance premiums when booking older tonnage across South Asian corridors. Industrial procurement teams should balance immediate spot rate savings against heightened seaworthiness risks and potential customs inspection delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: UNION PACIFIC MERGER DEBATE",
+            "nextUpTease": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million-as-freight-rates-jump-55",
-                "Published: 2026-11-20T08:00:00Z",
+                "Source: https://maritime-executive.com/article/india-rolls-back-age-restrictions-on-commercial-ships",
+                "Published: 2026-11-20T16:49:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: UNION PACIFIC MERGER DEBATE",
+            "heading": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
             "paragraphs": [
-                "The proposed rail merger between Union Pacific and Norfolk Southern has drawn vocal labor support alongside intense shipper concerns during Surface Transportation Board filings. Industry analysts note that historical merger-related volume growth projections frequently fail to materialize in actual freight execution. Competitor CPKC recently cited its lagging Mexico business operations as a primary rationale for opposing the transaction.",
-                "Beneficial cargo owners face potential service rationalization and reduced single-line routing options if Class 1 rail consolidation accelerates. Logistics procurement teams must review interline service agreements and model alternative rail corridors to protect transit velocity."
+                "The Surface Transportation Board affirmed that Class 1 railroads can legally assess storage and demurrage fees even when railcars dwell on privately owned tracks. The benchmark ruling shields an estimated $1B in annual carrier accessorial charges across major chemical, agriculture, and industrial manufacturing freight sectors. Federal regulators determined that holding private railcars still consumes mainline network capacity and switching resources.",
+                "Enterprise shippers face recurring financial exposure from carrier delay penalties despite heavy private infrastructure capital investments. Rail logistics teams must audit siding utilization cycles and implement automated track sensor networks to eliminate unbilled dwelling penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: ROBINSON ACQUIRES RXO",
+            "nextUpTease": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-20T07:30:00Z",
+                "Source: https://theloadstar.com/the-1bn-parking-question-stb-says-railroads-can-charge-even-when-cars-and-land-are-private/",
+                "Published: 2026-11-20T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "M&A: ROBINSON ACQUIRES RXO",
+            "heading": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
             "paragraphs": [
-                "C.H. Robinson has agreed to acquire RXO in a massive 5.8B USD cash-and-stock transaction designed to expand combined service capabilities across North American brokerage and final-mile delivery. The strategic buyout adds specialized expedited transport and last-mile infrastructure, with final closing targeted for the first half of 2027. Market observers expect the mega-deal to reshape competitive dynamics across third-party logistics sectors.",
-                "Enterprise shippers will gain access to consolidated digital freight networks but should monitor potential carrier service disruptions during post-merger integration. Procurement directors must diversify forwarding portfolios to mitigate short-term relationship volatility."
+                "Mediterranean Shipping Company restructured its transpacific Pacific Northwest network, adding an extra loop and revising port rotations before the early Lunar New Year rush. The carrier added dedicated vessel calls to Seattle and Vancouver to bypass lingering California rail ramp backlogs and protect weekly schedule reliability. Container line schedules show the expanded rotation deployed 6 modern vessels averaging 14K TEU capacity.",
+                "Cargo owners must evaluate revised transit times and shifting terminal cut-offs across alternative Canadian and US gateways. Supply chain planners should establish split-discharge booking models to maintain Midwest inland connectivity while minimizing terminal dwell surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA NOx RULE REVIEW",
+            "nextUpTease": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-20T09:15:00Z",
+                "Source: https://www.joc.com/article/msc-revamps-pacific-northwest-services-speed-schedule-reliability_20261120.html",
+                "Published: 2026-11-20T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: EPA NOx RULE REVIEW",
+            "heading": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
             "paragraphs": [
-                "The Environmental Protection Agency's revised 2027 nitrogen oxide emission standard has entered final interagency review, injecting regulatory certainty into commercial truck manufacturing schedules. Prolonged uncertainty surrounding upcoming emissions compliance had previously constrained capital expenditures across major motor carrier fleets. Truck manufacturers anticipate a surge in pre-buy vehicle orders as fleet operators prepare for higher equipment acquisition costs.",
-                "Fleet managers must balance near-term capital outlays for compliant tractor units against long-term maintenance savings on advanced engine technology. Transport buyers should incorporate anticipated equipment cost inflation into 2027 road freight baseline budget forecasts."
+                "Total US rail traffic surged 7.3% year-over-year for the week ending November 14, driven by a 10.7% expansion in domestic and international intermodal container volume. High import flows through coastal ports combined with over-the-road trucking rate inflation pushed 278K intermodal units onto Class 1 rail networks. Carload volumes also registered a 3.8% increase, marking broad-based momentum across Midwest rail corridors.",
+                "Intermodal logistics planners face emerging chassis equipment imbalances and mounting terminal dwell times at core inland interchange hubs like Chicago and Memphis. Freight directors must balance lower line-haul rail pricing against rising drayage congestion fees during peak Q4 inventory positioning."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
+            "nextUpTease": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-20T06:45:00Z",
+                "Source: https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-as-intermodal-gains-10-7-in-latest-week",
+                "Published: 2026-11-20T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: HOLIDAY SALES CLIMB 4.2%",
+            "heading": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
             "paragraphs": [
-                "The National Retail Federation forecasted a solid 4.2% increase in 2026 holiday retail sales despite persistent macroeconomic headwinds and consumer budget pressures. Retail supply chains experienced strong inbound import volumes through October, keeping ocean gateways active ahead of peak fulfillment windows. Fulfillment networks are utilizing advanced product segmentation strategies to manage inventory holding costs and prevent overstocking.",
-                "Retail logistics directors must maintain flexible warehousing capacity and dynamic replenishment workflows to handle shifting consumer demand patterns. Supply chain planners should optimize inventory placement across regional distribution centers to minimize last-mile transit surcharges."
+                "Worsening container bottlenecks at major Southeast Asian transshipment hubs have driven regional ocean freight spot rates up by 24% over the past two weeks. Prolonged vessel wait times at Singapore and Port Klang reached 5 days, forcing regional feeders to roll export bookings and miss deep-sea mother vessel connections. The disruption has stranded critical intermediate electronics and manufacturing inventory destined for Western markets.",
+                "Shippers operating offshore assembly lines must incorporate extended lead times into replenishment schedules and anticipate blank sailing surcharges. Operations managers should secure guaranteed equipment positioning agreements with primary feeder operators to avoid multi-week factory inventory stalls."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: KOREAN AIR MERGER CAPACITY",
+            "nextUpTease": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-20T08:30:00Z",
+                "Source: https://theloadstar.com/congestion-at-transhipment-hubs-keeps-intra-asia-rates-firm/",
+                "Published: 2026-11-20T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR: KOREAN AIR MERGER CAPACITY",
+            "heading": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
             "paragraphs": [
-                "Korean Air announced expectations for a 20% increase in available belly cargo capacity following its comprehensive integration of Asiana Airlines. The expanded widebody network enhances transpacific freight throughput at a time when artificial intelligence component shipments are driving exceptional air cargo demand. Industry forwarders are actively securing block-space agreements to lock in guaranteed uplift capacity.",
-                "High-tech shippers and high-value cargo owners must navigate tight air charter markets by establishing long-term carrier commitments ahead of seasonal volume peaks. Procurement teams should audit airline schedule stability to prevent transit delays on critical transpacific lanes."
+                "North American retail sales of Class 8 commercial trucks surged 59% in October as motor carriers aggressively accelerated fleet replacement cycles before year-end tax windows. Fleet operators took delivery of 24.8K heavy-duty tractors, aiming to lower average fleet maintenance costs and hedge against projected manufacturing price hikes for 2027 engine standards. Dealer backlogs expanded significantly across all major original equipment manufacturers.",
+                "Carriers absorbing substantial capital outlays will seek higher contract baseline freight rates during early 2027 shipper bid cycles to protect operating ratios. Logistics buyers must scrutinize carrier asset-age data to negotiate predictable freight procurement contracts while securing dedicated tractor capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: SAN PEDRO BAY STRIKE RISK",
+            "nextUpTease": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
             "tags": [
-                "Source: https://theloadstar.com/korean-air-eyes-20-more-belly-cargo-capacity-from-asiana-merger/",
-                "Published: 2026-11-20T05:00:00Z",
+                "Source: https://www.ttnews.com/articles/truck-sales-jump-59-percent-october-2026",
+                "Published: 2026-11-19T21:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR: SAN PEDRO BAY STRIKE RISK",
+            "heading": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
             "paragraphs": [
-                "Strike risks continue to escalate across the ports of Los Angeles and Long Beach as terminal employer talks with union watchmen remain stalled. Auxiliary marine clerks and dockworkers are expected to honor picket lines, threatening to paralyze container gate operations at America's busiest harbor complex. Importers are rushing final container discharges to beat potential terminal shutdowns before holiday deadlines.",
-                "Supply chain planners must immediately divert transpacific container routings toward Pacific Northwest ports or Mexican gateways to avoid severe demurrage exposure. Cargo owners should activate contingency trucking contracts to bypass localized terminal gridlock."
+                "A federal district court in Arizona issued a split decision in a major liability lawsuit against J.B. Hunt, establishing critical legal precedents for third-party logistics freight selection. The court ruled that federal preemption does not entirely shield freight brokers from state-level negligent hiring claims following catastrophic motor carrier accidents. The case advances toward trial, reshaping liability exposure across digital freight platforms and brokerage intermediaries.",
+                "Third-party logistics providers must immediately tighten motor carrier safety compliance vetting, insurance minimums, and driver qualification audits to mitigate tort risk. Shippers utilizing freight brokerages should review broker indemnity covenants and contractual liability tiers to shield corporate balance sheets from secondary legal claims."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stalled",
-                "Published: 2026-11-20T08:15:00Z",
+                "Source: https://www.freightwaves.com/news/jb-hunt-broker-liability-case-proceeding-after-split-decision",
+                "Published: 2026-11-20T17:10:00Z",
                 "Status: Audited & True"
             ]
         }
