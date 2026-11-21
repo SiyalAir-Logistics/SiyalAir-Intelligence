@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: BALTIC DRONE STRIKES",
-                "teaserTitle": "PORTS: SAN PEDRO STRIKE AVERTED",
-                "visual_caption": "A Russian cargo ship was hit by drone strikes in the Baltic Sea, forcing it into Finnish waters. Expect immediate spikes in maritime insurance premiums and regional transit delays."
+                "headline": "MARITIME: INDIA ROLLS BACK RESTRICTIONS",
+                "teaserTitle": "PORTS: LA LB DEAL AVERTED",
+                "visual_caption": "Indian authorities rolled back ship age restrictions. The move counters severe global tanker shortages."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: SAN PEDRO STRIKE AVERTED",
-                "teaserTitle": "AIR: KOREAN AIR CAPACITY SURGE",
-                "visual_caption": "A tentative union deal has averted a major strike at the ports of LA and Long Beach. Shippers can resume peak season replenishment without the threat of port lockdowns."
+                "headline": "PORTS: LA LB DEAL AVERTED",
+                "teaserTitle": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
+                "visual_caption": "Employers and union watchmen reached a tentative labor agreement at LA ports. The deal averts a holiday supply chain strike."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR: KOREAN AIR CAPACITY SURGE",
-                "teaserTitle": "REGULATION: EPA NOX RULE FINALIZED",
-                "visual_caption": "Korean Air is set to boost belly cargo capacity by 20% following its merger with Asiana. This massive injection of space could soften transpacific air rates through early 2027."
+                "headline": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
+                "teaserTitle": "REGULATION: CONTRACTOR RULE FINALIZED",
+                "visual_caption": "Rockwell Automation acquired Agilox to combine AMR fleets. Facilities gain unified autonomous robot control."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: EPA NOX RULE FINALIZED",
-                "teaserTitle": "INFRASTRUCTURE: NARVIK COPPER DEAL",
-                "visual_caption": "The EPA finalized new NOx rules increasing truck costs by up to $35K per unit. Carriers must accelerate fleet replacements before the 2027 deadline."
+                "headline": "REGULATION: CONTRACTOR RULE FINALIZED",
+                "teaserTitle": "EQUIPMENT: TRUCK SALES JUMP",
+                "visual_caption": "The Department of Labor finalized a streamlined independent contractor rule. Motor carriers gain clear compliance standards."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: NARVIK COPPER DEAL",
-                "teaserTitle": "ENERGY: PHILLIPS 66 TERMINAL REVIEW",
-                "visual_caption": "The Port of Narvik secured a major copper export terminal deal for Northern European minerals. This creates a critical link for green energy manufacturing across the continent."
+                "headline": "EQUIPMENT: TRUCK SALES JUMP",
+                "teaserTitle": "INFRASTRUCTURE: FMC FILING ADVISORY",
+                "visual_caption": "U.S. Class 8 retail truck sales jumped 59% in October. Fleets are aggressively refreshing aging equipment."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: PHILLIPS 66 TERMINAL REVIEW",
-                "teaserTitle": "RATES: ASIA-MED FREIGHT SPIKE",
-                "visual_caption": "Los Angeles has begun a safety review for the Phillips 66 oil terminal rebuild. Expect localized berthing delays as infrastructure upgrades impact liquid bulk throughput."
+                "headline": "INFRASTRUCTURE: FMC FILING ADVISORY",
+                "teaserTitle": "AIR CARGO: KOREAN AIR EXPANSION",
+                "visual_caption": "The FMC requires carriers to file export policies by March 1. The mandate ensures transparent cargo movement."
             },
             {
                 "slide_index": 7,
-                "headline": "RATES: ASIA-MED FREIGHT SPIKE",
+                "headline": "AIR CARGO: KOREAN AIR EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Asia-Mediterranean spot rates spiked unexpectedly despite a general decline in transpacific pricing. Shippers must secure westbound capacity early to avoid rising costs."
+                "visual_caption": "Korean Air is boosting belly cargo capacity by 20%. Shippers gain expanded wide-body transpacific lift."
             },
             {
                 "slide_index": 8,

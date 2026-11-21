@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "BALTIC DRONE",
-        "titleBlue": "STRIKES",
-        "footerSummary": "Maritime drone strikes in the Baltic and a +20% surge in Korean air capacity are forcing immediate routing and margin recalibrations."
+        "titleWhite": "INDIA ROLLS BACK",
+        "titleBlue": "RESTRICTIONS",
+        "footerSummary": "India rolls back commercial ship age limits and LA-LB ports avert strikes as supply chains recalibrate capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: BALTIC DRONE STRIKES",
+            "heading": "MARITIME: INDIA ROLLS BACK RESTRICTIONS",
             "paragraphs": [
-                "A Russian cargo ship bound for Kaliningrad was hit by drone strikes in the Baltic Sea, causing significant fire damage and forcing the vessel into Finnish waters. This escalation has triggered immediate maritime restrictions by Helsinki and a heightened security alert across the Gulf of Finland corridor.",
-                "Ocean freight planners must brace for immediate spikes in War Risk insurance premiums and potential rerouting delays for all Baltic-bound tonnage. Logistics leads should evaluate alternative land-bridge or feeder options as regional geopolitical friction threatens to destabilize Northern European transit reliability."
+                "Indian maritime authorities announced an immediate rollback of age restrictions on commercial ships operating under the national flag or seeking entry into domestic ports. This regulatory reversal directly addresses tightening global vessel supply and a severe scarcity of tankers caused by ongoing transit disruptions in the Strait of Hormuz.",
+                "Shipowners and operators can now deploy older tonnage into lucrative South Asian trade routes without facing legacy compliance barriers. Importers must reevaluate fleet deployment strategies to capitalize on this newly accessible capacity while monitoring regional safety audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: SAN PEDRO STRIKE AVERTED",
+            "nextUpTease": "PORTS: LA LB DEAL AVERTED",
             "tags": [
-                "Source: https://www.reuters.com/world/europe/cargo-ship-bound-kaliningrad-hit-by-drones-2026-11-21/",
-                "Published: 2026-11-21T08:45:00Z",
+                "Source: https://maritime-executive.com/article/india-rolls-back-age-restrictions-on-commercial-ships",
+                "Published: 2026-11-20T16:49:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: SAN PEDRO STRIKE AVERTED",
+            "heading": "PORTS: LA LB DEAL AVERTED",
             "paragraphs": [
-                "A tentative labor agreement has been reached between maritime employers and Local 26 watchmen, averting a threatened strike at the Port of Los Angeles and Long Beach. The deal resolves a year-long dispute that threatened to freeze operations at the $2T gateway during the critical holiday return season.",
-                "Shippers can now proceed with Q4 replenishment cycles without the immediate threat of West Coast port lockdowns or Force Majeure declarations. Procurement teams should maintain diversified port strategies to mitigate long-term labor friction risks as formal contract ratification by the full union membership remains pending."
+                "Pacific maritime employers and union watchmen reached a tentative labor agreement, successfully averting a disruptive strike across the vital Los Angeles and Long Beach port complex. The negotiated accord preserves continuous cargo operations at North America's premier gateway as retailers rush to clear holiday shipments.",
+                "Supply chain directors can breathe easier regarding West Coast import continuity, though final contract ratification by union members remains pending. Shippers must maintain diversified routing playbooks to hedge against potential downstream labor friction during future negotiation cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: KOREAN AIR CAPACITY SURGE",
+            "nextUpTease": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
             "tags": [
-                "Source: https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
-                "Published: 2026-11-20T19:30:00Z",
+                "Source: https://www.joc.com/article/la-lb-maritime-employers-local-26-reach-tentative-deal-on-new-contract",
+                "Published: 2026-11-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR: KOREAN AIR CAPACITY SURGE",
+            "heading": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
             "paragraphs": [
-                "Korean Air is projected to increase its belly cargo capacity by 20% following the final integration phases of its merger with Asiana Airlines. This expansion significantly boosts transpacific and Asia-Europe lift capability by utilizing a combined fleet of over 200 wide-body aircraft for high-frequency freight moves.",
-                "Forwarders should anticipate a potential softening in transpacific air rates as this massive capacity injection hits the market through 2027. Electronics and automotive shippers must leverage this increased belly space to negotiate improved contract allotments before peak electronics launches in Q1."
+                "Rockwell Automation has completed a strategic acquisition of Agilox, integrating advanced autonomous mobile robot fleets into its industrial automation portfolio. This hardware and software consolidation allows warehouse operators to seamlessly combine diverse AMR fleets under a single intelligent control architecture.",
+                "Distribution center managers face accelerated capital expenditure requirements to upgrade legacy material handling systems and remain competitive. Enterprise supply chain leads should evaluate how unified AMR ecosystems reduce facility labor dependence and optimize internal movement workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EPA NOX RULE FINALIZED",
+            "nextUpTease": "REGULATION: CONTRACTOR RULE FINALIZED",
             "tags": [
-                "Source: https://theloadstar.com/exclusive-korean-air-eyes-20-more-belly-cargo-capacity-from-asiana-merger/",
-                "Published: 2020-11-20T11:20:00Z",
+                "Source: https://www.dcvelocity.com/articles/rockwell-automation-buys-agilox-to-combine-amr-fleets",
+                "Published: 2026-11-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: EPA NOX RULE FINALIZED",
+            "heading": "REGULATION: CONTRACTOR RULE FINALIZED",
             "paragraphs": [
-                "The EPA's revised 2027 NOx emissions rule has entered its final review phase, mandating a 80% reduction in nitrogen oxide emissions for new heavy-duty commercial engines. This regulation is expected to increase new tractor acquisition costs by $25K to $35K per unit as manufacturers implement advanced after-treatment systems.",
-                "Asset-based carriers must accelerate fleet replacement cycles in 2026 to avoid the higher price points and maintenance complexities of the 2027 engine standards. Shippers should prepare for multi-year contract rate increases as carriers pass through these massive capital expenditure requirements to maintain compliant operations."
+                "The U.S. Department of Labor has officially finalized its independent contractor rule, returning to a streamlined evaluation framework centered primarily on two core economic dependence factors. This regulatory pivot replaces a complex six-factor test, providing clearer compliance guidelines for motor carriers utilizing owner-operator business models.",
+                "Trucking fleets can structure driver partnerships with enhanced legal certainty, significantly reducing misclassification lawsuit exposure. Operational planners must audit existing subcontractor agreements to align with the simplified federal compliance standard before year-end contract renewals."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: NARVIK COPPER EXPORT DEAL",
+            "nextUpTease": "EQUIPMENT: TRUCK SALES JUMP",
             "tags": [
-                "Source: https://www.ttnews.com/articles/epa-2027-nox-rule",
-                "Published: 2026-11-20T14:15:00Z",
+                "Source: https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds",
+                "Published: 2026-11-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: NARVIK COPPER EXPORT DEAL",
+            "heading": "EQUIPMENT: TRUCK SALES JUMP",
             "paragraphs": [
-                "Viscaria has secured a long-term copper export terminal agreement at the Port of Narvik, establishing a critical minerals pipeline for Northern European mining operations. The deal utilizes specialized rail-to-ship infrastructure to handle high-volume mineral exports targeting the green energy manufacturing sector in Central Europe.",
-                "Supply chain managers in the industrial metals sector should monitor Narvik's throughput capacity as it becomes a primary hub for decarbonization-related logistics. The agreement highlights a strategic shift toward specialized bulk terminals that bypass traditional congested hubs in the ARA region."
+                "U.S. Class 8 retail truck sales surged 59% in October as motor carriers aggressively capitalized on year-end market conditions to refresh aging over-the-road equipment. Fleets are aggressively purchasing new units to catch up on delayed replacement cycles and preempt upcoming emissions compliance cost hikes.",
+                "Asset-based carriers must manage increased debt servicing costs against stabilizing spot market freight rates as large equipment orders hit balance sheets. Shippers should anticipate stable capacity supply in the short term as newer fleets reduce maintenance-related transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: PHILLIPS 66 TERMINAL REVIEW",
+            "nextUpTease": "INFRASTRUCTURE: FMC FILING ADVISORY",
             "tags": [
-                "Source: https://splash247.com/viscaria-locks-in-narvik-copper-export-terminal-deal/",
-                "Published: 2026-11-21T06:30:00Z",
+                "Source: https://www.ttnews.com/articles/truck-sales-jump-59-replacement-momentum-october",
+                "Published: 2026-11-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: PHILLIPS 66 TERMINAL REVIEW",
+            "heading": "INFRASTRUCTURE: FMC FILING ADVISORY",
             "paragraphs": [
-                "The Port of Los Angeles has initiated an environmental review for the massive rebuild of the Phillips 66 oil terminal, targeting enhanced liquid bulk safety and throughput. The project involves upgrading ageing berth infrastructure to accommodate modern tankers and improve spill prevention systems in the San Pedro Bay.",
-                "Energy logistics leads should expect localized vessel berthing delays during the multi-year construction phase at the Phillips 66 facility. Shippers of liquid bulk commodities must coordinate closely with terminal operators to ensure schedule integrity as work zones impact primary tank farm access."
+                "The Federal Maritime Commission issued a strict industry advisory reminding ocean common carriers that all documented export policies must be formally filed by March 1. This regulatory mandate enforces strict transparency standards to ensure the timely and efficient movement of outbound containerized cargo across U.S. gateways.",
+                "Ocean carriers failing to comply with the March deadline risk severe administrative penalties and operational scrutiny from federal regulators. Logistics providers must coordinate closely with carrier partners to verify that export tariff filings are fully up to date."
             ],
             "imageUrl": "",
-            "nextUpTease": "RATES: ASIA-MED FREIGHT SPIKE",
+            "nextUpTease": "AIR CARGO: KOREAN AIR EXPANSION",
             "tags": [
-                "Source: https://splash247.com/los-angeles-opens-review-of-phillips-66-oil-terminal-rebuild/",
-                "Published: 2026-11-21T07:15:00Z",
+                "Source: https://www.fmc.gov/news/industry-advisory-documented-export-policies-must-be-filed-with-the-fmc-by-march-1-each-year",
+                "Published: 2026-11-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RATES: ASIA-MED FREIGHT SPIKE",
+            "heading": "AIR CARGO: KOREAN AIR EXPANSION",
             "paragraphs": [
-                "Container spot rates for Asia-Mediterranean trades saw an unexpected spike this week even as Transpacific rates began a seasonal decline. The volatility is driven by shifting carrier alliances and persistent bottlenecks at South-east Asian transshipment hubs, specifically affecting westbound capacity into Q1.",
-                "Logistics directors should prioritize immediate booking for Mediterranean-bound cargo to avoid further price escalation as carriers adjust vessel deployments. Importers must evaluate the trade-off between higher spot rates and the risk of terminal dwell at key transshipment gateways like Singapore."
+                "Korean Air is finalizing preparations to expand its available belly cargo capacity by 20% following the operational integration phases of its Asiana Airlines merger. This major lift expansion harnesses a combined wide-body fleet to inject high-frequency freight capacity into transpacific and Asia-Europe trade lanes.",
+                "Forwarders can leverage this massive capacity injection to secure favorable contract rates ahead of upcoming peak shipping cycles. Cargo owners should audit air freight allocations to capitalize on softening rate environments across key transpacific corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/transpac-spots-finally-on-the-slide-but-asia-med-spike-a-surprise/",
-                "Published: 2026-11-20T10:00:00Z",
+                "Source: https://theloadstar.com/exclusive-korean-air-eyes-20-more-belly-cargo-capacity-from-asiana-merger/",
+                "Published: 2026-11-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
