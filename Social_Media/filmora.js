@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "POLICY: INDIA DROPS VESSEL AGE RESTRICTIONS",
-                "teaserTitle": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
-                "visual_caption": "India lifted vessel age limits to relieve tanker shortages across regional lanes. Charterers must weigh older fleet risks against immediate 18% freight savings."
+                "headline": "M&A: C.H. ROBINSON ACQUIRES RXO FOR 5.8B",
+                "teaserTitle": "PORTS: NEW YORK AWARDS 195M FUNDING",
+                "visual_caption": "C.H. Robinson is acquiring RXO in a $5.8B deal to consolidate the North American freight market. This merger will merge two massive brokerage platforms to enhance last-mile and expedited capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: STB UPHOLDS 1B DEMURRAGE CHARGES",
-                "teaserTitle": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
-                "visual_caption": "The STB affirmed railroads can charge demurrage on private tracks. Industrial shippers face $1B in annual fees unless railcar dwell drops."
+                "headline": "PORTS: NEW YORK AWARDS 195M FUNDING",
+                "teaserTitle": "COMPLIANCE: MEXICO TIGHTENS TRUCKING RULES",
+                "visual_caption": "New York has awarded $195M to expand port infrastructure and berth capacity. These upgrades target a 12% reduction in vessel idle times to improve East Coast reliability."
             },
             {
                 "slide_index": 3,
-                "headline": "CARRIERS: MSC OVERHAULS PACIFIC NW LOOPS",
-                "teaserTitle": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
-                "visual_caption": "MSC revamped Pacific Northwest services by adding a loop with 14K TEU vessels. Shippers must review terminal schedules to protect West Coast connections."
+                "headline": "COMPLIANCE: MEXICO TIGHTENS TRUCKING RULES",
+                "teaserTitle": "PARCEL: FEDEX COMPLETES 8.5B ACQUISITION",
+                "visual_caption": "Mexico is mandating new digital compliance rules for all cross-border trucking to reduce cargo theft. Non-compliant carriers face fines of up to $15K per violation."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: US RAIL FREIGHT SURGES 7.3%",
-                "teaserTitle": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
-                "visual_caption": "US rail traffic expanded 7.3%, led by a 10.7% surge in intermodal container volume. Shippers face inland equipment shortages across major rail hubs."
+                "headline": "PARCEL: FEDEX COMPLETES 8.5B ACQUISITION",
+                "teaserTitle": "OFFSHORE: SUBSEA 7 DIVESTS PIPELAY ASSET",
+                "visual_caption": "FedEx has finalized an $8.5B buyout of a Polish parcel giant to dominate Eastern Europe. This adds 500 sorting facilities to accelerate cross-border e-commerce fulfillment."
             },
             {
                 "slide_index": 5,
-                "headline": "INTRA-ASIA: HUB CONGESTION DRIVES RATES",
-                "teaserTitle": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
-                "visual_caption": "Southeast Asian hub congestion drove intra-Asia spot rates up 24% in 2 weeks. Cargo owners face rolling bookings and extended supply chain lead times."
+                "headline": "OFFSHORE: SUBSEA 7 DIVESTS PIPELAY ASSET",
+                "teaserTitle": "SECURITY: PIRACY RENEWS IN GULF OF ADEN",
+                "visual_caption": "Subsea 7 is selling its Seven Borealis pipelay vessel as a condition for its merger with Saipem. This divestment will tighten specialized vessel availability for deep-water energy projects."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: CLASS 8 TRUCK SALES SURGE 59%",
-                "teaserTitle": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
-                "visual_caption": "Class 8 truck retail sales jumped 59% in October to 24.8K tractors. Fleets will push for baseline rate adjustments to absorb equipment investments."
+                "headline": "SECURITY: PIRACY RENEWS IN GULF OF ADEN",
+                "teaserTitle": "TECH: J.B. HUNT LAUNCHES AI BILLING",
+                "visual_caption": "Armed pirates attacked a bulk carrier 60 miles off Balhaf, signaling a dangerous resurgence in the Gulf of Aden. Shippers must prepare for higher insurance premiums and rerouting costs."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: JB HUNT BROKER LIABILITY ADVANCES",
+                "headline": "TECH: J.B. HUNT LAUNCHES AI BILLING",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "A federal judge allowed negligent hiring claims against J.B. Hunt to proceed. Freight brokerages must overhaul carrier qualification audits to limit tort exposure."
+                "visual_caption": "J.B. Hunt has launched an AI billing platform to eliminate 95% of manual freight disputes. The system reconciles invoices in hours to improve cash flow for the carrier network."
             },
             {
                 "slide_index": 8,
