@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT STRIKE AVERTED AT LA LB",
-                "teaserTitle": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
-                "visual_caption": "A tentative labor accord averted a strike at the Port of LA and LB. The agreement preserves 43% of containerized imports ahead of peak season."
+                "headline": "SECURITY: BALTIC RORO ATTACK",
+                "teaserTitle": "MEXICO SAFETY ACCORD",
+                "visual_caption": "A drone strike ignited a major bridge fire on the Russian vessel Sparta II. Finnish authorities are leading firefighting efforts in the Baltic."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
-                "teaserTitle": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
-                "visual_caption": "The FMC requires ocean common carriers to file export policies by Mar 1. Non-compliant operators face strict regulatory audits and penalties."
+                "headline": "CROSS-BORDER: MEXICO SAFETY ACCORD",
+                "teaserTitle": "RAIL: $22.5M THEFT RING",
+                "visual_caption": "Mexico secured 29 agreements to improve highway safety after carrier strikes. Shippers should expect more federal patrols and mandatory safe parking stops."
             },
             {
                 "slide_index": 3,
-                "headline": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
-                "teaserTitle": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
-                "visual_caption": "India rolled back ship age restrictions to combat regional tanker shortages. Relaxed vessel entry rules will expand available charter tonnage."
+                "headline": "RAIL: $22.5M THEFT DISMANTLED",
+                "teaserTitle": "GEMINI SUEZ RETURN",
+                "visual_caption": "14 people were charged in a $22.5M rail theft ring targeting moving trains. The group breached containers during transit to steal high-value goods."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
-                "teaserTitle": "REGULATION: EPA ADVANCES 2027 NOX RULE",
-                "visual_caption": "Hapag-Lloyd called for an overhaul of traditional fixed-rate shipping contracts. Shippers must adopt flexible volume bands and dynamic pricing."
+                "headline": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
+                "teaserTitle": "Q3 DELIVERY EXPENSE SURGE",
+                "visual_caption": "The Gemini alliance will return to Suez transits by mid-January 2027. This shift will cut transit lead times and stabilize container spot rates."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EPA ADVANCES 2027 NOX RULE",
-                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "visual_caption": "The EPA advanced its revised 2027 NOx emissions rule into final review. Compliance costs will drive up commercial vehicle acquisition expenses."
+                "headline": "COSTS: Q3 DELIVERY EXPENSE SURGE",
+                "teaserTitle": "$8.5B PARCEL BUYOUT",
+                "visual_caption": "U.S. delivery costs rose 3X faster than inflation during Q3. Shippers must find new ways to offset high last-mile peak season surcharges."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "teaserTitle": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
-                "visual_caption": "The DOL finalized an independent contractor rule utilizing 2 core factors. This update provides greater legal clarity for motor carriers."
+                "headline": "M&A: $8.5B PARCEL BUYOUT",
+                "teaserTitle": "$128B CONGESTION COST",
+                "visual_caption": "FedEx completed an $8.5B buyout of Polish parcel locker provider InPost. The acquisition expands FedEx's automated delivery footprint across Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
-                "teaserTitle": "",
-                "visual_caption": "Experts warned that data translation gaps exposed freight during disruptions. Enterprise leaders must invest in integrated B2B platforms."
+                "headline": "ECONOMICS: $128B CONGESTION COST",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Highway congestion cost the trucking industry $128B in 2024. Carriers must utilize AI routing tools to bypass metropolitan bottlenecks."
             },
             {
                 "slide_index": 8,

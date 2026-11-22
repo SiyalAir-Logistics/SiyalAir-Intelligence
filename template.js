@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TENTATIVE UNION DEAL AVERTS STRIKE AT",
-        "titleBlue": "PORT",
-        "footerSummary": "Tentative labor accord averts strike at the Port of Los Angeles and Long Beach, preserving 43% container flows while keeping spot rates stable."
+        "titleWhite": "BALTIC RORO",
+        "titleBlue": "ATTACK",
+        "footerSummary": "Russian military vessel Sparta II abandoned in the Baltic after drone attack, signaling heightened maritime risk and potential Q4 insurance spikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PORT STRIKE AVERTED AT LA LB",
+            "heading": "SECURITY: BALTIC RORO ATTACK",
             "paragraphs": [
-                "A tentative labor accord has successfully averted a disruptive strike at the vital Port of Los Angeles and Long Beach container complex. The agreement follows more than a year of intense bargaining and federally mediated negotiations involving watchmen and marine terminal employers.",
-                "This breakthrough preserves 43% of total U.S. containerized import flows and prevents massive supply chain bottlenecks ahead of the holiday peak. Shippers must maintain diversified routing strategies as terminal operators work through lingering cargo backlogs and equipment repositioning."
+                "The Russian military RoRo vessel Sparta II was abandoned in the Baltic Sea after a drone strike ignited a major bridge fire. Finnish authorities are currently leading firefighting efforts as the vessel drifted following the crew's emergency evacuation on November 22.",
+                "Maritime operators in Northern Europe must anticipate increased naval activity and potential routing restrictions as regional security protocols tighten. Logistics leaders should evaluate secondary insurance premiums and prepare emergency contingency plans for high-value cargo transiting high-risk Baltic lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+            "nextUpTease": "CROSS-BORDER: MEXICO SAFETY ACCORD",
             "tags": [
-                "Source: https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
-                "Published: 2026-11-20T14:00:00Z",
+                "Source: https://maritime-executive.com/article/russian-military-roro-abandoned-after-drone-attack-in-the-baltic",
+                "Published: 2026-11-22T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+            "heading": "CROSS-BORDER: MEXICO SAFETY ACCORD",
             "paragraphs": [
-                "The Federal Maritime Commission has issued an industry advisory requiring ocean common carriers to file documented export policies by March 1 each year. The mandatory filings are designed to improve transparency and enable the timely, efficient movement of outbound international cargo.",
-                "Carriers failing to comply risk strict regulatory audits and administrative penalties under federal shipping statutes. Exporters must audit carrier compliance records to ensure uninterrupted booking access and avoid unexpected service disruptions across major trade lanes."
+                "Mexican trucking organizations have secured 29 specific agreements with government authorities to improve highway security following a series of nationwide strikes. The accords mandate increased federal patrol frequency and the development of dedicated secure-parking zones for interstate freight.",
+                "Enhanced security frameworks are expected to stabilize transit reliability for cross-border shipments while potentially increasing operational overhead for specialized guard details. Shippers must recalibrate transit times as carriers implement these mandatory safety stops and security-first routing protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+            "nextUpTease": "RAIL: $22.5M THEFT DISMANTLED",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-11-17T09:00:00Z",
+                "Source: https://www.freightwaves.com/news/mexico-truckers-secure-29-agreements-on-highway-safety",
+                "Published: 2026-11-22T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+            "heading": "RAIL: $22.5M THEFT DISMANTLED",
             "paragraphs": [
-                "The Directorate General of Maritime Administration in India has announced an immediate rollback of strict age restrictions imposed on commercial ships operating under the national flag. The regulatory reversal responds directly to a tightening global fleet market and severe tanker scarcity caused by ongoing Middle East transit restrictions.",
-                "Relaxed vessel entry rules will expand available charter tonnage for regional importers while modifying safety compliance verification standards. Vessel operators must review older fleet deployment opportunities to capitalize on shifting capacity rules and reduce spot charter expenditures."
+                "Federal investigators have charged 14 individuals in a massive $22.5M cargo theft ring that targeted moving freight trains across the U.S. rail network. The criminal operation utilized sophisticated methods to breach high-value containers while trains remained in transit, causing significant inventory losses.",
+                "Rail shippers may face increased premiums and more aggressive carrier surveillance as railroads attempt to harden intermodal security chains. Cargo owners should audit 3PL security protocols and prioritize carriers utilizing GPS-enabled active tamper alerts to mitigate transit theft risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+            "nextUpTease": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
             "tags": [
-                "Source: https://maritime-executive.com/article/india-rolls-back-age-restrictions-on-commercial-ships",
-                "Published: 2026-11-20T16:49:00Z",
+                "Source: https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring",
+                "Published: 2026-11-22T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+            "heading": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
             "paragraphs": [
-                "Hapag-Lloyd Chief Executive Rolf Habben Jansen has called for a fundamental overhaul of traditional shipping contracts, arguing that fixed-rate annual agreements fail to reflect container market volatility. The executive emphasized that modern supply chain disruptions require dynamic pricing mechanisms that adapt to shifting geopolitical and capacity realities.",
-                "Rigid annual contracts expose cargo owners to unexpected carrier surcharges and service level degradation during peak demand spikes. Shippers preparing for annual contract negotiations must build flexible volume bands and index-linked pricing structures into carrier agreements."
+                "Maersk and Hapag-Lloyd, operating as the Gemini alliance, have confirmed plans to return to full Suez Canal transits by mid-January 2027. The phased redeployment aims to restore schedule reliability and significantly reduce transit times between Asia and European gateways.",
+                "The shift away from the Cape of Good Hope route is expected to stabilize container spot rates and increase weekly vessel capacity availability. Logistics planners must adjust 2027 buffer stocks as shorter lead times begin to rebalance inventory-to-sales ratios across global retail networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+            "nextUpTease": "COSTS: Q3 DELIVERY EXPENSE SURGE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-20T11:00:00Z",
+                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits",
+                "Published: 2026-11-22T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+            "heading": "COSTS: Q3 DELIVERY EXPENSE SURGE",
             "paragraphs": [
-                "The Environmental Protection Agency has advanced its revised 2027 nitrogen oxide emissions rule into final executive review, setting strict new standards for heavy-duty commercial vehicle engines. Truck manufacturers are accelerating technological adjustments to meet the lower emission thresholds before the compliance deadline takes effect.",
-                "Compliance expenditures will likely drive up new Class 8 truck acquisition costs, prompting motor carriers to extend existing fleet replacement cycles. Fleet operators must evaluate maintenance budgets and capital expenditure timelines to manage rising equipment replacement costs effectively."
+                "Recent Geodis data reveals that U.S. Q3 delivery costs rose three times faster than the national inflation rate, driven by peak season surcharges and labor expenses. The surge highlights a growing disconnect between core consumer price indices and the true cost of logistics execution.",
+                "Carriers are maintaining high margin requirements despite easing volume pressure in certain sectors, forcing shippers to absorb higher fulfillment costs. Supply chain managers should evaluate parcel contract renegotiations or carrier diversification strategies to offset rising last-mile expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+            "nextUpTease": "M&A: $8.5B PARCEL BUYOUT",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-20T10:15:00Z",
+                "Source: https://www.dcvelocity.com/articles/geodis-us-q3-delivery-costs-rose-three-times-faster-than-inflation",
+                "Published: 2026-11-20T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+            "heading": "M&A: $8.5B PARCEL BUYOUT",
             "paragraphs": [
-                "The U.S. Department of Labor has officially finalized its independent contractor rule, returning to a streamlined framework that primarily evaluates two core economic dependence factors. The American Trucking Associations praised the regulatory shift as a major milestone for owner-operator labor stability.",
-                "The revised standard provides greater legal clarity for motor carriers utilizing independent contractor business models across interstate freight networks. Logistics providers should review current driver classification agreements with legal counsel to ensure alignment with the updated federal guidelines."
+                "FedEx and a consortium of finance firms have finalized an $8.5B buyout of InPost, the leading Polish parcel locker and delivery provider. The acquisition is intended to aggressively expand FedEx's automated last-mile infrastructure across the European e-commerce market.",
+                "This consolidation of locker networks will likely lower European last-mile fulfillment costs for cross-border retailers while increasing regional delivery speed. Retailers targeting Eastern Europe should monitor integration progress to capitalize on expanded locker access for peak season 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
+            "nextUpTease": "ECONOMICS: $128B CONGESTION COST",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-19T14:30:00Z",
+                "Source: https://theloadstar.com/fdx-inpost-deal-wrapped",
+                "Published: 2026-11-20T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
+            "heading": "ECONOMICS: $128B CONGESTION COST",
             "paragraphs": [
-                "Supply chain experts from Cleo and Coupa have highlighted severe data translation vulnerabilities that exposed holiday freight during recent FAA ground stop disruptions. The incidents demonstrated how disconnected partner data systems create critical capacity blind spots when transportation networks face sudden regulatory freezes.",
-                "Information silos between shippers and logistics partners severely hamper real-time contingency execution during emergency network disruptions. Enterprise logistics leaders must invest in integrated B2B data integration platforms to automate exception handling and protect peak season inventory flows."
+                "The American Trucking Research Institute reports that highway congestion cost the U.S. trucking industry $128B in 2024, a record high. The data also confirms that congestion led to the waste of 6.6B gallons of diesel fuel across the commercial fleet.",
+                "Rising congestion costs are placing immense pressure on carrier operating margins and contributing to truckload rate inflation in metropolitan corridors. Fleet owners must leverage real-time AI routing tools to bypass bottlenecks and reduce fuel burn to maintain competitive pricing in 2027."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-11-20T08:00:00Z",
+                "Source: https://www.ttnews.com/articles/atri-trucking-congestion-cost",
+                "Published: 2026-11-19T15:20:00Z",
                 "Status: Audited & True"
             ]
         }

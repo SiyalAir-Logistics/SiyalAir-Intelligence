@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TENTATIVE UNION DEAL AVERTS STRIKE AT PORT",
+        "hookTitle": "BALTIC RORO ATTACK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT STRIKE AVERTED AT LA LB",
-                "teaserTitle": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+                "headline": "SECURITY: BALTIC RORO ATTACK",
+                "teaserTitle": "MEXICO SAFETY ACCORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A tentative labor accord successfully averted a strike at the Port of Los Angeles and Long Beach. This agreement preserves forty-three percent of containerized imports and protects supply chains."
+                "narration_line": "A drone strike set a Russian military ship on fire in the Baltic sea. Finnish authorities are now leading firefighting efforts as the vessel remains abandoned."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
-                "teaserTitle": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+                "headline": "CROSS-BORDER: MEXICO SAFETY ACCORD",
+                "teaserTitle": "RAIL: $22.5M THEFT RING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Federal Maritime Commission issued a rule requiring carriers to file export policies by March first. Non-compliant operators face strict regulatory audits and administrative penalties."
+                "narration_line": "Mexico secured twenty nine new agreements to improve highway safety after carrier strikes. Shippers should expect more federal patrols and mandatory safe parking stops."
             },
             {
                 "slide_index": 3,
-                "headline": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
-                "teaserTitle": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+                "headline": "RAIL: $22.5M THEFT DISMANTLED",
+                "teaserTitle": "GEMINI SUEZ RETURN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "India rolled back ship age restrictions to combat regional tanker shortages and fleet tightness. Relaxed vessel entry rules will expand charter tonnage for regional importers."
+                "narration_line": "Fourteen people were charged in a twenty two point five million dollar rail theft ring. The group robbed moving trains by breaching containers during transit."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
-                "teaserTitle": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+                "headline": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
+                "teaserTitle": "Q3 DELIVERY EXPENSE SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hapag-Lloyd called for an overhaul of traditional fixed-rate shipping contracts due to market volatility. Shippers must adopt flexible volume bands and dynamic pricing mechanisms."
+                "narration_line": "The Gemini alliance will return to Suez transits by mid January twenty twenty seven. This shift will cut lead times and stabilize container spot rates."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EPA ADVANCES 2027 NOX RULE",
-                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "headline": "COSTS: Q3 DELIVERY EXPENSE SURGE",
+                "teaserTitle": "$8.5B PARCEL BUYOUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The EPA advanced its revised twenty twenty-seven nitrogen oxide emissions rule for final review. Compliance costs will drive up new commercial vehicle acquisition expenses."
+                "narration_line": "United States delivery costs rose three times faster than inflation in the third quarter. Shippers must find new ways to offset high last mile surcharges."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
-                "teaserTitle": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
+                "headline": "M&A: $8.5B PARCEL BUYOUT",
+                "teaserTitle": "$128B CONGESTION COST",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Department of Labor finalized an independent contractor rule focusing on two core factors. This update provides greater legal clarity for motor carriers nationwide."
+                "narration_line": "FedEx completed an eight point five billion dollar buyout of Polish locker firm InPost. This deal significantly expands their automated last mile reach in Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
-                "teaserTitle": "",
+                "headline": "ECONOMICS: $128B CONGESTION COST",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Supply chain experts warned that data translation gaps exposed freight during recent disruptions. Enterprise leaders must invest in integrated B2B data platforms to protect inventory."
+                "narration_line": "Highway congestion cost the trucking industry one hundred and twenty eight billion dollars last year. Carriers must use AI routing to bypass growing metropolitan bottlenecks."
             },
             {
                 "slide_index": 8,
