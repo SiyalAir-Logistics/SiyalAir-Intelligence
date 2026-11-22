@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ROBINSON RXO MEGA MERGER",
+        "hookTitle": "TENTATIVE UNION DEAL AVERTS STRIKE AT PORT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
+                "headline": "MARITIME: PORT STRIKE AVERTED AT LA LB",
+                "teaserTitle": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C H Robinson agreed to acquire RXO in a five point eight billion dollar deal. This mega merger creates an unprecedented non asset brokerage powerhouse across North America."
+                "narration_line": "A tentative labor accord successfully averted a strike at the Port of Los Angeles and Long Beach. This agreement preserves forty-three percent of containerized imports and protects supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
-                "teaserTitle": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
+                "headline": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+                "teaserTitle": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx closed an eight point five billion dollar buyout of a Polish parcel operator. The move immediately secures twenty five thousand automated locker terminals across Europe."
+                "narration_line": "The Federal Maritime Commission issued a rule requiring carriers to file export policies by March first. Non-compliant operators face strict regulatory audits and administrative penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
-                "teaserTitle": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
+                "headline": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+                "teaserTitle": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A commercial cargo vessel caught fire in the Baltic Sea following a reported drone strike. Regional maritime underwriters are rapidly raising war risk insurance premiums for transit vessels."
+                "narration_line": "India rolled back ship age restrictions to combat regional tanker shortages and fleet tightness. Relaxed vessel entry rules will expand charter tonnage for regional importers."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
-                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
+                "headline": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+                "teaserTitle": "REGULATION: EPA ADVANCES 2027 NOX RULE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Ocean carrier Zim generated eight hundred and thirty million dollars in third quarter net profit. Carrier earnings surged as average freight rates leaped fifty five percent."
+                "narration_line": "Hapag-Lloyd called for an overhaul of traditional fixed-rate shipping contracts due to market volatility. Shippers must adopt flexible volume bands and dynamic pricing mechanisms."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
-                "teaserTitle": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
+                "headline": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States rail traffic climbed over seven percent as intermodal volume jumped ten point seven percent. Inbound holiday containers are straining inland terminal chassis inventories."
+                "narration_line": "The EPA advanced its revised twenty twenty-seven nitrogen oxide emissions rule for final review. Compliance costs will drive up new commercial vehicle acquisition expenses."
             },
             {
                 "slide_index": 6,
-                "headline": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
-                "teaserTitle": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
+                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "teaserTitle": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Yangzijiang revived a five hundred and four million dollar shipyard project in China. The new yard will deliver dual fuel clean energy cargo vessels by twenty twenty eight."
+                "narration_line": "The Department of Labor finalized an independent contractor rule focusing on two core factors. This update provides greater legal clarity for motor carriers nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
+                "headline": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Third quarter delivery expenses climbed at three times the standard inflation rate according to Geodis data. Retail shippers face rising carrier surcharges on urban residential deliveries."
+                "narration_line": "Supply chain experts warned that data translation gaps exposed freight during recent disruptions. Enterprise leaders must invest in integrated B2B data platforms to protect inventory."
             },
             {
                 "slide_index": 8,

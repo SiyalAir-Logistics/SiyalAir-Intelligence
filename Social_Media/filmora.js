@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
-                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B deal. This mega-merger creates an unprecedented non-asset brokerage powerhouse across North America."
+                "headline": "MARITIME: PORT STRIKE AVERTED AT LA LB",
+                "teaserTitle": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+                "visual_caption": "A tentative labor accord averted a strike at the Port of LA and LB. The agreement preserves 43% of containerized imports ahead of peak season."
             },
             {
                 "slide_index": 2,
-                "headline": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
-                "teaserTitle": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
-                "visual_caption": "FedEx closed an $8.5B buyout of a Polish parcel operator. The move immediately secures 25K automated locker terminals across Europe."
+                "headline": "COMPLIANCE: FMC ISSUES ANNUAL EXPORT NOTICE",
+                "teaserTitle": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+                "visual_caption": "The FMC requires ocean common carriers to file export policies by Mar 1. Non-compliant operators face strict regulatory audits and penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
-                "teaserTitle": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
-                "visual_caption": "A commercial cargo vessel caught fire in the Baltic Sea following a reported drone strike. Regional maritime underwriters are rapidly raising war-risk insurance premiums for transit vessels."
+                "headline": "VESSELS: INDIA ROLLS BACK SHIP AGE LIMITS",
+                "teaserTitle": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+                "visual_caption": "India rolled back ship age restrictions to combat regional tanker shortages. Relaxed vessel entry rules will expand available charter tonnage."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
-                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
-                "visual_caption": "Ocean carrier Zim generated $830M in Q3 net profit. Carrier earnings surged as average freight rates leaped 55%."
+                "headline": "CONTRACTS: HAPAG LLOYD DEMANDS RATE REVISION",
+                "teaserTitle": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+                "visual_caption": "Hapag-Lloyd called for an overhaul of traditional fixed-rate shipping contracts. Shippers must adopt flexible volume bands and dynamic pricing."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
-                "teaserTitle": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
-                "visual_caption": "U.S. rail traffic climbed 7.3% as intermodal volume jumped 10.7%. Inbound holiday containers are straining inland terminal chassis inventories."
+                "headline": "REGULATION: EPA ADVANCES 2027 NOX RULE",
+                "teaserTitle": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "visual_caption": "The EPA advanced its revised 2027 NOx emissions rule into final review. Compliance costs will drive up commercial vehicle acquisition expenses."
             },
             {
                 "slide_index": 6,
-                "headline": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
-                "teaserTitle": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
-                "visual_caption": "Yangzijiang revived a $504M shipyard project in China. The new yard will deliver dual-fuel clean energy cargo vessels by 2028."
+                "headline": "REGULATION: DOL FINALIZES CONTRACTOR RULE",
+                "teaserTitle": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
+                "visual_caption": "The DOL finalized an independent contractor rule utilizing 2 core factors. This update provides greater legal clarity for motor carriers."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
+                "headline": "TECHNOLOGY: CLEO COUPA SPOTLIGHTS HOLIDAY RISK",
                 "teaserTitle": "",
-                "visual_caption": "Q3 delivery expenses climbed at 3x the standard inflation rate according to Geodis data. Retail shippers face rising carrier surcharges on urban residential deliveries."
+                "visual_caption": "Experts warned that data translation gaps exposed freight during disruptions. Enterprise leaders must invest in integrated B2B platforms."
             },
             {
                 "slide_index": 8,
