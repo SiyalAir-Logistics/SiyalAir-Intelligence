@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INDIA ROLLS BACK SHIP RESTRICTIONS",
+        "hookTitle": "ROBINSON RXO MEGA MERGER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: INDIA ROLLS BACK RESTRICTIONS",
-                "teaserTitle": "PORTS: LA LB DEAL AVERTED",
+                "headline": "M&A: ROBINSON ACQUIRES RXO FOR $5.8B",
+                "teaserTitle": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Indian maritime authorities have rolled back age restrictions on commercial ships. This urgent regulatory shift directly counters global tanker shortages."
+                "narration_line": "C H Robinson agreed to acquire RXO in a five point eight billion dollar deal. This mega merger creates an unprecedented non asset brokerage powerhouse across North America."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: LA LB DEAL AVERTED",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
+                "headline": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
+                "teaserTitle": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Employers and union watchmen reached a tentative labor agreement at Los Angeles ports. The deal successfully averts a disruptive strike before the holidays."
+                "narration_line": "FedEx closed an eight point five billion dollar buyout of a Polish parcel operator. The move immediately secures twenty five thousand automated locker terminals across Europe."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
-                "teaserTitle": "REGULATION: CONTRACTOR RULE FINALIZED",
+                "headline": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
+                "teaserTitle": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Rockwell Automation has completed its acquisition of Agilox to combine autonomous mobile robot fleets. Warehouse operators gain unified control over complex internal logistics."
+                "narration_line": "A commercial cargo vessel caught fire in the Baltic Sea following a reported drone strike. Regional maritime underwriters are rapidly raising war risk insurance premiums for transit vessels."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: CONTRACTOR RULE FINALIZED",
-                "teaserTitle": "EQUIPMENT: TRUCK SALES JUMP",
+                "headline": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
+                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Department of Labor finalized its independent contractor rule using a streamlined two-factor test. Motor carriers benefit from clearer compliance guidelines and reduced litigation risks."
+                "narration_line": "Ocean carrier Zim generated eight hundred and thirty million dollars in third quarter net profit. Carrier earnings surged as average freight rates leaped fifty five percent."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: TRUCK SALES JUMP",
-                "teaserTitle": "INFRASTRUCTURE: FMC FILING ADVISORY",
+                "headline": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
+                "teaserTitle": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. Class 8 retail truck sales jumped 59% in October as carriers rushed to refresh aging fleets. Fleets are aggressively purchasing units before strict emissions rules arrive."
+                "narration_line": "United States rail traffic climbed over seven percent as intermodal volume jumped ten point seven percent. Inbound holiday containers are straining inland terminal chassis inventories."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: FMC FILING ADVISORY",
-                "teaserTitle": "AIR CARGO: KOREAN AIR EXPANSION",
+                "headline": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
+                "teaserTitle": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Federal Maritime Commission mandates that carriers file all export policies by March first. This oversight ensures transparency and prevents supply chain bottlenecks."
+                "narration_line": "Yangzijiang revived a five hundred and four million dollar shipyard project in China. The new yard will deliver dual fuel clean energy cargo vessels by twenty twenty eight."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: KOREAN AIR EXPANSION",
+                "headline": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Korean Air is expanding its belly cargo capacity by 20% following its merger integration. Shippers gain massive wide-body lift across primary transpacific trade lanes."
+                "narration_line": "Third quarter delivery expenses climbed at three times the standard inflation rate according to Geodis data. Retail shippers face rising carrier surcharges on urban residential deliveries."
             },
             {
                 "slide_index": 8,

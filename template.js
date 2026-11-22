@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INDIA ROLLS BACK",
-        "titleBlue": "RESTRICTIONS",
-        "footerSummary": "India rolls back commercial ship age limits and LA-LB ports avert strikes as supply chains recalibrate capacity."
+        "titleWhite": "ROBINSON ACQUIRES RXO FOR",
+        "titleBlue": "$5.8B",
+        "footerSummary": "C.H. Robinson buys RXO for $5.8B as FedEx seals an $8.5B parcel takeover, reshaping contract brokerage capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: INDIA ROLLS BACK RESTRICTIONS",
+            "heading": "M&A: ROBINSON ACQUIRES RXO FOR $5.8B",
             "paragraphs": [
-                "Indian maritime authorities announced an immediate rollback of age restrictions on commercial ships operating under the national flag or seeking entry into domestic ports. This regulatory reversal directly addresses tightening global vessel supply and a severe scarcity of tankers caused by ongoing transit disruptions in the Strait of Hormuz.",
-                "Shipowners and operators can now deploy older tonnage into lucrative South Asian trade routes without facing legacy compliance barriers. Importers must reevaluate fleet deployment strategies to capitalize on this newly accessible capacity while monitoring regional safety audits."
+                "C.H. Robinson has entered into a definitive agreement to acquire RXO in a $5.8B cash-and-stock transaction, combining two of North America's premier freight brokerages. The transaction incorporates high-density expedited freight and dedicated last-mile operations under Robinson's enterprise logistics platform, with regulatory closing targeted for early 2027.",
+                "This consolidation significantly tightens non-asset capacity access, granting the combined brokerage enhanced pricing leverage across major contract freight corridors. Shippers must evaluate carrier diversification strategies now to mitigate exposure to concentrated freight pricing and broker market dominance."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LA LB DEAL AVERTED",
+            "nextUpTease": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
             "tags": [
-                "Source: https://maritime-executive.com/article/india-rolls-back-age-restrictions-on-commercial-ships",
-                "Published: 2026-11-20T16:49:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ch_robinson_agrees_to_acquire_rxo_in_5_8_billion_deal",
+                "Published: 2026-11-20T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: LA LB DEAL AVERTED",
+            "heading": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
             "paragraphs": [
-                "Pacific maritime employers and union watchmen reached a tentative labor agreement, successfully averting a disruptive strike across the vital Los Angeles and Long Beach port complex. The negotiated accord preserves continuous cargo operations at North America's premier gateway as retailers rush to clear holiday shipments.",
-                "Supply chain directors can breathe easier regarding West Coast import continuity, though final contract ratification by union members remains pending. Shippers must maintain diversified routing playbooks to hedge against potential downstream labor friction during future negotiation cycles."
+                "FedEx and a consortium of three private equity firms have completed the $8.5B acquisition of a major European automated locker and parcel delivery operator based in Poland. The buyout integrates more than 25K automated parcel machines directly into FedEx's Pan-European ground delivery architecture, accelerating out-of-home delivery networks.",
+                "Enterprise retail shippers gain access to low-cost residential drop networks that bypass congested urban delivery curbsides across Central Europe. Logistics planners should incorporate European locker networks to compress last-mile final delivery surcharges and reduce urban transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
+            "nextUpTease": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
             "tags": [
-                "Source: https://www.joc.com/article/la-lb-maritime-employers-local-26-reach-tentative-deal-on-new-contract",
-                "Published: 2026-11-18T00:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/fedex-and-private-equity-consortium-close-8-5-billion-polish-parcel-deal",
+                "Published: 2026-11-20T16:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
+            "heading": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
             "paragraphs": [
-                "Rockwell Automation has completed a strategic acquisition of Agilox, integrating advanced autonomous mobile robot fleets into its industrial automation portfolio. This hardware and software consolidation allows warehouse operators to seamlessly combine diverse AMR fleets under a single intelligent control architecture.",
-                "Distribution center managers face accelerated capital expenditure requirements to upgrade legacy material handling systems and remain competitive. Enterprise supply chain leads should evaluate how unified AMR ecosystems reduce facility labor dependence and optimize internal movement workflows."
+                "The commercial roll-on roll-off cargo vessel Sparta II caught fire and was abandoned in the Baltic Sea following a reported drone attack near Scandinavian shipping lanes. Finnish maritime border patrol units evacuated the civilian crew and launched emergency firefighting efforts as burning containerized deck cargo threatened navigation lanes.",
+                "The incident escalates marine war-risk insurance premiums across Baltic shipping routes, prompting international vessel operators to recalculate transit routes. Cargo owners operating across Northern European waters must audit carrier safety protocols and brace for additional hull war risk surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: CONTRACTOR RULE FINALIZED",
+            "nextUpTease": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/rockwell-automation-buys-agilox-to-combine-amr-fleets",
-                "Published: 2026-11-20T00:00:00Z",
+                "Source: https://maritime-executive.com/article/russian-military-roro-abandoned-after-drone-attack-in-the-baltic",
+                "Published: 2026-11-21T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: CONTRACTOR RULE FINALIZED",
+            "heading": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
             "paragraphs": [
-                "The U.S. Department of Labor has officially finalized its independent contractor rule, returning to a streamlined evaluation framework centered primarily on two core economic dependence factors. This regulatory pivot replaces a complex six-factor test, providing clearer compliance guidelines for motor carriers utilizing owner-operator business models.",
-                "Trucking fleets can structure driver partnerships with enhanced legal certainty, significantly reducing misclassification lawsuit exposure. Operational planners must audit existing subcontractor agreements to align with the simplified federal compliance standard before year-end contract renewals."
+                "Ocean carrier Zim reported Q3 net income surging to $830M, driven by a 55% year-over-year jump in average realized container freight rates. Strong demand across transpacific lanes and sustained Cape of Good Hope vessel diversions absorbed surplus global fleet capacity, maintaining tight spot vessel availability.",
+                "Ocean carriers continue to defend elevated pricing baselines despite underlying fleet capacity expansion, limiting the scope for immediate rate deflation. Shippers entering annual ocean contract negotiations must leverage volume commitments to secure space guarantees rather than betting on sudden rate drops."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TRUCK SALES JUMP",
+            "nextUpTease": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
             "tags": [
-                "Source: https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds",
-                "Published: 2026-11-19T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million-as-freight-rates-jump-55-percent",
+                "Published: 2026-11-20T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: TRUCK SALES JUMP",
+            "heading": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
             "paragraphs": [
-                "U.S. Class 8 retail truck sales surged 59% in October as motor carriers aggressively capitalized on year-end market conditions to refresh aging over-the-road equipment. Fleets are aggressively purchasing new units to catch up on delayed replacement cycles and preempt upcoming emissions compliance cost hikes.",
-                "Asset-based carriers must manage increased debt servicing costs against stabilizing spot market freight rates as large equipment orders hit balance sheets. Shippers should anticipate stable capacity supply in the short term as newer fleets reduce maintenance-related transit delays."
+                "Total U.S. rail traffic expanded 7.3% week over week, led by a 10.7% surge in intermodal container and trailer volume, according to Association of American Railroads data. High container import flows through coastal ports and shifting domestic long-haul freight off highway networks fueled the sharp volume increase.",
+                "Rail terminal velocity faces critical operational stress as inland container yards in Chicago and Dallas absorb surging holiday inventory replenishment. Shippers should review chassis availability and drayage dwell times to avert severe detention charges at critical inland intermodal ramps."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: FMC FILING ADVISORY",
+            "nextUpTease": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
             "tags": [
-                "Source: https://www.ttnews.com/articles/truck-sales-jump-59-replacement-momentum-october",
-                "Published: 2026-11-19T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-percent-intermodal-up-10-7-percent",
+                "Published: 2026-11-20T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE: FMC FILING ADVISORY",
+            "heading": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
             "paragraphs": [
-                "The Federal Maritime Commission issued a strict industry advisory reminding ocean common carriers that all documented export policies must be formally filed by March 1. This regulatory mandate enforces strict transparency standards to ensure the timely and efficient movement of outbound containerized cargo across U.S. gateways.",
-                "Ocean carriers failing to comply with the March deadline risk severe administrative penalties and operational scrutiny from federal regulators. Logistics providers must coordinate closely with carrier partners to verify that export tariff filings are fully up to date."
+                "Chinese private shipbuilder Yangzijiang Shipbuilding Group has revived a $504M expansion project to construct an advanced manufacturing yard in Jiangsu province. The facility is engineered to construct dual-fuel clean energy container vessels and large gas carriers, targeting commercial deliveries starting in 2028.",
+                "Long-term structural container fleet expansion guarantees a major influx of fuel-efficient vessel capacity before the decade's end. Shippers planning multi-year decarbonization targets can anticipate lower green fuel surcharges as modern dual-fuel tonnage enters international service networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: KOREAN AIR EXPANSION",
+            "nextUpTease": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
             "tags": [
-                "Source: https://www.fmc.gov/news/industry-advisory-documented-export-policies-must-be-filed-with-the-fmc-by-march-1-each-year",
-                "Published: 2026-11-17T00:00:00Z",
+                "Source: https://splash247.com/yangzijiang-revives-500m-chinese-shipyard-project/",
+                "Published: 2026-11-20T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: KOREAN AIR EXPANSION",
+            "heading": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
             "paragraphs": [
-                "Korean Air is finalizing preparations to expand its available belly cargo capacity by 20% following the operational integration phases of its Asiana Airlines merger. This major lift expansion harnesses a combined wide-body fleet to inject high-frequency freight capacity into transpacific and Asia-Europe trade lanes.",
-                "Forwarders can leverage this massive capacity injection to secure favorable contract rates ahead of upcoming peak shipping cycles. Cargo owners should audit air freight allocations to capitalize on softening rate environments across key transpacific corridors."
+                "A quarterly industry index released by Geodis revealed that domestic last-mile delivery expenditures increased at three times the standard U.S. core inflation rate in Q3. Sharp increases in driver wages, municipal congestion penalties, and complex fuel surcharge calculations drove urban parcel execution costs significantly higher.",
+                "Retail distributors face substantial margin compression during the ongoing holiday peak without aggressive parcel route regionalization. Shippers must audit dynamic carrier surcharges and consider multi-carrier parcel platforms to cap volatile delivery overhead."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/exclusive-korean-air-eyes-20-more-belly-cargo-capacity-from-asiana-merger/",
-                "Published: 2026-11-20T00:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/geodis-q3-last-mile-delivery-costs-increase-three-times-faster-than-inflation",
+                "Published: 2026-11-20T17:00:00Z",
                 "Status: Audited & True"
             ]
         }

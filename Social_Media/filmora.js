@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: INDIA ROLLS BACK RESTRICTIONS",
-                "teaserTitle": "PORTS: LA LB DEAL AVERTED",
-                "visual_caption": "Indian authorities rolled back ship age restrictions. The move counters severe global tanker shortages."
+                "headline": "M&A: ROBINSON ACQUIRES RXO FOR $5.8B",
+                "teaserTitle": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
+                "visual_caption": "C.H. Robinson agreed to acquire RXO in a $5.8B deal. This mega-merger creates an unprecedented non-asset brokerage powerhouse across North America."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: LA LB DEAL AVERTED",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
-                "visual_caption": "Employers and union watchmen reached a tentative labor agreement at LA ports. The deal averts a holiday supply chain strike."
+                "headline": "PARCEL: FEDEX COMPLETES $8.5B BUYOUT",
+                "teaserTitle": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
+                "visual_caption": "FedEx closed an $8.5B buyout of a Polish parcel operator. The move immediately secures 25K automated locker terminals across Europe."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: ROBOTICS ACQUIRES AGILOX",
-                "teaserTitle": "REGULATION: CONTRACTOR RULE FINALIZED",
-                "visual_caption": "Rockwell Automation acquired Agilox to combine AMR fleets. Facilities gain unified autonomous robot control."
+                "headline": "MARITIME: BALTIC CARGO SHIP DRONE STRIKE",
+                "teaserTitle": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
+                "visual_caption": "A commercial cargo vessel caught fire in the Baltic Sea following a reported drone strike. Regional maritime underwriters are rapidly raising war-risk insurance premiums for transit vessels."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: CONTRACTOR RULE FINALIZED",
-                "teaserTitle": "EQUIPMENT: TRUCK SALES JUMP",
-                "visual_caption": "The Department of Labor finalized a streamlined independent contractor rule. Motor carriers gain clear compliance standards."
+                "headline": "CARRIERS: ZIM Q3 PROFIT HITS $830M",
+                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
+                "visual_caption": "Ocean carrier Zim generated $830M in Q3 net profit. Carrier earnings surged as average freight rates leaped 55%."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: TRUCK SALES JUMP",
-                "teaserTitle": "INFRASTRUCTURE: FMC FILING ADVISORY",
-                "visual_caption": "U.S. Class 8 retail truck sales jumped 59% in October. Fleets are aggressively refreshing aging equipment."
+                "headline": "INTERMODAL: US RAIL TRAFFIC SURGES 10.7%",
+                "teaserTitle": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
+                "visual_caption": "U.S. rail traffic climbed 7.3% as intermodal volume jumped 10.7%. Inbound holiday containers are straining inland terminal chassis inventories."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: FMC FILING ADVISORY",
-                "teaserTitle": "AIR CARGO: KOREAN AIR EXPANSION",
-                "visual_caption": "The FMC requires carriers to file export policies by March 1. The mandate ensures transparent cargo movement."
+                "headline": "SHIPBUILDING: YANGZIJIANG EXPANDS FOR $504M",
+                "teaserTitle": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
+                "visual_caption": "Yangzijiang revived a $504M shipyard project in China. The new yard will deliver dual-fuel clean energy cargo vessels by 2028."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: KOREAN AIR EXPANSION",
+                "headline": "LAST MILE: DELIVERY COSTS OUTPACE INFLATION",
                 "teaserTitle": "",
-                "visual_caption": "Korean Air is boosting belly cargo capacity by 20%. Shippers gain expanded wide-body transpacific lift."
+                "visual_caption": "Q3 delivery expenses climbed at 3x the standard inflation rate according to Geodis data. Retail shippers face rising carrier surcharges on urban residential deliveries."
             },
             {
                 "slide_index": 8,
