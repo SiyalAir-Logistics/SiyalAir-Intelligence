@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "BALTIC RORO",
-        "titleBlue": "ATTACK",
-        "footerSummary": "Russian military vessel Sparta II abandoned in the Baltic after drone attack, signaling heightened maritime risk and potential Q4 insurance spikes."
+        "titleWhite": "LA-LB TENTATIVE HARBOR",
+        "titleBlue": "PACT",
+        "footerSummary": "LA-LB port strike averted via tentative labor deal, securing 40% of US maritime import volume against immediate coastal gate shutdowns."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECURITY: BALTIC RORO ATTACK",
+            "heading": "LABOR: LA-LB TENTATIVE HARBOR PACT",
             "paragraphs": [
-                "The Russian military RoRo vessel Sparta II was abandoned in the Baltic Sea after a drone strike ignited a major bridge fire. Finnish authorities are currently leading firefighting efforts as the vessel drifted following the crew's emergency evacuation on November 22.",
-                "Maritime operators in Northern Europe must anticipate increased naval activity and potential routing restrictions as regional security protocols tighten. Logistics leaders should evaluate secondary insurance premiums and prepare emergency contingency plans for high-value cargo transiting high-risk Baltic lanes."
+                "Maritime employers under the Pacific Maritime Association reached a tentative contract agreement with ILWU Local 26 watchmen, averting a threatened strike across Los Angeles and Long Beach. The dispute had threatened to halt dockside container gate operations, which process over 40% of total inbound containerized volume into the US.",
+                "The ratified pact eliminates immediate threats of vessel diversion to Gulf and East Coast gateways, sparing transpacific importers costly dwell surcharges. Shippers should maintain scheduled West Coast drayage windows while confirming terminal gate productivity metrics remain uncompromised during final voting."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER: MEXICO SAFETY ACCORD",
+            "nextUpTease": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
             "tags": [
-                "Source: https://maritime-executive.com/article/russian-military-roro-abandoned-after-drone-attack-in-the-baltic",
-                "Published: 2026-11-22T09:00:00Z",
+                "Source: https://www.joc.com/article/la-lb-maritime-employers-local-26-reach-deal",
+                "Published: 2026-11-22T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CROSS-BORDER: MEXICO SAFETY ACCORD",
+            "heading": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
             "paragraphs": [
-                "Mexican trucking organizations have secured 29 specific agreements with government authorities to improve highway security following a series of nationwide strikes. The accords mandate increased federal patrol frequency and the development of dedicated secure-parking zones for interstate freight.",
-                "Enhanced security frameworks are expected to stabilize transit reliability for cross-border shipments while potentially increasing operational overhead for specialized guard details. Shippers must recalibrate transit times as carriers implement these mandatory safety stops and security-first routing protocols."
+                "C.H. Robinson entered into a definitive agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, with closing targeted for H1 2027. The mega-merger combines two of North America's largest freight brokerages, aggregating massive brokerage volume and scaled last-mile logistics operations.",
+                "This market consolidation creates an unprecedented freight powerhouse with dominant spot pricing leverage across truckload and expedited carrier networks. Shippers must audit current freight routing tiers and prepare for restructured contract bidding power across core domestic lanes in 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: $22.5M THEFT DISMANTLED",
+            "nextUpTease": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/mexico-truckers-secure-29-agreements-on-highway-safety",
-                "Published: 2026-11-22T14:30:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ch_robinson_rxo_deal",
+                "Published: 2026-11-20T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: $22.5M THEFT DISMANTLED",
+            "heading": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
             "paragraphs": [
-                "Federal investigators have charged 14 individuals in a massive $22.5M cargo theft ring that targeted moving freight trains across the U.S. rail network. The criminal operation utilized sophisticated methods to breach high-value containers while trains remained in transit, causing significant inventory losses.",
-                "Rail shippers may face increased premiums and more aggressive carrier surveillance as railroads attempt to harden intermodal security chains. Cargo owners should audit 3PL security protocols and prioritize carriers utilizing GPS-enabled active tamper alerts to mitigate transit theft risk."
+                "South Africa's automotive sector is facing severe manufacturing delays due to mounting vessel congestion at the Durban Gateway Terminal. The bottleneck stems from operational friction during the rollout of a new terminal operating system by ICTSI, stranding automotive parts and finished vehicles.",
+                "Container backlogs at the gateway threaten automotive production lines with critical part stockouts, forcing assemblers to absorb costly demurrage fees. Logistics directors routing cargo into Southern Africa must explore airfreight expedites or reroute containers through Maputo to circumvent terminal dwell penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
+            "nextUpTease": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
             "tags": [
-                "Source: https://www.freightwaves.com/news/14-charged-in-22-5-million-cargo-theft-ring",
-                "Published: 2026-11-22T11:45:00Z",
+                "Source: https://maritime-executive.com/article/durban-port-congestion-becomes-headache-for-the-auto-industry",
+                "Published: 2026-11-22T13:08:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
+            "heading": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
             "paragraphs": [
-                "Maersk and Hapag-Lloyd, operating as the Gemini alliance, have confirmed plans to return to full Suez Canal transits by mid-January 2027. The phased redeployment aims to restore schedule reliability and significantly reduce transit times between Asia and European gateways.",
-                "The shift away from the Cape of Good Hope route is expected to stabilize container spot rates and increase weekly vessel capacity availability. Logistics planners must adjust 2027 buffer stocks as shorter lead times begin to rebalance inventory-to-sales ratios across global retail networks."
+                "Global ocean carrier Zim reported a Q3 net profit of $830M, fueled by a 55% year-over-year surge in average freight rates per TEU. The container liner capitalized on extended transits and sustained market volatility to generate record quarterly liquidity and operating margins.",
+                "Robust ocean carrier balance sheets indicate liner operators will hold linehaul rate floors firmly into annual 2027 contract cycles despite softening transpacific spot rates. B2B cargo owners must benchmark historical spot volatility to negotiate indexed contracts rather than accepting carrier-dictated base price hikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COSTS: Q3 DELIVERY EXPENSE SURGE",
+            "nextUpTease": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
             "tags": [
-                "Source: https://theloadstar.com/gemini-carriers-target-complete-return-to-suez-transits",
-                "Published: 2026-11-22T08:15:00Z",
+                "Source: https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million",
+                "Published: 2026-11-21T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COSTS: Q3 DELIVERY EXPENSE SURGE",
+            "heading": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
             "paragraphs": [
-                "Recent Geodis data reveals that U.S. Q3 delivery costs rose three times faster than the national inflation rate, driven by peak season surcharges and labor expenses. The surge highlights a growing disconnect between core consumer price indices and the true cost of logistics execution.",
-                "Carriers are maintaining high margin requirements despite easing volume pressure in certain sectors, forcing shippers to absorb higher fulfillment costs. Supply chain managers should evaluate parcel contract renegotiations or carrier diversification strategies to offset rising last-mile expenditures."
+                "Total U.S. rail traffic climbed 7.3% week-over-week, powered by a 10.7% surge in intermodal container volume according to the latest rail data. Accelerating domestic inventory restocking and consistent container discharge across major port terminals are driving heavy rail network throughput.",
+                "The sharp traffic influx is straining chassis pools and ramp dwell times across Inland Empire and Chicago interchange yards. Shippers relying on long-haul intermodal corridors must secure dedicated dray capacity early to insulate cross-dock operations from emerging inland bottleneck fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: $8.5B PARCEL BUYOUT",
+            "nextUpTease": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/geodis-us-q3-delivery-costs-rose-three-times-faster-than-inflation",
-                "Published: 2026-11-20T16:00:00Z",
+                "Source: https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-percent-intermodal-gains",
+                "Published: 2026-11-21T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "M&A: $8.5B PARCEL BUYOUT",
+            "heading": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
             "paragraphs": [
-                "FedEx and a consortium of finance firms have finalized an $8.5B buyout of InPost, the leading Polish parcel locker and delivery provider. The acquisition is intended to aggressively expand FedEx's automated last-mile infrastructure across the European e-commerce market.",
-                "This consolidation of locker networks will likely lower European last-mile fulfillment costs for cross-border retailers while increasing regional delivery speed. Retailers targeting Eastern Europe should monitor integration progress to capitalize on expanded locker access for peak season 2027."
+                "Korean Air announced plans to expand its belly cargo capacity by 20% through the strategic fleet integration of Asiana Airlines. The expanded widebody network will significantly boost transpacific and Asia-Europe cargo lift, targeted directly at surging e-commerce and semiconductor volumes.",
+                "The expanded cargo capacity will relieve airfreight rate pressure on key transpacific export hubs out of Seoul Incheon. High-tech and perishable shippers should recalibrate air-contract tenders for Q1 2027 to exploit new scheduled belly capacity against premium freighter alternatives."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECONOMICS: $128B CONGESTION COST",
+            "nextUpTease": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
             "tags": [
-                "Source: https://theloadstar.com/fdx-inpost-deal-wrapped",
-                "Published: 2026-11-20T10:30:00Z",
+                "Source: https://theloadstar.com/exclusive-korean-air-eyes-20-more-belly-cargo-capacity",
+                "Published: 2026-11-20T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECONOMICS: $128B CONGESTION COST",
+            "heading": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
             "paragraphs": [
-                "The American Trucking Research Institute reports that highway congestion cost the U.S. trucking industry $128B in 2024, a record high. The data also confirms that congestion led to the waste of 6.6B gallons of diesel fuel across the commercial fleet.",
-                "Rising congestion costs are placing immense pressure on carrier operating margins and contributing to truckload rate inflation in metropolitan corridors. Fleet owners must leverage real-time AI routing tools to bypass bottlenecks and reduce fuel burn to maintain competitive pricing in 2027."
+                "Mexican transportation authorities enacted strict new digital compliance directives mandating real-time GPS tracking and certified digital documentation for commercial freight. The regulation enforces rigorous operational audits on cross-border fleets operating across high-density logistics corridors.",
+                "Non-compliant motor carriers face immediate vehicle impoundment and border clearance delays at major US-Mexico port-of-entry facilities. Shippers operating nearshored supply lines must rigorously verify carrier digital certifications to prevent costly customs holds and cross-border delivery failures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/atri-trucking-congestion-cost",
-                "Published: 2026-11-19T15:20:00Z",
+                "Source: https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules",
+                "Published: 2026-11-22T10:15:00Z",
                 "Status: Audited & True"
             ]
         }

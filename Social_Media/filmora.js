@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: BALTIC RORO ATTACK",
-                "teaserTitle": "MEXICO SAFETY ACCORD",
-                "visual_caption": "A drone strike ignited a major bridge fire on the Russian vessel Sparta II. Finnish authorities are leading firefighting efforts in the Baltic."
+                "headline": "LABOR: LA-LB TENTATIVE HARBOR PACT",
+                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+                "visual_caption": "Employers and ILWU Local 26 watchmen reached a tentative labor pact at the ports of LA and Long Beach. The agreement averts an immediate port shutdown across gateways handling over 40% of US ocean imports."
             },
             {
                 "slide_index": 2,
-                "headline": "CROSS-BORDER: MEXICO SAFETY ACCORD",
-                "teaserTitle": "RAIL: $22.5M THEFT RING",
-                "visual_caption": "Mexico secured 29 agreements to improve highway safety after carrier strikes. Shippers should expect more federal patrols and mandatory safe parking stops."
+                "headline": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+                "teaserTitle": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+                "visual_caption": "C.H. Robinson has agreed to acquire RXO in a $5.8B buyout scheduled to close in H1 2027. The merged freight brokerage establishes dominant volume scale across North American truckload and last-mile networks."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: $22.5M THEFT DISMANTLED",
-                "teaserTitle": "GEMINI SUEZ RETURN",
-                "visual_caption": "14 people were charged in a $22.5M rail theft ring targeting moving trains. The group breached containers during transit to steal high-value goods."
+                "headline": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+                "teaserTitle": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+                "visual_caption": "South African automakers face severe assembly disruptions due to mounting container congestion at Durban Gateway Terminal. Software integration failures from a new operating system rollout have stalled container offloading."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
-                "teaserTitle": "Q3 DELIVERY EXPENSE SURGE",
-                "visual_caption": "The Gemini alliance will return to Suez transits by mid-January 2027. This shift will cut transit lead times and stabilize container spot rates."
+                "headline": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+                "visual_caption": "Ocean liner Zim delivered a Q3 net profit of $830M as container freight rates surged 55% year-over-year. The strong earnings reinforce liner rate floors heading into annual 2027 contract negotiations."
             },
             {
                 "slide_index": 5,
-                "headline": "COSTS: Q3 DELIVERY EXPENSE SURGE",
-                "teaserTitle": "$8.5B PARCEL BUYOUT",
-                "visual_caption": "U.S. delivery costs rose 3X faster than inflation during Q3. Shippers must find new ways to offset high last-mile peak season surcharges."
+                "headline": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+                "teaserTitle": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+                "visual_caption": "US rail carload traffic increased 7.3% week-over-week, powered by a 10.7% surge in intermodal volume. Rapid rail volume growth is elevating inland terminal dwell risks across key Chicago and West Coast interchange ramps."
             },
             {
                 "slide_index": 6,
-                "headline": "M&A: $8.5B PARCEL BUYOUT",
-                "teaserTitle": "$128B CONGESTION COST",
-                "visual_caption": "FedEx completed an $8.5B buyout of Polish parcel locker provider InPost. The acquisition expands FedEx's automated delivery footprint across Europe."
+                "headline": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+                "teaserTitle": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "visual_caption": "Korean Air expects belly cargo capacity to expand 20% following its merger integration with Asiana Airlines. The added widebody fleet capacity provides critical transpacific lift for high-tech semiconductors and e-commerce goods."
             },
             {
                 "slide_index": 7,
-                "headline": "ECONOMICS: $128B CONGESTION COST",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Highway congestion cost the trucking industry $128B in 2024. Carriers must utilize AI routing tools to bypass metropolitan bottlenecks."
+                "headline": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "teaserTitle": "",
+                "visual_caption": "Mexican transport authorities enacted strict digital compliance rules requiring real-time GPS tracking on commercial freight fleets. Non-compliant carriers risk immediate vehicle impoundment and severe border customs clearance delays."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "BALTIC RORO ATTACK",
+        "hookTitle": "LA-LB HARBOR PACT AVERTS PORT SHUTDOWN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: BALTIC RORO ATTACK",
-                "teaserTitle": "MEXICO SAFETY ACCORD",
+                "headline": "LABOR: LA-LB TENTATIVE HARBOR PACT",
+                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A drone strike set a Russian military ship on fire in the Baltic sea. Finnish authorities are now leading firefighting efforts as the vessel remains abandoned."
+                "narration_line": "Employers and union security watchmen have reached a tentative labor agreement at the ports of Los Angeles and Long Beach. The accord averts an immediate dock shutdown and protects forty percent of national inbound ocean imports."
             },
             {
                 "slide_index": 2,
-                "headline": "CROSS-BORDER: MEXICO SAFETY ACCORD",
-                "teaserTitle": "RAIL: $22.5M THEFT RING",
+                "headline": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+                "teaserTitle": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexico secured twenty nine new agreements to improve highway safety after carrier strikes. Shippers should expect more federal patrols and mandatory safe parking stops."
+                "narration_line": "C.H. Robinson has agreed to purchase rival broker R-X-O in a five point eight billion dollar acquisition. The combined mega-brokerage will command massive spot market scale and expanded last-mile delivery services across North America."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: $22.5M THEFT DISMANTLED",
-                "teaserTitle": "GEMINI SUEZ RETURN",
+                "headline": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+                "teaserTitle": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Fourteen people were charged in a twenty two point five million dollar rail theft ring. The group robbed moving trains by breaching containers during transit."
+                "narration_line": "South African auto manufacturers are facing acute parts delays as severe vessel congestion hits the Durban Gateway Terminal. Software integration failures during a terminal operating system rollout have grounded container handling operations."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSIT: GEMINI SUEZ RETURN SCHEDULE",
-                "teaserTitle": "Q3 DELIVERY EXPENSE SURGE",
+                "headline": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Gemini alliance will return to Suez transits by mid January twenty twenty seven. This shift will cut lead times and stabilize container spot rates."
+                "narration_line": "Ocean carrier Zim reported a third-quarter net profit of eight hundred thirty million dollars, boosted by higher container freight rates. Carrier leadership is maintaining strong pricing leverage ahead of upcoming annual ocean contract negotiations."
             },
             {
                 "slide_index": 5,
-                "headline": "COSTS: Q3 DELIVERY EXPENSE SURGE",
-                "teaserTitle": "$8.5B PARCEL BUYOUT",
+                "headline": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+                "teaserTitle": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States delivery costs rose three times faster than inflation in the third quarter. Shippers must find new ways to offset high last mile surcharges."
+                "narration_line": "United States rail traffic climbed seven point three percent, led by a ten point seven percent gain in intermodal shipping volume. The freight influx is increasing container throughput while raising rail ramp dwell risks across major inland hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "M&A: $8.5B PARCEL BUYOUT",
-                "teaserTitle": "$128B CONGESTION COST",
+                "headline": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+                "teaserTitle": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx completed an eight point five billion dollar buyout of Polish locker firm InPost. This deal significantly expands their automated last mile reach in Europe."
+                "narration_line": "Korean Air projects a twenty percent increase in belly cargo capacity following its fleet integration with Asiana Airlines. The expanded network will unlock vital transpacific airfreight space for high-value semiconductor and cross-border retail shipments."
             },
             {
                 "slide_index": 7,
-                "headline": "ECONOMICS: $128B CONGESTION COST",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Highway congestion cost the trucking industry one hundred and twenty eight billion dollars last year. Carriers must use AI routing to bypass growing metropolitan bottlenecks."
+                "narration_line": "Mexican transport authorities have introduced strict digital compliance rules mandating real-time satellite tracking for commercial trucks. Carriers failing to deploy verified electronic documentation face immediate border impoundment and border delays."
             },
             {
                 "slide_index": 8,
