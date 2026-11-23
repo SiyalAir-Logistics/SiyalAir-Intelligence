@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LA-LB TENTATIVE HARBOR",
-        "titleBlue": "PACT",
-        "footerSummary": "LA-LB port strike averted via tentative labor deal, securing 40% of US maritime import volume against immediate coastal gate shutdowns."
+        "titleWhite": "HIGHWAY CONGESTION COSTS TRUCKING",
+        "titleBlue": "$128B",
+        "footerSummary": "Highway gridlock costs US trucking $128B and 6.66B gallons of diesel annually, squeezing carrier operating margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LABOR: LA-LB TENTATIVE HARBOR PACT",
+            "heading": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
             "paragraphs": [
-                "Maritime employers under the Pacific Maritime Association reached a tentative contract agreement with ILWU Local 26 watchmen, averting a threatened strike across Los Angeles and Long Beach. The dispute had threatened to halt dockside container gate operations, which process over 40% of total inbound containerized volume into the US.",
-                "The ratified pact eliminates immediate threats of vessel diversion to Gulf and East Coast gateways, sparing transpacific importers costly dwell surcharges. Shippers should maintain scheduled West Coast drayage windows while confirming terminal gate productivity metrics remain uncompromised during final voting."
+                "Highway congestion cost the US trucking industry $128.2B while wasting 6.66B gallons of diesel fuel, according to new data from the American Transportation Research Institute. Severe urban bottlenecks and infrastructure decay continue to degrade fleet asset utilization across major commercial freight corridors.",
+                "This massive economic drain forces motor carriers to inflate freight rates and deploy extended transit buffers to maintain service reliability. Logistics directors must re-evaluate routing strategies and optimize delivery windows to mitigate recurring urban delay penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+            "nextUpTease": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
             "tags": [
-                "Source: https://www.joc.com/article/la-lb-maritime-employers-local-26-reach-deal",
-                "Published: 2026-11-22T15:00:00Z",
+                "Source: https://www.ttnews.com/articles/atri-congestion-cost-128-billion",
+                "Published: 2026-11-19T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+            "heading": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
             "paragraphs": [
-                "C.H. Robinson entered into a definitive agreement to acquire RXO in a cash-and-stock transaction valued at $5.8B, with closing targeted for H1 2027. The mega-merger combines two of North America's largest freight brokerages, aggregating massive brokerage volume and scaled last-mile logistics operations.",
-                "This market consolidation creates an unprecedented freight powerhouse with dominant spot pricing leverage across truckload and expedited carrier networks. Shippers must audit current freight routing tiers and prepare for restructured contract bidding power across core domestic lanes in 2027."
+                "U.S. Class 8 retail truck sales surged 59% in October as commercial fleets aggressively capitalized on year-end market conditions to accelerate equipment replacement cycles. Motor carriers rushed to refresh aging assets and secure modern, emissions-compliant tractors ahead of tightening regulatory standards.",
+                "This capital expenditure wave reflects a strategic push by fleets to lower maintenance overhead and improve long-term fuel efficiency despite macroeconomic headwinds. Shippers should partner with modern, well-capitalized fleets to ensure uninterrupted capacity and lower risk of mechanical breakdown delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+            "nextUpTease": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch_robinson_rxo_deal",
-                "Published: 2026-11-20T17:30:00Z",
+                "Source: https://www.ttnews.com/articles/class-8-truck-sales-october-2026",
+                "Published: 2026-11-19T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+            "heading": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
             "paragraphs": [
-                "South Africa's automotive sector is facing severe manufacturing delays due to mounting vessel congestion at the Durban Gateway Terminal. The bottleneck stems from operational friction during the rollout of a new terminal operating system by ICTSI, stranding automotive parts and finished vehicles.",
-                "Container backlogs at the gateway threaten automotive production lines with critical part stockouts, forcing assemblers to absorb costly demurrage fees. Logistics directors routing cargo into Southern Africa must explore airfreight expedites or reroute containers through Maputo to circumvent terminal dwell penalties."
+                "The Department of Labor finalized its independent contractor regulation, returning to a streamlined two-factor evaluation framework rather than the previous six-factor standard. The simplified standard provides motor carriers with clearer legal definitions for classifying owner-operators across interstate freight networks.",
+                "This regulatory stabilization reduces administrative compliance friction for asset-light logistics providers and independent owner-operators nationwide. Shippers utilizing independent trucking fleets should audit contractor agreements to align with the finalized Department of Labor standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+            "nextUpTease": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
             "tags": [
-                "Source: https://maritime-executive.com/article/durban-port-congestion-becomes-headache-for-the-auto-industry",
-                "Published: 2026-11-22T13:08:00Z",
+                "Source: https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds",
+                "Published: 2026-11-19T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+            "heading": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
             "paragraphs": [
-                "Global ocean carrier Zim reported a Q3 net profit of $830M, fueled by a 55% year-over-year surge in average freight rates per TEU. The container liner capitalized on extended transits and sustained market volatility to generate record quarterly liquidity and operating margins.",
-                "Robust ocean carrier balance sheets indicate liner operators will hold linehaul rate floors firmly into annual 2027 contract cycles despite softening transpacific spot rates. B2B cargo owners must benchmark historical spot volatility to negotiate indexed contracts rather than accepting carrier-dictated base price hikes."
+                "The Canadian government awarded a $324M financial package to Ford to safeguard domestic automotive manufacturing jobs and transition regional assembly lines toward electric vehicle production. The capital injection secures vital localized manufacturing output across cross-border automotive supply chains.",
+                "This targeted industrial policy guarantees steady inbound tier-one component flows between Canadian assembly plants and US distribution hubs. Automotive logistics planners should maintain existing cross-border freight schedules while monitoring localized supply chain shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+            "nextUpTease": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million",
-                "Published: 2026-11-21T18:15:00Z",
+                "Source: https://www.ttnews.com/articles/canada-ford-plant-324-million",
+                "Published: 2026-11-20T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+            "heading": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
             "paragraphs": [
-                "Total U.S. rail traffic climbed 7.3% week-over-week, powered by a 10.7% surge in intermodal container volume according to the latest rail data. Accelerating domestic inventory restocking and consistent container discharge across major port terminals are driving heavy rail network throughput.",
-                "The sharp traffic influx is straining chassis pools and ramp dwell times across Inland Empire and Chicago interchange yards. Shippers relying on long-haul intermodal corridors must secure dedicated dray capacity early to insulate cross-dock operations from emerging inland bottleneck fees."
+                "Dutch-French multinational Louis Dreyfus Company partnered with Neptune Robotics to deploy AI-powered robotic hull cleaning across a chartered fleet of 300 vessels. The advanced maintenance initiative aims to drastically reduce vessel hydrodynamic drag, fuel consumption, and carbon emissions.",
+                "Enhanced hull efficiency directly lowers ocean voyage operating expenditures and improves schedule reliability in volatile international shipping lanes. Importers should factor modernized vessel performance metrics into annual ocean carrier scorecard evaluations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+            "nextUpTease": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/us-rail-traffic-rises-7-3-percent-intermodal-gains",
-                "Published: 2026-11-21T16:00:00Z",
+                "Source: https://maritime-executive.com/article/louis-dreyfus-tests-out-robotic-hull-cleaning-at-scale",
+                "Published: 2026-11-22T20:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+            "heading": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
             "paragraphs": [
-                "Korean Air announced plans to expand its belly cargo capacity by 20% through the strategic fleet integration of Asiana Airlines. The expanded widebody network will significantly boost transpacific and Asia-Europe cargo lift, targeted directly at surging e-commerce and semiconductor volumes.",
-                "The expanded cargo capacity will relieve airfreight rate pressure on key transpacific export hubs out of Seoul Incheon. High-tech and perishable shippers should recalibrate air-contract tenders for Q1 2027 to exploit new scheduled belly capacity against premium freighter alternatives."
+                "Spain announced a nationwide ban on exhaust gas cleaning system washwater discharges across all domestic ports and designated coastal waters, taking effect July 1, 2027. The sweeping environmental regulation targets open-loop and closed-loop scrubber operations to protect marine ecosystems.",
+                "Vessels utilizing open-loop scrubbers must switch to compliant low-sulfur marine fuels or closed-loop retention systems prior to entering Spanish territorial waters. Ocean carriers are expected to pass compliance surcharges on to cargo owners calling at Spanish gateway terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+            "nextUpTease": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
             "tags": [
-                "Source: https://theloadstar.com/exclusive-korean-air-eyes-20-more-belly-cargo-capacity",
-                "Published: 2026-11-20T14:45:00Z",
+                "Source: https://splash247.com/spain-joins-growing-global-crackdown-on-scrubbers/",
+                "Published: 2026-11-23T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+            "heading": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
             "paragraphs": [
-                "Mexican transportation authorities enacted strict new digital compliance directives mandating real-time GPS tracking and certified digital documentation for commercial freight. The regulation enforces rigorous operational audits on cross-border fleets operating across high-density logistics corridors.",
-                "Non-compliant motor carriers face immediate vehicle impoundment and border clearance delays at major US-Mexico port-of-entry facilities. Shippers operating nearshored supply lines must rigorously verify carrier digital certifications to prevent costly customs holds and cross-border delivery failures."
+                "Mexican trucking organizations secured 29 new operational safety agreements with federal authorities following nationwide protests regarding highway security. The pact mandates enhanced federal patrols and digital oversight along high-risk commercial freight transit routes.",
+                "Improved security protocols will help reduce cargo theft incidents and protect cross-border supply chains moving north into the United States. Nearshoring shippers should coordinate closely with compliant carriers operating under the newly established safety frameworks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/mexico-tightens-trucking-oversight-with-new-digital-compliance-rules",
-                "Published: 2026-11-22T10:15:00Z",
+                "Source: https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-security-after-nationwide-strike",
+                "Published: 2026-11-23T11:00:00Z",
                 "Status: Audited & True"
             ]
         }

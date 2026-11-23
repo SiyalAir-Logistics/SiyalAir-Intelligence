@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "LA-LB HARBOR PACT AVERTS PORT SHUTDOWN",
+        "hookTitle": "HIGHWAY CONGESTION COSTS TRUCKING 128 BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA-LB TENTATIVE HARBOR PACT",
-                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
+                "headline": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
+                "teaserTitle": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Employers and union security watchmen have reached a tentative labor agreement at the ports of Los Angeles and Long Beach. The accord averts an immediate dock shutdown and protects forty percent of national inbound ocean imports."
+                "narration_line": "Highway congestion cost the United States trucking industry one hundred twenty eight billion dollars while wasting over six billion gallons of diesel fuel. Motor carriers must optimize delivery routes to mitigate severe urban delay penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
-                "teaserTitle": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
+                "headline": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+                "teaserTitle": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson has agreed to purchase rival broker R-X-O in a five point eight billion dollar acquisition. The combined mega-brokerage will command massive spot market scale and expanded last-mile delivery services across North America."
+                "narration_line": "Class eight retail truck sales surged fifty nine percent in October as commercial fleets accelerated equipment replacement cycles. Fleets are upgrading assets to lower maintenance overhead and ensure reliable capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
-                "teaserTitle": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
+                "headline": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+                "teaserTitle": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "South African auto manufacturers are facing acute parts delays as severe vessel congestion hits the Durban Gateway Terminal. Software integration failures during a terminal operating system rollout have grounded container handling operations."
+                "narration_line": "The Department of Labor finalized its independent contractor regulation, returning to a streamlined two factor evaluation framework. This regulatory update provides motor carriers with clearer legal definitions for classifying owner operators."
             },
             {
                 "slide_index": 4,
-                "headline": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
-                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
+                "headline": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+                "teaserTitle": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Ocean carrier Zim reported a third-quarter net profit of eight hundred thirty million dollars, boosted by higher container freight rates. Carrier leadership is maintaining strong pricing leverage ahead of upcoming annual ocean contract negotiations."
+                "narration_line": "Canada awarded three hundred twenty four million dollars to Ford to safeguard automotive manufacturing and transition assembly lines toward electric vehicles. This funding secures vital localized component flows across cross border supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
-                "teaserTitle": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
+                "headline": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+                "teaserTitle": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States rail traffic climbed seven point three percent, led by a ten point seven percent gain in intermodal shipping volume. The freight influx is increasing container throughput while raising rail ramp dwell risks across major inland hubs."
+                "narration_line": "Louis Dreyfus partnered with Neptune Robotics to deploy artificial intelligence robotic hull cleaning across three hundred chartered vessels. Enhanced hull efficiency directly lowers ocean voyage operating expenditures and reduces emissions."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
-                "teaserTitle": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "headline": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+                "teaserTitle": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Korean Air projects a twenty percent increase in belly cargo capacity following its fleet integration with Asiana Airlines. The expanded network will unlock vital transpacific airfreight space for high-value semiconductor and cross-border retail shipments."
+                "narration_line": "Spain announced a nationwide ban on exhaust gas cleaning system washwater discharges across domestic ports starting in July 2027. Carriers operating in Spanish waters must switch to compliant low sulfur marine fuels."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "headline": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexican transport authorities have introduced strict digital compliance rules mandating real-time satellite tracking for commercial trucks. Carriers failing to deploy verified electronic documentation face immediate border impoundment and border delays."
+                "narration_line": "Mexican trucking organizations secured twenty nine new operational safety agreements with federal authorities to enhance highway security. Improved security protocols will help reduce cargo theft incidents along key commercial transit routes."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

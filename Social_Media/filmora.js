@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LABOR: LA-LB TENTATIVE HARBOR PACT",
-                "teaserTitle": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
-                "visual_caption": "Employers and ILWU Local 26 watchmen reached a tentative labor pact at the ports of LA and Long Beach. The agreement averts an immediate port shutdown across gateways handling over 40% of US ocean imports."
+                "headline": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
+                "teaserTitle": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+                "visual_caption": "Highway congestion cost the US trucking industry $128.2B while wasting 6.66B gallons of diesel. Logistics directors must optimize routing strategies to mitigate urban delay penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: CH ROBINSON RXO $5.8B BUYOUT",
-                "teaserTitle": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
-                "visual_caption": "C.H. Robinson has agreed to acquire RXO in a $5.8B buyout scheduled to close in H1 2027. The merged freight brokerage establishes dominant volume scale across North American truckload and last-mile networks."
+                "headline": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+                "teaserTitle": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+                "visual_caption": "U.S. Class 8 retail truck sales surged 59% in October as commercial fleets accelerated equipment replacement. Fleets are upgrading assets to lower maintenance overhead."
             },
             {
                 "slide_index": 3,
-                "headline": "CONGESTION: DURBAN GATEWAY AUTO BACKLOGS",
-                "teaserTitle": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
-                "visual_caption": "South African automakers face severe assembly disruptions due to mounting container congestion at Durban Gateway Terminal. Software integration failures from a new operating system rollout have stalled container offloading."
+                "headline": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+                "teaserTitle": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+                "visual_caption": "The Department of Labor finalized its independent contractor rule using a streamlined two-factor framework. This update provides motor carriers with clearer worker classification standards."
             },
             {
                 "slide_index": 4,
-                "headline": "EARNINGS: ZIM Q3 PROFIT HITS $830M",
-                "teaserTitle": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
-                "visual_caption": "Ocean liner Zim delivered a Q3 net profit of $830M as container freight rates surged 55% year-over-year. The strong earnings reinforce liner rate floors heading into annual 2027 contract negotiations."
+                "headline": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+                "teaserTitle": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+                "visual_caption": "Canada awarded $324M to Ford to safeguard automotive manufacturing and support electric vehicle production. This funding secures vital cross-border component manufacturing output."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: US RAIL TRAFFIC JUMPS 7.3%",
-                "teaserTitle": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
-                "visual_caption": "US rail carload traffic increased 7.3% week-over-week, powered by a 10.7% surge in intermodal volume. Rapid rail volume growth is elevating inland terminal dwell risks across key Chicago and West Coast interchange ramps."
+                "headline": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+                "teaserTitle": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+                "visual_caption": "Louis Dreyfus deployed AI robotic hull cleaning across 300 chartered vessels to reduce drag. Enhanced hull efficiency directly lowers ocean voyage operating expenditures."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: KOREAN AIR ADDS 20% BELLY SPACE",
-                "teaserTitle": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
-                "visual_caption": "Korean Air expects belly cargo capacity to expand 20% following its merger integration with Asiana Airlines. The added widebody fleet capacity provides critical transpacific lift for high-tech semiconductors and e-commerce goods."
+                "headline": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+                "teaserTitle": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
+                "visual_caption": "Spain announced a nationwide ban on scrubber washwater discharges effective July 1, 2027. Carriers calling at Spanish ports must switch to compliant low-sulfur marine fuels."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: MEXICO DIGITAL TRUCKING RULES",
+                "headline": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
                 "teaserTitle": "",
-                "visual_caption": "Mexican transport authorities enacted strict digital compliance rules requiring real-time GPS tracking on commercial freight fleets. Non-compliant carriers risk immediate vehicle impoundment and severe border customs clearance delays."
+                "visual_caption": "Mexican truckers secured 29 new safety agreements with authorities to improve highway security. Enhanced oversight will reduce cargo theft risks across commercial transit routes."
             },
             {
                 "slide_index": 8,
