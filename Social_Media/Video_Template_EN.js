@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HIGHWAY CONGESTION COSTS TRUCKING 128 BILLION DOLLARS",
+        "hookTitle": "AIR TRAFFIC CONTROL STRIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
-                "teaserTitle": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+                "headline": "BELGIUM: AIR TRAFFIC CONTROL STRIKE",
+                "teaserTitle": "MARITIME: PORT STRIKE THREAT AVERTED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Highway congestion cost the United States trucking industry one hundred twenty eight billion dollars while wasting over six billion gallons of diesel fuel. Motor carriers must optimize delivery routes to mitigate severe urban delay penalties."
+                "narration_line": "Belgian air traffic control strikes have paralyzed cargo hubs at Liege and Brussels just four days before Black Friday. Multiple freighters are rerouting to neighboring airports, creating immediate bottlenecks for e-commerce."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
-                "teaserTitle": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+                "headline": "MARITIME: PORT STRIKE THREAT AVERTED",
+                "teaserTitle": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Class eight retail truck sales surged fifty nine percent in October as commercial fleets accelerated equipment replacement cycles. Fleets are upgrading assets to lower maintenance overhead and ensure reliable capacity."
+                "narration_line": "The Pacific Maritime Association reached a tentative deal for watchmen at the Ports of Los Angeles and Long Beach. This agreement prevents a shutdown at the busiest maritime gateway during the peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
-                "teaserTitle": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+                "headline": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
+                "teaserTitle": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Department of Labor finalized its independent contractor regulation, returning to a streamlined two factor evaluation framework. This regulatory update provides motor carriers with clearer legal definitions for classifying owner operators."
+                "narration_line": "Iran announced it will confront the U.S. naval blockade on oil exports following the collapse of diplomatic agreements. Regional volatility threatens twenty percent of global oil transit and major container shipping routes."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
-                "teaserTitle": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+                "headline": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
+                "teaserTitle": "PRICING: ASIA-USEC RATES TOP $10K",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Canada awarded three hundred twenty four million dollars to Ford to safeguard automotive manufacturing and transition assembly lines toward electric vehicles. This funding secures vital localized component flows across cross border supply chains."
+                "narration_line": "Finnish authorities confirmed a Russian rescue vessel took control of the damaged Sparta two after an attack in the Baltic Sea. Kinetic attacks on commercial ships signal a widening theater of maritime risk."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
-                "teaserTitle": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+                "headline": "PRICING: ASIA-USEC RATES TOP $10K",
+                "teaserTitle": "M&A: FEDEX CLOSES $9.2B DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Louis Dreyfus partnered with Neptune Robotics to deploy artificial intelligence robotic hull cleaning across three hundred chartered vessels. Enhanced hull efficiency directly lowers ocean voyage operating expenditures and reduces emissions."
+                "narration_line": "Ocean freight rates from Asia to the U.S. East Coast have topped ten thousand dollars per container. High demand and port congestion continue to drive pricing up three hundred percent over last year."
             },
             {
                 "slide_index": 6,
-                "headline": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
-                "teaserTitle": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
+                "headline": "M&A: FEDEX CLOSES $9.2B DEAL",
+                "teaserTitle": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Spain announced a nationwide ban on exhaust gas cleaning system washwater discharges across domestic ports starting in July 2027. Carriers operating in Spanish waters must switch to compliant low sulfur marine fuels."
+                "narration_line": "A FedEx-led consortium finalized a nine point two billion dollar acquisition of a major Polish delivery firm. The deal aims to integrate advanced last-mile capabilities and automated networks across Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
-                "teaserTitle": "",
+                "headline": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexican trucking organizations secured twenty nine new operational safety agreements with federal authorities to enhance highway security. Improved security protocols will help reduce cargo theft incidents along key commercial transit routes."
+                "narration_line": "The Port of Savannah handled over five hundred sixty-five thousand units in October, a twenty-five percent annual increase. Terminal investments are accelerating to handle this record-breaking surge in import demand."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

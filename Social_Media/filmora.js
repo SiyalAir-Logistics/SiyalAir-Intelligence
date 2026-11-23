@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
-                "teaserTitle": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
-                "visual_caption": "Highway congestion cost the US trucking industry $128.2B while wasting 6.66B gallons of diesel. Logistics directors must optimize routing strategies to mitigate urban delay penalties."
+                "headline": "BELGIUM: AIR TRAFFIC CONTROL STRIKE",
+                "teaserTitle": "MARITIME: PORT STRIKE THREAT AVERTED",
+                "visual_caption": "Belgian air traffic control strikes paralyzed cargo hubs at Liege and Brussels 4 days before Black Friday. Freighters are rerouting to neighboring airports, creating immediate bottlenecks for e-commerce."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
-                "teaserTitle": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
-                "visual_caption": "U.S. Class 8 retail truck sales surged 59% in October as commercial fleets accelerated equipment replacement. Fleets are upgrading assets to lower maintenance overhead."
+                "headline": "MARITIME: PORT STRIKE THREAT AVERTED",
+                "teaserTitle": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
+                "visual_caption": "The PMA reached a tentative deal for watchmen at the Ports of LA and Long Beach on Nov 21. The agreement prevents a shutdown at the busiest maritime gateway during the peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
-                "teaserTitle": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
-                "visual_caption": "The Department of Labor finalized its independent contractor rule using a streamlined two-factor framework. This update provides motor carriers with clearer worker classification standards."
+                "headline": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
+                "teaserTitle": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
+                "visual_caption": "Iran will confront the U.S. naval blockade on oil exports following the collapse of diplomatic agreements. Regional volatility threatens 20% of global oil transit and major container shipping routes."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
-                "teaserTitle": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
-                "visual_caption": "Canada awarded $324M to Ford to safeguard automotive manufacturing and support electric vehicle production. This funding secures vital cross-border component manufacturing output."
+                "headline": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
+                "teaserTitle": "PRICING: ASIA-USEC RATES TOP $10K",
+                "visual_caption": "Finnish authorities confirmed a Russian rescue vessel took control of the damaged Sparta II after a Baltic Sea attack. Kinetic attacks on commercial ships signal a widening theater of maritime risk."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
-                "teaserTitle": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
-                "visual_caption": "Louis Dreyfus deployed AI robotic hull cleaning across 300 chartered vessels to reduce drag. Enhanced hull efficiency directly lowers ocean voyage operating expenditures."
+                "headline": "PRICING: ASIA-USEC RATES TOP $10K",
+                "teaserTitle": "M&A: FEDEX CLOSES $9.2B DEAL",
+                "visual_caption": "Ocean freight rates from Asia to the U.S. East Coast have topped $10,000 per FEU. High demand and port congestion continue to drive pricing up 300% over last year."
             },
             {
                 "slide_index": 6,
-                "headline": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
-                "teaserTitle": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
-                "visual_caption": "Spain announced a nationwide ban on scrubber washwater discharges effective July 1, 2027. Carriers calling at Spanish ports must switch to compliant low-sulfur marine fuels."
+                "headline": "M&A: FEDEX CLOSES $9.2B DEAL",
+                "teaserTitle": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
+                "visual_caption": "A FedEx-led consortium finalized a $9.2B acquisition of a major Polish delivery firm. The deal aims to integrate advanced last-mile capabilities and automated networks across Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
-                "teaserTitle": "",
-                "visual_caption": "Mexican truckers secured 29 new safety agreements with authorities to improve highway security. Enhanced oversight will reduce cargo theft risks across commercial transit routes."
+                "headline": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "The Port of Savannah handled 565,366 TEUs in October, a 25% annual increase. Terminal investments are accelerating to handle this record-breaking surge in import demand."
             },
             {
                 "slide_index": 8,

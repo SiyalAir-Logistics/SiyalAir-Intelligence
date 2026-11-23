@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HIGHWAY CONGESTION COSTS TRUCKING",
-        "titleBlue": "$128B",
-        "footerSummary": "Highway gridlock costs US trucking $128B and 6.66B gallons of diesel annually, squeezing carrier operating margins."
+        "titleWhite": "AIR TRAFFIC CONTROL",
+        "titleBlue": "STRIKE",
+        "footerSummary": "Belgian air strikes and $10K transpacific rates threaten Black Friday margins as maritime volatility expands in the Baltic and Hormuz."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INFRASTRUCTURE: HIGHWAY CONGESTION COSTS TRUCKING $128B",
+            "heading": "BELGIUM: AIR TRAFFIC CONTROL STRIKE",
             "paragraphs": [
-                "Highway congestion cost the US trucking industry $128.2B while wasting 6.66B gallons of diesel fuel, according to new data from the American Transportation Research Institute. Severe urban bottlenecks and infrastructure decay continue to degrade fleet asset utilization across major commercial freight corridors.",
-                "This massive economic drain forces motor carriers to inflate freight rates and deploy extended transit buffers to maintain service reliability. Logistics directors must re-evaluate routing strategies and optimize delivery windows to mitigate recurring urban delay penalties."
+                "Belgian air traffic control strikes have paralyzed cargo operations at Li\u00e8ge and Brussels just 4 days before Black Friday. Multiple freighters have been rerouted to neighboring European airports, creating immediate bottlenecks for time-sensitive e-commerce flows.",
+                "This disruption forces logistics providers to absorb significant drayage and diversion costs to maintain service levels during peak season. Shippers must evaluate secondary air gateways to avoid terminal gridlock in Northern Europe."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+            "nextUpTease": "MARITIME: PORT STRIKE THREAT AVERTED",
             "tags": [
-                "Source: https://www.ttnews.com/articles/atri-congestion-cost-128-billion",
-                "Published: 2026-11-19T10:00:00Z",
+                "Source: https://theloadstar.com/air-traffic-strike-disrupts-liege-and-brussels-cargo-ahead-of-black-friday/",
+                "Published: 2026-11-23T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: US CLASS 8 TRUCK SALES JUMP 59%",
+            "heading": "MARITIME: PORT STRIKE THREAT AVERTED",
             "paragraphs": [
-                "U.S. Class 8 retail truck sales surged 59% in October as commercial fleets aggressively capitalized on year-end market conditions to accelerate equipment replacement cycles. Motor carriers rushed to refresh aging assets and secure modern, emissions-compliant tractors ahead of tightening regulatory standards.",
-                "This capital expenditure wave reflects a strategic push by fleets to lower maintenance overhead and improve long-term fuel efficiency despite macroeconomic headwinds. Shippers should partner with modern, well-capitalized fleets to ensure uninterrupted capacity and lower risk of mechanical breakdown delays."
+                "The Pacific Maritime Association and ILWU Local 26 reached a tentative deal on Nov 21 for 250 watchmen at the Ports of Los Angeles and Long Beach. The agreement prevents a shutdown at the busiest U.S. maritime gateway during the critical year-end surge.",
+                "While the strike was averted, the negotiation process highlights the fragility of labor relations in the transpacific corridor. Cargo owners should maintain diversified port strategies to hedge against future localized labor friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+            "nextUpTease": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/class-8-truck-sales-october-2026",
-                "Published: 2026-11-19T08:30:00Z",
+                "Source: https://www.ttnews.com/articles/strike-averted-los-angeles-long-beach-ports",
+                "Published: 2026-11-23T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: DOL FINALIZE INDEPENDENT CONTRACTOR RULE",
+            "heading": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
             "paragraphs": [
-                "The Department of Labor finalized its independent contractor regulation, returning to a streamlined two-factor evaluation framework rather than the previous six-factor standard. The simplified standard provides motor carriers with clearer legal definitions for classifying owner-operators across interstate freight networks.",
-                "This regulatory stabilization reduces administrative compliance friction for asset-light logistics providers and independent owner-operators nationwide. Shippers utilizing independent trucking fleets should audit contractor agreements to align with the finalized Department of Labor standards."
+                "Iran announced it will deploy all available tools to confront the U.S. naval blockade on oil exports following the collapse of recent diplomatic agreements. This escalation increases the risk of vessel seizures or kinetic activity within the Strait of Hormuz.",
+                "Increased regional volatility threatens roughly 20% of global oil transit and major container shipping routes. Logistics directors must monitor war risk insurance surcharges and prepare for potential routing diversions around the Cape of Good Hope."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+            "nextUpTease": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
             "tags": [
-                "Source: https://www.freightwaves.com/news/dol-sticks-with-independent-contractor-proposal-trucking-applauds",
-                "Published: 2026-11-19T14:15:00Z",
+                "Source: https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-its-tools-confront-us-naval-blockade-2026-11-23/",
+                "Published: 2026-11-23T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE: CANADA SUBSIDIZES FORD PLANT $324M",
+            "heading": "SECURITY: RUSSIAN VESSEL BALTIC ATTACK",
             "paragraphs": [
-                "The Canadian government awarded a $324M financial package to Ford to safeguard domestic automotive manufacturing jobs and transition regional assembly lines toward electric vehicle production. The capital injection secures vital localized manufacturing output across cross-border automotive supply chains.",
-                "This targeted industrial policy guarantees steady inbound tier-one component flows between Canadian assembly plants and US distribution hubs. Automotive logistics planners should maintain existing cross-border freight schedules while monitoring localized supply chain shifts."
+                "Finnish authorities confirmed a Russian rescue vessel took control of the damaged RoRo ship Sparta II after an attack in the Baltic Sea. The vessel, reportedly carrying military cargo, is being towed toward the Russian border following multiple fires on board.",
+                "Kinetic attacks on commercial-style vessels in the Baltic signal a widening theater of maritime risk beyond the Black Sea. Forwarders must account for increased military activity when planning Northern European transit and insurance coverage."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+            "nextUpTease": "PRICING: ASIA-USEC RATES TOP $10K",
             "tags": [
-                "Source: https://www.ttnews.com/articles/canada-ford-plant-324-million",
-                "Published: 2026-11-20T09:45:00Z",
+                "Source: https://maritime-executive.com/article/russia-takes-control-of-military-roro-after-baltic-attack",
+                "Published: 2026-11-23T13:33:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HULL CLEANING PARTNERSHIP LAUNCHES",
+            "heading": "PRICING: ASIA-USEC RATES TOP $10K",
             "paragraphs": [
-                "Dutch-French multinational Louis Dreyfus Company partnered with Neptune Robotics to deploy AI-powered robotic hull cleaning across a chartered fleet of 300 vessels. The advanced maintenance initiative aims to drastically reduce vessel hydrodynamic drag, fuel consumption, and carbon emissions.",
-                "Enhanced hull efficiency directly lowers ocean voyage operating expenditures and improves schedule reliability in volatile international shipping lanes. Importers should factor modernized vessel performance metrics into annual ocean carrier scorecard evaluations."
+                "Ocean freight rates from Asia to the U.S. East Coast have officially topped $10,000 per FEU, representing a 300% increase over the previous year. High demand and port congestion continue to drive pricing upward despite traditional slack season expectations.",
+                "Sustained 5-figure pricing for East Coast transit pressures the gross margins of high-volume retail importers. Supply chain leaders should consider rail-bridge alternatives from the West Coast or renegotiate long-term contract structures for Q1."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+            "nextUpTease": "M&A: FEDEX CLOSES $9.2B DEAL",
             "tags": [
-                "Source: https://maritime-executive.com/article/louis-dreyfus-tests-out-robotic-hull-cleaning-at-scale",
-                "Published: 2026-11-22T20:29:00Z",
+                "Source: https://www.freightwaves.com/news/asia-us-east-coast-ocean-freight-rates-top-10000-up-300-from-a-year-ago",
+                "Published: 2026-11-23T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENVIRONMENT: SPAIN BANS SCRUBBER DISCHARGES",
+            "heading": "M&A: FEDEX CLOSES $9.2B DEAL",
             "paragraphs": [
-                "Spain announced a nationwide ban on exhaust gas cleaning system washwater discharges across all domestic ports and designated coastal waters, taking effect July 1, 2027. The sweeping environmental regulation targets open-loop and closed-loop scrubber operations to protect marine ecosystems.",
-                "Vessels utilizing open-loop scrubbers must switch to compliant low-sulfur marine fuels or closed-loop retention systems prior to entering Spanish territorial waters. Ocean carriers are expected to pass compliance surcharges on to cargo owners calling at Spanish gateway terminals."
+                "A FedEx-led consortium finalized a $9.2B acquisition of a major Polish delivery firm to expand infrastructure in Central Europe. The deal aims to integrate advanced last-mile capabilities and automated locker networks across high-growth European markets.",
+                "This capital injection accelerates the professionalization of Eastern European parcel networks and strengthens FedEx's footprint against regional competitors. B2B shippers should monitor network integration timelines to leverage enhanced cross-border distribution channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
+            "nextUpTease": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
             "tags": [
-                "Source: https://splash247.com/spain-joins-growing-global-crackdown-on-scrubbers/",
-                "Published: 2026-11-23T06:00:00Z",
+                "Source: https://www.freightwaves.com/news/fedex-led-consortium-finalizes-9-2b-deal-for-polish-delivery-company",
+                "Published: 2026-11-23T14:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: MEXICO HIGHWAY SECURITY ACCORDS",
+            "heading": "INFRASTRUCTURE: SAVANNAH OCTOBER VOLUMES SURGE",
             "paragraphs": [
-                "Mexican trucking organizations secured 29 new operational safety agreements with federal authorities following nationwide protests regarding highway security. The pact mandates enhanced federal patrols and digital oversight along high-risk commercial freight transit routes.",
-                "Improved security protocols will help reduce cargo theft incidents and protect cross-border supply chains moving north into the United States. Nearshoring shippers should coordinate closely with compliant carriers operating under the newly established safety frameworks."
+                "The Port of Savannah handled 565,366 TEUs in October, marking a 25% year-over-year increase driven by strong import demand. Georgia Ports continues to accelerate terminal and inland rail investments to handle the sustained cargo surge.",
+                "Rapid volume growth at Southeast gateways is leading to increased terminal utilization and potential inland drayage constraints. Logistics planners should coordinate closely with intermodal providers to ensure inland rail capacity matches the record-breaking inbound flow."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-security-after-nationwide-strike",
-                "Published: 2026-11-23T11:00:00Z",
+                "Source: https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
+                "Published: 2026-11-23T12:05:00Z",
                 "Status: Audited & True"
             ]
         }
