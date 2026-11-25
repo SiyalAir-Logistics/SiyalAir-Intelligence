@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROBINSON ACQUIRES RXO IN 5.8B",
-        "titleBlue": "DEAL",
-        "footerSummary": "C.H. Robinson seals $5.8B RXO buyout as Hormuz mine blasts and 300% Asia-USEC rate spikes reshape global freight corridors."
+        "titleWhite": "MAERSK STORMS INTO MEGAMAX",
+        "titleBlue": "LEAGUE",
+        "footerSummary": "Maersk places a $2.9B order for twelve 24K TEU megamax vessels while Hormuz tugboat blacklists tighten regional tanker traffic."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LOGISTICS: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
+            "heading": "CONTAINERS: MAERSK STORMS INTO MEGAMAX LEAGUE",
             "paragraphs": [
-                "C.H. Robinson has officially agreed to acquire RXO in a massive 5.8B USD cash-and-stock transaction that significantly expands its expedited and last-mile service capabilities. The strategic combination aims to integrate heavy brokerage assets with advanced digital freight networks ahead of the anticipated 2027 market close.",
-                "This consolidation reshapes the competitive landscape for third-party logistics providers seeking scale and efficiency in a recovering freight market. Shippers must evaluate potential contract shifts and service adjustments as major brokerage portfolios merge."
+                "Danish liner giant AP Moller-Maersk has confirmed a massive 2.9B USD order for 12 ultra-large containerships boasting 24K TEU capacity. This strategic investment marks the carrier's formal entry into the largest boxship segment using advanced dual-fuel propulsion.",
+                "Shifting toward megamax tonnage allows Maersk to capture substantial economies of scale along major east-west trade lanes. Shippers must analyze how this massive fleet injection will impact long-term slot capacities and contracted ocean freight rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKERS HIT BY MINES",
+            "nextUpTease": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-23T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ TANKERS HIT BY MINES",
+            "heading": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
             "paragraphs": [
-                "Three commercial oil tankers have struck underwater mines in the Strait of Hormuz despite active U.S. naval escort operations, prompting the Treasury Department to immediately widen regional sanctions. The confirmed detonations heighten security threats across a crucial maritime choke point that handles nearly 20% of global petroleum transit.",
-                "Heightened kinetic risk forces fleet operators to factor in extreme war risk insurance premiums and potential route diversions around the African continent. Logistics directors managing energy and bulk movements must prepare for prolonged transit delays and escalating spot rates."
+                "Regional authorities have officially blacklisted essential harbor tugboats operating within the Strait of Hormuz, severely restricting critical maneuvering support for commercial crude tankers. The enforcement action heightens navigational hazards and exacerbates operational bottlenecks across a vital Middle Eastern energy corridor.",
+                "Escalating security restrictions compel fleet managers to factor in extended turnaround times and inflated war risk surcharges. Energy logistics directors must reassess contingency routing protocols to mitigate unexpected voyage delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RATES: ASIA-USEC FREIGHT TOPS 10K",
+            "nextUpTease": "REGULATION: US READIES TARIFF HIKE",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-11-23T09:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RATES: ASIA-USEC FREIGHT TOPS 10K",
+            "heading": "GOVERNMENT: US READIES TARIFF HIKE",
             "paragraphs": [
-                "Ocean freight spot rates moving from Asia to the U.S. East Coast have officially surged past 10K USD per FEU, marking a staggering 300% increase compared to the previous year. Persistent port congestion and robust pre-holiday import volumes continue to strain carrier capacity on key transpacific loops.",
-                "Sustained 5-figure ocean freight expenditures severely compress operating margins for high-volume retail and industrial importers. Supply chain leaders are forced to pivot toward intermodal rail alternatives or renegotiate minimum volume commitments for upcoming contract cycles."
+                "United States trade officials are actively preparing sweeping tariff hikes targeting imported industrial and consumer goods originating from China and the EU. The impending trade measures aim to fortify domestic manufacturing sectors while aggressively closing existing regulatory customs loopholes.",
+                "Importers face compressed compliance timelines and significant duty increases that will instantly impact landed product costs. Supply chain executives must rapidly audit supplier country-of-origin data to protect Q1 margin performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: FEDEX WRAPS 9.2B INPOST BUY",
+            "nextUpTease": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-23T10:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL: FEDEX WRAPS 9.2B INPOST BUY",
+            "heading": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
             "paragraphs": [
-                "A FedEx-led investment consortium has successfully finalized its 9.2B USD acquisition of a major European delivery network to aggressively expand automated locker infrastructure across Poland and Central Europe. The transaction strengthens the carrier's last-mile fulfillment footprint and enhances cross-border parcel routing capabilities.",
-                "This capital deployment intensifies competitive pressures on regional logistics providers operating within high-growth European delivery corridors. E-commerce merchants should examine network integration roadmaps to optimize cross-border shipping performance and cost efficiencies."
+                "Competing Class I railroads including CPKC, BNSF, and CSX have formally petitioned federal regulators to impose strict competitive conditions on the proposed Union Pacific and Norfolk Southern merger. The intervening carriers are demanding expanded terminal access and trackage rights across major warehousing hubs from Texas to Pennsylvania.",
+                "Securing these sweeping intermodal concessions would fundamentally reshape North American freight routing and boost localized competition. Shippers utilizing cross-country rail networks should prepare for potential service realignments."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPPING: SCI LAUNCHES 3.2B FLEET DRIVE",
+            "nextUpTease": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-23T11:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SHIPPING: SCI LAUNCHES 3.2B FLEET DRIVE",
+            "heading": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
             "paragraphs": [
-                "State-owned Shipping Corporation of India has formally initiated a massive 3.2B USD fleet expansion program by releasing tenders for 22 new vessels across container, gas carrier, and tanker segments. The aggressive newbuilding strategy aims to modernize national tonnage and capture growing demand along international trade lanes.",
-                "Expanding state-backed fleets signals long-term confidence in maritime asset appreciation despite near-term macroeconomic and geopolitical volatility. Vessel operators and charterers must monitor shipyard orderbook saturation and rising asset valuations closely."
+                "Leading ocean carriers including Maersk and ONE are advancing discussions to establish the container shipping industry's very first global liner alliance covering north-south trade lanes. Historically dominated by standalone vessel sharing agreements, these trade corridors are transitioning toward formalized cooperative frameworks.",
+                "This structural consolidation promises improved schedule reliability and optimized vessel utilization across developing southern hemisphere routes. Beneficial cargo owners must evaluate how consolidated carrier groupings will influence service contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: POLA AND POLB DEAL AVERTS STRIKE",
+            "nextUpTease": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-11-23T12:20:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LABOR: POLA AND POLB DEAL AVERTS STRIKE",
+            "heading": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
             "paragraphs": [
-                "The Pacific Maritime Association and ILWU Local 26 reached a crucial tentative contract agreement covering roughly 250 watchmen at the twin Ports of Los Angeles and Long Beach. The last-minute pact successfully prevents a disruptive terminal shutdown at the nation's premier container import gateways during peak shipping season.",
-                "While averting an immediate strike relieves peak season supply chain anxiety, it highlights ongoing labor contract vulnerabilities across West Coast maritime facilities. Cargo owners are advised to maintain balanced gateway diversification strategies to hedge against future labor friction."
+                "An unexpected aviation labor strike across Belgian transport hubs has forced international air cargo carriers to scramble, hastily rescheduling freighter flights and diverting aircraft to neighboring European airports. The sudden operational stoppage strikes right during peak pre-holiday fulfillment windows.",
+                "Diverted routings and ground handling delays threaten time-sensitive e-commerce deliveries and expedited industrial components. Logistics planners must leverage multi-airport trucking contingencies to bypass grounded air hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF SEES 4.2% HOLIDAY GAIN",
+            "nextUpTease": "SECURITY: CARGO THEIEVES TARGET PEAK",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-11-23T13:10:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-23T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: NRF SEES 4.2% HOLIDAY GAIN",
+            "heading": "SECURITY: CARGO THEIEVES TARGET PEAK",
             "paragraphs": [
-                "The National Retail Federation has released projections forecasting a 4.2% increase in 2026 holiday retail sales despite persistent economic headwinds and consumer price pressures. Retailers have carefully calibrated inventory levels to match anticipated consumer demand while managing elevated inbound supply chain expenses.",
-                "Steady retail growth provides a reliable baseline for freight volumes but requires disciplined warehouse labor and inventory management to protect profit margins. Supply chain executives must maintain operational flexibility to handle late-season demand surges effectively."
+                "Organized cargo crime rings have significantly increased interception plots targeting high-value transit shipments and unattended trailers throughout the Thanksgiving holiday weekend. Law enforcement and supply chain security teams report sophisticated tactics designed to exploit extended facility closures.",
+                "Heightened pilferage risks mandate rigorous driver vetting, enhanced GPS trailer tracking, and continuous yard surveillance during transit pauses. Shippers failing to enforce strict security protocols face severe inventory write-offs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-23T14:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

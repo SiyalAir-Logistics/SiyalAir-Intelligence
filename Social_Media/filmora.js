@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: ROBINSON ACQUIRES RXO IN 5.8B DEAL",
-                "teaserTitle": "MARITIME: HORMUZ TANKERS HIT BY MINES",
-                "visual_caption": "C.H. Robinson agrees to acquire RXO in a $5.8B cash-and-stock deal. The transaction significantly expands expedited and last-mile service capabilities ahead of 2027."
+                "headline": "CONTAINERS: MAERSK STORMS INTO MEGAMAX LEAGUE",
+                "teaserTitle": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
+                "visual_caption": "Maersk commits $2.9B for 12 megamax vessels. The order expands its ultra-large capacity across global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TANKERS HIT BY MINES",
-                "teaserTitle": "RATES: ASIA-USEC FREIGHT TOPS 10K",
-                "visual_caption": "Three oil tankers struck underwater mines in the Strait of Hormuz despite naval escorts. The Treasury Department has responded by widening regional shipping sanctions."
+                "headline": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
+                "teaserTitle": "REGULATION: US READIES TARIFF HIKE",
+                "visual_caption": "Hormuz authorities blacklist essential harbor tugboats. The action tightens maneuvering support for commercial tankers."
             },
             {
                 "slide_index": 3,
-                "headline": "RATES: ASIA-USEC FREIGHT TOPS 10K",
-                "teaserTitle": "PARCEL: FEDEX WRAPS 9.2B INPOST BUY",
-                "visual_caption": "Ocean freight spot rates from Asia to the U.S. East Coast have topped $10K per FEU. This reflects a 300% increase over rates recorded from a year ago."
+                "headline": "GOVERNMENT: US READIES TARIFF HIKE",
+                "teaserTitle": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
+                "visual_caption": "US trade officials prepare aggressive tariff hikes. The new measures target imported industrial goods and customs loopholes."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: FEDEX WRAPS 9.2B INPOST BUY",
-                "teaserTitle": "SHIPPING: SCI LAUNCHES 3.2B FLEET DRIVE",
-                "visual_caption": "A FedEx-led consortium finalized a $9.2B acquisition of a Polish delivery company. The investment accelerates automated locker integration across Central Europe."
+                "headline": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
+                "teaserTitle": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
+                "visual_caption": "Competing railroads demand strict regulatory merger conditions. The demands seek to expand terminal access across major freight hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPPING: SCI LAUNCHES 3.2B FLEET DRIVE",
-                "teaserTitle": "LABOR: POLA AND POLB DEAL AVERTS STRIKE",
-                "visual_caption": "Shipping Corporation of India launched a $3.2B fleet expansion drive for 22 ships. Tenders cover new gas carriers, oil tankers, and container vessels."
+                "headline": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
+                "teaserTitle": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
+                "visual_caption": "Carriers form the first global north-south liner alliance. The framework optimizes vessel utilization across southern corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: POLA AND POLB DEAL AVERTS STRIKE",
-                "teaserTitle": "RETAIL: NRF SEES 4.2% HOLIDAY GAIN",
-                "visual_caption": "PMA and ILWU Local 26 reached a tentative agreement on a new watchman contract. The deal successfully averts a terminal shutdown at LA and Long Beach ports."
+                "headline": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
+                "teaserTitle": "SECURITY: CARGO THEIEVES TARGET PEAK",
+                "visual_caption": "Aviation strikes across Belgian hubs force flight diversions. The unexpected disruption threatens pre-holiday cargo flows."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: NRF SEES 4.2% HOLIDAY GAIN",
+                "headline": "SECURITY: CARGO THEIEVES TARGET PEAK",
                 "teaserTitle": "",
-                "visual_caption": "The NRF forecasts 4.2% growth in 2026 holiday retail sales despite economic headwinds. Retailers are managing tight inventory lines and steady consumer demand."
+                "visual_caption": "Organized crime syndicates increase trailer thefts over weekends. Enhanced GPS tracking is vital to protect high-value freight."
             },
             {
                 "slide_index": 8,
