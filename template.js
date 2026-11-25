@@ -1,20 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ROBINSON ACQUIRES RXO FOR 5.8B",
-        "titleBlue": "USD",
-        "footerSummary": "CH Robinson targets expedited dominance via $5.8B RXO acquisition; warehouse demand surges as data center construction absorbs 100M square feet of space."
+        "titleWhite": "TRANSPAC SPOTS FALL AS PORT",
+        "titleBlue": "STRIKE",
+        "footerSummary": "Trans-Pacific spot rates soften below $8K as LA-Long Beach strikes are averted; FMC chair warns cargo owners will absorb IMO net-zero costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "3PL: ROBINSON ACQUIRES RXO FOR 5.8B USD",
+            "heading": "MARITIME: TRANSPAC SPOTS FALL AS PORT STRIKE",
             "paragraphs": [
-                "C.H. Robinson has formally agreed to acquire RXO in a cash and stock transaction valued at $5.8B, marking a significant consolidation in the brokerage market. The strategic move aims to integrate robust expedited and last-mile service networks into Robinson\u2019s broader logistics portfolio.",
-                "The acquisition, expected to close in the first half of 2027, positions the combined entity to leverage expanded capacity and technical synergy. Shippers must evaluate how this major market integration will influence service levels and pricing structures across their contracted freight lanes."
+                "Trans-Pacific container spot rates have slipped below $8,000 per FEU following a tentative labor agreement between the Pacific Maritime Association and International Longshore and Warehouse Union Local 26. This crucial breakthrough at Los Angeles and Long Beach ports has successfully averted potential pre-holiday operational gridlock and severe terminal closures.",
+                "While spot pricing recedes from recent peak-season highs, lingering trade-policy shifts and carrier capacity adjustments continue to threaten baseline stability. Importers must remain agile as ocean liners recalibrate deployed capacity across primary trans-Pacific trade lanes heading into 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
+            "nextUpTease": "REGULATORY: IMO NET ZERO BILL",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "REGULATORY: IMO NET ZERO BILL",
+            "paragraphs": [
+                "Federal Maritime Commission Chairman Laura DiBella has formally warned that cargo owners will ultimately bear the financial weight of maritime decarbonisation under the proposed IMO Net-Zero Framework. The current structural design of these environmental rules ensures that compliance expenses and green transition fees are passed directly down the supply chain.",
+                "Shippers face inevitable cost inflations as carriers restructure operational budgets to fund vessel retrofits and alternative fuel sourcing. Logistics leaders must factor these impending environmental surcharges directly into upcoming long-term freight procurement contracts."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TARIFFS: USTR TARGETS PARTNERS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-25T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "TARIFFS: USTR TARGETS PARTNERS",
+            "paragraphs": [
+                "The Office of the United States Trade Representative has initiated a sweeping Section 301 investigation targeting 14 major trading partners, proposing new import tariffs of up to 35%. This aggressive trade policy adjustment is designed to protect domestic industries and counter perceived foreign trade imbalances.",
+                "Importers confronting these proposed duties face steep landed-cost increases and immediate margin compression across global inventories. Supply chain executives must urgently audit supplier origins and restructure sourcing networks to mitigate incoming tariff exposures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: GUARULHOS BACKLOG",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-11-25T00:00:00Z",
@@ -22,91 +52,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
-            "paragraphs": [
-                "Accelerated data center construction is fundamentally shifting commercial real estate trends, driving record demand for specialized warehouse and logistics space. Cushman and Wakefield reports that this infrastructure boom is increasingly competing with traditional supply chain facilities for prime industrial acreage.",
-                "This trend exerts upward pressure on industrial lease rates, forcing logistics firms to secure long-term capacity early. Network planners should account for reduced warehouse availability and escalating rental costs when modeling their 2027 distribution footprint."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: ASIA-US EAST COAST SURGE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-25T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME: ASIA-US EAST COAST SURGE",
-            "paragraphs": [
-                "Ocean freight spot rates on the Asia-to-US East Coast trade lane have spiked, topping $10,000 per FEU\u2014a 300% increase over the same period last year. Heavy cargo volume combined with transshipment bottlenecks continues to strain available vessel capacity.",
-                "Elevated transit costs create significant margin volatility for importers reliant on spot-market ocean freight. Procurement managers must prioritize long-term contract reliability to bypass these intense pricing fluctuations heading into the new year."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PARCEL: FEDEX COMPLETES POLISH DEAL",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-11-25T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "PARCEL: FEDEX COMPLETES POLISH DEAL",
+            "heading": "AIR CARGO: GUARULHOS BACKLOG",
             "paragraphs": [
-                "FedEx-led consortiums have finalized a $9.2B acquisition deal to take full control of a leading Polish delivery and logistics company. The massive investment expands their European last-mile capabilities and streamlines cross-border fulfillment networks.",
-                "The consolidation allows for faster, more integrated delivery services across key Central European markets. Retailers should evaluate this expanded geographic reach for potential improvements in international shipping speed and fulfillment reliability for 2027."
+                "Brazil\u2019s premier international air cargo gateway, Guarulhos Airport, is experiencing severe export processing delays as tighter customs inspections create multi-day truck queues. This terminal congestion is disrupting outbound air freight schedules and stranding high-priority shipments.",
+                "Supply chain managers reliant on South American export corridors face mounting storage fees and schedule unpredictability. Shippers should secure alternative routing options and buffer transit timelines to bypass ongoing air cargo bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: US TARIFF HIKE PREP",
+            "nextUpTease": "RAIL: CPKC A- RATING BOOST",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOVERNMENT: US TARIFF HIKE PREP",
+            "heading": "RAIL: CPKC A- RATING BOOST",
             "paragraphs": [
-                "United States trade authorities are advancing plans for new, sweeping tariff hikes on imported goods originating from China and the European Union. These impending regulatory measures target industrial and consumer products to strengthen domestic manufacturing competitiveness.",
-                "Importers face potential duty increases that will impact landed product costs across global supply chains. Executives must audit country-of-origin data and supplier resilience to minimize tariff-induced cost spikes in upcoming production quarters."
+                "Standard and Poor\u2019s has officially upgraded CPKC to an A- credit rating, driven by robust performance along its strategic Mexico-US cross-border corridor and diversified network growth. This financial upgrade highlights the increasing institutional strength of North American intermodal operators.",
+                "The improved credit standing reflects strong operational execution and reliable cross-border volume capture despite broader economic headwinds. Shippers leveraging this rail corridor can anticipate stable infrastructure investment and enhanced service reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT RISK PEAK",
+            "nextUpTease": "EQUIPMENT: ALTA PETERBILT DEAL",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-24T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: CARGO THEFT RISK PEAK",
+            "heading": "EQUIPMENT: ALTA PETERBILT DEAL",
             "paragraphs": [
-                "Organized crime groups have intensified efforts to intercept high-value shipments over the current Thanksgiving holiday period. Law enforcement reports a rise in fraudulent schemes and physical trailer theft targeting freight as warehouses shift to holiday operating schedules.",
-                "The increased theft risk demands robust, multi-layered security protocols including real-time GPS tracking and strict driver verification. Shippers neglecting these precautions face severe exposure to inventory loss and significant insurance claim complexities."
+                "Alta Equipment Group has completed a major $399M acquisition of Jackson Group Peterbilt, significantly expanding its heavy-duty commercial truck dealership footprint. This acquisition strengthens regional parts availability and service network density for commercial fleets.",
+                "Consolidation within the dealer network underscores the growing importance of securing dependable maintenance and aftermarket support. Fleet operators must evaluate how dealer acquisitions impact regional repair turnarounds and maintenance budgeting."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: HORMUZ TUGBOAT BLACKLIST",
+            "nextUpTease": "TANKERS: HORMUZ TUG BLACKLIST",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-24T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FUEL: HORMUZ TUGBOAT BLACKLIST",
+            "heading": "TANKERS: HORMUZ TUG BLACKLIST",
             "paragraphs": [
-                "Regional authorities have officially blacklisted essential harbor tugboats within the Strait of Hormuz, imposing immediate restrictions on critical tanker maneuvering. The action creates a significant operational bottleneck for commercial energy shipments across the vital maritime energy corridor.",
-                "Escalating navigational risks and limited support infrastructure will likely inflate voyage costs and war risk premiums. Energy logistics directors must prepare for extended turnaround times and adjust routing contingency plans to maintain supply stability."
+                "Regional authorities have imposed an immediate blacklist on critical harbor tugboats operating within the strategic Strait of Hormuz, severely restricting commercial tanker maneuverability. This navigational restriction creates an intense operational choke point for energy shipments.",
+                "Escalating transit risks and diminished harbor support are driving up war risk insurance premiums and voyage charter rates. Energy logistics planners must adjust route contingencies to navigate this high-risk maritime corridor successfully."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ROBINSON ACQUIRES RXO FOR FIVE POINT EIGHT BILLION DOLLARS",
+        "hookTitle": "TRANSPAC SPOTS FALL AS PORT STRIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "3PL: ROBINSON ACQUIRES RXO FOR 5.8B USD",
-                "teaserTitle": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
+                "headline": "MARITIME: TRANSPAC SPOTS FALL AS PORT STRIKE",
+                "teaserTitle": "REGULATORY: IMO NET ZERO BILL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C H Robinson is acquiring R X O in a massive five point eight billion dollar deal. This consolidation marks a major shift in brokerage capacity."
+                "narration_line": "Trans-Pacific spot rates slipped below eight thousand dollars after a tentative union agreement averted port strikes in Los Angeles. Importers must monitor capacity shifts as ocean carriers recalibrate global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
-                "teaserTitle": "MARITIME: ASIA-US EAST COAST SURGE",
+                "headline": "REGULATORY: IMO NET ZERO BILL",
+                "teaserTitle": "TARIFFS: USTR TARGETS PARTNERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Data center construction is now driving massive demand for industrial warehouse space. Supply chain managers face tightening availability and rising commercial lease costs nationwide."
+                "narration_line": "The Federal Maritime Commission warns cargo owners will absorb the costs of the proposed IMO net zero framework. Shippers must factor impending environmental surcharges into upcoming procurement contracts."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: ASIA-US EAST COAST SURGE",
-                "teaserTitle": "PARCEL: FEDEX COMPLETES POLISH DEAL",
+                "headline": "TARIFFS: USTR TARGETS PARTNERS",
+                "teaserTitle": "AIR CARGO: GUARULHOS BACKLOG",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Asia to US East Coast ocean spot rates have tripled, topping ten thousand dollars. Congestion continues to strain capacity for major importers."
+                "narration_line": "United States trade authorities advanced a Section thirty one investigation proposing tariffs of up to thirty five percent. Importers face steep landed-cost increases requiring immediate origin audits."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: FEDEX COMPLETES POLISH DEAL",
-                "teaserTitle": "GOVERNMENT: US TARIFF HIKE PREP",
+                "headline": "AIR CARGO: GUARULHOS BACKLOG",
+                "teaserTitle": "RAIL: CPKC A- RATING BOOST",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx is finalizing a nine point two billion dollar acquisition of a Polish delivery firm. This expands their last mile reach across Europe."
+                "narration_line": "Brazil's Guarulhos Airport faces severe export backlogs as tighter customs inspections create multi-day truck queues. Supply chain managers should secure alternate routing to bypass terminal congestion."
             },
             {
                 "slide_index": 5,
-                "headline": "GOVERNMENT: US TARIFF HIKE PREP",
-                "teaserTitle": "SECURITY: CARGO THEFT RISK PEAK",
+                "headline": "RAIL: CPKC A- RATING BOOST",
+                "teaserTitle": "EQUIPMENT: ALTA PETERBILT DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New US tariff hikes on imports from China and the E U are in preparation. Importers must urgently audit supplier origins to protect margins."
+                "narration_line": "Standard and Poor's upgraded CPKC to an A minus rating following robust growth along its Mexico corridor. Shippers leveraging this rail route can anticipate stable infrastructure investment."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: CARGO THEFT RISK PEAK",
-                "teaserTitle": "FUEL: HORMUZ TUGBOAT BLACKLIST",
+                "headline": "EQUIPMENT: ALTA PETERBILT DEAL",
+                "teaserTitle": "TANKERS: HORMUZ TUG BLACKLIST",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cargo theft attempts have surged throughout the Thanksgiving holiday weekend. Security teams report organized crime rings are exploiting facility closures for high value targets."
+                "narration_line": "Alta Equipment acquired Jackson Group Peterbilt for three hundred ninety-nine million dollars to expand its heavy-duty footprint. Fleet operators must evaluate how dealer consolidation impacts repair turnarounds."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL: HORMUZ TUGBOAT BLACKLIST",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "TANKERS: HORMUZ TUG BLACKLIST",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Authorities have blacklisted critical tugboats in the Strait of Hormuz, forcing tanker delays. Fleet managers should expect higher war risk surcharges."
+                "narration_line": "Regional authorities blacklisted vital harbor tugboats within the Strait of Hormuz, restricting tanker maneuverability. Energy logistics directors must prepare for extended turnaround times."
             },
             {
                 "slide_index": 8,
