@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK STORMS INTO MEGAMAX LEAGUE",
+        "hookTitle": "ROBINSON ACQUIRES RXO FOR FIVE POINT EIGHT BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CONTAINERS: MAERSK STORMS INTO MEGAMAX LEAGUE",
-                "teaserTitle": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
+                "headline": "3PL: ROBINSON ACQUIRES RXO FOR 5.8B USD",
+                "teaserTitle": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maersk has placed a two point nine billion dollar order for twelve megamax vessels. This move expands its ultra-large capacity footprint across global trade lanes."
+                "narration_line": "C H Robinson is acquiring R X O in a massive five point eight billion dollar deal. This consolidation marks a major shift in brokerage capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
-                "teaserTitle": "REGULATION: US READIES TARIFF HIKE",
+                "headline": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
+                "teaserTitle": "MARITIME: ASIA-US EAST COAST SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Strait of Hormuz authorities have blacklisted critical harbor tugboats. The enforcement action significantly tightens maneuvering support for commercial tankers."
+                "narration_line": "Data center construction is now driving massive demand for industrial warehouse space. Supply chain managers face tightening availability and rising commercial lease costs nationwide."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: US READIES TARIFF HIKE",
-                "teaserTitle": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
+                "headline": "MARITIME: ASIA-US EAST COAST SURGE",
+                "teaserTitle": "PARCEL: FEDEX COMPLETES POLISH DEAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States trade officials are preparing aggressive new tariff hikes. The measures target imported industrial goods to close customs loopholes."
+                "narration_line": "Asia to US East Coast ocean spot rates have tripled, topping ten thousand dollars. Congestion continues to strain capacity for major importers."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
-                "teaserTitle": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
+                "headline": "PARCEL: FEDEX COMPLETES POLISH DEAL",
+                "teaserTitle": "GOVERNMENT: US TARIFF HIKE PREP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Competing railroads are demanding strict regulatory conditions on a major merger. These concessions aim to expand terminal access across key freight hubs."
+                "narration_line": "FedEx is finalizing a nine point two billion dollar acquisition of a Polish delivery firm. This expands their last mile reach across Europe."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
-                "teaserTitle": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
+                "headline": "GOVERNMENT: US TARIFF HIKE PREP",
+                "teaserTitle": "SECURITY: CARGO THEFT RISK PEAK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Ocean carriers are forming the first global north-south liner alliance. This cooperative framework optimizes vessel utilization across developing trade corridors."
+                "narration_line": "New US tariff hikes on imports from China and the E U are in preparation. Importers must urgently audit supplier origins to protect margins."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
-                "teaserTitle": "SECURITY: CARGO THEIEVES TARGET PEAK",
+                "headline": "SECURITY: CARGO THEFT RISK PEAK",
+                "teaserTitle": "FUEL: HORMUZ TUGBOAT BLACKLIST",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An aviation strike across Belgian transport hubs forced emergency flight diversions. The disruption threatens time-sensitive pre-holiday cargo flows."
+                "narration_line": "Cargo theft attempts have surged throughout the Thanksgiving holiday weekend. Security teams report organized crime rings are exploiting facility closures for high value targets."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: CARGO THEIEVES TARGET PEAK",
-                "teaserTitle": "",
+                "headline": "FUEL: HORMUZ TUGBOAT BLACKLIST",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Organized cargo crime syndicates are stepping up trailer thefts over holiday weekends. Enhanced tracking protocols are vital to protect high-value shipments."
+                "narration_line": "Authorities have blacklisted critical tugboats in the Strait of Hormuz, forcing tanker delays. Fleet managers should expect higher war risk surcharges."
             },
             {
                 "slide_index": 8,

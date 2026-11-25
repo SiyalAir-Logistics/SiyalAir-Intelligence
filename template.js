@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK STORMS INTO MEGAMAX",
-        "titleBlue": "LEAGUE",
-        "footerSummary": "Maersk places a $2.9B order for twelve 24K TEU megamax vessels while Hormuz tugboat blacklists tighten regional tanker traffic."
+        "titleWhite": "ROBINSON ACQUIRES RXO FOR 5.8B",
+        "titleBlue": "USD",
+        "footerSummary": "CH Robinson targets expedited dominance via $5.8B RXO acquisition; warehouse demand surges as data center construction absorbs 100M square feet of space."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CONTAINERS: MAERSK STORMS INTO MEGAMAX LEAGUE",
+            "heading": "3PL: ROBINSON ACQUIRES RXO FOR 5.8B USD",
             "paragraphs": [
-                "Danish liner giant AP Moller-Maersk has confirmed a massive 2.9B USD order for 12 ultra-large containerships boasting 24K TEU capacity. This strategic investment marks the carrier's formal entry into the largest boxship segment using advanced dual-fuel propulsion.",
-                "Shifting toward megamax tonnage allows Maersk to capture substantial economies of scale along major east-west trade lanes. Shippers must analyze how this massive fleet injection will impact long-term slot capacities and contracted ocean freight rates."
+                "C.H. Robinson has formally agreed to acquire RXO in a cash and stock transaction valued at $5.8B, marking a significant consolidation in the brokerage market. The strategic move aims to integrate robust expedited and last-mile service networks into Robinson\u2019s broader logistics portfolio.",
+                "The acquisition, expected to close in the first half of 2027, positions the combined entity to leverage expanded capacity and technical synergy. Shippers must evaluate how this major market integration will influence service levels and pricing structures across their contracted freight lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
+            "nextUpTease": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FUEL: HORMUZ BLACKLISTS TUGBOATS",
+            "heading": "WAREHOUSING: DATA CENTERS DRIVE DEMAND",
             "paragraphs": [
-                "Regional authorities have officially blacklisted essential harbor tugboats operating within the Strait of Hormuz, severely restricting critical maneuvering support for commercial crude tankers. The enforcement action heightens navigational hazards and exacerbates operational bottlenecks across a vital Middle Eastern energy corridor.",
-                "Escalating security restrictions compel fleet managers to factor in extended turnaround times and inflated war risk surcharges. Energy logistics directors must reassess contingency routing protocols to mitigate unexpected voyage delays."
+                "Accelerated data center construction is fundamentally shifting commercial real estate trends, driving record demand for specialized warehouse and logistics space. Cushman and Wakefield reports that this infrastructure boom is increasingly competing with traditional supply chain facilities for prime industrial acreage.",
+                "This trend exerts upward pressure on industrial lease rates, forcing logistics firms to secure long-term capacity early. Network planners should account for reduced warehouse availability and escalating rental costs when modeling their 2027 distribution footprint."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: US READIES TARIFF HIKE",
+            "nextUpTease": "MARITIME: ASIA-US EAST COAST SURGE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-24T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOVERNMENT: US READIES TARIFF HIKE",
+            "heading": "MARITIME: ASIA-US EAST COAST SURGE",
             "paragraphs": [
-                "United States trade officials are actively preparing sweeping tariff hikes targeting imported industrial and consumer goods originating from China and the EU. The impending trade measures aim to fortify domestic manufacturing sectors while aggressively closing existing regulatory customs loopholes.",
-                "Importers face compressed compliance timelines and significant duty increases that will instantly impact landed product costs. Supply chain executives must rapidly audit supplier country-of-origin data to protect Q1 margin performance."
+                "Ocean freight spot rates on the Asia-to-US East Coast trade lane have spiked, topping $10,000 per FEU\u2014a 300% increase over the same period last year. Heavy cargo volume combined with transshipment bottlenecks continues to strain available vessel capacity.",
+                "Elevated transit costs create significant margin volatility for importers reliant on spot-market ocean freight. Procurement managers must prioritize long-term contract reliability to bypass these intense pricing fluctuations heading into the new year."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
+            "nextUpTease": "PARCEL: FEDEX COMPLETES POLISH DEAL",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-24T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL: RAIL RIVALS SEEK MERGER TERMS",
+            "heading": "PARCEL: FEDEX COMPLETES POLISH DEAL",
             "paragraphs": [
-                "Competing Class I railroads including CPKC, BNSF, and CSX have formally petitioned federal regulators to impose strict competitive conditions on the proposed Union Pacific and Norfolk Southern merger. The intervening carriers are demanding expanded terminal access and trackage rights across major warehousing hubs from Texas to Pennsylvania.",
-                "Securing these sweeping intermodal concessions would fundamentally reshape North American freight routing and boost localized competition. Shippers utilizing cross-country rail networks should prepare for potential service realignments."
+                "FedEx-led consortiums have finalized a $9.2B acquisition deal to take full control of a leading Polish delivery and logistics company. The massive investment expands their European last-mile capabilities and streamlines cross-border fulfillment networks.",
+                "The consolidation allows for faster, more integrated delivery services across key Central European markets. Retailers should evaluate this expanded geographic reach for potential improvements in international shipping speed and fulfillment reliability for 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
+            "nextUpTease": "GOVERNMENT: US TARIFF HIKE PREP",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-24T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-11-25T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: ALLIANCE SHAPES NORTH-SOUTH",
+            "heading": "GOVERNMENT: US TARIFF HIKE PREP",
             "paragraphs": [
-                "Leading ocean carriers including Maersk and ONE are advancing discussions to establish the container shipping industry's very first global liner alliance covering north-south trade lanes. Historically dominated by standalone vessel sharing agreements, these trade corridors are transitioning toward formalized cooperative frameworks.",
-                "This structural consolidation promises improved schedule reliability and optimized vessel utilization across developing southern hemisphere routes. Beneficial cargo owners must evaluate how consolidated carrier groupings will influence service contracts."
+                "United States trade authorities are advancing plans for new, sweeping tariff hikes on imported goods originating from China and the European Union. These impending regulatory measures target industrial and consumer products to strengthen domestic manufacturing competitiveness.",
+                "Importers face potential duty increases that will impact landed product costs across global supply chains. Executives must audit country-of-origin data and supplier resilience to minimize tariff-induced cost spikes in upcoming production quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
+            "nextUpTease": "SECURITY: CARGO THEFT RISK PEAK",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: STRIKE DISRUPTS BELGIUM",
+            "heading": "SECURITY: CARGO THEFT RISK PEAK",
             "paragraphs": [
-                "An unexpected aviation labor strike across Belgian transport hubs has forced international air cargo carriers to scramble, hastily rescheduling freighter flights and diverting aircraft to neighboring European airports. The sudden operational stoppage strikes right during peak pre-holiday fulfillment windows.",
-                "Diverted routings and ground handling delays threaten time-sensitive e-commerce deliveries and expedited industrial components. Logistics planners must leverage multi-airport trucking contingencies to bypass grounded air hubs."
+                "Organized crime groups have intensified efforts to intercept high-value shipments over the current Thanksgiving holiday period. Law enforcement reports a rise in fraudulent schemes and physical trailer theft targeting freight as warehouses shift to holiday operating schedules.",
+                "The increased theft risk demands robust, multi-layered security protocols including real-time GPS tracking and strict driver verification. Shippers neglecting these precautions face severe exposure to inventory loss and significant insurance claim complexities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEIEVES TARGET PEAK",
+            "nextUpTease": "FUEL: HORMUZ TUGBOAT BLACKLIST",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-23T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: CARGO THEIEVES TARGET PEAK",
+            "heading": "FUEL: HORMUZ TUGBOAT BLACKLIST",
             "paragraphs": [
-                "Organized cargo crime rings have significantly increased interception plots targeting high-value transit shipments and unattended trailers throughout the Thanksgiving holiday weekend. Law enforcement and supply chain security teams report sophisticated tactics designed to exploit extended facility closures.",
-                "Heightened pilferage risks mandate rigorous driver vetting, enhanced GPS trailer tracking, and continuous yard surveillance during transit pauses. Shippers failing to enforce strict security protocols face severe inventory write-offs."
+                "Regional authorities have officially blacklisted essential harbor tugboats within the Strait of Hormuz, imposing immediate restrictions on critical tanker maneuvering. The action creates a significant operational bottleneck for commercial energy shipments across the vital maritime energy corridor.",
+                "Escalating navigational risks and limited support infrastructure will likely inflate voyage costs and war risk premiums. Energy logistics directors must prepare for extended turnaround times and adjust routing contingency plans to maintain supply stability."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-11-24T00:00:00Z",
                 "Status: Audited & True"
             ]
