@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRANSPAC SPOTS FALL AS PORT STRIKE",
+        "hookTitle": "CH ROBINSON BUYS RXO FOR FIVE POINT EIGHT BILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TRANSPAC SPOTS FALL AS PORT STRIKE",
-                "teaserTitle": "REGULATORY: IMO NET ZERO BILL",
+                "headline": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trans-Pacific spot rates slipped below eight thousand dollars after a tentative union agreement averted port strikes in Los Angeles. Importers must monitor capacity shifts as ocean carriers recalibrate global trade lanes."
+                "narration_line": "C.H. Robinson is acquiring RXO in a five point eight billion dollar deal to consolidate North American brokerage operations. Shippers face a concentrated market with tighter spot rate competition."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: IMO NET ZERO BILL",
-                "teaserTitle": "TARIFFS: USTR TARGETS PARTNERS",
+                "headline": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
+                "teaserTitle": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Federal Maritime Commission warns cargo owners will absorb the costs of the proposed IMO net zero framework. Shippers must factor impending environmental surcharges into upcoming procurement contracts."
+                "narration_line": "Maersk and ONE are partnering to launch container shipping's first global north-south liner alliance. Exporters on Latin American and African routes face restructured vessel rotations and port schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "TARIFFS: USTR TARGETS PARTNERS",
-                "teaserTitle": "AIR CARGO: GUARULHOS BACKLOG",
+                "headline": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
+                "teaserTitle": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States trade authorities advanced a Section thirty one investigation proposing tariffs of up to thirty five percent. Importers face steep landed-cost increases requiring immediate origin audits."
+                "narration_line": "APM Terminals and Rotterdam will expand the Maasvlakte two terminal by one point four million TEU. The added deep-water capacity significantly reduces vessel dwell times across northern Europe."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: GUARULHOS BACKLOG",
-                "teaserTitle": "RAIL: CPKC A- RATING BOOST",
+                "headline": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
+                "teaserTitle": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Brazil's Guarulhos Airport faces severe export backlogs as tighter customs inspections create multi-day truck queues. Supply chain managers should secure alternate routing to bypass terminal congestion."
+                "narration_line": "J.B. Hunt has formally petitioned regulators to reject the Union Pacific and Norfolk Southern rail merger. Intermodal shippers could face higher interchange costs and reduced route competition."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: CPKC A- RATING BOOST",
-                "teaserTitle": "EQUIPMENT: ALTA PETERBILT DEAL",
+                "headline": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
+                "teaserTitle": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Standard and Poor's upgraded CPKC to an A minus rating following robust growth along its Mexico corridor. Shippers leveraging this rail route can anticipate stable infrastructure investment."
+                "narration_line": "Xeneta launched four new container rate futures contracts on European exchanges covering major ocean corridors. Shippers can now hedge volatile spot exposure with regulated financial instruments."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: ALTA PETERBILT DEAL",
-                "teaserTitle": "TANKERS: HORMUZ TUG BLACKLIST",
+                "headline": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
+                "teaserTitle": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Alta Equipment acquired Jackson Group Peterbilt for three hundred ninety-nine million dollars to expand its heavy-duty footprint. Fleet operators must evaluate how dealer consolidation impacts repair turnarounds."
+                "narration_line": "The Port of Oakland energized megawatt charging stations for three hundred Tesla Semi electric drayage trucks. Regional fleets face accelerated capital investments to comply with clean freight rules."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: HORMUZ TUG BLACKLIST",
+                "headline": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Regional authorities blacklisted vital harbor tugboats within the Strait of Hormuz, restricting tanker maneuverability. Energy logistics directors must prepare for extended turnaround times."
+                "narration_line": "Gulftainer and CULines are deploying new direct container services on the China to Persian Gulf trade lane. The strategic partnership provides crucial bypass routing around contested maritime corridors."
             },
             {
                 "slide_index": 8,
