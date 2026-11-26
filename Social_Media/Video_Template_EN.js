@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CH ROBINSON BUYS RXO FOR FIVE POINT EIGHT BILLION DOLLARS",
+        "hookTitle": "USTR TARGETS FOURTEEN TRADING PARTNERS WITH SECTION THREE HUNDRED AND ONE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
+                "headline": "USTR: SECTION 301 TARIFF PROPOSALS",
+                "teaserTitle": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson is acquiring RXO in a five point eight billion dollar deal to consolidate North American brokerage operations. Shippers face a concentrated market with tighter spot rate competition."
+                "narration_line": "The United States Trade Representative has targeted fourteen trading partners with proposed tariffs of up to thirty-five percent. Shippers face immediate cost inflation and must restructure sourcing models."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
-                "teaserTitle": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
+                "headline": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+                "teaserTitle": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Maersk and ONE are partnering to launch container shipping's first global north-south liner alliance. Exporters on Latin American and African routes face restructured vessel rotations and port schedules."
+                "narration_line": "Nvidia has halted advanced server shipments to Asian markets following strict new export controls. Logistics planners must adapt to sudden tech supply chain disruptions."
             },
             {
                 "slide_index": 3,
-                "headline": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
-                "teaserTitle": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
+                "headline": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+                "teaserTitle": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "APM Terminals and Rotterdam will expand the Maasvlakte two terminal by one point four million TEU. The added deep-water capacity significantly reduces vessel dwell times across northern Europe."
+                "narration_line": "Regional authorities have blacklisted essential tugboats in the Strait of Hormuz, threatening crude tanker transit. Operators face soaring war risk insurance premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
-                "teaserTitle": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
+                "headline": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+                "teaserTitle": "MARITIME: ASIA-US SPOT RATES DROP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "J.B. Hunt has formally petitioned regulators to reject the Union Pacific and Norfolk Southern rail merger. Intermodal shippers could face higher interchange costs and reduced route competition."
+                "narration_line": "Alta Equipment has acquired Jackson Group Peterbilt for three hundred ninety-nine million dollars. Fleet operators gain enhanced access to commercial truck maintenance support."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
-                "teaserTitle": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
+                "headline": "MARITIME: ASIA-US SPOT RATES DROP",
+                "teaserTitle": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Xeneta launched four new container rate futures contracts on European exchanges covering major ocean corridors. Shippers can now hedge volatile spot exposure with regulated financial instruments."
+                "narration_line": "Asia to West Coast ocean spot rates have dropped below eight thousand dollars following strike avoidance. Cargo owners benefit from immediate freight rate relief."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
-                "teaserTitle": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
+                "headline": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+                "teaserTitle": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Port of Oakland energized megawatt charging stations for three hundred Tesla Semi electric drayage trucks. Regional fleets face accelerated capital investments to comply with clean freight rules."
+                "narration_line": "Frazier Industrial is investing twenty million dollars in a new Texas racking manufacturing facility. Fulfillment operators gain localized access to warehouse storage infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
+                "headline": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Gulftainer and CULines are deploying new direct container services on the China to Persian Gulf trade lane. The strategic partnership provides crucial bypass routing around contested maritime corridors."
+                "narration_line": "The Federal Maritime Commission warns cargo owners will absorb upcoming maritime decarbonisation costs. Importers must prepare for mandatory environmental transport surcharges."
             },
             {
                 "slide_index": 8,

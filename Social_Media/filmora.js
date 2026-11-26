@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON BUYS RXO FOR $5.8B",
-                "teaserTitle": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
-                "visual_caption": "C.H. Robinson is acquiring RXO in a $5.8B deal to consolidate North American brokerage operations. Shippers face a concentrated market with tighter spot rate competition."
+                "headline": "USTR: SECTION 301 TARIFF PROPOSALS",
+                "teaserTitle": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+                "visual_caption": "USTR targets 14 trading partners with tariffs of up to 35%. Shippers face immediate cost escalation and heightened audit exposure."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIERS: MAERSK AND ONE ALLIANCE PACT",
-                "teaserTitle": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
-                "visual_caption": "Maersk and ONE are partnering to launch container shipping's first global north-south liner alliance. Exporters on Latin American and African routes face restructured vessel rotations and port schedules."
+                "headline": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+                "teaserTitle": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+                "visual_caption": "Nvidia halts advanced server shipments to Asian markets under new export rules. Supply chain planners must adapt to sudden compliance freezes."
             },
             {
                 "slide_index": 3,
-                "headline": "TERMINALS: ROTTERDAM ADDS 1.4M TEU CAPACITY",
-                "teaserTitle": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
-                "visual_caption": "APM Terminals and Rotterdam will expand the Maasvlakte II terminal by 1.4M TEU. The added deep-water capacity significantly reduces vessel dwell times across northern Europe."
+                "headline": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+                "teaserTitle": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+                "visual_caption": "Hormuz authorities blacklist tugboats, pressuring critical tanker traffic. Operators face soaring insurance premiums and voyage delays."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: JB HUNT OPPOSES UP-NS MERGER",
-                "teaserTitle": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
-                "visual_caption": "J.B. Hunt has formally petitioned regulators to reject the Union Pacific and Norfolk Southern rail merger. Intermodal shippers could face higher interchange costs and reduced route competition."
+                "headline": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+                "teaserTitle": "MARITIME: ASIA-US SPOT RATES DROP",
+                "visual_caption": "Alta Equipment acquires Jackson Group Peterbilt for $399M. Fleet managers gain expanded access to commercial truck maintenance networks."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: XENETA DEBUTS FREIGHT FUTURES",
-                "teaserTitle": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
-                "visual_caption": "Xeneta launched 4 new container rate futures contracts on European exchanges covering major ocean corridors. Shippers can now hedge volatile spot exposure with regulated financial instruments."
+                "headline": "MARITIME: ASIA-US SPOT RATES DROP",
+                "teaserTitle": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+                "visual_caption": "Asia-U.S. West Coast spot rates drop below $8K after port strike avoidance. Beneficial cargo owners secure immediate market relief."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEETS: OAKLAND CHARGES 300 TESLA SEMIS",
-                "teaserTitle": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
-                "visual_caption": "The Port of Oakland energized megawatt charging stations for 300 Tesla Semi electric drayage trucks. Regional fleets face accelerated capital investments to comply with clean freight rules."
+                "headline": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+                "teaserTitle": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+                "visual_caption": "Frazier Industrial builds a $20M racking facility in Texas. Fulfillment operators gain localized access to warehouse storage infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "MIDDLE EAST: GULFTAINER LINKS WITH CULINES",
+                "headline": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
                 "teaserTitle": "",
-                "visual_caption": "Gulftainer and CULines are deploying new direct container services on the China to Persian Gulf trade lane. The strategic partnership provides crucial bypass routing around contested maritime corridors."
+                "visual_caption": "FMC warns cargo owners will absorb maritime net-zero compliance costs. Importers must budget for upcoming environmental surcharges."
             },
             {
                 "slide_index": 8,
