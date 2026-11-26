@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR TARGETS FOURTEEN TRADING PARTNERS WITH SECTION THREE HUNDRED AND ONE",
+        "hookTitle": "CH ROBINSON BUYS RXO FOR $5.8B",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF PROPOSALS",
-                "teaserTitle": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
+                "teaserTitle": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has targeted fourteen trading partners with proposed tariffs of up to thirty-five percent. Shippers face immediate cost inflation and must restructure sourcing models."
+                "narration_line": "C H Robinson agreed to acquire competitor R X O for five point eight billion dollars. This major consolidation will unify brokerage scale and reshape pricing power across enterprise truckload freight."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
-                "teaserTitle": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+                "headline": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
+                "teaserTitle": "MARITIME: BIMCO SHIFTS STS COSTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Nvidia has halted advanced server shipments to Asian markets following strict new export controls. Logistics planners must adapt to sudden tech supply chain disruptions."
+                "narration_line": "A severe cyber incident continues to disrupt automated terminal IT systems across Brazil's Port of Santos. Ocean carriers and cargo shippers face mounting gate delays and rising container dwell times."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
-                "teaserTitle": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+                "headline": "MARITIME: BIMCO SHIFTS STS COSTS",
+                "teaserTitle": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Regional authorities have blacklisted essential tugboats in the Strait of Hormuz, threatening crude tanker transit. Operators face soaring war risk insurance premiums."
+                "narration_line": "B I M C O released a standardized clause placing all costs for ship-to-ship cargo transfers onto charterers. Tanker operators and charterers must update risk allocations and commercial contracts immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
-                "teaserTitle": "MARITIME: ASIA-US SPOT RATES DROP",
+                "headline": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
+                "teaserTitle": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Alta Equipment has acquired Jackson Group Peterbilt for three hundred ninety-nine million dollars. Fleet operators gain enhanced access to commercial truck maintenance support."
+                "narration_line": "Intensified customs inspections at Sao Paulo Guarulhos Airport triggered multi-day truck queues outside cargo hubs. Air forwarders are experiencing missed flights and extended processing backlogs for time-sensitive freight."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: ASIA-US SPOT RATES DROP",
-                "teaserTitle": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+                "headline": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
+                "teaserTitle": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Asia to West Coast ocean spot rates have dropped below eight thousand dollars following strike avoidance. Cargo owners benefit from immediate freight rate relief."
+                "narration_line": "Global maritime congestion has trapped three point six million twenty-foot equivalent units of container capacity worldwide. Ocean freight rates remain double previous-year levels despite steady new container vessel deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
-                "teaserTitle": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+                "headline": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
+                "teaserTitle": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Frazier Industrial is investing twenty million dollars in a new Texas racking manufacturing facility. Fulfillment operators gain localized access to warehouse storage infrastructure."
+                "narration_line": "European exchanges launched container rate futures tracking major trans-Pacific and Asia-Europe shipping lanes. Cargo owners gain standardized financial instruments to hedge against volatile spot freight spikes."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+                "headline": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Federal Maritime Commission warns cargo owners will absorb upcoming maritime decarbonisation costs. Importers must prepare for mandatory environmental transport surcharges."
+                "narration_line": "Volvo Trucks introduced a remote-controlled steering option for commercial VNX vehicles at speeds up to five miles per hour. Heavy-haul fleets can substantially reduce blind-spot collisions during difficult terminal maneuvers."
             },
             {
                 "slide_index": 8,

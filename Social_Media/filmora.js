@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF PROPOSALS",
-                "teaserTitle": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
-                "visual_caption": "USTR targets 14 trading partners with tariffs of up to 35%. Shippers face immediate cost escalation and heightened audit exposure."
+                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
+                "teaserTitle": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
+                "visual_caption": "C.H. Robinson agreed to acquire competitor RXO in a $5.8B deal. This consolidation unifies brokerage scale and reshapes pricing power across truckload freight."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
-                "teaserTitle": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
-                "visual_caption": "Nvidia halts advanced server shipments to Asian markets under new export rules. Supply chain planners must adapt to sudden compliance freezes."
+                "headline": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
+                "teaserTitle": "MARITIME: BIMCO SHIFTS STS COSTS",
+                "visual_caption": "A severe cyber incident continues to disrupt automated terminal IT systems at the Port of Santos. Carriers face mounting gate delays and rising container dwell times."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
-                "teaserTitle": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
-                "visual_caption": "Hormuz authorities blacklist tugboats, pressuring critical tanker traffic. Operators face soaring insurance premiums and voyage delays."
+                "headline": "MARITIME: BIMCO SHIFTS STS COSTS",
+                "teaserTitle": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
+                "visual_caption": "BIMCO released a standard clause shifting all ship-to-ship transfer costs onto charterers. Tanker operators and charterers must update risk allocations and commercial contracts immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
-                "teaserTitle": "MARITIME: ASIA-US SPOT RATES DROP",
-                "visual_caption": "Alta Equipment acquires Jackson Group Peterbilt for $399M. Fleet managers gain expanded access to commercial truck maintenance networks."
+                "headline": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
+                "teaserTitle": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
+                "visual_caption": "Intensified customs inspections at GRU Airport triggered multi-day truck queues outside cargo hubs. Air forwarders face missed flights and extended processing backlogs for priority cargo."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: ASIA-US SPOT RATES DROP",
-                "teaserTitle": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
-                "visual_caption": "Asia-U.S. West Coast spot rates drop below $8K after port strike avoidance. Beneficial cargo owners secure immediate market relief."
+                "headline": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
+                "teaserTitle": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
+                "visual_caption": "Global maritime congestion has trapped 3.6M TEUs of container capacity worldwide. Ocean freight rates remain double prior-year levels despite new vessel deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
-                "teaserTitle": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
-                "visual_caption": "Frazier Industrial builds a $20M racking facility in Texas. Fulfillment operators gain localized access to warehouse storage infrastructure."
+                "headline": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
+                "teaserTitle": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
+                "visual_caption": "European exchanges launched container rate futures tracking trans-Pacific and Asia-Europe shipping lanes. Cargo owners gain standardized tools to hedge against volatile spot freight spikes."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+                "headline": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
                 "teaserTitle": "",
-                "visual_caption": "FMC warns cargo owners will absorb maritime net-zero compliance costs. Importers must budget for upcoming environmental surcharges."
+                "visual_caption": "Volvo Trucks introduced remote steering for commercial VNX vehicles at speeds up to 5 mph. Heavy-haul fleets can reduce blind-spot collisions during difficult terminal maneuvers."
             },
             {
                 "slide_index": 8,

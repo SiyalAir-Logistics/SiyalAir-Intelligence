@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR TARGETS 14 TRADING PARTNERS WITH SECTION",
-        "titleBlue": "301",
-        "footerSummary": "USTR proposes up to 35% tariffs across 14 trading partners, tightening supply chain compliance and pressuring shipper margins."
+        "titleWhite": "CH ROBINSON ACQUIRES RXO FOR",
+        "titleBlue": "$5.8B",
+        "footerSummary": "CH Robinson acquires RXO for $5.8B, consolidating freight brokerage power while port congestion idles 3.6M TEUs worldwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF PROPOSALS",
+            "heading": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially targeted 14 key U.S. trading partners under a sweeping Section 301 investigation. Regulators are proposing aggressive import tariffs of up to 35% on critical inbound material categories.",
-                "Shippers face immediate cost escalation and heightened customs audit exposure across affected manufacturing corridors. Procurement teams must rapidly restructure sourcing models to insulate operating budgets from looming border taxes."
+                "C.H. Robinson has entered into an agreement to acquire competitor RXO in a $5.8B cash-and-stock transaction scheduled to finalize in 2027. The megadeal brings high-density expedited freight handling and scalable last-mile logistics networks under a unified brokerage powerhouse.",
+                "Enterprise shippers must prepare for altered contract negotiation dynamics as middle-mile and brokerage capacity heavily centralize. Sourcing teams should audit contract portfolios now to mitigate reduced pricing leverage across spot truckload and dedicated tender lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+            "nextUpTease": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-11-25T12:00:00Z",
+                "Published: 2026-11-26T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: NVIDIA STOPS SERVER SHIPMENTS",
+            "heading": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
             "paragraphs": [
-                "Following strict new U.S. export controls, Nvidia has instructed manufacturing partners to immediately halt server shipments containing advanced processors to Asian markets. The abrupt regulatory shift disrupts established tech supply chains and halts high-value air cargo flows.",
-                "Forwarders and air carriers face sudden volume drops and capacity reallocations along major trans-Pacific trade lanes. Logistics planners must re-evaluate inventory positioning strategies as high-tech export channels face prolonged compliance freezes."
+                "The Santos Port Authority in Brazil is battling prolonged system outages following a severe cyberattack that crippled core operational database servers. While core municipal electric feeds failed earlier this month, terminal gate automation and cargo release databases remain severely restricted across the complex.",
+                "Container vessels face multi-day dwell spikes and gate marshaling backups at Latin America's largest maritime freight gateway. Global supply chain operators rerouting agricultural and industrial exports through Santos must incorporate digital paperwork contingencies to bypass stalled terminal gates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+            "nextUpTease": "MARITIME: BIMCO SHIFTS STS COSTS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-26T08:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-11-25T22:13:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ BLACKLISTS TUGBOATS",
+            "heading": "MARITIME: BIMCO SHIFTS STS COSTS",
             "paragraphs": [
-                "Regional authorities have officially blacklisted essential tugboats operating within the Strait of Hormuz, severely pressuring critical crude tanker traffic. The restriction creates severe nautical friction and elevates operational hazards for vessels navigating the contested Middle Eastern waterway.",
-                "Tanker operators face soaring war risk premiums and prolonged voyage delays as marine service availability contracts. Charterers must incorporate higher transit costs and routing contingencies into regional maritime deployment schedules."
+                "Global maritime organization BIMCO has issued an official charterparty clause transferring all costs and risks of ship-to-ship cargo transfers directly onto charterers. The standardized legal provision covers conventional tanker operations while preserving the absolute safety authority of the vessel master.",
+                "Liquid bulk charterers face unexpected liability exposure and direct cost additions during mid-voyage transshipment maneuvers. Energy traders and tanker operators must immediately adjust laytime calculations and off-hire insurance terms across upcoming vessel charter agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+            "nextUpTease": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-24T10:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-11-26T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: ALTA BUYS PETERBILT DEALERSHIP",
+            "heading": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
             "paragraphs": [
-                "Alta Equipment Group has completed a $399M acquisition of Jackson Group Peterbilt, significantly expanding its commercial truck dealership footprint. The strategic buyout consolidates heavy-duty truck service networks and parts distribution capabilities across key western regions.",
-                "Fleet operators gain enhanced access to maintenance support and vehicle acquisition channels amid ongoing equipment scarcity. Fleet managers should leverage the expanded service network to optimize preventive maintenance cycles and reduce downtime."
+                "Brazil's busiest airfreight gateway at Sao Paulo Guarulhos International Airport is suffering severe multi-day truck queues following intensified customs export inspection mandates. Freight haulers report road gridlock extending outside cargo terminals as palletized goods undergo exhaustive regulatory compliance reviews.",
+                "International air forwarders face missed departures and rising ground storage fees as outbound processing times double. Air logistics managers must build rolling 48-hour staging buffers into high-value pharmaceutical and electronics schedules originating across South America."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ASIA-US SPOT RATES DROP",
+            "nextUpTease": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-25T09:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-11-25T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: ASIA-US SPOT RATES DROP",
+            "heading": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
             "paragraphs": [
-                "Ocean container spot rates from Asia to the U.S. West Coast have dipped below the $8K threshold following the successful aversion of a major port strike. The downward rate correction reflects easing cargo panic and stabilizing terminal operations across major Pacific gateways.",
-                "Beneficial cargo owners benefit from immediate spot market relief and improved container equipment availability. Logistics directors should capitalize on current rate stability to lock in favorable short-term service contracts ahead of upcoming peak cycles."
+                "Persistent global maritime bottlenecks have tied up over 3.6M TEUs of container capacity, holding ocean freight spot rates at double their prior-year averages. Bottlenecks across key transshipment hubs continue to absorb critical vessel supply despite substantial waves of newly built commercial containerships.",
+                "Ocean importers must absorb elevated liner surcharges as effective fleet capacity remains artificially constrained by maritime chokepoints. Procurement officers must maintain diversified multi-carrier contracting strategies to avoid sudden blank sailings across secondary trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+            "nextUpTease": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-11-25T11:15:00Z",
+                "Published: 2026-11-26T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: NEW RACKING FACTORY IN TEXAS",
+            "heading": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
             "paragraphs": [
-                "Frazier Industrial has broken ground on a $20M manufacturing facility in Texas designed to expand domestic warehouse storage infrastructure. The industrial real estate investment directly addresses surging demand for high-density automated racking systems across North American distribution hubs.",
-                "Developers and fulfillment operators gain localized access to heavy-duty material handling equipment, reducing lead times for greenfield warehouse projects. Supply chain executives should factor regional manufacturing capacity into upcoming facility expansion timelines."
+                "European financial exchanges have officially opened trading on Xeneta-linked container rate futures contracts covering critical global ocean trade routes. Four designated contracts now track spot price fluctuations across trans-Pacific, trans-Atlantic, and Asia-Europe shipping corridors.",
+                "Shippers gain access to standardized liquidity tools to hedge against severe spot market volatility without signing inflexible long-term index contracts. Corporate treasury and freight procurement directors should assess forward hedging instruments to cap maritime transportation expense swings."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+            "nextUpTease": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-11-25T14:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-11-26T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: FMC WARNS ON DECARBONISATION",
+            "heading": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
             "paragraphs": [
-                "The Federal Maritime Commission has issued a formal warning that cargo owners will ultimately absorb the mounting costs of upcoming maritime net-zero compliance frameworks. Current regulatory structuring places the financial burden of vessel decarbonisation squarely on beneficial cargo owners.",
-                "Importers and exporters must prepare for mandatory environmental surcharges embedded within long-term ocean service contracts. Procurement teams should audit carrier green compliance roadmaps to forecast future transport cost inflation accurately."
+                "Volvo Trucks North America has launched an external Remote Steer controller option for its heavy-duty VNX commercial truck platform. The integrated system allows drivers to step outside the vehicle cab and guide tractor maneuvering at speeds up to 5 mph using a handheld remote device.",
+                "Heavy-haul carriers and terminal operators can dramatically reduce blind-spot collision incidents during difficult job-site staging and loading procedures. Fleet managers must evaluate initial equipment capital outlays against long-term operational savings generated from reduced yard accident liabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-25T15:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-11-25T18:30:00Z",
                 "Status: Audited & True"
             ]
         }
