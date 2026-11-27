@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FMC WARNS CARGO OWNERS FACE",
-        "titleBlue": "DECARBONISATION",
-        "footerSummary": "FMC warns cargo owners face total decarbonisation cost transfers while Nvidia halts server shipments under strict US rules."
+        "titleWhite": "SECTION 301 PROPOSED",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR proposes Section 301 tariffs up to 35% on 14 nations while C.H. Robinson buys RXO for $5.8B."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: FMC WARNS DECARBONISATION COSTS",
+            "heading": "USTR: SECTION 301 PROPOSED TARIFFS",
             "paragraphs": [
-                "Federal Maritime Commission Chairman Daniel Maffei warned that maritime decarbonisation expenses will ultimately be passed directly down to cargo owners under current industry structuring frameworks. The ongoing shift toward stringent environmental mandates risks inflating baseline operational overhead across all major ocean freight corridors.",
-                "Shippers must immediately factor upcoming green compliance levies into their multi-year logistics budgets to protect operating margins. B2B procurement leaders should audit long-term service contracts now to mitigate unexpected cost transfers from ocean carriers."
+                "The Office of the United States Trade Representative launched a Section 301 investigation targeting 14 foreign trading partners, proposing new tariff duties reaching up to 35%. The regulatory action focuses on bilateral trade imbalances, intellectual property governance, and non-market trade distortions across key import corridors.",
+                "Cargo importers and industrial manufacturers face substantial duty increases that will instantly compress cross-border landed margins across diverse commodity sectors. Supply chain planners must review product classifications and model alternative sourcing scenarios to mitigate potential customs liability spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: NVIDIA HALTS SERVER SHIPMENTS",
+            "nextUpTease": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-25T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr-targets-14-trading-partners-section-301",
+                "Published: 2026-11-26T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: NVIDIA HALTS SERVER SHIPMENTS",
+            "heading": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
             "paragraphs": [
-                "Following newly enacted United States export control rules, Nvidia has reportedly ordered manufacturing partners to halt all commercial shipments of advanced server hardware destined for select Asian markets. The abrupt regulatory clampdown targets high-performance computing infrastructure and specialized artificial intelligence hardware components.",
-                "Regional supply chains supporting technology manufacturing face sudden logistical pauses and rigorous export compliance audits. Importers of high-tech components must diversify sourcing routes and secure legal clearances to prevent extended cargo impoundment."
+                "Freight brokerage giant C.H. Robinson has agreed to acquire competitor RXO in a landmark $5.8B cash-and-stock transaction. The mega-deal consolidates premier truckload brokerage operations and expands specialized expedited and last-mile logistics networks ahead of anticipated 2027 closing timelines.",
+                "Enterprise shippers confront a rapidly consolidating third-party logistics landscape with enhanced pricing leverage concentrated in fewer massive brokerage hands. Procurement directors must assess contract commitments and audit capacity options to prevent carrier dependency across primary domestic lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GUARULHOS AIRPORT BACKLOG",
+            "nextUpTease": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-26T00:00:00Z",
-                "Status: Audital & True"
+                "Source: https://www.logisticsmgmt.com/article/ch-robinson-agrees-to-acquire-rxo-in-5-8-billion-deal",
+                "Published: 2026-11-26T16:00:00Z",
+                "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: GUARULHOS AIRPORT BACKLOG",
+            "heading": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
             "paragraphs": [
-                "Brazil's busiest international air cargo gateway at Guarulhos Airport is suffering severe operational bottlenecks following intensified customs export inspection mandates. Freight transporters report multi-day truck queues stretching outside terminal gates as palletized export goods undergo exhaustive regulatory compliance reviews.",
-                "International air forwarders face missed flight departures and escalating ground storage charges as outbound processing cycle times double. Air logistics managers must build rolling 48-hour staging buffers into high-value pharmaceutical and industrial supply schedules."
+                "European air cargo gateways including Liege Airport are experiencing severe capacity bottlenecks as surging peak e-commerce volume clashes with grounded freighter availability. Freight forwarders report widespread ramp congestion and ground handler delays as terminal sorting systems reach maximum design thresholds.",
+                "Outbound air shipping rates continue climbing on major East-West corridors while transit schedule reliability plummets during critical pre-holiday delivery cycles. Cross-border retailers must activate auxiliary charters or divert time-sensitive freight toward regional secondary airports to bypass congested primary hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: PORT OF SANTOS RECOVERY",
+            "nextUpTease": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-11-25T00:00:00Z",
+                "Source: https://theloadstar.com/black-friday-or-red-friday-ecommerce-air-hubs-take-a-capacity-hit/",
+                "Published: 2026-11-27T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CYBERSECURITY: PORT OF SANTOS RECOVERY",
+            "heading": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
             "paragraphs": [
-                "The port authority at Santos, Brazil is struggling to fully restore core database systems following a debilitating cyber incident that triggered a major electrical blackout. While terminal operations slowly resume, cargo release platforms and gate automation tools remain partially restricted across the maritime complex.",
-                "Container vessels experience multi-day dwell spikes and gate marshaling delays at South America's primary shipping gateway. Global supply chains routing agricultural and industrial exports through Santos must incorporate digital paperwork contingencies to bypass stalled terminal gates."
+                "Major ocean carriers including Maersk, CMA CGM, and MSC are rolling out aggressive peak season surcharges across Asia-to-Mediterranean trade lanes. While transpacific spot rates soften, Mediterranean container spot indices climbed counter to broader market trends due to persistent vessel diversions.",
+                "Shippers managing southern European supply chains face immediate spot rate premiums that widen the pricing spread against Northern European discharge ports. Cargo owners must review booking timing and negotiate fixed allocation guarantees before upcoming pre-Lunar New Year cargo surges intensify."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: XENETA RATE FUTURES",
+            "nextUpTease": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-11-25T22:13:00Z",
+                "Source: https://theloadstar.com/container-spot-rates-set-to-rise-as-carriers-launch-peak-season-surcharges/",
+                "Published: 2026-11-27T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FINANCE: XENETA RATE FUTURES TRADING",
+            "heading": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
             "paragraphs": [
-                "European financial exchanges have officially commenced live trading on Xeneta-linked container rate futures contracts covering critical global ocean trade routes. Four designated contracts now track spot price fluctuations across trans-Pacific, trans-Atlantic, and Asia-Europe shipping corridors.",
-                "Shippers gain access to standardized liquidity instruments to hedge against severe spot market volatility without signing inflexible long-term index contracts. Corporate treasury and freight procurement directors should assess forward hedging instruments to cap maritime transportation expense swings."
+                "Logistics software developer WiseTech Global has approached 16 top-tier freight forwarders with early contract transitions ahead of a mandatory AI feature surcharge rollout. The revised pricing model pushes high-volume enterprise users into restructured licensing tiers that bundle new automation capabilities.",
+                "Global forwarders face escalating administrative tech expenditure that threatens operating margins during an already tight rate environment. Technology directors must conduct forensic audits of transactional platform usage to gauge whether projected efficiency gains justify heightened annual software outlays."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: VOLVO REMOTE STEER DEBUT",
+            "nextUpTease": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-26T00:00:00Z",
+                "Source: https://theloadstar.com/wisetech-targets-big-forwarders-for-cargowise-price-switch-ahead-of-ai-fee/",
+                "Published: 2026-11-27T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: VOLVO REMOTE STEER DEBUT",
+            "heading": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
             "paragraphs": [
-                "Volvo Trucks North America has launched an external Remote Steer controller option for its heavy-duty VNX commercial truck platform. The integrated system allows professional drivers to step outside the vehicle cab and guide tractor maneuvering at speeds up to 5 mph using a handheld wireless device.",
-                "Heavy-haul carriers and terminal operators can dramatically reduce blind-spot collision incidents during difficult job-site staging and loading procedures. Fleet managers must evaluate initial equipment capital outlays against long-term operational savings generated from reduced yard accident liabilities."
+                "Total United States rail freight traffic increased 4.7% year-over-year in the latest weekly recording period, propelled by an 8.3% volume surge in intermodal units. The pronounced intermodal gain highlights growing domestic freight migration away from over-the-road trucking toward cost-efficient rail networks.",
+                "Heightened rail velocity and terminal utilization rates are placing pressure on inland container depots and chassis availability across Midwestern hubs. Shippers shifting dry van freight to rail must actively monitor terminal dwell times to avoid compounding storage and per diem fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CPKC CRITIQUES PROPOSED MERGER",
+            "nextUpTease": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-11-25T18:30:00Z",
+                "Source: https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-intermodal-surges",
+                "Published: 2026-11-26T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: CPKC CRITIQUES PROPOSED MERGER",
+            "heading": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
             "paragraphs": [
-                "Canadian Pacific Kansas City has formally urged federal regulators to reject the proposed Union Pacific and Norfolk Southern railroad merger, citing severe competitive imbalances. CPKC pointed to its own lagging cross-border Mexico business as evidence that mega-mergers would distort continental freight corridors.",
-                "Intermodal shippers and industrial manufacturers rely on balanced rail competition to maintain predictable freight rates and transit schedules. Supply chain executives must monitor regulatory proceedings closely to anticipate potential shifts in North American rail service options."
+                "Crude oil tanker charter earnings for transiting the Strait of Hormuz have held above $1M per day according to new data from Gibson Shipbrokers. Elevated geopolitical tensions and regional maritime security threats continue to impose steep war risk insurance premiums on Gulf tanker departures.",
+                "Energy commodity importers and refiners face staggering transportation expense inflation that directly impacts landed crude acquisition costs. Energy logistics managers must balance spot voyage exposures against extended routing contingencies to stabilize volatile maritime transport budgets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-11-25T00:00:00Z",
+                "Source: https://maritime-executive.com/article/gibson-tanker-day-rates-for-hormuz-transits-remain-above-1-million",
+                "Published: 2026-11-25T23:51:00Z",
                 "Status: Audited & True"
             ]
         }
