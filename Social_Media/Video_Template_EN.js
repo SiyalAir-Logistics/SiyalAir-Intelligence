@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CH ROBINSON BUYS RXO FOR $5.8B",
+        "hookTitle": "FMC WARNS CARGO OWNERS FACE DECARBONISATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
+                "headline": "MARITIME: FMC WARNS DECARBONISATION COSTS",
+                "teaserTitle": "TECHNOLOGY: NVIDIA HALTS SERVER SHIPMENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C H Robinson agreed to acquire competitor R X O for five point eight billion dollars. This major consolidation will unify brokerage scale and reshape pricing power across enterprise truckload freight."
+                "narration_line": "Federal maritime officials warn that decarbonisation expenses will be passed directly to cargo owners. Shippers must factor upcoming green compliance levies into their multi-year logistics budgets."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: PORT OF SANTOS IT OUTAGE",
-                "teaserTitle": "MARITIME: BIMCO SHIFTS STS COSTS",
+                "headline": "TECHNOLOGY: NVIDIA HALTS SERVER SHIPMENTS",
+                "teaserTitle": "AIR CARGO: GUARULHOS AIRPORT BACKLOG",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A severe cyber incident continues to disrupt automated terminal IT systems across Brazil's Port of Santos. Ocean carriers and cargo shippers face mounting gate delays and rising container dwell times."
+                "narration_line": "Following new United States rules, Nvidia halted commercial server shipments to Asian markets. Regional supply chains face sudden operational pauses and export compliance audits."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: BIMCO SHIFTS STS COSTS",
-                "teaserTitle": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
+                "headline": "AIR CARGO: GUARULHOS AIRPORT BACKLOG",
+                "teaserTitle": "CYBERSECURITY: PORT OF SANTOS RECOVERY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "B I M C O released a standardized clause placing all costs for ship-to-ship cargo transfers onto charterers. Tanker operators and charterers must update risk allocations and commercial contracts immediately."
+                "narration_line": "Brazil's busiest air cargo hub faces severe backlogs from tighter export inspections. International forwarders must build rolling buffer times into South American schedules."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: BRAZIL HUB TRUCK BACKLOG",
-                "teaserTitle": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
+                "headline": "CYBERSECURITY: PORT OF SANTOS RECOVERY",
+                "teaserTitle": "FINANCE: XENETA RATE FUTURES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Intensified customs inspections at Sao Paulo Guarulhos Airport triggered multi-day truck queues outside cargo hubs. Air forwarders are experiencing missed flights and extended processing backlogs for time-sensitive freight."
+                "narration_line": "The Port of Santos is slowly recovering from a debilitating cyber outage. Global operators must use digital paperwork contingencies to bypass stalled terminal gates."
             },
             {
                 "slide_index": 5,
-                "headline": "CONTAINER: CONGESTION IDLES 3.6M TEUS",
-                "teaserTitle": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
+                "headline": "FINANCE: XENETA RATE FUTURES TRADING",
+                "teaserTitle": "EQUIPMENT: VOLVO REMOTE STEER DEBUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Global maritime congestion has trapped three point six million twenty-foot equivalent units of container capacity worldwide. Ocean freight rates remain double previous-year levels despite steady new container vessel deliveries."
+                "narration_line": "European financial exchanges opened trading on container rate futures contracts. Shippers gain standardized liquidity tools to hedge against severe spot market volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: XENETA LAUNCHES FREIGHT FUTURES",
-                "teaserTitle": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
+                "headline": "EQUIPMENT: VOLVO REMOTE STEER DEBUT",
+                "teaserTitle": "RAIL: CPKC CRITIQUES PROPOSED MERGER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "European exchanges launched container rate futures tracking major trans-Pacific and Asia-Europe shipping lanes. Cargo owners gain standardized financial instruments to hedge against volatile spot freight spikes."
+                "narration_line": "Volvo introduced a remote steering option for heavy-duty commercial trucks. Fleets can reduce blind spot accidents during difficult job site staging and loading."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: VOLVO DEBUTS REMOTE STEER",
+                "headline": "RAIL: CPKC CRITIQUES PROPOSED MERGER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Volvo Trucks introduced a remote-controlled steering option for commercial VNX vehicles at speeds up to five miles per hour. Heavy-haul fleets can substantially reduce blind-spot collisions during difficult terminal maneuvers."
+                "narration_line": "CPKC urged regulators to reject a major proposed rail merger. Shippers must monitor regulatory proceedings to anticipate North American rail service shifts."
             },
             {
                 "slide_index": 8,
