@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SECTION 301 PROPOSED",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR proposes Section 301 tariffs up to 35% on 14 nations while C.H. Robinson buys RXO for $5.8B."
+        "titleWhite": "PORT STRIKE AVERTED AT LOS ANGELES AND LONG",
+        "titleBlue": "BEACH",
+        "footerSummary": "LA and Long Beach ports avert strikes as employers and Local 26 reach tentative contract agreements, securing vital trade flows."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 PROPOSED TARIFFS",
+            "heading": "PORT STRIKE: LA AND LONG BEACH AGREEMENT",
             "paragraphs": [
-                "The Office of the United States Trade Representative launched a Section 301 investigation targeting 14 foreign trading partners, proposing new tariff duties reaching up to 35%. The regulatory action focuses on bilateral trade imbalances, intellectual property governance, and non-market trade distortions across key import corridors.",
-                "Cargo importers and industrial manufacturers face substantial duty increases that will instantly compress cross-border landed margins across diverse commodity sectors. Supply chain planners must review product classifications and model alternative sourcing scenarios to mitigate potential customs liability spikes."
+                "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 reached a tentative contract agreement covering roughly 250 watchmen at the ports of Los Angeles and Long Beach. This crucial breakthrough successfully averts a potentially crippling labor disruption just as peak pre-holiday cargo volumes surge across West Coast terminals.",
+                "Supply chain managers can breathe easier as gate operations and maritime gateways remain fully functional, preventing costly vessel diversions and demurrage spikes. Importers relying on Southern California hubs must maintain steady drayage schedules to clear backlogs before subsequent import waves hit."
             ],
             "imageUrl": "",
-            "nextUpTease": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
+            "nextUpTease": "RAIL: CPKC OPPOSES UP AND NS MERGER",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr-targets-14-trading-partners-section-301",
-                "Published: 2026-11-26T14:30:00Z",
+                "Source: https://www.inboundlogistics.com/article/port-strike-averted-at-los-angeles-and-long-beach-pending-vote",
+                "Published: 2026-11-23T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
+            "heading": "RAIL: CPKC OPPOSES UP AND NS MERGER",
             "paragraphs": [
-                "Freight brokerage giant C.H. Robinson has agreed to acquire competitor RXO in a landmark $5.8B cash-and-stock transaction. The mega-deal consolidates premier truckload brokerage operations and expands specialized expedited and last-mile logistics networks ahead of anticipated 2027 closing timelines.",
-                "Enterprise shippers confront a rapidly consolidating third-party logistics landscape with enhanced pricing leverage concentrated in fewer massive brokerage hands. Procurement directors must assess contract commitments and audit capacity options to prevent carrier dependency across primary domestic lanes."
+                "Canadian Pacific Kansas City has officially urged regulators to reject the proposed merger between Union Pacific and Norfolk Southern, citing significant market competition concerns. CPKC highlighted potential adverse impacts on transcontinental intermodal corridors and cross-border freight velocity as core justifications for its opposition.",
+                "Rail shippers and logistics providers face heightened regulatory uncertainty regarding future network access and multi-line routing options across North America. Shippers must evaluate contingency intermodal contracts to safeguard against potential rail pricing volatility and service disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
+            "nextUpTease": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ch-robinson-agrees-to-acquire-rxo-in-5-8-billion-deal",
-                "Published: 2026-11-26T16:00:00Z",
+                "Source: https://www.joc.com/article/cpkc-cites-its-lagging-mexico-business-as-reason-to-kill-up-ns-deal",
+                "Published: 2026-11-26T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
+            "heading": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
             "paragraphs": [
-                "European air cargo gateways including Liege Airport are experiencing severe capacity bottlenecks as surging peak e-commerce volume clashes with grounded freighter availability. Freight forwarders report widespread ramp congestion and ground handler delays as terminal sorting systems reach maximum design thresholds.",
-                "Outbound air shipping rates continue climbing on major East-West corridors while transit schedule reliability plummets during critical pre-holiday delivery cycles. Cross-border retailers must activate auxiliary charters or divert time-sensitive freight toward regional secondary airports to bypass congested primary hubs."
+                "Nvidia has temporarily halted high-end server shipments to various Asian markets following the rapid enforcement of rigorous new United States export control rules. The sudden regulatory clampdown targets high-performance artificial intelligence infrastructure components, disrupting established tech supply chains across regional hubs.",
+                "Electronics manufacturers and air cargo carriers specializing in high-value tech transport face sudden volume contractions and idle capacity on key intra-Asia lanes. Logistics planners must closely monitor evolving export compliance directives to prevent costly cargo seizures or regulatory non-compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
+            "nextUpTease": "TRUCKING: ALTA BUYS JACKSON GROUP",
             "tags": [
-                "Source: https://theloadstar.com/black-friday-or-red-friday-ecommerce-air-hubs-take-a-capacity-hit/",
-                "Published: 2026-11-27T08:15:00Z",
+                "Source: https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite",
+                "Published: 2026-11-26T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
+            "heading": "TRUCKING: ALTA BUYS JACKSON GROUP",
             "paragraphs": [
-                "Major ocean carriers including Maersk, CMA CGM, and MSC are rolling out aggressive peak season surcharges across Asia-to-Mediterranean trade lanes. While transpacific spot rates soften, Mediterranean container spot indices climbed counter to broader market trends due to persistent vessel diversions.",
-                "Shippers managing southern European supply chains face immediate spot rate premiums that widen the pricing spread against Northern European discharge ports. Cargo owners must review booking timing and negotiate fixed allocation guarantees before upcoming pre-Lunar New Year cargo surges intensify."
+                "Alta Equipment Group has announced the strategic acquisition of Jackson Group Peterbilt for $399M in a major commercial truck dealership consolidation. The transaction expands Alta's heavy-duty truck sales, maintenance, and service footprint across crucial Western United States transportation corridors.",
+                "Commercial fleet operators gain access to enhanced service networks and streamlined maintenance support, helping to reduce long-term vehicle downtime. Fleet managers must assess regional maintenance contracts to leverage expanded dealership capabilities and optimize total cost of ownership."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
+            "nextUpTease": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
             "tags": [
-                "Source: https://theloadstar.com/container-spot-rates-set-to-rise-as-carriers-launch-peak-season-surcharges/",
-                "Published: 2026-11-27T09:45:00Z",
+                "Source: https://www.ttnews.com/articles/alta-equipment-buys-jackson-group-peterbilt-399-million",
+                "Published: 2026-11-25T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
+            "heading": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
             "paragraphs": [
-                "Logistics software developer WiseTech Global has approached 16 top-tier freight forwarders with early contract transitions ahead of a mandatory AI feature surcharge rollout. The revised pricing model pushes high-volume enterprise users into restructured licensing tiers that bundle new automation capabilities.",
-                "Global forwarders face escalating administrative tech expenditure that threatens operating margins during an already tight rate environment. Technology directors must conduct forensic audits of transactional platform usage to gauge whether projected efficiency gains justify heightened annual software outlays."
+                "Descartes Systems Group has launched a new automated freight quoting platform designed to generate accurate responses for 90% of requests within 30 seconds. The advanced digital tool integrates directly with enterprise systems to accelerate rate responsiveness and streamline carrier procurement workflows.",
+                "Freight forwarders and 3PLs adopting the technology can significantly reduce quotation cycle times and secure spot shipments faster in competitive markets. Logistics executives should evaluate platform integration costs against productivity gains to maintain pricing agility."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
+            "nextUpTease": "MARITIME: US DISABLES BULKER",
             "tags": [
-                "Source: https://theloadstar.com/wisetech-targets-big-forwarders-for-cargowise-price-switch-ahead-of-ai-fee/",
-                "Published: 2026-11-27T10:30:00Z",
+                "Source: https://www.freightwaves.com/news/descartes-says-new-platform-can-quote-90-of-freight-requests-within-30-seconds",
+                "Published: 2026-11-26T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
+            "heading": "MARITIME: US DISABLES BULKER",
             "paragraphs": [
-                "Total United States rail freight traffic increased 4.7% year-over-year in the latest weekly recording period, propelled by an 8.3% volume surge in intermodal units. The pronounced intermodal gain highlights growing domestic freight migration away from over-the-road trucking toward cost-efficient rail networks.",
-                "Heightened rail velocity and terminal utilization rates are placing pressure on inland container depots and chassis availability across Midwestern hubs. Shippers shifting dry van freight to rail must actively monitor terminal dwell times to avoid compounding storage and per diem fees."
+                "United States Central Command forces successfully disabled a Chinese-owned dry bulk vessel that was actively attempting to breach the ongoing naval blockade. The military operation underscores strict enforcement of regional maritime restrictions and ongoing security protocols across contested trade routes.",
+                "Ocean carriers and vessel operators navigating high-risk maritime zones face heightened operational hazards and elevated war risk insurance liabilities. Maritime risk directors must re-verify vessel registry data and review voyage itineraries to avoid restricted zones and ensure crew safety."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
+            "nextUpTease": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
             "tags": [
-                "Source: https://www.freightwaves.com/news/weekly-us-rail-freight-climbs-intermodal-surges",
-                "Published: 2026-11-26T18:00:00Z",
+                "Source: https://maritime-executive.com/article/us-disables-chinese-owned-bulker-running-the-iran-blockade",
+                "Published: 2026-11-27T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
+            "heading": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
             "paragraphs": [
-                "Crude oil tanker charter earnings for transiting the Strait of Hormuz have held above $1M per day according to new data from Gibson Shipbrokers. Elevated geopolitical tensions and regional maritime security threats continue to impose steep war risk insurance premiums on Gulf tanker departures.",
-                "Energy commodity importers and refiners face staggering transportation expense inflation that directly impacts landed crude acquisition costs. Energy logistics managers must balance spot voyage exposures against extended routing contingencies to stabilize volatile maritime transport budgets."
+                "Frazier Industrial Company has broken ground on a new $20M structural steel rack manufacturing plant located in Texas to meet surging industrial real estate demand. The facility will expand local production capacity for high-density warehouse storage systems amid ongoing supply chain reindustrialization trends.",
+                "Distribution center developers and logistics operators benefit from shortened lead times for essential warehouse racking infrastructure and localized sourcing options. Supply chain real estate planners should align facility expansion timelines with regional manufacturing output to prevent project delays."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com/article/gibson-tanker-day-rates-for-hormuz-transits-remain-above-1-million",
-                "Published: 2026-11-25T23:51:00Z",
+                "Source: https://www.dcvelocity.com/articles/racking-frazier-to-build-20-million-rack-factory-in-texas",
+                "Published: 2026-11-25T16:10:00Z",
                 "Status: Audited & True"
             ]
         }

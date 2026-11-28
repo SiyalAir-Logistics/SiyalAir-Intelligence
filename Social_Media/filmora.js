@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 PROPOSED TARIFFS",
-                "teaserTitle": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
-                "visual_caption": "The USTR launched Section 301 investigations against 14 trade partners, proposing tariffs up to 35%. Shippers face immediate duty increases that could disrupt established cross-border manufacturing margins."
+                "headline": "PORT STRIKE: LA AND LONG BEACH AGREEMENT",
+                "teaserTitle": "RAIL: CPKC OPPOSES UP AND NS MERGER",
+                "visual_caption": "Employers and Local 26 reached a tentative contract agreement at LA and Long Beach ports. This crucial breakthrough successfully averts a potential strike and secures vital trade flows."
             },
             {
                 "slide_index": 2,
-                "headline": "M&A: CH ROBINSON ACQUIRES RXO FOR $5.8B",
-                "teaserTitle": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
-                "visual_caption": "C.H. Robinson has agreed to acquire freight broker RXO in a $5.8B deal. The massive merger consolidates truckload brokerage power and expands expedited delivery networks ahead of 2027."
+                "headline": "RAIL: CPKC OPPOSES UP AND NS MERGER",
+                "teaserTitle": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
+                "visual_caption": "CPKC urged regulators to reject the Union Pacific and Norfolk Southern merger. The carrier cited severe competition concerns and cross-border intermodal risks."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: ECOMMERCE HUBS CAPACITY CRUNCH",
-                "teaserTitle": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
-                "visual_caption": "European air cargo hubs including Liege Airport are experiencing critical capacity shortages under heavy peak holiday e-commerce shipments. Outbound air freight rates are surging as forwarders struggle with extensive ground handling delays."
+                "headline": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
+                "teaserTitle": "TRUCKING: ALTA BUYS JACKSON GROUP",
+                "visual_caption": "Nvidia halted server shipments to Asian markets following new US export control rules. The sudden compliance shift disrupts high-performance tech supply chains."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN: CARRIERS LAUNCH ASIA SPOT SURCHARGES",
-                "teaserTitle": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
-                "visual_caption": "Global container lines have introduced sharp peak season surcharges on the Asia-to-Mediterranean trade route. Importers face climbing spot freight expenses while vessel diversions continue to squeeze available vessel capacity."
+                "headline": "TRUCKING: ALTA BUYS JACKSON GROUP",
+                "teaserTitle": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
+                "visual_caption": "Alta Equipment Group acquired Jackson Group Peterbilt for $399M. The strategic deal expands heavy-duty commercial truck service networks."
             },
             {
                 "slide_index": 5,
-                "headline": "SOFTWARE: WISETECH CARGOWISE FEE OVERHAUL",
-                "teaserTitle": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
-                "visual_caption": "WiseTech Global has presented 16 major freight forwarders with revised pricing agreements ahead of upcoming AI software fees. Logistics executives must evaluate higher technology operational expenses against projected workflow gains."
+                "headline": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
+                "teaserTitle": "MARITIME: US DISABLES BULKER",
+                "visual_caption": "Descartes launched an automated platform capable of quoting 90% of freight requests within 30 seconds. The tool accelerates carrier procurement workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: US RAIL FREIGHT SURGES 4.7%",
-                "teaserTitle": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
-                "visual_caption": "U.S. rail traffic climbed 4.7% year-over-year, driven by an 8.3% surge in intermodal volume. Freight shippers are increasingly shifting cargo from highways to rail networks to cut transport costs."
+                "headline": "MARITIME: US DISABLES BULKER",
+                "teaserTitle": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+                "visual_caption": "US forces disabled a Chinese-owned dry bulk vessel attempting to breach naval blockades. The operation enforces strict regional maritime security protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: HORMUZ TRANSIT RATES TOP $1M",
+                "headline": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
                 "teaserTitle": "",
-                "visual_caption": "Tanker charter earnings for transiting the Strait of Hormuz remain above $1M per day following heightened regional risks. Energy buyers confront severe freight rate inflation as war risk insurance premiums escalate across Gulf maritime lanes."
+                "visual_caption": "Frazier Industrial broke ground on a $20M manufacturing plant in Texas. The facility will expand local structural steel racking production."
             },
             {
                 "slide_index": 8,
