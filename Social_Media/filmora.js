@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT STRIKE: LA AND LONG BEACH AGREEMENT",
-                "teaserTitle": "RAIL: CPKC OPPOSES UP AND NS MERGER",
-                "visual_caption": "Employers and Local 26 reached a tentative contract agreement at LA and Long Beach ports. This crucial breakthrough successfully averts a potential strike and secures vital trade flows."
+                "headline": "TRADE: USTR PROPOSES 35% TARIFFS",
+                "teaserTitle": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
+                "visual_caption": "The USTR launched Section 301 investigations against 14 nations proposing tariffs up to 35%. Shippers face immediate duty increases across major industrial and consumer import corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: CPKC OPPOSES UP AND NS MERGER",
-                "teaserTitle": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
-                "visual_caption": "CPKC urged regulators to reject the Union Pacific and Norfolk Southern merger. The carrier cited severe competition concerns and cross-border intermodal risks."
+                "headline": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
+                "teaserTitle": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
+                "visual_caption": "WiseTech Global approached 16 top forwarders to switch CargoWise pricing ahead of mandatory AI fees. Forwarding networks must adjust operating budgets to absorb significant digital licensing cost increases."
             },
             {
                 "slide_index": 3,
-                "headline": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
-                "teaserTitle": "TRUCKING: ALTA BUYS JACKSON GROUP",
-                "visual_caption": "Nvidia halted server shipments to Asian markets following new US export control rules. The sudden compliance shift disrupts high-performance tech supply chains."
+                "headline": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
+                "visual_caption": "C.H. Robinson agreed to acquire rival RXO in a $5.8B cash-and-stock consolidation. The deal creates North America's largest freight brokerage network, concentrating market pricing power."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ALTA BUYS JACKSON GROUP",
-                "teaserTitle": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
-                "visual_caption": "Alta Equipment Group acquired Jackson Group Peterbilt for $399M. The strategic deal expands heavy-duty commercial truck service networks."
+                "headline": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
+                "teaserTitle": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
+                "visual_caption": "Ocean carriers launched new peak season surcharges lifting Asia to Mediterranean container spot rates. Shippers must secure premium bookings to bypass worsening terminal delays and equipment deficits."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
-                "teaserTitle": "MARITIME: US DISABLES BULKER",
-                "visual_caption": "Descartes launched an automated platform capable of quoting 90% of freight requests within 30 seconds. The tool accelerates carrier procurement workflows."
+                "headline": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
+                "teaserTitle": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
+                "visual_caption": "Sallaum Lines secured a 2-year $60M shipping extension with a major American automaker. Specialized vehicle carrier space remains critically tight across transatlantic ro-ro trade lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: US DISABLES BULKER",
-                "teaserTitle": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
-                "visual_caption": "US forces disabled a Chinese-owned dry bulk vessel attempting to breach naval blockades. The operation enforces strict regional maritime security protocols."
+                "headline": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
+                "teaserTitle": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
+                "visual_caption": "Shein reported a 6% European revenue drop following strict customs de minimis compliance crackdowns. Parcel consolidators face longer border clearance checks and escalating EU import handling fees."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+                "headline": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
                 "teaserTitle": "",
-                "visual_caption": "Frazier Industrial broke ground on a $20M manufacturing plant in Texas. The facility will expand local structural steel racking production."
+                "visual_caption": "Xeneta launched 4 ocean container freight rate futures contracts across European financial exchanges. Importers can now hedge volatile ocean shipping rates and protect critical container freight budgets."
             },
             {
                 "slide_index": 8,

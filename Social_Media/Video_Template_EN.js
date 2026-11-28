@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT STRIKE AVERTED AT LOS ANGELES AND LONG BEACH",
+        "hookTitle": "USTR TARGETS 14 NATIONS WITH SECTION 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT STRIKE: LA AND LONG BEACH AGREEMENT",
-                "teaserTitle": "RAIL: CPKC OPPOSES UP AND NS MERGER",
+                "headline": "TRADE: USTR PROPOSES 35% TARIFFS",
+                "teaserTitle": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Employers and Local Twenty-Six reached a tentative contract agreement at Los Angeles and Long Beach ports. This crucial breakthrough successfully averts a potential strike and secures vital trade flows."
+                "narration_line": "The United States Trade Representative opened Section three oh one investigations against fourteen nations proposing tariffs up to thirty-five percent. Shippers face immediate duty increases across major industrial and consumer import corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: CPKC OPPOSES UP AND NS MERGER",
-                "teaserTitle": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
+                "headline": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
+                "teaserTitle": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Canadian Pacific Kansas City urged regulators to reject the Union Pacific and Norfolk Southern merger. The carrier cited severe competition concerns and cross-border intermodal risks."
+                "narration_line": "WiseTech Global approached sixteen top freight forwarders to switch CargoWise pricing ahead of mandatory artificial intelligence fees. Forwarding networks must adjust operating budgets to absorb significant digital licensing cost increases."
             },
             {
                 "slide_index": 3,
-                "headline": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
-                "teaserTitle": "TRUCKING: ALTA BUYS JACKSON GROUP",
+                "headline": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
+                "teaserTitle": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Nvidia halted server shipments to Asian markets following new United States export control rules. The sudden compliance shift disrupts high-performance tech supply chains."
+                "narration_line": "C H Robinson agreed to acquire rival RXO in a five point eight billion dollar transaction. The deal creates North America's largest freight brokerage network, concentrating market pricing power."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: ALTA BUYS JACKSON GROUP",
-                "teaserTitle": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
+                "headline": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
+                "teaserTitle": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Alta Equipment Group acquired Jackson Group Peterbilt for three hundred ninety-nine million dollars. The strategic deal expands heavy-duty commercial truck service networks."
+                "narration_line": "Ocean carriers launched new peak season surcharges lifting Asia to Mediterranean container spot rates. Shippers must secure premium bookings to bypass worsening terminal delays and equipment deficits."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
-                "teaserTitle": "MARITIME: US DISABLES BULKER",
+                "headline": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
+                "teaserTitle": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Descartes launched an automated platform capable of quoting ninety percent of freight requests within thirty seconds. The tool accelerates carrier procurement workflows."
+                "narration_line": "Sallaum Lines secured a two-year sixty million dollar shipping extension with a major American automaker. Specialized vehicle carrier space remains critically tight across transatlantic roll-on roll-off trade lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: US DISABLES BULKER",
-                "teaserTitle": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+                "headline": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
+                "teaserTitle": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United States forces disabled a Chinese-owned dry bulk vessel attempting to breach naval blockades. The operation enforces strict regional maritime security protocols."
+                "narration_line": "Shein reported a six percent European revenue drop following strict customs de minimis compliance crackdowns. Parcel consolidators face longer border clearance checks and escalating European import handling fees."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+                "headline": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Frazier Industrial broke ground on a twenty million dollar manufacturing plant in Texas. The facility will expand local structural steel racking production."
+                "narration_line": "Xeneta launched four ocean container freight rate futures contracts across European financial exchanges. Importers can now hedge volatile ocean shipping rates and protect critical container freight budgets."
             },
             {
                 "slide_index": 8,

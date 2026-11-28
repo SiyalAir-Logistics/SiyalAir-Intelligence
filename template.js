@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT STRIKE AVERTED AT LOS ANGELES AND LONG",
-        "titleBlue": "BEACH",
-        "footerSummary": "LA and Long Beach ports avert strikes as employers and Local 26 reach tentative contract agreements, securing vital trade flows."
+        "titleWhite": "USTR PROPOSES 35%",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR targets 14 global trading partners under Section 301, threatening duties up to 35% on major freight flows."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT STRIKE: LA AND LONG BEACH AGREEMENT",
+            "heading": "TRADE: USTR PROPOSES 35% TARIFFS",
             "paragraphs": [
-                "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 reached a tentative contract agreement covering roughly 250 watchmen at the ports of Los Angeles and Long Beach. This crucial breakthrough successfully averts a potentially crippling labor disruption just as peak pre-holiday cargo volumes surge across West Coast terminals.",
-                "Supply chain managers can breathe easier as gate operations and maritime gateways remain fully functional, preventing costly vessel diversions and demurrage spikes. Importers relying on Southern California hubs must maintain steady drayage schedules to clear backlogs before subsequent import waves hit."
+                "The Office of the United States Trade Representative has initiated formal Section 301 investigations targeting 14 major trading partners, introducing proposed tariff penalties reaching up to 35%. The regulatory action focuses on bilateral trade imbalances, state-subsidized manufacturing, and digital service tax practices across key import corridors. Importers face imminent tariff adjustments across industrial components, automotive assemblies, and cross-border consumer goods.",
+                "B2B procurement leaders must immediately review tariff classifications and recalculate landed costs across affected international trade lanes. The risk of supply chain friction requires organizations to assess alternative manufacturing origins and prepare bonded warehousing strategies before official comment periods conclude."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CPKC OPPOSES UP AND NS MERGER",
+            "nextUpTease": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
             "tags": [
-                "Source: https://www.inboundlogistics.com/article/port-strike-averted-at-los-angeles-and-long-beach-pending-vote",
-                "Published: 2026-11-23T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_targets_14_us_trading_partners_in_section_301_investigation",
+                "Published: 2026-11-27T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: CPKC OPPOSES UP AND NS MERGER",
+            "heading": "SOFTWARE: WISETECH OVERHAULS PRICING MODEL",
             "paragraphs": [
-                "Canadian Pacific Kansas City has officially urged regulators to reject the proposed merger between Union Pacific and Norfolk Southern, citing significant market competition concerns. CPKC highlighted potential adverse impacts on transcontinental intermodal corridors and cross-border freight velocity as core justifications for its opposition.",
-                "Rail shippers and logistics providers face heightened regulatory uncertainty regarding future network access and multi-line routing options across North America. Shippers must evaluate contingency intermodal contracts to safeguard against potential rail pricing volatility and service disruptions."
+                "WiseTech Global has formally approached 16 top-tier freight forwarders with mandatory migration terms to transition enterprise users to its revised CargoWise commercial structure. The software overhaul precedes a sweeping platform-wide artificial intelligence fee mandate set for implementation across international logistics intermediaries. Major forwarding networks operating high-volume forwarding workflows face substantial contractual adjustments.",
+                "Freight forwarding executives must audit software licensing overhead against projected operational gains to protect tight forwarding margins. Evaluating digital ecosystem alternatives and negotiating customized enterprise usage tiers will be vital to prevent unanticipated operating cost inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
+            "nextUpTease": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
             "tags": [
-                "Source: https://www.joc.com/article/cpkc-cites-its-lagging-mexico-business-as-reason-to-kill-up-ns-deal",
-                "Published: 2026-11-26T10:15:00Z",
+                "Source: https://theloadstar.com/wisetech-targets-big-forwarders-for-cargowise-price-switch-ahead-of-ai-fee",
+                "Published: 2026-11-27T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AVIATION: NVIDIA HALTS SERVER SHIPMENTS",
+            "heading": "ACQUISITIONS: CH ROBINSON BUYS RXO FOR $5.8B",
             "paragraphs": [
-                "Nvidia has temporarily halted high-end server shipments to various Asian markets following the rapid enforcement of rigorous new United States export control rules. The sudden regulatory clampdown targets high-performance artificial intelligence infrastructure components, disrupting established tech supply chains across regional hubs.",
-                "Electronics manufacturers and air cargo carriers specializing in high-value tech transport face sudden volume contractions and idle capacity on key intra-Asia lanes. Logistics planners must closely monitor evolving export compliance directives to prevent costly cargo seizures or regulatory non-compliance penalties."
+                "C.H. Robinson has entered into a definitive agreement to acquire freight brokerage competitor RXO in a landmark $5.8B cash-and-stock consolidation. The multi-billion transaction absorbs extensive last-mile and expedited linehaul capabilities into the largest freight brokerage infrastructure network in North America. The combined entity creates unprecedented market density across domestic truckload and contract brokerage operations.",
+                "Shippers face an increasingly concentrated 3PL brokerage environment that could constrain spot market competitive bidding. Logistics managers must diversify carrier supplier panels and maintain secondary brokerage relationships to preserve negotiation leverage across critical domestic freight lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: ALTA BUYS JACKSON GROUP",
+            "nextUpTease": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite",
-                "Published: 2026-11-26T14:20:00Z",
+                "Source: https://www.logisticsmgmt.com/article/c_h_robinson_agrees_to_acquire_rxo_in_5_8_billion_cash_and_stock_deal",
+                "Published: 2026-11-27T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: ALTA BUYS JACKSON GROUP",
+            "heading": "OCEAN: CARRIERS PUSH PEAK SEASON SURCHARGES",
             "paragraphs": [
-                "Alta Equipment Group has announced the strategic acquisition of Jackson Group Peterbilt for $399M in a major commercial truck dealership consolidation. The transaction expands Alta's heavy-duty truck sales, maintenance, and service footprint across crucial Western United States transportation corridors.",
-                "Commercial fleet operators gain access to enhanced service networks and streamlined maintenance support, helping to reduce long-term vehicle downtime. Fleet managers must assess regional maintenance contracts to leverage expanded dealership capabilities and optimize total cost of ownership."
+                "Ocean carriers have instituted fresh peak season surcharges on key deepsea lanes, driving spot rates on Asia-to-Mediterranean services upward while transpacific rates stabilize. Container lines including CMA CGM, MSC, and Hapag-Lloyd are enforcing rate hikes to counter persistent port congestion and equipment shortages. Shippers face immediate rate increases on high-demand westbound voyages originating out of primary Asian manufacturing terminals.",
+                "Supply chain directors must balance spot market vulnerability against restrictive annual contract allocations to secure urgent pre-holiday vessel bookings. Establishing flexible transshipment routing through alternative Mediterranean gateways can mitigate punitive vessel delays and excessive demurrage surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
+            "nextUpTease": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/alta-equipment-buys-jackson-group-peterbilt-399-million",
-                "Published: 2026-11-25T11:45:00Z",
+                "Source: https://theloadstar.com/container-spot-rates-set-to-rise-as-carriers-launch-peak-season-surcharges",
+                "Published: 2026-11-27T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: DESCARTES QUOTING PLATFORM",
+            "heading": "SHIPPING: SALLAUM SEALS $60M US CARRIER DEAL",
             "paragraphs": [
-                "Descartes Systems Group has launched a new automated freight quoting platform designed to generate accurate responses for 90% of requests within 30 seconds. The advanced digital tool integrates directly with enterprise systems to accelerate rate responsiveness and streamline carrier procurement workflows.",
-                "Freight forwarders and 3PLs adopting the technology can significantly reduce quotation cycle times and secure spot shipments faster in competitive markets. Logistics executives should evaluate platform integration costs against productivity gains to maintain pricing agility."
+                "Pure car and truck carrier operator Sallaum Lines has secured a two-year shipping contract extension valued at $60M with a major American vehicle manufacturer. The maritime deployment commits dual-fuel liquefied natural gas vessels across transatlantic automotive ro-ro corridors to satisfy strict sustainability criteria. Automotive roll-on roll-off capacity remains tightly allocated across key North American and European deepsea ports.",
+                "Automotive supply chain managers face severe long-term roll-on roll-off vessel capacity constraints and elevated charter rate baselines. Securing multi-year ro-ro volume commitments is now critical to ensure export scheduling integrity and insulate OEM margins from spot charter volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: US DISABLES BULKER",
+            "nextUpTease": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
             "tags": [
-                "Source: https://www.freightwaves.com/news/descartes-says-new-platform-can-quote-90-of-freight-requests-within-30-seconds",
-                "Published: 2026-11-26T09:30:00Z",
+                "Source: https://splash247.com/sallaum-lines-seals-60m-us-shipping-deal",
+                "Published: 2026-11-27T10:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: US DISABLES BULKER",
+            "heading": "ECOMMERCE: SHEIN EU REVENUE SLIDES 6%",
             "paragraphs": [
-                "United States Central Command forces successfully disabled a Chinese-owned dry bulk vessel that was actively attempting to breach the ongoing naval blockade. The military operation underscores strict enforcement of regional maritime restrictions and ongoing security protocols across contested trade routes.",
-                "Ocean carriers and vessel operators navigating high-risk maritime zones face heightened operational hazards and elevated war risk insurance liabilities. Maritime risk directors must re-verify vessel registry data and review voyage itineraries to avoid restricted zones and ensure crew safety."
+                "Fast-fashion retailer Shein recorded a 6% European revenue contraction following the aggressive rollout of customs de minimis compliance reforms and cross-border administrative duties. The European Union regulatory framework has dramatically increased unit processing fees and customs inspection times for direct-to-consumer parcels. Cross-border airfreight consolidators are adjusting volume routing models to absorb heightened scrutiny at destination sorting hubs.",
+                "Cross-border ecommerce operators must restructure cross-border direct-injection supply chains toward centralized customs clearance points to manage clearance delays. Shifting toward localized fulfillment centers within the European single market provides a critical buffer against mounting customs fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+            "nextUpTease": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
             "tags": [
-                "Source: https://maritime-executive.com/article/us-disables-chinese-owned-bulker-running-the-iran-blockade",
-                "Published: 2026-11-27T15:00:00Z",
+                "Source: https://www.freightwaves.com/news/shein-feels-impact-of-eu-import-fees-as-revenue-slides-6",
+                "Published: 2026-11-27T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: FRAZIER RACK FACTORY",
+            "heading": "FINANCE: XENETA LAUNCHES CONTAINER FUTURES",
             "paragraphs": [
-                "Frazier Industrial Company has broken ground on a new $20M structural steel rack manufacturing plant located in Texas to meet surging industrial real estate demand. The facility will expand local production capacity for high-density warehouse storage systems amid ongoing supply chain reindustrialization trends.",
-                "Distribution center developers and logistics operators benefit from shortened lead times for essential warehouse racking infrastructure and localized sourcing options. Supply chain real estate planners should align facility expansion timelines with regional manufacturing output to prevent project delays."
+                "Ocean freight benchmarking firm Xeneta has officially launched European trading for four new container freight rate futures contracts across key transpacific and transatlantic routes. The derivative instruments allow BCOs, forwarders, and ocean carriers to hedge severe spot market rate volatility and protect operating margins against sudden lane shifts. Rate fluctuations have intensified as geopolitical reroutings and vessel bottlenecks continually disrupt global ocean capacity.",
+                "Logistics procurement teams can leverage structured freight futures to lock in transport budgets and hedge against sudden peak season rate spikes. Integrating financial derivatives into container procurement programs enables shippers to transition from reactive spot bidding to sophisticated freight rate risk hedging."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/racking-frazier-to-build-20-million-rack-factory-in-texas",
-                "Published: 2026-11-25T16:10:00Z",
+                "Source: https://www.joc.com/article/xeneta-container-rate-futures-now-trading-in-europe",
+                "Published: 2026-11-27T15:10:00Z",
                 "Status: Audited & True"
             ]
         }
